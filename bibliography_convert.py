@@ -1,21 +1,21 @@
 import csv
 import io
+import operator
 
-inpfilename = input("Type file name you wish to convert: ")
+inpfilename = "Exporte\Milet_Bibliography_CSV.csv"
 #inpfilename = "2022_02_16_Bibliographie.csv"
-inpnewfilename = inpfilename.replace('.csv', '')
-
-#inptexttf = input("Do you wish to add Point Numbers? (Y/N)")
+inpnewfilename = "Exporte\Milet_Bibliography_HTML"
 
 print("Converting file: ", inpfilename)
 
-#Importiert die Datei des Tages
+# Import in dictionary
 with io.open(str(inpfilename), encoding="utf-8") as impfile:
 	dict_list = []
 	reader = csv.DictReader(impfile, delimiter=',')
 	for row in reader:
 		dict_list.append(row)
 
+dict_list = sorted(dict_list, key=lambda k: (k['Publication Year'], k['Author']), reverse=True)
 
 #Schreibt alles in eine Datei, iteriert über die Listeneinträge / Reihen
 file = io.open(str(inpnewfilename+".txt"), "w", encoding="utf-8") 
