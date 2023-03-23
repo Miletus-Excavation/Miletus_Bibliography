@@ -41,7 +41,7 @@ p <- bib %>%
 
 p
 
-png("mil-pubs-by-year-type.png", width = 1200, height = 500, res = 100)
+png("figures/mil-pubs-by-year-type.png", width = 1200, height = 500, res = 100)
 p
 dev.off()
 
@@ -67,7 +67,7 @@ p <- bib %>%
 
 p
 
-png("mil-pubs-by-year.png", width = 1200, height = 500, res = 100)
+png("figures/mil-pubs-by-year.png", width = 1200, height = 500, res = 100)
 p
 dev.off()
 
@@ -121,6 +121,6 @@ p <- bib_tags %>%
 
 p
 
-png("mil-pubs-by-keys.png", width = 1200, height = 750, res = 100)
+png("figures/mil-pubs-by-keys.png", width = 1200, height = 750, res = 100)
 p
 dev.off()
