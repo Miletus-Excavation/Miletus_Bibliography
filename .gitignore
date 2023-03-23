@@ -43,6 +43,7 @@
 /test/*
 other.R
 Anleitung zum Exportieren der Bibliographie.docx
+api_notes.R
 
 # Finished files
 *.pdf
