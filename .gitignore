@@ -34,6 +34,9 @@
 *.synctex.gz(busy)
 *.pdfsync
 
+# ide
+.vscode/*
+
 # Other
 *.zip
 /Alt/*
@@ -44,6 +47,7 @@
 other.R
 Anleitung zum Exportieren der Bibliographie.docx
 api_notes.R
+/api_exports/*
 
 # Finished files
 *.pdf
