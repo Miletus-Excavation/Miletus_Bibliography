@@ -1,3 +1,5 @@
+#renv::init(profile = "bib")
+
 packages <- c("dplyr", "stringi", "knitr", "rmarkdown", "ggplot2")
 
 for (p in packages) {

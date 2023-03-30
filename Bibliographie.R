@@ -15,11 +15,11 @@ bib %>%
   ggplot(aes(x = Publication.Year, fill = Archive)) +
   geom_bar()
 
-bib[which(is.na(bib$Publication.Year)),]
+# bib[which(is.na(bib$Publication.Year)),]
 
 
 
-str(bib)
+# str(bib)
 
 p <- bib %>%
   ggplot(aes(x = Publication.Year, fill = Item.Type)) +
@@ -39,7 +39,7 @@ p <- bib %>%
   labs(x = "Year of Publication", y = "Number of Publications", 
        title = "Entries in the Miletus Bibliography Database")
 
-p
+# p
 
 png("figures/mil-pubs-by-year-type.png", width = 1200, height = 500, res = 100)
 p
@@ -65,7 +65,7 @@ p <- bib %>%
   labs(x = "Year of Publication", y = "Number of Publications", 
        title = "Entries in the Miletus Bibliography Database")
 
-p
+# p
 
 png("figures/mil-pubs-by-year.png", width = 1200, height = 500, res = 100)
 p
@@ -93,10 +93,10 @@ bib_tags <- bib_tags %>%
   filter(values %in% sys_tags) %>%
   mutate(group = gsub("[ -].*", "", values))
 
-bib_tags
+# bib_tags
 
 groups <- sys_tags[grepl("^\\d\\d ", sys_tags)]
-groups
+# groups
 names(groups) <- gsub("[ -].*", "", groups)
 
 bib_tags$ind <- as.numeric(as.character(bib_tags$ind))
@@ -119,7 +119,7 @@ p <- bib_tags %>%
        title = "Entries in the Miletus Bibliography Database", 
        fill = "Year of Publication")
 
-p
+# p
 
 png("figures/mil-pubs-by-keys.png", width = 1200, height = 750, res = 100)
 p
