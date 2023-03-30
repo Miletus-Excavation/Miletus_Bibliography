@@ -19,7 +19,7 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with: 
           compiler: latexmk
-          args: -pdf -auxdir=logs/ -outdir=pdf/
+          args: -pdf -auxdir=logs/ -outdir=../out/pdf/
           work_in_root_file_dir: true
           continue_on_error: true
           root_file: |
@@ -31,8 +31,6 @@ jobs:
       - name: add pdf directory and move files
         continue-on-error: true
         run: |
-          mkdir out/pdf
-          sudo mv tex/pdf/* out/pdf/
           git config user.name github-actions
           git config user.email <>
           git add *.pdf
