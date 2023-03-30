@@ -20,7 +20,9 @@ jobs:
           git config user.email "<>"
           git fetch origin update-out
           git checkout update-out
-          git merge main
+          git status
+          git merge origin/main
+          git status
       
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
