@@ -26,12 +26,17 @@ jobs:
           work_in_root_file_dir: true
           continue_on_error: true
 
+      - name: add pdf directory and move files
+        run: |
+          mkdir out/pdf
+          mv tex/*.pdf out/pdf/
+          git add *.pdf
+          git status
+
       - name: Upload files
         uses: actions/upload-artifact@v3
         with:
-          name: PDF
-          path: |
-            tex/*.pdf
-            tex/*.log
+          name: logs
+          path: tex/*.log
 
           
