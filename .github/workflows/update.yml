@@ -32,14 +32,13 @@ jobs:
         run: |
           tlmgr --version
           tlmgr install koma-script footmisc 
+          tlmgr install xcolor fontenc inputenc graphicx scrlayer-scrpage
           tlmgr install cmap cm-super cmbright 
-          tlmgr install lh cyrillic texlive-scripts greek-fontenc
+          tlmgr install lh cyrillic texlive-scripts greek-fontenc textalpha 
           tlmgr install biber biblatex archaeologie
 
       - name: Install Packages
         uses: r-lib/actions/setup-renv@v2
-        with:
-          profile: '"renv"'
 
       - name: Make files
         run: Rscript -e 'source("build-bib.R")'

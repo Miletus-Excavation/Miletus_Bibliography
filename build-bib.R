@@ -8,6 +8,6 @@ source("Bibliographie.R")
 library(tinytex)
 
 setwd("Exporte_PDF/")
-tinytex::latexmk("milet-bibliographie-by-tag-pdf.tex", 
+tinytex::latexmk("milet-bibliographie-summary.tex", 
                  bib_engine = "biber", min_times = 3)
 setwd("..")
