@@ -26,7 +26,7 @@ jobs:
         uses: r-lib/actions/setup-tinytex@v2
 
       - name: Install Packages
-      - uses: r-lib/actions/setup-renv@v2
+        uses: r-lib/actions/setup-renv@v2
         with:
           profile: '"bib"'
 
