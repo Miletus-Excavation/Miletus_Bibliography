@@ -2,9 +2,9 @@ import csv
 import io
 import operator
 
-inpfilename = "Exporte\Milet_Bibliography_CSV.csv"
+inpfilename = "data\Milet_Bibliography_CSV.csv"
 #inpfilename = "2022_02_16_Bibliographie.csv"
-inpnewfilename = "Exporte\Milet_Bibliography_HTML"
+inpnewfilename = "out\milet-bibliography-html-tablerows"
 
 print("Converting file: ", inpfilename)
 

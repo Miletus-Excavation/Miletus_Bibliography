@@ -2,7 +2,7 @@ library(ggplot2)
 library(dplyr)
 #library(reshape2)
 
-bib <- read.csv("Exporte/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "")
+bib <- read.csv("data/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "")
 
 
 bib$Publication.Year <- as.numeric(bib$Publication.Year)
@@ -41,7 +41,7 @@ p <- bib %>%
 
 # p
 
-png("figures/mil-pubs-by-year-type.png", width = 1200, height = 500, res = 100)
+png("out/figures/mil-pubs-by-year-type.png", width = 1200, height = 500, res = 100)
 p
 dev.off()
 
@@ -67,7 +67,7 @@ p <- bib %>%
 
 # p
 
-png("figures/mil-pubs-by-year.png", width = 1200, height = 500, res = 100)
+png("out/figures/mil-pubs-by-year.png", width = 1200, height = 500, res = 100)
 p
 dev.off()
 
@@ -121,7 +121,7 @@ p <- bib_tags %>%
 
 # p
 
-png("figures/mil-pubs-by-keys.png", width = 1200, height = 750, res = 100)
+png("out/figures/mil-pubs-by-keys.png", width = 1200, height = 750, res = 100)
 p
 dev.off()
 

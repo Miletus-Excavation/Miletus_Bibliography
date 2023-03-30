@@ -10,7 +10,7 @@ remove_na_cols <- function(data) {
 }
 
 # get the bibliography from the csv file
-bib <- read.csv("Exporte/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "") %>%
+bib <- read.csv("data/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "") %>%
   remove_na_cols() %>%
   type.convert(as.is = TRUE)
 
@@ -35,7 +35,7 @@ for (y in length(years):1) {
 }
 defbibcheck <- defbibcheck[-1]
 
-write(defbibcheck, file = "Exporte_PDF/defbibcheck_by_year.tex")
+write(defbibcheck, file = "out/defbibcheck_by_year.tex")
 
 
 # for each year...
@@ -54,7 +54,7 @@ for (y in length(years):1) {
 bibsections <- bibsections[-1]
 
 # save the file
-write(bibsections, file = "Exporte_PDF/bibsections_by_year.tex")
+write(bibsections, file = "out/bibsections_by_year.tex")
 
 
 
@@ -182,6 +182,6 @@ bibstructure <- bibstructure[-1]
 
 # save that so latex can have it
 writeLines(bibstructure, 
-           "Exporte_PDF/bibstructure_by_author.tex", 
+           "out/bibstructure_by_author.tex", 
            useBytes = TRUE)
 
