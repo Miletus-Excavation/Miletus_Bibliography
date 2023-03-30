@@ -1,8 +1,8 @@
 name: Build Bibliography PDFs
 on:
-  push:
+  pull_request:
     branches:
-      - update-out
+      - main
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

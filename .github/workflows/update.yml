@@ -25,7 +25,8 @@ jobs:
       - name: Make files
         run: Rscript -e 'source("build-bib.R")'
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit to update-out
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: updated figures and tex files
           branch: update-out
