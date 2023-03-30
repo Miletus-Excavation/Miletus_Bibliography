@@ -62,26 +62,30 @@ write(bibsections, file = "Exporte_PDF/bibsections_by_year.tex")
 # Exportieren von defbibcheck und sections nach Autoren
 # get all authors
 authors <- bib$Author
+
+authors <- lapply(authors, function(x) strsplit(x, "; "))
+
+bib$Author.List <- authors
+
+authors <- data.frame("name" = unique(unlist(authors)))
+
+# selecting C as locale for sorting manually everywhere though it is the 
+# default to keep in mind that sorting depends and keep comparable 
+# also makes it easy to change if needed
+sort_locale <- "C"
+
 authors <- authors %>%
-  strsplit("; ") %>%
-  unlist() %>%
-  unique() %>%
-  sort()
-
-# get a list of first letters and replace cyrillic and greek with their
-# latin representation
-letters <- toupper(substr(authors, 1, 1))
-letters <- stri_trans_general(letters, "cyrillic-latin/bgn")
-letters <- stri_trans_general(letters, "Greek-Latin/BGN")
-
-# associate it with each author
-names(authors) <- letters
+  # replace cyrillic and greek with their latin representaion for labels
+  mutate(name.latin = stri_trans_general(name, "Any-Latin")) %>%
+  # get the associated first letter for sorting and sections
+  mutate(firstletter = toupper(substr(name.latin, 1, 1))) %>%
+  arrange(name.latin, .locale = sort_locale)
 
 # sort the unique vector of authors 
-letters <- sort(unique(names(authors)))
-
+letters <- sort(unique(authors$firstletter))
+stri_trans_list()
 # check it out
-authors
+View(authors)
 
 # the citation key is saved in "extra" with the prefix Citation Key: 
 # so we split the string along that
@@ -111,22 +115,39 @@ texkey_false <- which(!grepl(texkey_regex, bib$tex_key))
 
 # see if there are any wrong keys
 View(bib[texkey_false,c("Author", "Publication.Year", "Title", "tex_key")])
+# View(bib[,c("Author", "Publication.Year", "Title", "tex_key")])
 
 # save them to check out / match in regex editor?
 writeLines(bib[texkey_false,"tex_key"], con = "wrong_tex.txt")
+
+
 
 bibstructure <- "NA"
 # for each letter in out alphabet
 for(letter in letters) {
   # we get all the author names that start with this letter
-  subset_authors <- authors[names(authors) == letter]
+  subset_authors <- authors[authors$firstletter == letter, ]
   # and produce a section for the letter
   bibstructure <- c(bibstructure, paste("\\section{", letter, "}\n", sep = ""))
   # for each of the authors that should be in this section
-  for (i in 1:length(subset_authors)) {
+  for (i in 1:nrow(subset_authors)) {
+    
+    # Author.List contains a list of all authors for that publication, 
+    # with the regex we get the formatted author name exactly which string
+    # start and end marked, to avoid merging authors with same names but 
+    # differing middle names
+    regex <- paste0("^", subset_authors$name[i], "$")
+    index <- lapply(bib$Author.List, function(x) {
+      lapply(x, function (y) grepl(regex, y))
+    })
+    index <- lapply(index, function(x) any(unlist(x))) %>%
+      unlist()
+    
     # we select the bibliography accordingly and sort it by 
     # year of publication, then title
-    bib_select <- bib[grepl(subset_authors[i], bib$Author), ]
+    bib_select <- bib[index, ]
+    
+    
     bib_select <- bib_select %>% arrange(Publication.Year, Title)
     # and get the keys with are now in that order
     singleauthkeys <- bib_select$tex_key
@@ -134,15 +155,14 @@ for(letter in letters) {
     numberofpubs <- length(singleauthkeys)
     # and build the latex-lines for citing all of those keys
     singleauthkeys <- paste("\\fullcite{", singleauthkeys, "}", sep = "", collapse = "\n\n")
-    # then we save the author name itself
-    author_fix <- subset_authors[i]
+    
     # and paste our subsection markup including the number of publications
     sectionhead <- paste("\\subsection[", 
-                         author_fix, 
+                         subset_authors$name.latin[i], 
                          " (", 
                          numberofpubs, 
                          ")]{", 
-                         author_fix, 
+                         subset_authors$name.latin[i], 
                          "}\n", 
                          sep = "")
     # and all of that gets bound together in one big vector
@@ -161,3 +181,4 @@ bibstructure <- bibstructure[-1]
 writeLines(bibstructure, 
            "Exporte_PDF/bibstructure_by_author.tex", 
            useBytes = TRUE)
+
