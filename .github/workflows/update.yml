@@ -31,12 +31,10 @@ jobs:
       - name: Get some LaTeX packages
         run: |
           tlmgr --version
-          tlmgr install koma-script
-          tlmgr install footmisc
-          tlmgr install cmap
-          tlmgr install collection-langcyrillic
-          tlmgr install cyrillic
-          tlmgr install texlive-scripts
+          tlmgr install koma-script footmisc 
+          tlmgr install cmap cm-super cmbright 
+          tlmgr install lh cyrillic texlive-scripts greek-fontenc
+          tlmgr install biber biblatex archaeologie
 
       - name: Install Packages
         uses: r-lib/actions/setup-renv@v2
@@ -46,14 +44,10 @@ jobs:
       - name: Make files
         run: Rscript -e 'source("build-bib.R")'
 
-      - run: mkdir -p new_files
-
-      - run: echo hello > new_files/world.txt
-
       - name: Upload files
         uses: actions/upload-artifact@v3
         with:
-          name: test.html
-          path: new_files/test.html
+          name: exports
+          path: Exporte_PDF/*
 
           
