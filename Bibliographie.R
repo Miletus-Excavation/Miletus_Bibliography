@@ -1,6 +1,6 @@
 library(ggplot2)
 library(dplyr)
-library(reshape2)
+#library(reshape2)
 
 bib <- read.csv("Exporte/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "")
 
