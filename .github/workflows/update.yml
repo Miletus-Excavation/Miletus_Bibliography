@@ -1,0 +1,28 @@
+name: Build Bibliography
+on:
+  push:
+    branches:
+      - workflow
+
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: LaTeX
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: Exporte_PDF/milet-bibliographie-by-tag-pdf.tex
+          work_in_root_file_dir: true
+      - name: Upload PDF file
+        uses: actions/upload-artifact@v3
+        with:
+          name: PDF
+          path: Exporte_PDF/milet-bibliographie-by-tag-pdf.pdf
+
+          
