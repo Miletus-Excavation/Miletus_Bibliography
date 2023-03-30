@@ -27,6 +27,7 @@ jobs:
           continue_on_error: true
 
       - name: add pdf directory and move files
+        continue-on-error: true
         run: |
           mkdir out/pdf
           mv tex/*.pdf out/pdf/
@@ -37,6 +38,8 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: logs
-          path: tex/*.log
+          path: |
+            tex/*.log
+            tex/*.log
 
           
