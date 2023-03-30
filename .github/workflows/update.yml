@@ -2,7 +2,7 @@ name: Update files
 on:
   push:
     branches:
-      - update-out
+      - main
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -25,5 +25,10 @@ jobs:
       - name: Make files
         run: Rscript -e 'source("build-bib.R")'
 
+      - uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+            commit_message: updated figures and tex files
+            branch: update-out
+
       - name: Pull Request for Update
-        run: gh pr create -B main -H update-out --title 'Merge update_out into main' --body 'Created by Github action'
+        run: gh pr create -B update-out -H main --title 'Merge automated changes from update_out into main' --body 'Created by Github action'
