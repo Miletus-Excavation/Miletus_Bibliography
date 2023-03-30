@@ -41,9 +41,9 @@ p <- bib %>%
 
 # p
 
-png("out/figures/mil-pubs-by-year-type.png", width = 1200, height = 500, res = 100)
-p
-dev.off()
+ggsave("out/figures/mil-pubs-by-year-type.png", p, 
+       width = 1200, height = 500, units = "px", 
+       dpi = 100, device = "png")
 
 
 p <- bib %>%
@@ -67,9 +67,9 @@ p <- bib %>%
 
 # p
 
-png("out/figures/mil-pubs-by-year.png", width = 1200, height = 500, res = 100)
-p
-dev.off()
+ggsave("out/figures/mil-pubs-by-year.png", p, 
+       width = 1200, height = 500, units = "px", 
+       dpi = 100, device = "png")
 
 
 
@@ -121,7 +121,7 @@ p <- bib_tags %>%
 
 # p
 
-png("out/figures/mil-pubs-by-keys.png", width = 1200, height = 750, res = 100)
-p
-dev.off()
+ggsave("out/figures/mil-pubs-by-keys.png", p, 
+       width = 1200, height = 750, units = "px", 
+       dpi = 100, device = "png")
 

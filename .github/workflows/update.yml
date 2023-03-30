@@ -22,11 +22,10 @@ jobs:
       - name: Install Packages
         uses: r-lib/actions/setup-renv@v2
 
-      - name: Make files
-        run: Rscript -e 'source("build-bib.R")'
-
-      - name: Commit the changes to update_out
+      - name: Make files and commit the changes to update_out
         run: |
+          Rscript -e 'source("build-bib.R")'
+          date > generated.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .

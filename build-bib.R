@@ -11,3 +11,6 @@ source("R/figures.R")
 #tinytex::latexmk("milet-bibliographie-summary.tex", 
 #                 bib_engine = "biber", min_times = 3)
 #setwd("..")
+
+
+writeLines("test", con = "out/test.txt")
