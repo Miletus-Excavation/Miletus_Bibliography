@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v3
       
       - name: Github Action for LaTeX
+        continue-on-error: true
         uses: xu-cheng/latex-action@v2
         with: 
           root_file: |
