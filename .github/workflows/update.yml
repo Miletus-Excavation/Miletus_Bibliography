@@ -14,15 +14,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: LaTeX
-        uses: xu-cheng/latex-action@v2
+      - uses: r-lib/actions/setup-r@v2
         with:
-          root_file: Exporte_PDF/milet-bibliographie-by-tag-pdf.tex
-          work_in_root_file_dir: true
-      - name: Upload PDF file
+          r-version: release
+      - uses: r-lib/actions/setup-pandoc@v2
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          extra-packages:  |
+            any::ggplot2
+            any::rcmdcheck
+            any::dplyr
+            any::stringi
+            any::reshape2
+      
+      - name: test
+        run: source("build-bib.R")
+        shell: Rscript {0}
+
+      - name: Upload file
         uses: actions/upload-artifact@v3
         with:
-          name: PDF
-          path: Exporte_PDF/milet-bibliographie-by-tag-pdf.pdf
+          name: file
+          path: test.html
 
           

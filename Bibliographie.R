@@ -1,5 +1,5 @@
 library(ggplot2)
-library(tidyverse)
+library(dplyr)
 library(reshape2)
 
 bib <- read.csv("Exporte/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "")
@@ -124,3 +124,4 @@ p
 png("figures/mil-pubs-by-keys.png", width = 1200, height = 750, res = 100)
 p
 dev.off()
+
