@@ -31,11 +31,10 @@ jobs:
       - name: Get some LaTeX packages
         run: |
           tlmgr --version
-          tlmgr install koma-script footmisc 
-          tlmgr install xcolor fontenc inputenc graphicx scrlayer-scrpage
+          tlmgr install koma-script footmisc babel csquotes
           tlmgr install cmap cm-super cmbright 
           tlmgr install lh cyrillic texlive-scripts greek-fontenc textalpha 
-          tlmgr install biber biblatex archaeologie
+          tlmgr install biber biblatex archaeologie 
 
       - name: Install Packages
         uses: r-lib/actions/setup-renv@v2
