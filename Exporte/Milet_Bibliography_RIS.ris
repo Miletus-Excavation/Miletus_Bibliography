@@ -304,16 +304,16 @@ LA  - German
 M1  - 1,8
 PB  - von Schoetz und Parrhysius
 DB  - Literatursammlung Miletserver
-KW  - 07 Architektur
-KW  - 07-01 Architektur: Varia
-KW  - 08 Kulte und Kulteinrichtungen
-KW  - 08-04 Kulte: Athena
+KW  - Heiligtum
 KW  - Archaisch
 KW  - Artemis
 KW  - Athena
 KW  - Athenatempel
-KW  - Heiligtum
 KW  - Kalabaktepe
+KW  - 07 Architektur
+KW  - 08 Kulte und Kulteinrichtungen
+KW  - 08-04 Kulte: Athena
+KW  - 07-01 Architektur: Varia
 ER  - 
 
 TY  - BOOK
@@ -855,7 +855,7 @@ AU  - Herda, Alexander
 T2  - ZeitRäume. Milet in Kaiserzeit und Spätantike. Ausstellungskatalog Berlin
 A2  - Dally, Ortwin
 A2  - Maischberger, Martin
-A2  - Schneider, Peter
+A2  - Schneider, Peter I.
 A2  - Scholl, Andreas
 CY  - Regensburg
 DA  - 2009///
@@ -864,8 +864,8 @@ SP  - 18
 EP  - 23
 PB  - Schnell & Steiner
 DB  - Literatursammlung Miletserver
-KW  - Verlandung
 KW  - 11 Geographie und Geophysik
+KW  - Verlandung
 ER  - 
 
 TY  - THES
@@ -2902,7 +2902,7 @@ AU  - Pfanner, Michael
 T2  - ZeitRäume. Milet in Kaiserzeit und Spätantike. Ausstellungskatalog Berlin
 A2  - Dally, Ortwin
 A2  - Maischberger, Martin
-A2  - Schneider, Peter
+A2  - Schneider, Peter I.
 A2  - Scholl, Andreas
 CY  - Regensburg
 DA  - 2009///
@@ -2911,11 +2911,11 @@ SP  - 83
 EP  - 95
 PB  - Schnell & Steiner
 DB  - Literatursammlung Miletserver
-KW  - Kaiserzeit
-KW  - Agora
-KW  - Spätantik
 KW  - 07 Architektur
 KW  - 07-05 Architektur: Platzanlagen und angrenzende Bauten
+KW  - Agora
+KW  - Kaiserzeit
+KW  - Spätantik
 ER  - 
 
 TY  - JOUR
@@ -4077,14 +4077,14 @@ PB  - von Zabern
 SV  - 5
 DB  - Literatursammlung Miletserver
 KW  - 02 Allgemeine Darstellungen / Topographie
-KW  - 02-04 Topographie: archaische Zeit
-KW  - 03 Funde aus Milet
-KW  - 03-02 Funde: Varia
 KW  - 08 Kulte und Kulteinrichtungen
-KW  - 08-06 Kulte: Aphrodite von Oikous
-KW  - 08-07 Kulte: Artemis Kithone
+KW  - 03 Funde aus Milet
+KW  - 02-04 Topographie: archaische Zeit
 KW  - 08-11 Kulte: Athena Assesia
 KW  - 14 Forschungsgeschichte
+KW  - 03-02 Funde: Varia
+KW  - 08-06 Kulte: Aphrodite von Oikous
+KW  - 08-07 Kulte: Artemis Kithone
 ER  - 
 
 TY  - CHAP
@@ -4288,18 +4288,18 @@ SP  - 7-12
 M1  - 1
 PB  - Deutscher Kunstverlag
 DB  - Literatursammlung Miletserver
-KW  - 02 Allgemeine Darstellungen / Topographie
-KW  - 02-05 Topographie: klassische Zeit
-KW  - 07 Architektur
-KW  - 07-01 Architektur: Varia
-KW  - 07-09 Architektur: Wohngebäude
-KW  - 10 politische Geschichte
-KW  - 10-03 Geschichte: klassische Zeit
+KW  - Wohnbebauung
+KW  - Wohnen
 KW  - Klassisch
 KW  - Stadtplan
 KW  - Straßenraster
-KW  - Wohnbebauung
-KW  - Wohnen
+KW  - 02 Allgemeine Darstellungen / Topographie
+KW  - 07 Architektur
+KW  - 10 politische Geschichte
+KW  - 07-01 Architektur: Varia
+KW  - 07-09 Architektur: Wohngebäude
+KW  - 02-05 Topographie: klassische Zeit
+KW  - 10-03 Geschichte: klassische Zeit
 ER  - 
 
 TY  - CHAP
@@ -4762,7 +4762,7 @@ TY  - BOOK
 TI  - ZeitRäume – Milet in Kaiserzeit und Spätantike
 A3  - Dally, Ortwin
 A3  - Maischberger, Martin
-A3  - Schneider, Peter
+A3  - Schneider, Peter I.
 A3  - Scholl, Andreas
 CY  - Regensburg
 DA  - 2009///
@@ -4779,7 +4779,7 @@ AU  - Niewöhner, Philipp
 T2  - ZeitRäume. Milet in Kaiserzeit und Spätantike. Ausstellungskatalog Berlin
 A2  - Dally, Ortwin
 A2  - Maischberger, Martin
-A2  - Schneider, Peter
+A2  - Schneider, Peter I.
 A2  - Scholl, Andreas
 CY  - Regensburg
 DA  - 2009///
@@ -4787,12 +4787,12 @@ PY  - 2009
 SP  - 60
 EP  - 67
 PB  - Schnell & Steiner
-KW  - Byzantinisch
-KW  - Stadtmauer
-KW  - Spätantik
-KW  - Justinian
 KW  - 02 Allgemeine Darstellungen / Topographie
 KW  - 02-08 Topographie: Spät und Nachantike
+KW  - Byzantinisch
+KW  - Justinian
+KW  - Spätantik
+KW  - Stadtmauer
 ER  - 
 
 TY  - THES
@@ -5051,7 +5051,6 @@ SP  - 589
 LA  - de
 PB  - LIT
 SN  - 978-3-643-13510-0
-ST  - Die Aphrodite der Seefahrer und ihre Heiligtümer am Mittelmeer
 KW  - Heiligtum
 KW  - Aphroditeheiligtum
 KW  - Zeytintepe
@@ -10105,7 +10104,7 @@ ER  -
 TY  - JOUR
 TI  - Milet 1987. Vorbericht über die Arbeiten des Jahres 1987
 AU  - Müller-Wiener, Wolfgang
-AU  - Göksel, Dogu
+AU  - Göksel, Doğu
 AU  - von Graeve, Volkmar
 AU  - Biering, Ralf
 AU  - Heinz, Margareta
@@ -10123,7 +10122,7 @@ ER  -
 TY  - JOUR
 TI  - Milet 1987. Notgrabung in der archaischen Nekropole von Milet
 AU  - Müller-Wiener, Wolfgang
-AU  - Göksel, Dogu
+AU  - Göksel, Doğu
 AU  - von Graeve, Volkmar
 T2  - Istanbuler Mitteilungen
 DA  - 1988///
@@ -10133,9 +10132,9 @@ SP  - 253
 EP  - 278
 J2  - IstMitt
 DB  - Literatursammlung Miletserver
-KW  - Archaisch
 KW  - 01 Grabungs und Arbeitsberichte
 KW  - 09 Gräber und Bestattungen
+KW  - Archaisch
 ER  - 
 
 TY  - JOUR
@@ -13816,14 +13815,12 @@ AB  - The date of the final destruction of Late Bronze Age Miletos is examined i
 DA  - 2004/11//
 PY  - 2004
 DO  - 10.1017/S006824540001707X
-DP  - DOI.org (Crossref)
 VL  - 99
 SP  - 189
 EP  - 200
 J2  - BSA
 LA  - en
 SN  - 0068-2454, 2045-2403
-ST  - Miletos
 UR  - https://www.cambridge.org/core/product/identifier/S006824540001707X/type/journal_article
 DB  - Literatursammlung Miletserver
 Y2  - 2022/01/06/16:02:46
@@ -14845,6 +14842,8 @@ ER  -
 TY  - JOUR
 TI  - Sind die Mauern die Stadt? Vorbericht über die siedlungsgeschichtlichen Ergebnisse neuer Grabungen im spätantiken und byzantinischen Milet
 AU  - Niewöhner, Philipp
+AU  - Brückner, Helmut
+AU  - Müllenhoff, Marc
 T2  - Archäologischer Anzeiger
 DA  - 2008///
 PY  - 2008
@@ -15874,7 +15873,7 @@ ER  -
 
 TY  - CHAP
 TI  - Die Faustinathermen
-AU  - Schneider, Peter
+AU  - Schneider, Peter I.
 T2  - ZeitRäume. Milet in Kaiserzeit und Spätantike. Ausstellungskatalog Berlin
 A2  - Dally, Ortwin
 A2  - Maischberger, Martin
@@ -15885,9 +15884,9 @@ DA  - 2009///
 PY  - 2009
 SP  - 121
 EP  - 141
-KW  - Faustinathermen
 KW  - 07 Architektur
 KW  - 07-07 Architektur: Gymnasia und Thermenanlagen
+KW  - Faustinathermen
 ER  - 
 
 TY  - CHAP
@@ -16770,13 +16769,10 @@ T2  - Greek culture in the Roman world
 CY  - Cambridge
 DA  - 2011///
 PY  - 2011
-DP  - DOI.org (Crossref)
 PB  - Cambridge University Press
 SN  - 978-0-511-97484-7
-ST  - The Maeander Valley
 UR  - https://doi.org/10.1017/CBO9780511974847
 DB  - Literatursammlung Miletserver
-Y2  - 2022/01/28/14:24:51
 KW  - Priene
 KW  - Myus
 KW  - Mäander
@@ -16930,7 +16926,7 @@ TI  - The Town Center of Miletus from Roman Imperial Times to Late Antiquity
 AU  - Dally, Ortwin
 AU  - Maischberger, Martin
 AU  - Scholl, Andreas
-AU  - Schneider, Peter
+AU  - Schneider, Peter I.
 T2  - Archaeology and the Cities of Asia Minor in Late Antiquity
 A2  - Dally, Ortwin
 A2  - Ratté, Christopher
@@ -16944,17 +16940,17 @@ PB  - Kelsey Museum of Archaeology
 SV  - 6
 DB  - Literatursammlung Miletserver
 KW  - 02 Allgemeine Darstellungen / Topographie
-KW  - 07 Architektur
-KW  - 03 Funde aus Milet
-KW  - 10 politische Geschichte
-KW  - 07-05 Architektur: Platzanlagen und angrenzende Bauten
 KW  - 02-07 Topographie: Kaiserzeit
-KW  - 10-05 Geschichte: Kaiserzeit
-KW  - 03-04 Funde: Skulptur
-KW  - 10-07 Geschichte: Mittelalter / Balat
 KW  - 02-08 Topographie: Spät und Nachantike
+KW  - 03 Funde aus Milet
+KW  - 03-04 Funde: Skulptur
+KW  - 07 Architektur
+KW  - 07-05 Architektur: Platzanlagen und angrenzende Bauten
 KW  - 07-07 Architektur: Gymnasia und Thermenanlagen
+KW  - 10 politische Geschichte
+KW  - 10-05 Geschichte: Kaiserzeit
 KW  - 10-06 Geschichte: Spät und Nachantike
+KW  - 10-07 Geschichte: Mittelalter / Balat
 ER  - 
 
 TY  - CHAP
@@ -17036,7 +17032,7 @@ ER  -
 
 TY  - CHAP
 TI  - Die Skulpturenausstattung und Wasserspiele in den Faustina-Thermen von Milet
-AU  - Schneider, Peter
+AU  - Schneider, Peter I.
 T2  - SPA. Sanitas per Aquam. Tagungsband des Internationalen Frontinus-Symposiums zur Technik- und Kulturgeschichte der antiken Thermen, Aachen, 18.-22. März 2009
 A2  - Kreiner, Ralf
 A2  - Letzner, Wolfram
@@ -17049,11 +17045,11 @@ EP  - 223
 PB  - Peeters
 SV  - 21
 DB  - Literatursammlung Miletserver
-KW  - Faustinathermen
-KW  - 07 Architektur
 KW  - 03 Funde aus Milet
 KW  - 03-04 Funde: Skulptur
+KW  - 07 Architektur
 KW  - 07-07 Architektur: Gymnasia und Thermenanlagen
+KW  - Faustinathermen
 ER  - 
 
 TY  - JOUR
@@ -17337,6 +17333,21 @@ ER  -
 TY  - JOUR
 TI  - Neue spät- und nachantike Monumente von Milet und der mittelbyzantinische Zerfall des anatolischen Städtewesens
 AU  - Niewöhner, Philipp
+AU  - Dally, Ortwin
+AU  - Erkul, Ercan
+AU  - Feist, Sabine
+AU  - Giese, Stefan
+AU  - Göçmen, Duygu
+AU  - Hintermann, Thomas
+AU  - Kruip, Margret
+AU  - Maischberger, Martin
+AU  - Raubo, Bartosz
+AU  - Schneider, Peter I.
+AU  - Scholl, Andreas
+AU  - Schwerdt, Nico
+AU  - Sossau, Veronika
+AU  - Stroth, Fabian
+AU  - Stümpel, Harald
 T2  - Archäologischer Anzeiger
 DA  - 2013///
 PY  - 2013
@@ -17347,28 +17358,28 @@ SP  - 165
 EP  - 233
 J2  - AA
 DB  - Literatursammlung Miletserver
+KW  - 02 Allgemeine Darstellungen / Topographie
+KW  - 02-08 Topographie: Spät und Nachantike
+KW  - 02-09 Topographie: Mittelalter / Balat
+KW  - 03 Funde aus Milet
+KW  - 03-03 Funde: Bauteile, Bauornamentik
+KW  - 03-05 Funde: Keramik
+KW  - 03-05-08 Keramik: Spät und Nachantike
+KW  - 07 Architektur
+KW  - 07-01 Architektur: Varia
+KW  - 07-02 Architektur: Stadtmauern und Wehranlagen
+KW  - 07-07 Architektur: Gymnasia und Thermenanlagen
+KW  - 07-09 Architektur: Wohngebäude
+KW  - 07-11 Architektur: Kirchen, Synagogen, Moscheen
+KW  - 07-12 Architektur: Werkstätten
+KW  - 11 Geographie und Geophysik
 KW  - Faustinathermen
+KW  - Hagia Paraskevi
 KW  - Humeitepe
 KW  - Kaletepe
-KW  - 02 Allgemeine Darstellungen / Topographie
-KW  - 11 Geographie und Geophysik
-KW  - 07 Architektur
-KW  - Südstadt
-KW  - Serapeion
-KW  - Hagia Paraskevi
 KW  - Palatia
-KW  - 03 Funde aus Milet
-KW  - 03-05 Funde: Keramik
-KW  - 07-11 Architektur: Kirchen, Synagogen, Moscheen
-KW  - 07-01 Architektur: Varia
-KW  - 07-09 Architektur: Wohngebäude
-KW  - 07-02 Architektur: Stadtmauern und Wehranlagen
-KW  - 03-03 Funde: Bauteile, Bauornamentik
-KW  - 02-09 Topographie: Mittelalter / Balat
-KW  - 02-08 Topographie: Spät und Nachantike
-KW  - 03-05-08 Keramik: Spät und Nachantike
-KW  - 07-07 Architektur: Gymnasia und Thermenanlagen
-KW  - 07-12 Architektur: Werkstätten
+KW  - Serapeion
+KW  - Südstadt
 ER  - 
 
 TY  - BOOK
@@ -17470,7 +17481,6 @@ EP  - 91
 J2  - ClQ
 LA  - en
 SN  - 0009-8388, 1471-6844
-ST  - Aristagoras and Histiaios
 UR  - https://www.cambridge.org/core/product/identifier/S0009838800024125/type/journal_article
 Y2  - 2022/02/03/10:47:56
 KW  - 10 politische Geschichte
@@ -17887,7 +17897,7 @@ KW  - 03-08 Funde: Inschriften
 ER  - 
 
 TY  - JOUR
-TI  - Milet 2013. Yılı Çalışmaları
+TI  - Milet 2013 Yılı Çalışmaları
 AU  - Niewöhner, Philipp
 T2  - Kazı Sonuçları Toplantısı
 DA  - 2014///
@@ -19006,7 +19016,7 @@ AU  - Dally, Ortwin
 AU  - Göçmen, Duygu
 AU  - Kruip, Margret
 AU  - Maischberger, Martin
-AU  - Schneider, Peter
+AU  - Schneider, Peter I.
 AU  - Scholl, Andreas
 AU  - Schwerdt, Nico
 T2  - e-Forschungsberichte des Deutschen Archäologischen Instituts
@@ -19019,17 +19029,17 @@ SP  - 91
 EP  - 95
 J2  - eDAI-F
 DB  - Literatursammlung Miletserver
-KW  - Keramik
-KW  - Faustinathermen
-KW  - Restaurierung
 KW  - 01 Grabungs und Arbeitsberichte
-KW  - 07 Architektur
 KW  - 03 Funde aus Milet
 KW  - 03-05 Funde: Keramik
-KW  - 15 Ruinen und Geländepflege, Restaurierung
 KW  - 03-05-07 Keramik: Kaiserzeit
 KW  - 03-05-08 Keramik: Spät und Nachantike
+KW  - 07 Architektur
 KW  - 07-07 Architektur: Gymnasia und Thermenanlagen
+KW  - 15 Ruinen und Geländepflege, Restaurierung
+KW  - Faustinathermen
+KW  - Keramik
+KW  - Restaurierung
 ER  - 
 
 TY  - JOUR
@@ -20146,10 +20156,10 @@ ER  -
 
 TY  - CHAP
 TI  - Das Grabungshaus der Miletgrabung in Akköy
-AU  - Schneider, Peter
+AU  - Schneider, Peter I.
 T2  - Von der Kunst, ein Bauwerk zu verstehen. Perspektiven der Bau- und Stadtbaugeschichte von der Antike bis zur Gegenwart; Festschrift für Klaus Rheidt zum 65. Geburtstag
 A2  - Wunderwald, Anke
-A2  - Schneider, Peter
+A2  - Schneider, Peter I.
 A2  - Druzynski von Boetticher, Alexandra
 CY  - Oppenheim am Rhein
 DA  - 2020///
@@ -20158,11 +20168,11 @@ SP  - 51
 EP  - 60
 PB  - Nünnerich-Asmus Verlag
 DB  - Literatursammlung Miletserver
-KW  - Akköy
-KW  - Grabungshaus
 KW  - 07 Architektur
 KW  - 07-01 Architektur: Varia
 KW  - 14 Forschungsgeschichte
+KW  - Akköy
+KW  - Grabungshaus
 ER  - 
 
 TY  - JOUR
@@ -20181,14 +20191,14 @@ J2  - AA
 SN  - 2510-4713
 DB  - Literatursammlung Miletserver
 Y2  - 2022/02/15/08:54:44
-KW  - 03 Funde aus Milet
-KW  - 03-05 Funde: Keramik
-KW  - 03-05-05 Keramik: klassische Zeit
-KW  - 08 Kulte und Kulteinrichtungen
-KW  - 08-05 Kulte: Dionysos
 KW  - Keramik
 KW  - Werkstatt
 KW  - Werkzeug
+KW  - 08 Kulte und Kulteinrichtungen
+KW  - 03 Funde aus Milet
+KW  - 03-05 Funde: Keramik
+KW  - 03-05-05 Keramik: klassische Zeit
+KW  - 08-05 Kulte: Dionysos
 ER  - 
 
 TY  - RPRT
@@ -20226,15 +20236,15 @@ LA  - de
 UR  - https://publications.dainst.org/journals/index.php/efb/article/view/2332
 DB  - Literatursammlung Miletserver
 Y2  - 2022/02/15/08:46:01
-KW  - 01 Grabungs und Arbeitsberichte
-KW  - 03 Funde aus Milet
-KW  - 03-03 Funde: Bauteile, Bauornamentik
-KW  - 07 Architektur
-KW  - 07-01 Architektur: Varia
-KW  - 07-03 Architektur: Theater
-KW  - 07-04 Architektur: Delphinion
-KW  - 07-07 Architektur: Gymnasia und Thermenanlagen
 KW  - Marmor
+KW  - 01 Grabungs und Arbeitsberichte
+KW  - 07 Architektur
+KW  - 03 Funde aus Milet
+KW  - 07-01 Architektur: Varia
+KW  - 03-03 Funde: Bauteile, Bauornamentik
+KW  - 07-03 Architektur: Theater
+KW  - 07-07 Architektur: Gymnasia und Thermenanlagen
+KW  - 07-04 Architektur: Delphinion
 ER  - 
 
 TY  - JOUR
@@ -20591,9 +20601,8 @@ DA  - 2016///
 PY  - 2016
 SP  - 168
 LA  - ger
-PB  - Yayinlari
+PB  - Ege Yayinlari
 SN  - 978-605-9680-07-3
-ST  - Milet / Balat
 DB  - Literatursammlung Miletserver
 KW  - 02 Allgemeine Darstellungen / Topographie
 KW  - 02-04 Topographie: archaische Zeit
@@ -21654,7 +21663,7 @@ TY  - BOOK
 TI  - "...die Reste noch eindrucksvoller gestalten" und erhalten. Erfahrungen aus 150 Jahren archäologischer Denkmalpflege in der Türkei
 T2  - Beiträge zur Geschichte der Archäologie und der Altertumswissenschaften
 A3  - Steudtner, Katharina
-AB  - Online verfügbar ab 2024. 
+AB  - Online verfügbar ab 2024 (Link derzeit inaktiv). 
 Mit dem Aufdecken und Erforschen historischer Bausubstanz geht eine Verantwortung für das Freigelegte einher. An Grabungsstätten des Deutschen Archäologischen Instituts in der Türkei wie Pergamon und Milet zeigt dieser Band auf, wie Akteur*innen zu verschiedenen Zeiten dieser Verantwortung gerecht zu werden versuchten: im Sinne der Lesbarkeit von Ruinen, zusehends aber auch bezogen auf landschaftsplanerische, wirtschaftliche und soziale sowie kulturell-identitätsorientierte Anliegen. Die Darstellung praktischer Maßnahmen wird dabei mit der Beschreibung und Reflexion der zunehmend international ausgerichteten Entwicklung der Theorie der Denkmalpflege verschränkt.
 The uncovering and exploration of historical building fabric entails a responsibility for what has been exposed. Using excavation sites of the German Archaeological Institute in Turkey such as Pergamon and Miletus, this volume shows how actors at different times attempted to fulfil this responsibility: in terms of the legibility of the ruins, but also and increasingly with regard to landscaping, economic and social as well as cultural-identity-oriented concerns. The description of practical actions is intertwined with the description and reflection of the increasingly international development of the theory of monument preservation.
 CY  - Wiesbaden
@@ -21662,6 +21671,7 @@ DA  - 2022///
 PY  - 2022
 M1  - 4
 PB  - Harrassowitz
+SN  - 978-3-447-11820-0
 UR  - https://doi.org/10.34780/9s0a-r926
 KW  - 15 Ruinen und Geländepflege, Restaurierung
 ER  - 
@@ -23558,13 +23568,12 @@ DO  - 10.4000/kernos.1594
 IS  - 23
 SP  - 375
 EP  - 379
-J2  - kernos
+J2  - Kernos
 LA  - en
 SN  - 0776-3824, 2034-7871
-ST  - The Molpoi Inscription
 DB  - Literatursammlung Miletserver
-KW  - 03-08 Funde: Inschriften
 KW  - 08 Kulte und Kulteinrichtungen
+KW  - 03-08 Funde: Inschriften
 KW  - 08-02 Kulte: Apollon Delphinios
 ER  - 
 
@@ -23572,7 +23581,7 @@ TY  - JOUR
 TI  - Wiggle-Match Dating of Tree-Ring Sequences
 AU  - Galimberti, Mariagrazia
 AU  - Bronk Ramsey, Christopher
-AU  - Manning, Sturt W
+AU  - Manning, Sturt W.
 T2  - Radiocarbon
 AB  - Given the non-monotonic form of the radiocarbon calibration curve, the precision of single
               14
@@ -23603,7 +23612,7 @@ ER  -
 TY  - JOUR
 TI  - Dating the Volcanic Eruption at Thera
 AU  - Bronk Ramsey, Christopher
-AU  - Manning, Sturt W
+AU  - Manning, Sturt W.
 AU  - Galimberti, Mariagrazia
 T2  - Radiocarbon
 AB  - The eruption of the volcano at Thera (Santorini) in the Aegean Sea undoubtedly had a profound influence on the civilizations of the surrounding region. The date of the eruption has been a subject of much controversy because it must be linked into the established and intricate archaeological phasings of both the prehistoric Aegean and the wider east Mediterranean. Radiocarbon dating of material from the volcanic destruction layer itself can provide some evidence for the date of the eruption, but because of the shape of the calibration curve for the relevant period, the value of such dates relies on there being no biases in the data sets. However, by dating the material from phases earlier and later than the eruption, some of the problems of the calibration data set can be circumvented and the chronology for the region can be resolved with more certainty.
@@ -23652,10 +23661,115 @@ J2  - Science
 LA  - en
 SN  - 0036-8075, 1095-9203
 DB  - Literatursammlung Miletserver
-KW  - 03 Funde aus Milet
-KW  - 03-02 Funde: Varia
-KW  - 04 Archäometrie
 KW  - Bronzezeit
 KW  - Radiokarbondatierung
+KW  - 03 Funde aus Milet
+KW  - 04 Archäometrie
+KW  - 03-02 Funde: Varia
+ER  - 
+
+TY  - THES
+TI  - Das Dionysosheiligtum in der Sakrallandschaft von Milet
+AU  - Steinmann, Lisa
+CY  - Hamburg
+DA  - 2023///
+PY  - 2023
+DP  - https://katalogplus.sub.uni-hamburg.de/vufind/Record/183902464X
+LA  - ger
+M3  - Dissertation
+PB  - Universität Hamburg
+DB  - Literatursammlung Miletserver
+ER  - 
+
+TY  - JOUR
+TI  - Hellenistic Didyma and the Milesian Past
+AU  - Sato, Noboru
+T2  - Japan Studies in Classical Antiquity
+AB  - Following the arrival of Alexander the Great in Miletus, drastic political changes occurred in there and in other Greek city-states in Asia Minor. This period was also a crucial turning point for Didyma, an extra-urban sanctuary of Miletus. This occurrence of change is presumably an observable indication of one of the major structural shifts in the late classical and early Hellenistic periods. What impact did these political and cultural changes have on Milesian mythical narratives and historiographies? This study aims to examine Hellenistic myths and historiographies concerning the Didymaeum, the temple of Apollo Didymeus, focusing on theinfluence of contemporary Milesian religious and diplomatic activities and on interactions with Hellenistic rulers and other Greek city-states.
+DA  - 2023///
+PY  - 2023
+VL  - 5
+SP  - 78
+EP  - 98
+DB  - Literatursammlung Miletserver
+KW  - Didyma
+KW  - 08 Kulte und Kulteinrichtungen
+KW  - 10 politische Geschichte
+KW  - 10-03 Geschichte: klassische Zeit
+KW  - 10-04 Geschichte: hellenistische Zeit
+KW  - 08-01 Kulte: Varia
+ER  - 
+
+TY  - CHAP
+TI  - Ein denkmalpflegerisches Entwicklungskonzept für Milet als Grundlage für ein Site Management
+AU  - Göçmen, Duygu
+AU  - Vardar, Ali
+T2  - "...die Reste noch eindrucksvoller gestalten" und erhalten. Erfahrungen aus 150 Jahren archäologischer Denkmalpflege in der Türkei
+A2  - Steudtner, Katharina
+T3  - Beiträge zur Geschichte der Archäologie und der Altertumswissenschaften
+CY  - Wiesbaden
+DA  - 2022///
+PY  - 2022
+SP  - 331
+EP  - 343
+PB  - Harrassowitz
+SN  - 978-3-447-11820-0
+SV  - 4
+DB  - Literatursammlung Miletserver
+KW  - 15 Ruinen und Geländepflege, Restaurierung
+ER  - 
+
+TY  - CHAP
+TI  - Wie man mit ausgegrabenen Hinterlassenschaften "eines älteren Venedig" umgeht: Die frühen Denkmalpflegeerfahrungen aus Milet
+AU  - Göçmen, Duygu
+T2  - "...die Reste noch eindrucksvoller gestalten" und erhalten. Erfahrungen aus 150 Jahren archäologischer Denkmalpflege in der Türkei
+A2  - Steudtner, Katharina
+T3  - Beiträge zur Geschichte der Archäologie und der Altertumswissenschaften
+CY  - Wiesbaden
+DA  - 2022///
+PY  - 2022
+SP  - 45
+EP  - 54
+PB  - Harrassowitz
+SN  - 978-3-447-11820-0
+SV  - 4
+DB  - Literatursammlung Miletserver
+KW  - 15 Ruinen und Geländepflege, Restaurierung
+ER  - 
+
+TY  - CHAP
+TI  - "Kritische Betrachter sollten diese Randbedingungen kennen...": Die Anastylose der Ionischen Halle in Milet
+AU  - Schneider, Peter I.
+T2  - "...die Reste noch eindrucksvoller gestalten" und erhalten. Erfahrungen aus 150 Jahren archäologischer Denkmalpflege in der Türkei
+A2  - Steudtner, Katharina
+T3  - Beiträge zur Geschichte der Archäologie und der Altertumswissenschaften
+CY  - Wiesbaden
+DA  - 2022///
+PY  - 2022
+SP  - 143
+EP  - 156
+PB  - Harrassowitz
+SN  - 978-3-447-11820-0
+SV  - 4
+DB  - Literatursammlung Miletserver
+KW  - 15 Ruinen und Geländepflege, Restaurierung
+ER  - 
+
+TY  - CHAP
+TI  - Eine Neukonzeption für die Ruinen des Bischofspalastes von Milet
+AU  - Steudtner, Katharina
+T2  - "...die Reste noch eindrucksvoller gestalten" und erhalten. Erfahrungen aus 150 Jahren archäologischer Denkmalpflege in der Türkei
+A2  - Steudtner, Katharina
+T3  - Beiträge zur Geschichte der Archäologie und der Altertumswissenschaften
+CY  - Wiesbaden
+DA  - 2022///
+PY  - 2022
+SP  - 255
+EP  - 260
+PB  - Harrassowitz
+SN  - 978-3-447-11820-0
+SV  - 4
+KW  - 15 Ruinen und Geländepflege, Restaurierung
+KW  - Bischofspalast
 ER  - 
 
