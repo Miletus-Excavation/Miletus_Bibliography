@@ -5549,15 +5549,15 @@ TY  - JOUR
 TI  - Maussollos in Milet
 AU  - Regling, Kurt
 T2  - Frankfurter Münzzeitung
-DA  - 1916///1918
-PY  - 1916
+DA  - 1918///
+PY  - 1918
 VL  - 6
 SP  - 254
 EP  - 260
 KW  - 03 Funde aus Milet
+KW  - 03-09 Funde: Münzen
 KW  - 10 politische Geschichte
 KW  - 10-03 Geschichte: klassische Zeit
-KW  - 03-09 Funde: Münzen
 ER  - 
 
 TY  - DICT
@@ -5631,7 +5631,7 @@ TY  - JOUR
 TI  - Zwei spätrömische Bauten in Milet
 AU  - Wolters, Paul
 T2  - Münchner Jahrbuch der bildenden Kunst
-DA  - 1921///1922
+DA  - 1921///
 PY  - 1921
 VL  - 12
 SP  - 154
@@ -5777,7 +5777,7 @@ TY  - JOUR
 TI  - Die kunstgeschichtliche Bedeutung des römischen Markttors in Milet
 AU  - Weigand, Edmund
 T2  - Der  Kunstwanderer
-DA  - 1925///1926
+DA  - 1925///
 PY  - 1925
 DO  - 10.11588/diglit.25878.111
 VL  - 7,8
@@ -5785,10 +5785,10 @@ SP  - 359
 EP  - 362
 UR  - https://doi.org/10.11588/diglit.25878.111
 DB  - Literatursammlung Miletserver
-KW  - Römisch
-KW  - Markttor
 KW  - 07 Architektur
 KW  - 07-05 Architektur: Platzanlagen und angrenzende Bauten
+KW  - Markttor
+KW  - Römisch
 ER  - 
 
 TY  - DICT
@@ -6019,8 +6019,8 @@ TY  - JOUR
 TI  - The Agora of Miletus
 AU  - Wycherley, Richard Ernest
 T2  - Journal of the Royal Institute of British Architects
-DA  - 1937///1938
-PY  - 1937
+DA  - 1938///
+PY  - 1938
 VL  - 3,4
 SP  - 1005
 EP  - 1010
@@ -6233,8 +6233,8 @@ TY  - JOUR
 TI  - Stand der Erforschung von Alt-Milet
 AU  - Kleiner, Gerhard
 T2  - Istanbuler Mitteilungen
-DA  - 1969///70
-PY  - 1969
+DA  - 1970///
+PY  - 1970
 VL  - 19,20
 SP  - 113
 EP  - 123
@@ -6470,8 +6470,8 @@ TY  - JOUR
 TI  - Le iscrizione delle isole milesie
 AU  - Manganaro, Giacomo
 T2  - Annuario della Scuola archeologicadi Atene e delle missioni italiane in Oriente
-DA  - 1963///64
-PY  - 1963
+DA  - 1964///
+PY  - 1964
 VL  - 41,42
 SP  - 293
 EP  - 349
@@ -8616,16 +8616,16 @@ TY  - JOUR
 TI  - Storia e monetazione di Mileto all´epoca dei Diadochi
 AU  - Mastrocinque, Attilio
 T2  - Annali. Istituto italiano di numismatica
-DA  - 1980///81
-PY  - 1980
+DA  - 1981///
+PY  - 1981
 VL  - 27,28
 SP  - 61
 EP  - 78
 J2  - AnnIstItNum
 KW  - 03 Funde aus Milet
+KW  - 03-09 Funde: Münzen
 KW  - 10 politische Geschichte
 KW  - 10-04 Geschichte: hellenistische Zeit
-KW  - 03-09 Funde: Münzen
 ER  - 
 
 TY  - JOUR
@@ -11672,8 +11672,8 @@ TY  - JOUR
 TI  - Eine Liste mit Zeus-Epitheta aus Milet
 AU  - Herrmann, Peter
 T2  - Hyperboreus. Studia Classica
-DA  - 1994///1995
-PY  - 1994
+DA  - 1995///
+PY  - 1995
 VL  - 1
 IS  - 2
 SP  - 118
@@ -14089,7 +14089,7 @@ TY  - JOUR
 TI  - Miletus in the Bronze Age: A Bridge between the Aegean and Anatolia
 AU  - Niemeier, Wolf-Dietrich
 T2  - Bulletin of the Institute of Classical Studies of the University of London
-DA  - 2002///2003
+DA  - 2002///
 PY  - 2002
 VL  - 46
 SP  - 225
