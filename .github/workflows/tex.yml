@@ -2,14 +2,14 @@ name: Build Bibliography PDFs
 on:
   push:
     branches:
-      - workflow
+      - update-out
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
 jobs:
   Build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
