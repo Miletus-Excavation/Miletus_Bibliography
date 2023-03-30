@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-      if: github.event.pull_request.merged == false
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
