@@ -32,14 +32,16 @@ jobs:
         continue-on-error: true
         run: |
           mkdir out/pdf
-          mv tex/pdf/* out/pdf/
+          sudo mv tex/pdf/* out/pdf/
           git add *.pdf
           git status
+          git commit -m "update pdfs [skip actions]"
+          git push
 
       - name: Upload files
         uses: actions/upload-artifact@v3
         with:
           name: logs
-          path: tex/*.log
+          path: tex/logs/*.log
 
           
