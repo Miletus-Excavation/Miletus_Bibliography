@@ -9,7 +9,7 @@ env:
 
 jobs:
   Build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -17,9 +17,7 @@ jobs:
       - name: Github Action for LaTeX
         uses: xu-cheng/latex-action@v2
         with: 
-          root_file: |
-            tex/milet-bibliographie-summary.tex
-            tex/milet-bibliographie-by-tag-pdf.tex
+          root_file: tex/milet-bibliographie-summary.tex
           work_in_root_file_dir: true
           continue_on_error: true
 

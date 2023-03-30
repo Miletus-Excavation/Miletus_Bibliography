@@ -25,12 +25,6 @@ jobs:
       - name: Make files
         run: Rscript -e 'source("build-bib.R")'
 
-      - name: Upload files
-        uses: actions/upload-artifact@v3
-        with:
-          name: out
-          path: out/*
-
       - name: Pull Request for Update
         uses: peter-evans/create-pull-request@v4
         with:
