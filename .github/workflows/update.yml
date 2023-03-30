@@ -1,4 +1,4 @@
-name: Build Bibliography
+name: Bibliography
 on:
   push:
     branches:
@@ -8,7 +8,7 @@ env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
 jobs:
-  build_latex:
+  Build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -22,9 +22,11 @@ jobs:
       - name: Setup Pandoc
         uses: r-lib/actions/setup-pandoc@v2
 
-      - name: test
-        run: source("build-bib.R")
-        shell: Rscript {0}
+      - name: Install Packages
+        run: Rscript -e 'source("load_packages.R")'
+
+      - name: Build tex files
+        run: Rscript -e 'source("build-bib.R")'
 
       - name: Upload file
         uses: actions/upload-artifact@v3
