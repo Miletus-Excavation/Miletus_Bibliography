@@ -35,7 +35,7 @@ for (y in length(years):1) {
 }
 defbibcheck <- defbibcheck[-1]
 
-write(defbibcheck, file = "out/defbibcheck_by_year.tex")
+#write(defbibcheck, file = "out/defbibcheck_by_year.tex")
 
 
 # for each year...
@@ -54,7 +54,7 @@ for (y in length(years):1) {
 bibsections <- bibsections[-1]
 
 # save the file
-write(bibsections, file = "out/bibsections_by_year.tex")
+#write(bibsections, file = "out/bibsections_by_year.tex")
 
 
 
@@ -120,7 +120,7 @@ texkey_false <- which(!grepl(texkey_regex, bib$tex_key))
 # View(bib[,c("Author", "Publication.Year", "Title", "tex_key")])
 
 # save them to check out / match in regex editor?
-writeLines(bib[texkey_false,"tex_key"], con = "wrong_tex.txt")
+# writeLines(bib[texkey_false,"tex_key"], con = "wrong_tex.txt")
 
 
 
@@ -181,7 +181,7 @@ bibstructure <- bibstructure[-1]
 # I don't care for now. 
 
 # save that so latex can have it
-writeLines(bibstructure, 
-           "out/bibstructure_by_author.tex", 
-           useBytes = TRUE)
+#writeLines(bibstructure, 
+#           "out/bibstructure_by_author.tex", 
+#           useBytes = TRUE)
 
