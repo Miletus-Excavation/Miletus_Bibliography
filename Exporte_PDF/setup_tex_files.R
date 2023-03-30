@@ -65,27 +65,30 @@ authors <- bib$Author
 
 authors <- lapply(authors, function(x) strsplit(x, "; "))
 
+# save authors as list/vector for later use
 bib$Author.List <- authors
 
 authors <- data.frame("name" = unique(unlist(authors)))
 
-# selecting C as locale for sorting manually everywhere though it is the 
-# default to keep in mind that sorting depends and keep comparable 
-# also makes it easy to change if needed
-sort_locale <- "C"
+# selecting tr_TR as locale for sorting manually everywhere to keep 
+# comparable, works best with our author list as it equals to de/en with 
+# added turkish characters; also makes it easy to change if needed
+# default (C) behaves unpleasantly around turkish characters
+sort_locale <- "tr_TR"
 
 authors <- authors %>%
   # replace cyrillic and greek with their latin representaion for labels
   mutate(name.latin = stri_trans_general(name, "Any-Latin")) %>%
   # get the associated first letter for sorting and sections
   mutate(firstletter = toupper(substr(name.latin, 1, 1))) %>%
-  arrange(name.latin, .locale = sort_locale)
+  arrange(name.latin, .locale = sort_locale) %>% 
+  na.omit()
 
-# sort the unique vector of authors 
-letters <- sort(unique(authors$firstletter))
-stri_trans_list()
+# unique vector of letter, already sorted from df
+letters <- unique(authors$firstletter)
+letters
 # check it out
-View(authors)
+# View(authors)
 
 # the citation key is saved in "extra" with the prefix Citation Key: 
 # so we split the string along that
@@ -114,7 +117,7 @@ texkey_regex <- "^[a-z-]+_[[:alnum:]]+_(\\d{4}[a-z]{0,1}|o\\.J\\.)$"
 texkey_false <- which(!grepl(texkey_regex, bib$tex_key))
 
 # see if there are any wrong keys
-View(bib[texkey_false,c("Author", "Publication.Year", "Title", "tex_key")])
+# View(bib[texkey_false,c("Author", "Publication.Year", "Title", "tex_key")])
 # View(bib[,c("Author", "Publication.Year", "Title", "tex_key")])
 
 # save them to check out / match in regex editor?
@@ -147,8 +150,9 @@ for(letter in letters) {
     # year of publication, then title
     bib_select <- bib[index, ]
     
-    
-    bib_select <- bib_select %>% arrange(Publication.Year, Title)
+    # use same sorting locale here to be consistent
+    bib_select <- bib_select %>% 
+      arrange(Publication.Year, Title, .locale = sort_locale)
     # and get the keys with are now in that order
     singleauthkeys <- bib_select$tex_key
     # we also record the number of publications of this author
