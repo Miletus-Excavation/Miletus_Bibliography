@@ -31,9 +31,7 @@ jobs:
           git add .
           git status
           git commit -m "update tex files and figures"
-          git status
           git push origin main:update-out 
-          git status
 
       - name: Pull Request for Update
-        run: gh pr create -B main -H update-out --title 'Merge automated changes from update_out into main' --body 'Created by Github action'
+        run: gh pr create -B main -H update-out --title 'Merge automated changes from update_out into main' --body 'Created by Github action ${{ github.action }}'
