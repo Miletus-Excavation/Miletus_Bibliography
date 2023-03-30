@@ -25,6 +25,7 @@ jobs:
             tex/milet-bibliographie-summary.tex
           work_in_root_file_dir: true
           continue_on_error: true
+          args: --extra-mem-top=10000000
 
       - name: Upload files
         uses: actions/upload-artifact@v3
