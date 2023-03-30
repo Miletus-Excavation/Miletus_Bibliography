@@ -1,4 +1,4 @@
-packages <- c("dplyr", "stringi", "knitr")
+packages <- c("dplyr", "stringi", "knitr", "rmarkdown", "ggplot2")
 
 for (p in packages) {
   if (!suppressWarnings(require(p, character.only = TRUE))) {
