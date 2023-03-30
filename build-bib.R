@@ -3,9 +3,11 @@
 source("Exporte_PDF/setup_tex_files.R")
 source("Bibliographie.R")
 
-library(knitr)
-knitr::knit2html("test.Rmd")
+#library(knitr)
+#knitr::knit2html("test.Rmd")
 library(tinytex)
-tinytex::pdflatex("Exporte_PDF/milet-bibliographie-summary.tex")
 
-
+setwd("Exporte_PDF/")
+tinytex::latexmk("milet-bibliographie-by-tag-pdf.tex", 
+                 bib_engine = "biber", min_times = 3)
+setwd("..")
