@@ -35,4 +35,4 @@ jobs:
           git push origin main:update-out 
 
       - name: Pull Request for Update
-        run: gh pr create -B main -H update-out --title 'Merge automated changes from update_out into main [skip actions]' --body 'Created by Github action ${{ github.workflow	}} (${{ date }})'
+        run: gh pr create -B main -H update-out --title 'Merge automated changes from update_out into main [skip actions]' --body 'Created by Github action ${{ github.workflow	}}'
