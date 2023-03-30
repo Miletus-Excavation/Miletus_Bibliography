@@ -28,7 +28,7 @@ jobs:
       - name: Install Packages
         uses: r-lib/actions/setup-renv@v2
         with:
-          profile: '"bib"'
+          profile: '"renv"'
 
       - name: Make files
         run: Rscript -e 'source("build-bib.R")'
