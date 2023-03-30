@@ -18,6 +18,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
+          git fetch origin update-out
           git checkout update-out
           git merge main
       
