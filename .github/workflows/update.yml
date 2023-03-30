@@ -33,7 +33,7 @@ jobs:
           tlmgr --version
           tlmgr install koma-script footmisc babel csquotes
           tlmgr install cmap cm-super cmbright 
-          tlmgr install lh cyrillic texlive-scripts greek-fontenc textalpha 
+          tlmgr install lh cyrillic texlive-scripts greek-fontenc
           tlmgr install biber biblatex archaeologie 
 
       - name: Install Packages
