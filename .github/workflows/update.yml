@@ -11,6 +11,9 @@ jobs:
   Build:
     runs-on: ubuntu-latest
     steps:
+#      - name: Get libcurl 
+#        run: sudo apt-get install -y libcurl4-openssl-dev
+
       - name: Checkout
         uses: actions/checkout@v3
       
@@ -24,6 +27,14 @@ jobs:
 
       - name: Setup TinyTeX
         uses: r-lib/actions/setup-tinytex@v2
+        run: |
+          tlmgr --version
+          tlmgr install koma-script
+          tlmgr install footmisc
+          tlmgr install cmap
+          tlmgr install collection-langcyrillic
+          tlmgr install cyrillic
+          tlmgr install texlive-scripts
 
       - name: Install Packages
         uses: r-lib/actions/setup-renv@v2
