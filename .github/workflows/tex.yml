@@ -1,0 +1,30 @@
+name: Build Bibliography PDFs
+on:
+  push:
+    branches:
+      - workflow
+
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Github Action for LaTeX
+        uses: xu-cheng/latex-action@v2
+        with: 
+          root_file: Exporte_PDF/milet-bibliographie-summary.tex
+          work_in_root_file_dir: true
+          continue_on_error: true
+
+      - name: Upload files
+        uses: actions/upload-artifact@v3
+        with:
+          name: exports
+          path: Exporte_PDF/milet-bibliographie-summary.pdf
+
+          
