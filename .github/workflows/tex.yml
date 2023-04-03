@@ -31,10 +31,10 @@ jobs:
       - name: add pdf directory and move files
         run: |
           git config user.name github-actions
-          git config user.email <>
+          git config user.email github-actions@github.com
           git add *.pdf
           git status
-          git commit -m "update pdfs \[skip actions\]"
+          git commit -m "update pdfs [skip actions]"
           git push
 
       - name: Upload files
