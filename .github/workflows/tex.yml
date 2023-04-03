@@ -29,13 +29,12 @@ jobs:
             tex/milet-bibliographie-summary.tex
 
       - name: add pdf directory and move files
-        continue-on-error: true
         run: |
           git config user.name github-actions
           git config user.email <>
           git add *.pdf
           git status
-          git commit -m "update pdfs [skip actions]"
+          git commit -m "update pdfs \[skip actions\]"
           git push
 
       - name: Upload files
