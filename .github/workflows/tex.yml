@@ -1,6 +1,5 @@
 name: Build Bibliography PDFs
 on:
-  on:
   pull_request:
     types: [closed]
 
