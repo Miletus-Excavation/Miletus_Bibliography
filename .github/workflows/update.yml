@@ -25,7 +25,7 @@ jobs:
       - name: Make files and commit the changes to update_out
         run: |
           Rscript -e 'source("build-bib.R", local = FALSE, echo = TRUE, verbose = TRUE)'
-          date > generated.txt
+          date > out/auto_gen_date_bib.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
