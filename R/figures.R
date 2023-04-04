@@ -11,9 +11,9 @@ bib$Publication.Year <- as.numeric(bib$Publication.Year)
 bib$Date.Added <- as.Date(bib$Date.Added)
 bib$Date.Modified <- as.Date(bib$Date.Modified)
 
-bib %>%
-  ggplot(aes(x = Publication.Year, fill = Archive)) +
-  geom_bar()
+#bib %>%
+#  ggplot(aes(x = Publication.Year, fill = Archive)) +
+#  geom_bar()
 
 # bib[which(is.na(bib$Publication.Year)),]
 

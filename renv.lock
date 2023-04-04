@@ -401,16 +401,6 @@
       ],
       "Hash": "79540e5fcd9e0435af547d885f184fd5"
     },
-    "tinytex": {
-      "Package": "tinytex",
-      "Version": "0.44",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "xfun"
-      ],
-      "Hash": "c0f007e2eeed7722ce13d42b84a22e07"
-    },
     "utf8": {
       "Package": "utf8",
       "Version": "1.2.3",
@@ -457,17 +447,6 @@
         "stats"
       ],
       "Hash": "c0e49a9760983e81e55cdd9be92e7182"
-    },
-    "xfun": {
-      "Package": "xfun",
-      "Version": "0.37",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "stats",
-        "tools"
-      ],
-      "Hash": "a6860e1400a8fd1ddb6d9b4230cc34ab"
     }
   }
 }
