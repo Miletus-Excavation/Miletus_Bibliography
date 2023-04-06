@@ -1,6 +1,13 @@
 library(dplyr)
 library(stringi)
 
+message("Producing *.tex-files for exports.")
+
+if (exists("bib_csv")) {
+  bib <- bib_csv
+} else {
+  bib <- read.csv("data/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "")
+}
 
 remove_na_cols <- function(data) {
   na_cols <- apply(data, function(x) all(is.na(x)), MARGIN = 2)
@@ -8,8 +15,8 @@ remove_na_cols <- function(data) {
   return(data)
 }
 
-# get the bibliography from the csv file
-bib <- read.csv("data/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "") %>%
+
+bib <- bib %>%
   remove_na_cols() %>%
   type.convert(as.is = TRUE)
 
@@ -34,8 +41,12 @@ for (y in length(years):1) {
 }
 defbibcheck <- defbibcheck[-1]
 
-#write(defbibcheck, file = "out/defbibcheck_by_year.tex")
-
+# save defbibcheck
+filename <- "out/defbibcheck_by_year.tex"
+writeLines(defbibcheck, 
+           con = filename, 
+           useBytes = TRUE)
+message(paste0("Saved: ", filename))
 
 # for each year...
 bibsections <- "NA"
@@ -53,9 +64,11 @@ for (y in length(years):1) {
 bibsections <- bibsections[-1]
 
 # save the file
-#write(bibsections, file = "out/bibsections_by_year.tex")
-
-
+filename <- "out/bibsections_by_year.tex"
+writeLines(bibsections, 
+           con = filename, 
+           useBytes = TRUE)
+message(paste0("Saved: ", filename))
 
 # Exportieren von defbibcheck und sections nach Autoren
 # get all authors
@@ -106,22 +119,6 @@ key <- unlist(lapply(key, function(x) x[[1]]))
 
 # save the result as the tex_key
 bib$tex_key <- key
-
-## Check for wrong entries and possible errors
-which(table(bib$tex_key) > 1)
-
-# regex of how the keys should look according to my settings
-texkey_regex <- "^[a-z-]+_[[:alnum:]]+_(\\d{4}[a-z]{0,1}|o\\.J\\.)$"
-texkey_false <- which(!grepl(texkey_regex, bib$tex_key))
-
-# see if there are any wrong keys
-# View(bib[texkey_false,c("Author", "Publication.Year", "Title", "tex_key")])
-# View(bib[,c("Author", "Publication.Year", "Title", "tex_key")])
-
-# save them to check out / match in regex editor?
-# writeLines(bib[texkey_false,"tex_key"], con = "wrong_tex.txt")
-
-
 
 bibstructure <- "NA"
 # for each letter in out alphabet
@@ -183,4 +180,9 @@ bibstructure <- bibstructure[-1]
 #writeLines(bibstructure, 
 #           "out/bibstructure_by_author.tex", 
 #           useBytes = TRUE)
-
+filename <- "out/bibstructure_by_author.tex"
+writeLines(bibstructure, 
+           con = filename, 
+           useBytes = TRUE)
+message(paste0("Saved: ", filename))
+message("Done with *.tex-files.")

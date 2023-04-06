@@ -1,7 +1,13 @@
 library(ggplot2)
 library(dplyr)
 
-bib <- read.csv("data/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "")
+message("Making new figures for exports.")
+
+if (exists("bib_csv")) {
+  bib <- bib_csv
+} else {
+  bib <- read.csv("data/Milet_Bibliography_CSV.csv", encoding = "UTF-8", na.strings = "")
+}
 
 
 bib$Publication.Year <- as.numeric(bib$Publication.Year)
@@ -10,15 +16,7 @@ bib$Publication.Year <- as.numeric(bib$Publication.Year)
 bib$Date.Added <- as.Date(bib$Date.Added)
 bib$Date.Modified <- as.Date(bib$Date.Modified)
 
-#bib %>%
-#  ggplot(aes(x = Publication.Year, fill = Archive)) +
-#  geom_bar()
 
-# bib[which(is.na(bib$Publication.Year)),]
-
-
-
-# str(bib)
 
 p <- bib %>%
   ggplot(aes(x = Publication.Year, fill = Item.Type)) +
@@ -39,11 +37,11 @@ p <- bib %>%
        title = "Entries in the Miletus Bibliography Database")
 
 # p
-
-ggsave("out/figures/mil-pubs-by-year-type.png", p, 
+filename <- "out/figures/mil-pubs-by-year-type.png"
+ggsave(filename, p, 
        width = 1200, height = 500, units = "px", 
        dpi = 100, device = "png")
-
+message(paste0("Saved: ", filename))
 
 p <- bib %>%
   ggplot(aes(x = Publication.Year)) +
@@ -65,11 +63,11 @@ p <- bib %>%
        title = "Entries in the Miletus Bibliography Database")
 
 # p
-
-ggsave("out/figures/mil-pubs-by-year.png", p, 
+filename <- "out/figures/mil-pubs-by-year.png"
+ggsave(filename, p, 
        width = 1200, height = 500, units = "px", 
        dpi = 100, device = "png")
-
+message(paste0("Saved: ", filename))
 
 
 
@@ -90,7 +88,9 @@ sys_tags <- unique_tags[grepl("^\\d\\d", unique_tags)]
 
 bib_tags <- bib_tags %>%
   filter(values %in% sys_tags) %>%
-  mutate(group = gsub("[ -].*", "", values))
+  mutate(year = as.numeric(as.character(ind))) %>%
+  mutate(group = gsub("[ -].*", "", values)) %>%
+  select(-ind)
 
 # bib_tags
 
@@ -98,11 +98,9 @@ groups <- sys_tags[grepl("^\\d\\d ", sys_tags)]
 # groups
 names(groups) <- gsub("[ -].*", "", groups)
 
-bib_tags$ind <- as.numeric(as.character(bib_tags$ind))
-
 p <- bib_tags %>%
   filter(values %in% groups) %>%
-  ggplot(aes(y = values, group = ind, fill = ind)) +
+  ggplot(aes(y = values, group = year, fill = year)) +
   geom_bar(alpha = 0.8) +
   scale_y_discrete(limits = rev) +
   scale_fill_viridis_c(guide = guide_colourbar(barwidth = 20)) +
@@ -119,8 +117,11 @@ p <- bib_tags %>%
        fill = "Year of Publication")
 
 # p
-
-ggsave("out/figures/mil-pubs-by-keys.png", p, 
+filename <- "out/figures/mil-pubs-by-keys.png"
+ggsave(filename, p, 
        width = 1200, height = 750, units = "px", 
        dpi = 100, device = "png")
+message(paste0("Saved: ", filename))
 
+
+message("Done with figures.")

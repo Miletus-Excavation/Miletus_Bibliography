@@ -2,9 +2,11 @@ library(crul)
 library(jsonlite)
 library(dplyr)
 
+
 # API key is stored in .Renviron, edit with file.edit("~/.Renviron")
 # add row there: ZOTERO_API_KEY = "yourapikey"
 # get this from secret...
+# (we dont actually need it as long as we do not change things)
 headers <- list(`Zotero-API-Key` = Sys.getenv("ZOTERO_API_KEY"),
                 Accept = "application/json")
 
@@ -47,8 +49,9 @@ get_zotero_items <- function(zot_api, start_i, format_ch) {
   return(new_items)
 }
 
-# remove the objects for the loop if they exist
-rm(new_items, csv_items)
+
+message(paste0("Downloading the Bibliography as CSV from Zotero.\n",
+               "There are ", n_items, " items."))
 # generate the sequence from the number of items
 seq <- seq(from = 0, to = n_items, by = 100)
 # loop over the sequence, to get 100 items at a time (api-limit)
@@ -63,11 +66,16 @@ bib_csv <- lapply(seq, function(x) {
   return(new_items)
 })
 bib_csv <- do.call(bind_rows, bib_csv)
-colnames(bib_csv) <- gsub(".", " ", colnames(bib_csv), fixed = TRUE)
 
 # save the result as our export 
-write.csv(bib_csv, 
-          file = "data/Milet_Bibliography_CSV.csv", 
+filename <- "data/Milet_Bibliography_CSV.csv"
+message(paste0("Finished downloading.\n",
+               "Saving to: ", filename))
+save_csv <- bib_csv
+colnames(save_csv) <- gsub(".", " ", colnames(save_csv), fixed = TRUE)
+write.csv(save_csv, 
+          file = filename, 
           fileEncoding = "UTF-8", 
           na = "", 
           row.names = FALSE)
+rm(save_csv)
