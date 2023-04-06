@@ -1,4 +1,4 @@
-# Readme
+# README
 This repository contains the code to format the Miletus Bibliography from Zotero-Exports to the formats used on the [Miletus Excavation Website](https://www.miletgrabung.uni-hamburg.de/en/material/bibliographie.html) along with the LaTeX-files used to publish the Bibliography as pdf-files. 
 
 # The Miletus Bibliography
