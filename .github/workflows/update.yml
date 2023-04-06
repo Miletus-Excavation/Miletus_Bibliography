@@ -26,9 +26,10 @@ jobs:
         uses: r-lib/actions/setup-renv@v2
 
       - name: Delete previous out files because somehow it's not writing over them
+        continue-on-error: true
         run: |
-          rm data/Milet_Bibliography_CSV.csv
           find ./out/ -type f \( -name "*.csv" -o -name "*.tex" -o -name "*.png" \) -delete
+          rm data/Milet_Bibliography_CSV.csv
 
       - name: Make files 
         run: Rscript -e 'source("build-bib.R", echo = TRUE)'
