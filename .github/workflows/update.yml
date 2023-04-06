@@ -2,7 +2,7 @@ name: Update files
 on:
   push:
     branches:
-      - main
+      - workflow
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -22,17 +22,20 @@ jobs:
       - name: Install Packages
         uses: r-lib/actions/setup-renv@v2
 
-      - name: Make files and commit the changes to update_out
+      - name: Make files 
+        run: Rscript -e 'source("build-bib.R", echo = TRUE)'
+      
+      - name: Commit the changes to update_out
         run: |
-          Rscript -e 'source("build-bib.R", local = FALSE, echo = TRUE, verbose = TRUE)'
           date > out/auto_gen_date_bib.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git status
           git add .
           git status
-          git commit -m "update tex files and figures"
+          git commit -m "auto-update csv, tex files and figures"
           git push -d origin update-out
-          git push origin main:update-out 
+          git push origin workflow:update-out 
 
       - name: Pull Request for Update
-        run: gh pr create -B main -H update-out --title 'Merge automated changes from update_out into main [skip actions]' --body 'Created by Github action ${{ github.workflow	}}'
+        run: gh pr create -B workflow -H update-out --title 'Merge automated changes from update_out into main [skip actions]' --body 'Created by Github action ${{ github.workflow	}}'

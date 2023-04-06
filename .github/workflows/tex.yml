@@ -1,7 +1,8 @@
 name: Build Bibliography PDFs
 on:
-  pull_request:
-    types: [closed]
+  push:
+    branches:
+      - update-out
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -27,18 +28,19 @@ jobs:
             tex/milet-bibliographie-by-tag-pdf.tex
             tex/milet-bibliographie-summary.tex
 
-      - name: add pdf directory and move files
+      - name: Commit and push changes
         run: |
           date > out/auto_gen_date_pdf.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add out/pdf/*
+          git status
+          git add out/pdf/.
           git add out/auto_gen_date_pdf.txt
           git status
-          git commit -m "update pdfs [skip actions]"
+          git commit -m "auto-update pdfs [skip actions]"
           git push
 
-      - name: Upload files
+      - name: Upload logs
         uses: actions/upload-artifact@v3
         with:
           name: logs
