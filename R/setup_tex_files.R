@@ -205,10 +205,8 @@ for(i in 1:nrow(tags_sys)) {
   subset <- bib[bib$Key %in% subset_keys, ]
   
   nextline <- paste0("\\", tags_sys$sys[i], 
-                     "[", gsub("^.*: ", "", tags_sys$DE[i]), 
-                     " (", gsub("^.*: ", "", tags_sys$EN[i]), ")", "]",
-                     "{", tags_sys$DE[i], 
-                     " (", tags_sys$EN[i], ")", "}\n")
+                     "[", gsub("^.*: ", "", tags_sys$DE[i]), "]",
+                     "{", tags_sys$DE[i], "}\n")
   bibstructure <- c(bibstructure, nextline)
   
   add_to_this_level <- lapply(tagslist[subset_keys], function(x) {
