@@ -182,4 +182,87 @@ writeLines(bibstructure,
            con = filename, 
            useBytes = TRUE)
 message(paste0("Saved: ", filename))
+
+
+
+##### Setup by keyword
+tagslist <- bib %>%
+  select(Key, Manual.Tags) %>%
+  mutate(Manual.Tags = strsplit(Manual.Tags, "; "))
+
+tagslist <- as.list(tagslist)
+names(tagslist$Manual.Tags) <- tagslist$Key
+tagslist <- tagslist$Manual.Tags
+
+no_tags <- "NA"
+bibstructure <- "NA"
+# for each letter in out alphabet
+for(i in 1:nrow(tags_sys)) {
+  # get all the keys we need
+  subset_keys <- lapply(tagslist, function(x) { tags_sys$tag[i] %in% x })
+  subset_keys <- unlist(subset_keys, use.names = TRUE)
+  subset_keys <- names(subset_keys[subset_keys])
+  subset <- bib[bib$Key %in% subset_keys, ]
+  
+  nextline <- paste0("\\", tags_sys$sys[i], 
+                     "[", gsub("^.*: ", "", tags_sys$DE[i]), 
+                     " (", tags_sys$EN[i], ")", "]",
+                     "{", tags_sys$DE[i], 
+                     " (", tags_sys$EN[i], ")", "}\n")
+  bibstructure <- c(bibstructure, nextline)
+  
+  add_to_this_level <- lapply(tagslist[subset_keys], function(x) {
+    if (tags_sys$sys[i] == "section") {
+      regex <- paste0("^", tags_sys$Gruppe[i], "-\\d\\d ")
+      has_subsection_tag <- any(grepl(regex, unlist(x)))
+      check <- has_subsection_tag
+    } else if (tags_sys$sys[i] == "subsection") {
+      regex <- paste0("^", tags_sys$Gruppe[i], "-", 
+                      tags_sys$Untergruppe_1[i], "-\\d\\d ")
+      has_subsubsection_tag <- any(grepl(regex, unlist(x)))
+      check <- has_subsubsection_tag
+    } else {
+      check <- FALSE
+    }
+    if (!check) {
+      TRUE
+    } else {
+      FALSE
+    }
+  })
+  add_to_this_level <- unlist(add_to_this_level, use.names = TRUE)
+  if (any(add_to_this_level)) {
+    if (tags_sys$tag[i] == "01 Grabungs und Arbeitsberichte") {
+      to_cite <- subset %>%
+        filter(Key %in% names(add_to_this_level[add_to_this_level])) %>%
+        arrange(Publication.Year, Author, .locale = sort_locale) %>%
+        pull(tex_key)
+    } else {
+      to_cite <- subset %>%
+        filter(Key %in% names(add_to_this_level[add_to_this_level])) %>%
+        arrange(Author, Publication.Year, .locale = sort_locale) %>%
+        pull(tex_key)
+    }
+    to_cite <- paste("\\fullcite{", to_cite, "}", sep = "", collapse = "\n\n")
+    bibstructure <- c(bibstructure, to_cite)
+  } else {
+    msg <- paste0("Somehow some keys do not have tags? At tag: ", tags_sys$tag[i])
+    no_tags <- c(no_tags, names(add_to_this_level))
+    warning(msg)
+  }
+  bibstructure <- c(bibstructure, "\n\n")
+  # View(bib %>% filter(tex_key %in% to_cite) %>% select(tex_key, Manual.Tags)) 
+}
+# remove the NA
+bibstructure <- bibstructure[-1]
+
+filename <- "out/bibstructure_by_keyword.tex"
+writeLines(bibstructure, 
+           con = filename, 
+           useBytes = TRUE)
+message(paste0("Saved: ", filename))
+
+
+
 message("Done with *.tex-files.")
+
