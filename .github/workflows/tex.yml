@@ -1,7 +1,7 @@
 name: Build Bibliography PDFs
 on:
   workflow_run:
-    workflows: [Update files]
+    workflows: [Run Python Scripts]
     types: [completed]
 
 env:
@@ -10,6 +10,7 @@ env:
 jobs:
   Build:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -17,7 +18,6 @@ jobs:
           ref: update-out
       
       - name: Github Action for LaTeX
-        continue-on-error: true
         uses: xu-cheng/latex-action@v2
         with: 
           compiler: latexmk
@@ -35,9 +35,6 @@ jobs:
           date > out/auto_gen_date_pdf.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git fetch
-          git status
-          git pull
           git add out/pdf/.
           git add out/auto_gen_date_pdf.txt
           git status
