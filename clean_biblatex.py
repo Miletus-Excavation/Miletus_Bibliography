@@ -11,7 +11,7 @@ with open('data/Milet_Bibliography_BibLaTeX.bib', encoding="utf8") as bibtex_fil
     bib_database = bibtexparser.load(bibtex_file, parser=parser)
 
 
-print(bib_database.entries)
+# print(bib_database.entries)
 
 writer = BibTexWriter()
 writer.order_entries_by = None #('author', 'year')
