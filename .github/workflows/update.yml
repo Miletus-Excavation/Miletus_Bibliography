@@ -1,6 +1,8 @@
 name: Update files
 on:
-  workflow_dispatch
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * 1'
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -37,7 +39,7 @@ jobs:
           git status
           git commit -m "auto-update csv, tex files and figures"
           git push -d origin update-out
-          git push origin workflow:update-out 
+          git push origin main:update-out 
 
       - name: Pull Request for Update
-        run: gh pr create -B workflow -H update-out --title 'Merge automated changes from update_out into main' --body 'Created by Github action ${{ github.workflow	}}'
+        run: gh pr create -B main -H update-out --title 'Merge automated changes from update_out into main' --body 'Created by Github action ${{ github.workflow	}}'
