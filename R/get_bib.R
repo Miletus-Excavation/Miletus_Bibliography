@@ -21,8 +21,8 @@ get_zotero_items <- function(zot_api, start_i, format_ch) {
   message(paste("Getting items", start_i, "to", start_i+99))
   
   query <- list(limit = 100, 
-                start = 1,#start_i,
-                format = "csv")#format_ch)
+                start = start_i,
+                format = format_ch)
   # request 100 items in csv-format from the api starting 
   # with the corresponding number in our sequence
   new_items <- zot_api$get(query = query)
@@ -62,7 +62,7 @@ bib_csv <- lapply(seq, function(x) {
                           header = TRUE)
   return(new_items)
 })
-bib_csv <- do.call(bind_rows, csv_items)
+bib_csv <- do.call(bind_rows, bib_csv)
 colnames(bib_csv) <- gsub(".", " ", colnames(bib_csv), fixed = TRUE)
 
 # save the result as our export 

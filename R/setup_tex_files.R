@@ -1,6 +1,5 @@
 library(dplyr)
 library(stringi)
-#library(utf8)
 
 
 remove_na_cols <- function(data) {
