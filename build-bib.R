@@ -1,9 +1,12 @@
 
 
+
+source("R/get_bib.R", 
+       local = FALSE, echo = TRUE)
 source("R/figures.R", 
-       local = FALSE, echo = TRUE, verbose = TRUE)
+       local = FALSE, echo = TRUE)
 source("R/setup_tex_files.R", 
-       local = FALSE, echo = TRUE, verbose = TRUE)
+       local = FALSE, echo = TRUE)
 
 
 
