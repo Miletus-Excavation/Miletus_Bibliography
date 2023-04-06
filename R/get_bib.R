@@ -2,6 +2,7 @@ library(crul)
 library(jsonlite)
 library(dplyr)
 
+## Setup
 
 # API key is stored in .Renviron, edit with file.edit("~/.Renviron")
 # add row there: ZOTERO_API_KEY = "yourapikey"
@@ -50,6 +51,10 @@ get_zotero_items <- function(zot_api, start_i, format_ch) {
 }
 
 
+
+
+## Download CSV files here
+
 message(paste0("Downloading the Bibliography as CSV from Zotero.\n",
                "There are ", n_items, " items."))
 # generate the sequence from the number of items
@@ -79,3 +84,72 @@ write.csv(save_csv,
           na = "", 
           row.names = FALSE)
 rm(save_csv)
+
+####
+# prep function so substitute some characters that will never work
+gsub_nonworking_chars <- function(texstring, type = "biblatex") {
+  if (type == "bibtex") {
+    texstring <- stri_trans_general(texstring, "Any-Latin")
+    #texstring <- stri_trans_general(texstring, "Latin-ASCII")
+    #texstring <- iconv(texstring, from = "ASCII", to = "UTF-8")
+  }
+  texstring <- gsub("ḗ", "{=e}", texstring)
+  texstring <- gsub("\\%", "{\\%}", texstring, fixed = TRUE)
+  texstring <- gsub("\u200B", "", texstring, fixed = TRUE)
+  texstring <- gsub("\u2013", "--", texstring, fixed = TRUE)
+  return(texstring)
+}
+
+## Download BibLaTeX files here
+
+#####
+message(paste0("Downloading the Bibliography as BibLaTeX from Zotero.\n",
+               "There are ", n_items, " items."))
+# generate the sequence from the number of items
+seq <- seq(from = 0, to = n_items, by = 100)
+# loop over the sequence, to get 100 items at a time (api-limit)
+bib_biblatex <- lapply(seq, function(x) {
+  new_items <- get_zotero_items(zot_api, start_i = x, format_ch = "biblatex")
+  return(new_items)
+})
+bib_biblatex <- do.call(paste, bib_biblatex)
+# bib_biblatex_tmp <- bib_biblatex
+# bib_biblatex <- bib_biblatex_tmp
+#bib_biblatex <- iconv(bib_biblatex, from = "UTF-8", to = "UTF-8")
+
+bib_biblatex <- gsub_nonworking_chars(bib_biblatex, type = "biblatex")
+
+#RefManageR::
+# save the result as our export 
+filename <- "data/Milet_Bibliography_BibLaTeX.bib"
+message(paste0("Finished downloading.\n",
+               "Saving to: ", filename))
+cat(bib_biblatex, file = filename)
+
+
+rm(bib_biblatex)
+
+## Download BibTeX files here
+
+#####
+message(paste0("Downloading the Bibliography as BibTeX from Zotero.\n",
+               "There are ", n_items, " items."))
+# generate the sequence from the number of items
+seq <- seq(from = 0, to = n_items, by = 100)
+# loop over the sequence, to get 100 items at a time (api-limit)
+bib_bibtex <- lapply(seq, function(x) {
+  new_items <- get_zotero_items(zot_api, start_i = x, format_ch = "bibtex")
+  return(new_items)
+})
+bib_bibtex <- do.call(paste, bib_bibtex)
+# bib_bibtex_tmp <- bib_bibtex
+# bib_bibtex <- bib_bibtex_tmp
+
+bib_bibtex <- gsub_nonworking_chars(bib_bibtex, type = "bibtex")
+
+# save the result as our export 
+filename <- "data/Milet_Bibliography_BibTeX.bib"
+message(paste0("Finished downloading.\n",
+               "Saving to: ", filename))
+cat(bib_bibtex, file = filename)
+rm(bib_bibtex)
