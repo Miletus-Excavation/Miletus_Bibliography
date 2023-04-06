@@ -32,7 +32,7 @@ jobs:
           git fetch
           git status
           git pull
-          git add out\milet-bibliography-html-tablerows.txt
+          git add out/milet-bibliography-html-tablerows.txt
           git status
           git commit -m "auto-update html table"
           git push
