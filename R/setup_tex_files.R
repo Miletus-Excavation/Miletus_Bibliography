@@ -206,7 +206,7 @@ for(i in 1:nrow(tags_sys)) {
   
   nextline <- paste0("\\", tags_sys$sys[i], 
                      "[", gsub("^.*: ", "", tags_sys$DE[i]), 
-                     " (", tags_sys$EN[i], ")", "]",
+                     " (", gsub("^.*: ", "", tags_sys$EN[i]), ")", "]",
                      "{", tags_sys$DE[i], 
                      " (", tags_sys$EN[i], ")", "}\n")
   bibstructure <- c(bibstructure, nextline)
