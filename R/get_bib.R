@@ -149,3 +149,28 @@ message(paste0("Finished downloading.\n",
                "Saving to: ", filename))
 cat(bib_bibtex, file = filename)
 rm(bib_bibtex)
+
+
+
+
+
+
+## Download RIS files here
+
+message(paste0("Downloading the Bibliography as RIS from Zotero.\n",
+               "There are ", n_items, " items."))
+# generate the sequence from the number of items
+seq <- seq(from = 0, to = n_items, by = 100)
+# loop over the sequence, to get 100 items at a time (api-limit)
+bib_ris <- lapply(seq, function(x) {
+  new_items <- get_zotero_items(zot_api, start_i = x, format_ch = "ris")
+  return(new_items)
+})
+bib_ris <- paste(bib_ris, sep = "\n")
+bib_ris <- gsub("\r\n", "\r", test)
+# save the result as our export 
+filename <- "data/Milet_Bibliography_RIS.ris"
+message(paste0("Finished downloading.\n",
+               "Saving to: ", filename))
+cat(bib_ris, file = filename)
+
