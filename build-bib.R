@@ -1,3 +1,12 @@
+library(dplyr)
+library(crul)
+library(jsonlite)
+library(ggplot2)
+library(stringi)
+
+source("data/tags/get_tags.R", 
+       local = FALSE)
+
 
 source("R/get_bib.R", 
        local = FALSE)

@@ -1,6 +1,3 @@
-library(dplyr)
-library(stringi)
-
 message("Producing *.tex-files for exports.")
 
 if (exists("bib_csv")) {

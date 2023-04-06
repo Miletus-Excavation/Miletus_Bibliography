@@ -1,0 +1,92 @@
+Gruppe;Untergruppe_1;Untergruppe_2;DE;EN;TR
+01;;;Grabungs- und Arbeitsberichte;Reports;Kazı ve çalışma raporları
+;;;;;
+02;;;Allgemeine Darstellungen / Topographie;General Overviews / Topography;Genel gösterimler / Topoğrafya
+02;01;;Topographie: Prähistorisch;Topography: Prehistoric;Topografya: Tarih öncesi
+02;02;;Topographie: Bronzezeit;Topography: Bronze Age;Topoğrafya: Tunç Çağı
+02;03;;Topographie: geometrische Zeit;Topography: geometric period;Topoğrafya: Geometrik dönem
+02;04;;Topographie: archaische Zeit;Topography: archaic period;Topoğrafya: Arkaik dönem
+02;05;;Topographie: klassische Zeit;Topography: classical period;Topoğrafya: Klasik Dönem
+02;06;;Topographie: hellenistische Zeit;Topography: Hellenistic period;Topoğrafya: Helenistik Dönem
+02;07;;Topographie: Kaiserzeit;Topography: imperial period;Topoğrafya: İmparatorluk Dönemi
+02;08;;Topographie: Spät- und Nachantike;Topography: late and postantique periods;Topoğrafya: Geç Antik Dönem ve Antik Dönem Sonrası
+02;09;;Topographie: Mittelalter / Balat;Topography: Medieval / Balat;Topoğrafya: Orta Çağ / Balat
+;;;;;
+03;;;Funde aus Milet; Finds from Miletus;Milet'ten Buluntular
+03;01;;Funde: Gattungsübergreifend;Finds: Multiple Categories;Buluntular: Türler arası
+03;02;;Funde: Varia;Finds: Varia;Buluntular: Varia
+03;03;;Funde: Bauteile, Bauornamentik;Finds: Architectural Objects;Buluntular: Yapı bileşenleri, yapı süslemeleri
+03;04;;Funde: Skulptur;Finds: Sculpture;Buluntular: Heykel
+03;05;;Funde: Keramik;Finds: Pottery;Buluntular: Seramikler
+03;05;01;Keramik: Prähistorisch;Pottery: Prehistoric;Seramik: Tarih Öncesi
+03;05;02;Keramik: Bronzezeit;Pottery: Bronze Age;Seramik: Tunç Çağı
+03;05;03;Keramik: geometrische Zeit;Pottery: geometric period;Seramik: Geometrik dönem
+03;05;04;Keramik: archaische Zeit;Pottery: archaic period;Seramik: Arkaik dönem
+03;05;05;Keramik: klassische Zeit;Pottery: classical period;Seramik: Klasik dönem
+03;05;06;Keramik: hellenistische Zeit;Pottery: Hellenistic period;Seramik: Hellenistik dönem
+03;05;07;Keramik: Kaiserzeit;Pottery: Imperial period;Seramik: İmparatorluk Dönemi
+03;05;08;Keramik: Spät- und Nachantike;Pottery: late and postantique periods;Seramik: Geç Antik Dönem ve Antik Dönem Sonrası
+03;05;09;Keramik: Mittelalter;Pottery: Medieval;Seramik: Orta Çağ
+03;06;;Funde: Terrakotta;Finds: Terracotta;Buluntular: Pişmiş Toprak (Figürinler)
+03;07;;Funde: Metalle;Finds: Metals;Buluntular: Metaller
+03;08;;Funde: Inschriften;Finds: Inscriptions;Buluntular: Yazıtlar
+03;09;;Funde: Münzen;Finds: Coins;Buluntular: Sikkeler
+;;;;;
+04;;;Archäometrie;Archaeometry;Arkeometri
+;;;;;
+05;;;Archäozoologie, Archäobotanik, Anthropologie;Archaeozoology, Archaeobotany, Anthropology;Arkeozooloji, arkeobotanik, antropoloji
+;;;;;
+06;;;Importe aus Milet andernorts;Imports from Miletus elsewhere;Milet'ten ithalat: başka yerlerde bulunan Milet mamulu
+06;01;;Numismatik (Milesische Münzen);Numismatics (Milesian coins);Nümismatik (Milet‘in sikkeleri)
+06;02;;Importe aus Milet: Keramik;Imports from Miletus: pottery;Milet'ten ithalat: Seramikler
+06;03;;Importe aus Milet: Varia;Imports from Miletus: Varia;Milet'ten ithalat: Varia
+;;;;;
+07;;;Architektur;Architecture;Mimari
+07;01;;Architektur: Varia;Architecture: Varia;Mimari: Varia
+07;02;;Architektur: Stadtmauern und Wehranlagen;Architecture: Fortifications;Mimari: Şehir surları ve tahkimatlar
+07;03;;Architektur: Theater;Architecture: Theatre;Mimari: Tiyatro
+07;04;;Architektur: Delphinion;Architecture: Delphinion;Mimari: Delphinion
+07;05;;Architektur: Platzanlagen und angrenzende Bauten;Architecture: squares and adjacent buildings;Mimari: Meydanlar ve mücavir binalar
+07;06;;Architektur: Bouleuterion;Architecture: Bouleuterion;Mimari: Bouleuterion
+07;07;;Architektur: Gymnasia und Thermenanlagen;Architecture: Gymnasia and Baths;Mimari: Gymnasia ve hamamlar
+07;08;;Architektur: Häfen und maritime Infrastruktur;Architecture: Ports and maritime infrastructure;Mimari: Limanlar ve denizcilik altyapısı
+07;09;;Architektur: Wohngebäude;Architecture: residential buildings;Mimari: Konut binaları
+07;10;;Architektur: Wasserversorgung;Architecture: Water supply;Mimari: Su altyapı
+07;11;;Architektur: Kirchen, Synagogen, Moscheen;Architecture: churches, synagogues, mosques;Mimari: Kiliseler, Sinagoglar, Camiler
+07;12;;Architektur: Werkstätten;Architecture: workshops;Mimari: Atölyeler
+;;;;;
+08;;;Kulte und Kulteinrichtungen;Cults and cult institutions;Kültler ve kült kurumları
+08;01;;Kulte: Varia;Kulte: Varia;Kültler: Varia
+08;02;;Kulte: Apollon Delphinios;Kulte: Apollon Delphinios;Kültler: Apollo Delphinios
+08;03;;Kulte: Heilige Straße (Milet<>Didyma);Kulte: Sacred Road (Milet<>Didyma);Kültler: Kutsal Yol (Milet<>Didyma)
+08;04;;Kulte: Athena;Kulte: Athena;Kültler: Athena
+08;05;;Kulte: Dionysos;Kulte: Dionysos;Kültler: Dionysos
+08;06;;Kulte: Aphrodite von Oikous;Kulte: Aphrodite of Oikous;Kültler: Oikous Afroditi
+08;07;;Kulte: Artemis Kithone;Kulte: Artemis Kithone;Kültler: Artemis Kithone
+08;08;;Kulte: Demeter;Kulte: Demeter;Kültler: Demeter
+08;09;;Kulte: Heroa;Kulte: Heroa;Kültler: Heroa
+08;10;;Kulte: Kaiserkult;Kulte: imperial / emperor cult;Kültler: İmparator Kültü
+08;11;;Kulte: Athena Assesia;Kulte: Athena Assesia;Kültler: Athena Assesia
+;;;;;
+09;;;Gräber und Bestattungen;Graves and burials;Mezarlar ve gömmeler
+;;;;;
+10;;;politische Geschichte;political history;Siyasi Tarih
+10;01;;Geschichte: Bronzezeit;History: Bronze Age;Tarih: Tunç Çağı
+10;02;;Geschichte: archaische Zeit;History: archaic period;Tarih: Arkaik dönem
+10;03;;Geschichte: klassische Zeit;History: classical period;Tarih: Klasik dönem
+10;04;;Geschichte: hellenistische Zeit;History: Hellenistic period;Tarih: Helenistik dönem
+10;05;;Geschichte: Kaiserzeit;History: Imperial period;Tarih: İmparatorluk dönemi
+10;06;;Geschichte: Spät- und Nachantike;History: late and postantique periods;Tarih: Geç Antik Dönem ve Antik Dönem Sonrası
+10;07;;Geschichte: Mittelalter / Balat;History: Medieval / Balat;Tarih: Orta Çağ / Balat
+;;;;;
+11;;;Geographie und Geophysik;Geography and Geophysics;Coğrafya ve Jeofizik
+;;;;;
+12;;;Lexikonbeiträge;Encyclopediae;Ansiklopedi maddeleri
+;;;;;
+13;;;Umlandforschung;Reginal / Surroundings;Çevresel araştırmalar
+;;;;;
+14;;;Forschungsgeschichte;Research history;Araştırma tarihçesi
+;;;;;
+15;;;Ruinen- und Geländepflege, Restaurierung;Site maintenance and restoration;Alan bakımı, restorasyon
+;;;;;
+16;;;Methodik, Vermessungsarbeiten;Methodology, surveying works;Yöntembilim, ölçüm çalışmaları

@@ -1,7 +1,3 @@
-library(crul)
-library(jsonlite)
-library(dplyr)
-
 ## Setup
 
 # API key is stored in .Renviron, edit with file.edit("~/.Renviron")

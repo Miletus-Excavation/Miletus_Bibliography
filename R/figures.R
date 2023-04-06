@@ -1,6 +1,3 @@
-library(ggplot2)
-library(dplyr)
-
 message("Making new figures for exports.")
 
 if (exists("bib_csv")) {
