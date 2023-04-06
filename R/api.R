@@ -16,46 +16,57 @@ zot_api <- crul::HttpClient$new(url = "https://api.zotero.org/groups/4475959/ite
 n_items <- zot_api$get()$response_headers$`total-results` %>%
   as.numeric()
 
-# remove the objects for the loop if they exist
-rm(new_items, csv_items)
-seq <- seq(from = 0, to = n_items, by = 100)
-
-# loop over the sequence, to get 100 items at a time (api-limit)
-for (i in seq) {
+get_zotero_items <- function(zot_api, start_i, format_ch) {
   # tracking, because this takes long
-  print(i)
+  message(paste("Getting items", start_i, "to", start_i+99))
   
+  query <- list(limit = 100, 
+                start = 1,#start_i,
+                format = "csv")#format_ch)
   # request 100 items in csv-format from the api starting 
   # with the corresponding number in our sequence
-  new_items <- zot_api$get(query = list(limit = 100, 
-                                        start = i,
-                                        format = "csv"))
+  new_items <- zot_api$get(query = query)
+  if (new_items$status_code != 200) {
+    if (new_items$status_code == 403) {
+      stop("Authentication failed. Stopping.")
+    } else if (new_items$status_code == 503) {
+      stop("Server under maintenance. Stopping.")
+    }
+    retry_message <- function(x, secs) {
+      msg <- paste0("Status code: ", x$status_code, 
+                    ". Retrying after ", round(secs), " seconds.")
+      message(msg)
+    }
+    new_items <- zot_api$retry("get", 
+                               query = query, 
+                               onwait = retry_message)
+  }
   # parse them to proper text
   new_items <- new_items$parse("UTF-8") 
   
+  return(new_items)
+}
+
+# remove the objects for the loop if they exist
+rm(new_items, csv_items)
+# generate the sequence from the number of items
+seq <- seq(from = 0, to = n_items, by = 100)
+# loop over the sequence, to get 100 items at a time (api-limit)
+bib_csv <- lapply(seq, function(x) {
+  new_items <- get_zotero_items(zot_api, start_i = x, format_ch = "csv")
   # read the text as a table, all columns need to be character or
   # bind_rows() will complain sooner or later
   new_items <- read.table(text = new_items, 
                           sep = ",", na.strings = "",
                           colClasses = "character",
                           header = TRUE)
-  
-  # if the object we will bind everything into already exists, we
-  # use bind_rows() to add out next 100 items; if not, we create the 
-  # object from (in that case) our first 100 items
-  if (exists("csv_items")) {
-    csv_items <- bind_rows(csv_items, new_items)
-  } else {
-    csv_items <- new_items
-  }
-  
-  # wait a bit to mitigate overload / too many requests
-  Sys.sleep(2)
-}
+  return(new_items)
+})
+bib_csv <- do.call(bind_rows, csv_items)
+colnames(bib_csv) <- gsub(".", " ", colnames(bib_csv), fixed = TRUE)
 
-colnames(csv_items) <- gsub(".", " ", colnames(csv_items), fixed = TRUE)
 # save the result as our export 
-write.csv(csv_items, 
+write.csv(bib_csv, 
           file = "data/Milet_Bibliography_CSV.csv", 
           fileEncoding = "UTF-8", 
           na = "", 
