@@ -167,7 +167,7 @@ bib_ris <- lapply(seq, function(x) {
   return(new_items)
 })
 bib_ris <- paste(bib_ris, sep = "\n")
-bib_ris <- gsub("\r\n", "\r", test)
+bib_ris <- gsub("\r\n", "\r", bib_ris)
 # save the result as our export 
 filename <- "data/Milet_Bibliography_RIS.ris"
 message(paste0("Finished downloading.\n",

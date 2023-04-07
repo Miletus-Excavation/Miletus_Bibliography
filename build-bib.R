@@ -14,6 +14,6 @@ source("R/figures.R",
        local = FALSE)
 source("R/setup_tex_files.R", 
        local = FALSE)
-# cheks should run after setup_tex_files!
+# checks should run after setup_tex_files!
 source("R/checks.R", 
        local = FALSE)

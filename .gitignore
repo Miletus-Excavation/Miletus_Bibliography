@@ -53,3 +53,5 @@ api_notes.R
 tex/*.pdf
 README.html
 .github/workflows/tinytex.yml
+Dockerfile
+.dockerignore
