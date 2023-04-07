@@ -17,6 +17,7 @@
 *.cb
 *.cb2
 .*.lb
+*.xdv
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl

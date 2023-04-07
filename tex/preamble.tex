@@ -1,17 +1,11 @@
-\usepackage{cmap}
-
-\input glyphtounicode
-\pdfgentounicode=1
+\usepackage[resetfonts]{cmap}
 
 \usepackage{scrlayer-scrpage}
-
 \lehead{Milet-Bibliographie}
 \rohead{Stand: \today}
-%\ohead{}
 
 \usepackage{graphicx}
-\usepackage[utf8]{inputenc}
-\usepackage[T1,T2A]{fontenc}
+\usepackage{fontspec}
 \usepackage[ngerman, shorthands=off]{babel}
 \usepackage{xcolor}
 \usepackage[style=german]{csquotes} 
@@ -21,26 +15,15 @@
 \definecolor{uhhred}{HTML}{E2001A}
 \definecolor{uhhgrey}{HTML}{3b515b}
 
-
 \usepackage[colorlinks = true, linkcolor = black, urlcolor  = uhhgrey]{hyperref}
 
+%\setmainfont{CMU Sans}
+\usepackage[default, scale=0.95]{sourcesanspro}
 
-
-\usepackage{cmbright}
-
-
-
-
-%\DeclareUnicodeCharacter{0307}{o}
-%\DeclareUnicodeCharacter{00A0}{~}
-
-\usepackage[backend=biber, style=archaeologie, lstabbrv, sorting=nyt]{biblatex}
+\usepackage[backend=biber, style=archaeologie, lstabbrv, sorting=nyt, maxcitenames=99, maxbibnames=99, maxnames=99]{biblatex}
 \addbibresource{../data/Milet_Bibliography_BibLaTeX.bib}
 
-
-
-\renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}
-
+%\renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}
 
 \defbibenvironment{compactbib}
   {\list
@@ -52,11 +35,6 @@
   {\endlist}
   {\item}
 
-
 \renewcommand{\thesection}{\arabic{section}}
 
 \newcommand{\redhref}[2]{\href{#1}{\color{uhhred}{#2}}}
-
-%\DeclareUnicodeCharacter{02B9}{WOISTDASMINIMALBEISPIEL}
-%\DeclareUnicodeCharacter{FE20}{WOISTDASMINIMALBEISPIEL}
-%\DeclareUnicodeCharacter{FE21}{WOISTDASMINIMALBEISPIEL}
