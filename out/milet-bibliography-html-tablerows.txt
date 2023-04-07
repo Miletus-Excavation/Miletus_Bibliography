@@ -510,7 +510,7 @@ Wiedergut, Karin, Vier Brüder, ein Grab: Rekonstruktion und Interpretation von 
 <td>
 Toma, Natalia, Milet, Türkei. Marmorprovenienz und bauwirtschaftliche Paradoxe (nach Vorarbeiten 2018 und 2019), e-Forschungsberichte des Deutschen Archäologischen Instituts 2020, 2020, 117-123 <br> <a href="https://doi.org/10.34780/EFB.V0I1.1018">Online verfügbar (DOI)</a></td>
 </td>
-<td>01 Grabungs und Arbeitsberichte; 03 Funde aus Milet; 03-03 Funde: Bauteile, Bauornamentik; 07 Architektur; 07-01 Architektur: Varia; 07-03 Architektur: Theater; 07-04 Architektur: Delphinion; 07-07 Architektur: Gymnasia und Thermenanlagen; Marmor</td>
+<td>01 Grabungs und Arbeitsberichte; 03 Funde aus Milet; 03-03 Funde: Bauteile, Bauornamentik; 04 Archäometrie; 07 Architektur; 07-01 Architektur: Varia; 07-03 Architektur: Theater; 07-04 Architektur: Delphinion; 07-07 Architektur: Gymnasia und Thermenanlagen; Marmor</td>
 <td>The field activity at Miletus focused on the identification and photographic documentation of the architectural decoration of Late Roman Imperial buildings (Serapeion, Heroon III, Stadion-East Gate, Theatre, Delphinion, and Faustina-Baths) and on investigating the provenance of its building material. Marble samples were subject of analysis including measurements of stable isotopes (δ18O; δ13C) and petrographical (thin sections) and geochemical characterisation (ICP-MS). The results of the statistical analysis of the archaeometrical data reveal the massive use of marmor heracleoticum in Roman Imperial time and lead to a new definition of the isotopic fields of the Miletus quarries. With regard to the dynamics of the building economy a paradoxical situation can be determined, as certain building sites like the Roman theatre make extensive use of the most expensive white-grey marble in Roman marble trade (Heracleotic marble) along with the massive employment of the fairly propitiously spoliated architecture.</td>
 </tr>
 
@@ -775,7 +775,7 @@ Bernardin, Stevens, The Phoenician Seal from Miletus. An Epigraphic Note, Rivist
 Akçer-Ön, Sena; Greaves, Alan M.; Manning, Sturt W.; Ön, Zeki Bora; Çağatay, M. Namık; Sakınç, Mehmet; Oflaz, Aslı; Tunoğlu, Cemal; Salihoğlu, Rana, Redating the formation of Lake Bafa, western Turkey: Integrative geoarchaeological methods and new environmental and dating evidence, Geoarchaeology 35, 2020, 1-19 <br> <a href="https://doi.org/10.1002/gea.21791">Online verfügbar (DOI)</a></td>
 </td>
 <td>11 Geographie und Geophysik; Bafa Gölü; Geoarchäologie; Geologie; Mäander; Radiokarbondatierung</td>
-<td>The ancient Gulf of Latmos is an iconic example of a dynamic landscape and humankind's historical relationship with it. Using extensive new primary data and original models for calibrating radiocarbon dates in transitional lagoon environments, we demonstrate that Lake Bafa (or Bafa Gölü, in Turkish) formed at a much earlier date than previously thought. In questioning the logical process by which previous dates were achieved, we re‐examine the relationship between sedimentological data, archaeology and written history. We reassert the need to establish independently dated environmental data sets as the foundation of regional studies as distinct from archaeological and historical interpretive processes. We conclude that Lake Bafa slowly transitioned to become an isolated lagoon sometime between the end of the second millennium B.C. and end of the first millennium B.C.; becoming a fully closed brackish lake during the second millennium A.D. This marks a major shift in our understanding of the nature of human occupation and activity here during the last four millennia but also in the way we date ancient lagoons and integrate historical and environmental data in general.</td>
+<td>The ancient Gulf of Latmos is an iconic example of a dynamic landscape and humankind's historical relationship with it. Using extensive new primary data and original models for calibrating radiocarbon dates in transitional lagoon environments, we demonstrate that Lake Bafa (or Bafa Gölü, in Turkish) formed at a much earlier date than previously thought. In questioning the logical process by which previous dates were achieved, we reexamine the relationship between sedimentological data, archaeology and written history. We reassert the need to establish independently dated environmental data sets as the foundation of regional studies as distinct from archaeological and historical interpretive processes. We conclude that Lake Bafa slowly transitioned to become an isolated lagoon sometime between the end of the second millennium B.C. and end of the first millennium B.C.; becoming a fully closed brackish lake during the second millennium A.D. This marks a major shift in our understanding of the nature of human occupation and activity here during the last four millennia but also in the way we date ancient lagoons and integrate historical and environmental data in general.</td>
 </tr>
 
 <tr>
@@ -870,7 +870,7 @@ Niewöhner, Philipp, Byzantine Preservation of Ancient Monuments at Miletus in C
 <td>
 Kunisch, Norbert, Attic vases in Miletos, British Museum Studies in Ancient Egypt and Sudan 24, 2019, 303–311</td>
 </td>
-<td>03 Funde aus Milet; 03-05 Funde: Keramik; Archaisch; Attisch; Keramik; Keramik - Gefäßmalerei; Klassisch; Rotfigurig; Schwarzfigurig</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit; 03-05-05 Keramik: klassische Zeit; Archaisch; Attisch; Keramik; Keramik - Gefäßmalerei; Klassisch; Rotfigurig; Schwarzfigurig</td>
 <td></td>
 </tr>
 
@@ -1602,7 +1602,7 @@ Berns, Christof; Huy, Sabine; Giagtzoglu, Emmanuel, Lehrgrabung Milet: Forschung
 <td>
 Benli, Sıla Buse, Delphinion: Ritüel, Tasarım, Mimari (Ankara 2017)</td>
 </td>
-<td>07 Architektur; 07-04 Architektur: Delphinion; 08 Kulte und Kulteinrichtungen; Delphinion</td>
+<td>07 Architektur; 07-04 Architektur: Delphinion; 08 Kulte und Kulteinrichtungen; 08-02 Kulte: Apollon Delphinios; Delphinion</td>
 <td></td>
 </tr>
 
@@ -1710,7 +1710,7 @@ Raymond, Amy; Kaiser, Ivonne; Rizzotto, Laura-Concetta; Zurbach, Julien, Discern
 <td>
 Polat, Turgay, Milet İşi Seramiklerde Form Tipolojisi Üzerine Bir Deneme, Sanat Tarihi Dergisi 25, 2016, 213-247 <br> <a href="https://doi.org/10.29135/std.282171">Online verfügbar (DOI)</a></td>
 </td>
-<td>03 Funde aus Milet; 03-05 Funde: Keramik; Byzantinisch; Keramik; Keramikproduktion</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-09 Keramik: Mittelalter; Byzantinisch; Keramik; Keramikproduktion</td>
 <td>We can identify the “Miletware” ceramics’s features like clay, technical, colour, slip, glaze thanks to ceramics acquired from excavations and many researches have prepared about “Miletware” which products of period of Principalities and early Ottoman period. But there is no exploration which giving all together forms of “Miletware”. For this reason, we aim to make an evaluation about used forms of “Miletware” and make a typologic classificaiton in our search. For this, we focus on published researches and purpose to obtain all explorations which written about this subject. We take as reference searches which informing to us about forms of “Miletware”, and especially having drawings of these ceramics. The reason is that is difficulty of describing the forms of ceramics from researches which giving photos of specimens to us. In our exploration 14 different plates and bowls’s forms showed up and we studied these forms in vaired form names. In addition we informed decorations of these ceramics along with features of their forms.</td>
 </tr>
 
@@ -4566,7 +4566,7 @@ Niewöhner, Philipp; Brückner, Helmut; Müllenhoff, Marc, Sind die Mauern die S
 <td>
 Matthaiou, Angelos P., Inschriften von Milet VI 3, 1020. a Note, Zeitschrift für Papyrologie und Epigraphik 165, 2008, 84-86</td>
 </td>
-<td>03 Funde aus Milet</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
 <td></td>
 </tr>
 
@@ -5574,7 +5574,7 @@ Peschlow-Bindokat, Anneliese, Die karische Stadt Latmos (Berlin/New York 2005)</
 <td>
 Panteleon, Ioannis Andreas; von Graeve, Volkmar; Henke, Jan-Marc; Naso, Alessandro; Aydemir, Ahmet, Funde aus Milet, Archäologischer Anzeiger 2005/2, 2005, 27-101</td>
 </td>
-<td>03 Funde aus Milet</td>
+<td>03 Funde aus Milet; 03-01 Funde: Gattungsübergreifend</td>
 <td></td>
 </tr>
 
@@ -6090,7 +6090,7 @@ Galimberti, Mariagrazia; Bronk Ramsey, Christopher; Manning, Sturt W., Wiggle-Ma
 <td>
 Cramer, Thomas, Multivariate Herkunftsanalyse von Marmor auf petrographischer und geochemischer Basis. Das Beispiel kleinasiatischer archaischer, hellenistischer und römischer Marmorobjekte der Berliner Antikensammlung und ihre Zuordnung zumediterranen und anatolischen Marmorlagerstätten (Dissertation Technische Universität Berlin 2004) <br> <a href="https://doi.org/10.14279/depositonce-841">Online verfügbar (Link)</a></td>
 </td>
-<td>07 Architektur; Architektur; Herkunftsbestimmung; Marmor; Myus</td>
+<td>03 Funde aus Milet; 03-03 Funde: Bauteile, Bauornamentik; 04 Archäometrie; 07 Architektur; Architektur; Herkunftsbestimmung; Marmor; Myus</td>
 <td></td>
 </tr>
 
@@ -8567,6 +8567,18 @@ Adiego, Ignacio J., Milet 1994–1995. Fragment d’une inscription lydienne, Ar
 </tr>
 
 <tr>
+<td>Der Kuros von Tekirdağ</td>
+<td>von Graeve, Volkmar</td>
+<td>1996</td>
+<td>Istanbuler Mitteilungen</td>
+<td>
+von Graeve, Volkmar, Der Kuros von Tekirdağ, Istanbuler Mitteilungen 46, 1996, 103-109</td>
+</td>
+<td>03 Funde aus Milet; 03-04 Funde: Skulptur</td>
+<td></td>
+</tr>
+
+<tr>
 <td>1994/95 Yılı Milet Çalışmaları</td>
 <td>von Graeve, Volkmar</td>
 <td>1996</td>
@@ -8575,18 +8587,6 @@ Adiego, Ignacio J., Milet 1994–1995. Fragment d’une inscription lydienne, Ar
 von Graeve, Volkmar, 1994/95 Yılı Milet Çalışmaları, Kazı Sonuçları Toplantısı 18, 1996, 529-553 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/18_kazi_1.pdf">Online verfügbar (Link)</a></td>
 </td>
 <td>01 Grabungs und Arbeitsberichte</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Der Kuros von Tekirdağ</td>
-<td>von Graeve, Volkmar</td>
-<td>1996</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-von Graeve, Volkmar, Der Kuros von Tekirdağ, Istanbuler Mitteilungen 46, 1996, 103-109</td>
-</td>
-<td>03 Funde aus Milet</td>
 <td></td>
 </tr>
 
@@ -8862,7 +8862,7 @@ Wille, M., Milet 1992–1993. Pollenanalyse aus dem Löwenhafen von Milet. Vorl�
 <td>
 Weber, Berthold F., Ein spätarchaischer Tempel auf dem Mengerevtepe bei Milet, Archäologischer Anzeiger 1995, 1995, 228-238</td>
 </td>
-<td>01 Grabungs und Arbeitsberichte; 07 Architektur</td>
+<td>01 Grabungs und Arbeitsberichte; 07 Architektur; 07-01 Architektur: Varia; 08 Kulte und Kulteinrichtungen; 08-11 Kulte: Athena Assesia</td>
 <td></td>
 </tr>
 
@@ -9102,7 +9102,7 @@ Lohmann, Hans, Survey in der Chora von Milet. Vorbericht über die Kampagnen der
 <td>
 Kerschner, Michael, Milet 1992–1993. Die Ostterrasse des Kalabaktepe, Archäologischer Anzeiger 1995, 1995, 214-220</td>
 </td>
-<td>01 Grabungs und Arbeitsberichte; 02 Allgemeine Darstellungen / Topographie; 02-05 Topographie: klassische Zeit; 03 Funde aus Milet; 03-05 Funde: Keramik; 07 Architektur; 07-09 Architektur: Wohngebäude; 08 Kulte und Kulteinrichtungen; 08-07 Kulte: Artemis Kithone; 14 Forschungsgeschichte</td>
+<td>01 Grabungs und Arbeitsberichte; 02 Allgemeine Darstellungen / Topographie; 02-05 Topographie: klassische Zeit; 03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit; 03-05-05 Keramik: klassische Zeit; 07 Architektur; 07-09 Architektur: Wohngebäude; 08 Kulte und Kulteinrichtungen; 08-07 Kulte: Artemis Kithone; 14 Forschungsgeschichte</td>
 <td></td>
 </tr>
 
@@ -10998,7 +10998,7 @@ Müller-Wiener, Wolfgang, Von der Polis zum Kastron. Wandlungen der Stadt im Äg
 <td>
 Köster, Reinhard, Römische Bauornamentik in Milet, in: Müller-Wiener, Wolfgang, Milet 1899–1980. Ergebnisse, Probleme und Perspektiven einer Ausgrabung. Kolloquium, Frankfurt a.M. 1980 (Tübingen 1986), 157-164</td>
 </td>
-<td>03 Funde aus Milet; 03-03 Funde: Bauteile, Bauornamentik; 03-05 Funde: Keramik; Hellenistisch; Keramik</td>
+<td>03 Funde aus Milet; 03-03 Funde: Bauteile, Bauornamentik; Hellenistisch; Keramik</td>
 <td></td>
 </tr>
 
@@ -11082,7 +11082,7 @@ Hoepfner, Wolfram; Schwandner, Ernst-Ludwig, Haus und Stadt im klassischen Griec
 <td>
 Herrmann, Peter; McCabe, Donald, Die Weihinschrift der ersten römischen Bühne in Milet, in: Müller-Wiener, Wolfgang, Milet 1899–1980. Ergebnisse, Probleme und Perspektiven einer Ausgrabung. Kolloquium, Frankfurt a.M. 1980 (Tübingen 1986), 175-189</td>
 </td>
-<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-08 Funde: Inschriften; 07 Architektur; 07-03 Architektur: Theater; Archaisch; Keramik</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften; 07 Architektur; 07-03 Architektur: Theater; Archaisch; Keramik</td>
 <td></td>
 </tr>
 
@@ -11711,6 +11711,18 @@ Ehrhardt, Norbert, Milet und seine Kolonien. Vergleichende Untersuchung der kult
 </tr>
 
 <tr>
+<td>Funde aus der Insula westlich des Buleuterion in Milet</td>
+<td>Voigtländer, Walter</td>
+<td>1982</td>
+<td>Istanbuler Mitteilungen</td>
+<td>
+Voigtländer, Walter, Funde aus der Insula westlich des Buleuterion in Milet, Istanbuler Mitteilungen 32, 1982, 30-173</td>
+</td>
+<td>03 Funde aus Milet; 03-01 Funde: Gattungsübergreifend; 03-05 Funde: Keramik; 03-05-01 Keramik: Prähistorisch; 03-05-04 Keramik: archaische Zeit; 03-05-05 Keramik: klassische Zeit; 03-05-06 Keramik: hellenistische Zeit; 03-05-07 Keramik: Kaiserzeit; 03-05-09 Keramik: Mittelalter; Keramik; Westlich Bouleuterion</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Die Grabung westlich des Buleuterion</td>
 <td>Voigtländer, Walter</td>
 <td>1982</td>
@@ -11719,18 +11731,6 @@ Ehrhardt, Norbert, Milet und seine Kolonien. Vergleichende Untersuchung der kult
 Voigtländer, Walter, Die Grabung westlich des Buleuterion, Istanbuler Mitteilungen 32, 1982, 17-25</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 07 Architektur; 07-12 Architektur: Werkstätten; Westlich Bouleuterion</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Funde aus der Insula westlich des Buleuterion in Milet</td>
-<td>Voigtländer, Walter</td>
-<td>1982</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-Voigtländer, Walter, Funde aus der Insula westlich des Buleuterion in Milet, Istanbuler Mitteilungen 32, 1982, 30-173</td>
-</td>
-<td>03 Funde aus Milet; 03-01 Funde: Gattungsübergreifend; 03-05 Funde: Keramik; Keramik; Westlich Bouleuterion</td>
 <td></td>
 </tr>
 
@@ -12618,7 +12618,7 @@ Hommel, Peter, Fundzusammenhänge archaisch-milesischer Keramik des 6. Jhs. v. C
 <td>
 Henrichs, Albert, Greek Maenadism from Olympias to Messalina, Harvard Studies in Classical Philology 82, 1978, 121-160 <br> <a href="https://doi.org/10.2307/311024">Online verfügbar (DOI)</a></td>
 </td>
-<td>08 Kulte und Kulteinrichtungen; Alkmeonis; Dionysos; Frauen; Kultpraxis; Mänaden; Oreibasie</td>
+<td>08 Kulte und Kulteinrichtungen; 08-05 Kulte: Dionysos; Alkmeonis; Dionysos; Frauen; Kultpraxis; Mänaden; Oreibasie</td>
 <td></td>
 </tr>
 
@@ -12887,6 +12887,18 @@ The Princeton Encyclopedia of Classical Sites  (1976) 890-891 s.v. Teichioussa (
 </tr>
 
 <tr>
+<td>Milet. Vorläufiger Bericht über die Grabung im Südschnitt an der hellenistischen Stadtmauer 1966</td>
+<td>von Graeve, Volkmar</td>
+<td>1975</td>
+<td>Istanbuler Mitteilungen</td>
+<td>
+von Graeve, Volkmar, Milet. Vorläufiger Bericht über die Grabung im Südschnitt an der hellenistischen Stadtmauer 1966, Istanbuler Mitteilungen 25, 1975, 35-59</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit; 07 Architektur; 07-02 Architektur: Stadtmauern und Wehranlagen; 07-09 Architektur: Wohngebäude; Keramik; Streifenware</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Milet 1964</td>
 <td>von Graeve, Volkmar</td>
 <td>1975</td>
@@ -12907,18 +12919,6 @@ von Graeve, Volkmar, Milet 1964, Istanbuler Mitteilungen 25, 1975, 68f</td>
 von Graeve, Volkmar, Eine Sitzfigur aus Milet, Istanbuler Mitteilungen 25, 1975, 61-65</td>
 </td>
 <td>03 Funde aus Milet; 03-04 Funde: Skulptur</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Milet. Vorläufiger Bericht über die Grabung im Südschnitt an der hellenistischen Stadtmauer 1966</td>
-<td>von Graeve, Volkmar</td>
-<td>1975</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-von Graeve, Volkmar, Milet. Vorläufiger Bericht über die Grabung im Südschnitt an der hellenistischen Stadtmauer 1966, Istanbuler Mitteilungen 25, 1975, 35-59</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 03 Funde aus Milet; 03-05 Funde: Keramik; 07 Architektur; 07-02 Architektur: Stadtmauern und Wehranlagen; 07-09 Architektur: Wohngebäude; Keramik; Streifenware</td>
 <td></td>
 </tr>
 
