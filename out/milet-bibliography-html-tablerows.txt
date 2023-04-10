@@ -2010,7 +2010,7 @@ Berns, Christof; Huy, Sabine; Rothe, Jens, Der Survey auf dem Humeitepe in Milet
 <td>
 Alkaç, Erkan; Cankardeş-Şenol, Gonca, Amphora Mühürleri Işığında Miletos ve Alexandria Ticari İlişkileri, Olba. Mersin Üniversitesi Kilikia Arkeolojisini Araştırma Merkezi yayınları 24, 2016, 191-216</td>
 </td>
-<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-06 Keramik: hellenistische Zeit; Amphoren</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-06 Keramik: hellenistische Zeit; Amphoren; Stempel</td>
 <td></td>
 </tr>
 
