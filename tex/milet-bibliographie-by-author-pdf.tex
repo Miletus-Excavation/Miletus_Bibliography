@@ -1,4 +1,4 @@
-\documentclass[a4paper]{scrbook}
+\documentclass[a4paper,openany]{scrbook}
 \input{preamble.tex}
 
 
@@ -14,6 +14,18 @@
 
 \begin{document}
 \input{preface.tex}
+
+\newpage
+
+\begin{multicols}{2}
+    \tableofcontents
+\end{multicols}
+
+\newpage
+
+\input{comment.tex}
+\vfill
+\includegraphics[width=\textwidth]{../out/figures/mil-pubs-by-year.png}
 
 
 \begin{flushleft}%

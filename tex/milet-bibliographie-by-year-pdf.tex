@@ -1,4 +1,4 @@
-\documentclass[a4paper]{scrbook}
+\documentclass[a4paper,openany]{scrbook}
 
 \input{preamble.tex}
 
@@ -16,11 +16,23 @@
 \begin{document}
 \input{preface.tex}
 
-\vfill
-\includegraphics[width=\textwidth]{../out/figures/mil-pubs-by-year.png}
+\newpage
+\begin{multicols}{2}
+    \tableofcontents
+\end{multicols}
+
 \newpage
 
+
+
+\input{comment.tex}
+\vfill
+\includegraphics[width=\textwidth]{../out/figures/mil-pubs-by-year.png}
+
+% Start of Bibliography
+
 \begin{flushleft}% 
+\newpage
 
 
 \input{../out/bibsections_by_year}

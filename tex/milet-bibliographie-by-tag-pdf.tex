@@ -1,4 +1,4 @@
-\documentclass[a4paper]{scrbook}
+\documentclass[a4paper,openany]{scrbook}
 \input{preamble.tex} 
 
 
@@ -15,12 +15,20 @@
 \begin{document}
 \input{preface.tex}
 
-\vfill
-\includegraphics[width=\textwidth]{../out/figures/mil-pubs-by-keys.png}
 
+\newpage
+
+\tableofcontents
+\newpage
+
+\input{comment.tex}
+\vfill
+\begin{center}
+\includegraphics[width=0.95\textwidth]{../out/figures/mil-pubs-by-keys.png}
+\end{center}
+% Start of Bibliography
 \begin{flushleft}%
 \newpage 
-
 %\end{flushleft}
 \setlength{\parskip}{6pt}
 \hangindent=1em

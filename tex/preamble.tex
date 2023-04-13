@@ -12,6 +12,11 @@
 \usepackage{textalpha}
 \usepackage{array}
 
+\addto\captionsngerman{% Replace "english" with the language you use
+  \renewcommand{\contentsname}%
+    {Inhaltsverzeichnis / Table of Contents}%
+}
+
 \definecolor{uhhred}{HTML}{E2001A}
 \definecolor{uhhgrey}{HTML}{3b515b}
 
@@ -40,3 +45,12 @@
 \newcommand{\redhref}[2]{\href{#1}{\color{uhhred}{#2}}}
 
 \usepackage{multicol}
+%\setlength{\columnseprule}{1pt}
+%\def\columnseprulecolor{\color{uhhgrey}}
+
+
+\usepackage{tocbibind}
+\renewcommand{\tableofcontents}{\begingroup
+  \tocchapter
+  \tocfile{\contentsname}{toc}
+\endgroup}
