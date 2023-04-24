@@ -2284,7 +2284,7 @@ Niewöhner, Philipp; Audley-Miller, Lucy; Fındık, Ebru Fatma; Schwerdt, Nico; 
 <td>2015</td>
 <td>e-Forschungsberichte des Deutschen Archäologischen Instituts</td>
 <td>
-Niewöhner, Philipp, Milet, Türkei: Denkmalpflege, e-Forschungsberichte des Deutschen Archäologischen Instituts 2015, 2015, 158-162</td>
+Niewöhner, Philipp, Milet, Türkei: Denkmalpflege, e-Forschungsberichte des Deutschen Archäologischen Instituts 2015, 2015, 158-162 <br> <a href="https://publications.dainst.org/journals/efb/1646/4552">Online verfügbar (Link)</a></td>
 </td>
 <td>07-11 Architektur: Kirchen, Synagogen, Moscheen; 15 Ruinen und Geländepflege, Restaurierung; Denkmalpflege; Faustinathermen; Hagia Paraskevi; Theater; Theaterkastell</td>
 <td>Miletus is a large multi-period site and requires various conservation, restoration and site management projects. In 2012 to 2014 these included the Roman Baths of Faustina, the late Byzantine chapel of Hagia Paraskevi, the ancient theatre and a Byzantine castle on top of it, as well as the ancient street grid and its use by modern visitors. The projects continue a long tradition that goes back to the early 20th century, when Miletus started to be excavated and conserved. Over time, continuous conservation and site management work at Miletus has established local conventions that are easily recognizable, self-explanatory and help the visitor understand a complex settlement including many architectural styles and a wide range of cultures.</td>
@@ -2843,15 +2843,15 @@ von Graeve, Volkmar, Zum archaischen Giebelschmuck aus dem Aphroditeheiligtum in
 </tr>
 
 <tr>
-<td>Denkmalpflege und touristische Erschließung in Milet</td>
+<td>Denkmalpflege und touristische Erschließung in Milet. Vorbericht über die Arbeiten in der Kampagne 2012</td>
 <td>Taschner, Moritz; Vardar, Ali</td>
 <td>2013</td>
 <td>Archäologischer Anzeiger</td>
 <td>
-Taschner, Moritz; Vardar, Ali, Denkmalpflege und touristische Erschließung in Milet, Archäologischer Anzeiger 2013, 2013, 235-242 <br> <a href="https://doi.org/10.34780/16hi-54a1">Online verfügbar (DOI)</a></td>
+Taschner, Moritz; Vardar, Ali, Denkmalpflege und touristische Erschließung in Milet. Vorbericht über die Arbeiten in der Kampagne 2012, Archäologischer Anzeiger 2013, 2013, 235-242 <br> <a href="https://doi.org/10.34780/16hi-54a1">Online verfügbar (DOI)</a></td>
 </td>
 <td>15 Ruinen und Geländepflege, Restaurierung</td>
-<td></td>
+<td>Im Rahmen der Miletgrabung wurden in der Kampagne 2012 Maßnahmen zur Denkmalpflege und touristischen Erschließung des Grabungsplatzes durchgeführt. Ein Arbeitsschwerpunkt galt der Revision und Fortschreibung eines 1995 publizierten denkmalpflegerischen und touristischen Gesamtplans für Milet. Die Baudenkmalpflege konzentrierte sich auf die byzantinische Festung auf dem Theaterberg, die Faustinathermen sowie die Kirche Hagia Paraskevi. Zur Verbesserung der touristischen Erschließung Milets wurde der Wegebau vorangetrieben und an einem erweiterten Informationsangebot für Besucher gearbeitet.</td>
 </tr>
 
 <tr>
@@ -7580,6 +7580,18 @@ Reallexikon zur byzantinischen Kunst 6 (1999) 362-378 s.v. Milet (Müller-Wiener
 </td>
 <td>12 Lexikonbeiträge</td>
 <td></td>
+</tr>
+
+<tr>
+<td>100 Jahre Grabungen in Milet</td>
+<td>Miller, Martin; Kästner, Ursula</td>
+<td>1999</td>
+<td></td>
+<td>
+</td>
+</td>
+<td>14 Forschungsgeschichte</td>
+<td>Faltblatt der Antikensammlung der Staatlichen Museen zu Berlin zur Ausstellung anlässlich der Feier von 100 Jahren Ausgrabungen in Milet, 16.03. - 31.12.1999</td>
 </tr>
 
 <tr>
