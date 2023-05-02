@@ -2,7 +2,7 @@ name: Update files
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * 1'
+    - cron: '0 8 1 * *'
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
