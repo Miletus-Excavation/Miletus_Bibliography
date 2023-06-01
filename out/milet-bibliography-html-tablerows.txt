@@ -47,6 +47,18 @@ Sato, Noboru, Hellenistic Didyma and the Milesian Past, Japan Studies in Classic
 </tr>
 
 <tr>
+<td>Some New Inscriptions from the Miletus Museum</td>
+<td>Akat Özeni̇r, Sevgiser; Ricl, Marijana</td>
+<td>2023</td>
+<td>Gephyra</td>
+<td>
+Akat Özeni̇r, Sevgiser; Ricl, Marijana, Some New Inscriptions from the Miletus Museum, Gephyra 25, 2023, 103-117 <br> <a href="https://doi.org/10.37095/gephyra.1264344">Online verfügbar (DOI)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
+<td>In this article, ten new inscriptions from Miletos and Didyma, housed by the Miletus Museum, are presented. Among the new finds, there are funerary stelae, a dedication inscription, a honorary inscription, a fragmentary imperial decree and a fragment of unknown nature. Except for the two inscriptions found during the road works between Akbük and Didim, we don’t have other information of the findspots of inscriptions.           ,              Bu makalede, Milet müzesinde korunan Miletos ve Didyma kökenli on yeni yazıt tanıtılmaktadır. Yeni buluntular arasında mezar stelleri, bir adak yazıtı, bir onurlandırma yazıtı, parçalar halinde bir imparatorluk kararnamesi ve bilinmeyen tipte bir fragment yer almaktadır. Akbük-Didim arasındaki yol çalışmalarında bulunan iki yazıt dışında yazıtların buluntu yerleri hakkında elimizde başka bilgi bulunmamaktadır. Yazıtların Türkçe çevirileri şöyledir: No. 1: Khoragos’un (mezar steli). No. 2: Değerli insan Rufa, elveda! No. 3: Heraklides’in kızı değerli Melitine, elveda!            Heraklides’in kızı değerli Zosime, elveda! No. 4: Ey değerli  insan Priskus, elveda! No. 5: Bromis (burada yatıyor). No. 6: …. ölür? …. kader ile? …. uzun sürmek? …. böylece Selene … No. 7: … Horalar’a (adağı) sundu. No. 8: En muhteşem ve seçkin Caesar Flavius Valerius Constantius. Kendisinin ve dünyanın efendisi            Miletlilerin şanlı kenti. Dokuz mil. No. 9: ... nın kopyası? / kararname teslim [ edildi ? - - - İmparator Caesar] / Lucius Septimius [Severus            - - - Flavius [ ] benimle (resmi) görüşme yaptı - - - tapınakların ...... ayrıcalıklar ve dokunul¬-            mazlıklar tarafımdan verildi ve bunlar imparator tarafından kendilerine verildi / benden önce            - - - / Antoninus. No. 10: .... suçlamalar? .... (para) cezaları/onur? .... Athena’nın .... gemi inşaatçılarının [..] [dernek?               - - -] yetkililer?</td>
+</tr>
+
+<tr>
 <td>Das Stadion-Osttor in Milet. Unfertigkeit und Effizienzstrategien im kaiserzeitlichen Marmorbau</td>
 <td>Toma, Natalia</td>
 <td>2022</td>
@@ -128,6 +140,18 @@ Müller, Christel, Migration et mémoire: Milet et ses apoikiai à l’époque h
 </td>
 <td>10 politische Geschichte; 10-04 Geschichte: hellenistische Zeit; Kolonien</td>
 <td>The article focuses on the links between Miletus and her Archaic apoikiai in the Black Sea, Cyzicus, Olbia, Istros and Kios, long after their foundation, as documented by four inscriptions (Milet I.3, 136, 137 and 141; ISM I, 62). These decrees granting privileges including politeia (‘citizenship’) have been traditionally dated in the last third of the 4th century BC, although they more probably belong to the 3rd century. Instead of taking them as showing a form of continuous relationship between the mother city and her colonies since their origins, I suggest that they are a manifestation of Gehrke’s ‘intentional history’, i.e. a way to use and manipulate the past in order to serve the present. Therefore the revival of the links between colonies and mother city takes place in a context where we see Miletus seeking to establish or regenerate her regional power and international relations.</td>
+</tr>
+
+<tr>
+<td>Mileto: alcune note sulla città e la sua punizione</td>
+<td>Masturzo, Nicolò</td>
+<td>2022</td>
+<td>Mousai</td>
+<td>
+Masturzo, Nicolò, Mileto: alcune note sulla città e la sua punizione, in: Curti, Francesca; Parrini, Alessandra, Taxidia: scritti per Fede Berti (Pisa 2022), 265-279</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; 02-05 Topographie: klassische Zeit; 10 politische Geschichte; 10-02 Geschichte: archaische Zeit; 10-03 Geschichte: klassische Zeit</td>
+<td></td>
 </tr>
 
 <tr>
@@ -12071,12 +12095,12 @@ Cataldi, Silvio, La secessione dei βελτiσoi milesi e le ξuγγpaφaí aten
 </tr>
 
 <tr>
-<td>Grabung westlich des Bouleuterion</td>
+<td>Grabung westlich des Buleuterion</td>
 <td>Voigtländer, Walter</td>
 <td>1980</td>
 <td>Istanbuler Mitteilungen</td>
 <td>
-Voigtländer, Walter, Grabung westlich des Bouleuterion, Istanbuler Mitteilungen 30, 1980, 39-47</td>
+Voigtländer, Walter, Grabung westlich des Buleuterion, Istanbuler Mitteilungen 30, 1980, 39-47</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 07 Architektur; 07-12 Architektur: Werkstätten; Westlich Bouleuterion</td>
 <td></td>
