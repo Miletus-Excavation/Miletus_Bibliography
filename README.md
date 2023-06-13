@@ -1,3 +1,5 @@
+# The Miletus Bibliography	<a href='https://www.miletgrabung.uni-hamburg.de/material/bibliographie.html'><img src='data/figures/milet-logo-de.png' align="right" height="150" /></a>
+
 <!-- badges: start -->
 ![last update](https://img.shields.io/github/last-commit/lsteinmann/Miletus_Bibliography?label=last%20update)
 ![Update files](https://github.com/lsteinmann/Miletus_Bibliography/actions/workflows/update.yml/badge.svg)
