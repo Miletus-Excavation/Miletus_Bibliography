@@ -1,4 +1,16 @@
 <tr>
+<td>Cosmopolitan Capito: architectural benefaction by a Roman official in Late Julio-Claudian Miletus</td>
+<td>Tomas, Julia</td>
+<td>2023</td>
+<td>Anatolian Studies</td>
+<td>
+Tomas, Julia, Cosmopolitan Capito: architectural benefaction by a Roman official in Late Julio-Claudian Miletus, Anatolian Studies 73, 2023, 151-169 <br> <a href="https://doi.org/10.1017/S0066154623000066">Online verfügbar (DOI)</a></td>
+</td>
+<td>07 Architektur; 07-01 Architektur: Varia; 07-07 Architektur: Gymnasia und Thermenanlagen; Gnaeus Vergilius Capito</td>
+<td>This article explores the architectural benefactions of Gnaeus Vergilius Capito, a wealthy resident of Late Julio-Claudian Miletus, who held a number of positions in the Roman imperial administration prior to constructing the baths and theatre stage building in his home city. Through a detailed study of the archaeological and epigraphic evidence associated with Vergilius Capito, this article sheds light on when and why he built his public monuments and will demonstrate how members of the provincial elite like Capito, who had also been involved in local and wider imperial society, were represented through architecture. It will also show how culturally bilingual individuals could play a fundamental role in promoting Roman cultural influence in Greek provincial settings and will advocate a more individual-focussed approach when discussing the influence of Rome on its provinces. The article concludes that Capito’s Roman-Milesian citizenship enabled him to mediate between the world of the Greek polis and that of the Roman imperial system and uses the medium of architectural benefaction as a vehicle for driving cultural change in provincial settings.</td>
+</tr>
+
+<tr>
 <td>Milet, Türkei. Marmor in Milet der Kaiserzeit. Bericht über die archäometrische Studie. Die Arbeiten der Jahre 2018 bis 2022</td>
 <td>Toma, Natalia</td>
 <td>2023</td>
@@ -1668,11 +1680,11 @@ Baker, Julian; Kluge, Bernd, Der Gigliati-Schatzfund aus den Ausgrabungen der Be
 
 <tr>
 <td>Some Inscribed Lead Sling Bullets in the Milet Museum</td>
-<td>Akat Özenir, Sevgiser</td>
+<td>Akat Özeni̇r, Sevgiser</td>
 <td>2017</td>
 <td>Epigraphica Anatolica. Zeitschrift für Epigraphik und historische Geographie Anatoliens</td>
 <td>
-Akat Özenir, Sevgiser, Some Inscribed Lead Sling Bullets in the Milet Museum, Epigraphica Anatolica. Zeitschrift für Epigraphik und historische Geographie Anatoliens 50, 2017, 167-178</td>
+Akat Özeni̇r, Sevgiser, Some Inscribed Lead Sling Bullets in the Milet Museum, Epigraphica Anatolica. Zeitschrift für Epigraphik und historische Geographie Anatoliens 50, 2017, 167-178</td>
 </td>
 <td>03 Funde aus Milet; 03-07 Funde: Metalle</td>
 <td></td>
