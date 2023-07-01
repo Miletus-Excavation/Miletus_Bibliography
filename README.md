@@ -12,7 +12,7 @@ This repository contains the code to format the Miletus Bibliography from Zotero
 
 # Updates
 
-All bibliography files and their PDF exports are updated automatically every Monday at 8:00 UTC from the state of the [Zotero group library](https://www.zotero.org/groups/4475959/milet_bibliography) at that time.
+All bibliography files and their PDF exports are updated automatically on the first day of each month from the state of the [Zotero group library](https://www.zotero.org/groups/4475959/milet_bibliography) at that time.
 
 # The Miletus Bibliography
 
