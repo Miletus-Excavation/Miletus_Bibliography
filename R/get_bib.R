@@ -66,8 +66,16 @@ bib_csv <- lapply(seq, function(x) {
                           header = TRUE)
   return(new_items)
 })
-bib_csv <- do.call(bind_rows, bib_csv) %>%
-  mutate(Key = X.U.FEFF.Key)
+bib_csv <- do.call(bind_rows, bib_csv) 
+
+if (!is.null(bib_csv$X.U.FEFF.Keys)) {
+  message("'Key'-Columns exists.")
+} else {
+  bib_csv <- bib_csv %>%
+    mutate(Key = X.U.FEFF.Key)
+  message("'X.U.FEFF.Key'-Columns exists. Renaming to 'Key'.")
+}
+
 
 # save the result as our export 
 filename <- "data/Milet_Bibliography_CSV.csv"
