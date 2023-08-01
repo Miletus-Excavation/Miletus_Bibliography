@@ -66,7 +66,8 @@ bib_csv <- lapply(seq, function(x) {
                           header = TRUE)
   return(new_items)
 })
-bib_csv <- do.call(bind_rows, bib_csv)
+bib_csv <- do.call(bind_rows, bib_csv) %>%
+  mutate(Key = X.U.FEFF.Key)
 
 # save the result as our export 
 filename <- "data/Milet_Bibliography_CSV.csv"
