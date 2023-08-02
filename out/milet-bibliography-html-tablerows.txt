@@ -1,4 +1,16 @@
 <tr>
+<td>Holocene environmental change dates of Lake Bafa: Hierarchical Bayesian change point analysis</td>
+<td>Ön, Zeki Bora</td>
+<td>2023</td>
+<td>Türk Coğrafya Dergisi</td>
+<td>
+Ön, Zeki Bora, Holocene environmental change dates of Lake Bafa: Hierarchical Bayesian change point analysis, Türk Coğrafya Dergisi 82, 2023, 23-36 <br> <a href="https://doi.org/10.17211/tcd.1283443">Online verfügbar (DOI)</a></td>
+</td>
+<td>11 Geographie und Geophysik; 13 Umlandforschung</td>
+<td>The timing of the separation of Lake Bafa from the Aegean Sea and its subsequent transition to a lake remains a topic of debate, with considerable uncertainties associated with the proposed dates for these transitions. This study introduces a novel approach, hierarchical Bayesian change point analysis (HBCPA), to identify tipping points in paleoenvironmental time series. The objective is to offer more precise and objectively selected results concerning the previously uncertain transition dates of Lake Bafa’s geological evolution in the Holocene. The method presented in this study is applied to analyze stable oxygen and carbon isotope data from foraminifer and ostracod shells, as well as total organic carbon (TOC) data, obtained from the BAFA09P02 sediment core. Results indicate that the transition from a marine to an isolated lagoon environment occurred around 2060 years BP, with an 89% uncertainty interval ranging from 2250 to 1870 years BP. Additionally, the transition from an isolated lagoon to a brackish lake environment is estimated to have occurred around 595 years BP, with an 89% uncertainty interval ranging from 780 to 425 years BP. The results of this study illustrate that the suggested HBCPA approach holds the capability to identify tipping points in environmental data while quantifying their intrinsic uncertainties.</td>
+</tr>
+
+<tr>
 <td>Cosmopolitan Capito: architectural benefaction by a Roman official in Late Julio-Claudian Miletus</td>
 <td>Tomas, Julia</td>
 <td>2023</td>
@@ -32,6 +44,18 @@ Toma, Natalia, Milet, Türkei. Marmor in Milet der Kaiserzeit. Bericht über die
 </td>
 <td>16 Methodik, Vermessungsarbeiten</td>
 <td>This manual has been created in the course of the DFG and ANR funded project 'Life Forms in the Megapolis: Miletus in the Longue Durée' (MegaMil) led by Prof. Dr. Christof Berns (UHH) and Prof. Dr. Julien Zurbach (ENS). In the course of this project the previously used Milesian documentation system was comprehensively modernized and adapted to the use of digital tools. The explanations and guidelines in this document serve as a '<em>documentation of the documentation</em>' and are intended to help staff members use the system in a consistent manner across multiple projects, as well as preserve our methods of working and organizing for future generations of archaeologists and transparently explain our research methods to the public. The manual aims to facilitate the use and to provide an overview of the data structure for long-term archiving and cooperation. The manual and all the corresponding forms are currently available in German and English. We provide several additional documents along with the digital version of this manual. While the excavation is mainly organized by three universities (University of Hamburg, Mimar Sinan Güzel Sanatlar Üniversitesi in Istanbul and Ecole Normale Supérieure Paris), we also want to thank our many cooperation partners listed in the preface without whom none of our work would be possible. Please also note: While the whole manual and documentation are a group effort, and many more people have contributed to this project with their time, ideas and corrections, people responsible for a section of the current or previous version of this manual have been listed in this repository as contributors. See also the 'List of Authors' in the preface. Over the course of time, more contributors may be added here as well.</td>
+</tr>
+
+<tr>
+<td>R wie in: Reproduzierbar. Auswertung von Daten aus Field Desktop mit idaifieldR</td>
+<td>Steinmann, Lisa</td>
+<td>2023</td>
+<td>Forum for Digital Archaeology and Infrastructure</td>
+<td>
+Steinmann, Lisa, R wie in: Reproduzierbar. Auswertung von Daten aus Field Desktop mit idaifieldR, Forum for Digital Archaeology and Infrastructure 2023, 2023, 1-28 <br> <a href="https://doi.org/10.34780/068b-q6c7">Online verfügbar (DOI)</a></td>
+</td>
+<td>16 Methodik, Vermessungsarbeiten</td>
+<td>R as in: Reproducible. The Analysis of Data from Field Desktop with idaifieldR. With iDAI.field, the DAI offers a comprehensive and easy-to-use database solution for archaeological field research projects. The R package 'idaifieldR' presented here enables the flexible import of datasets from local iDAI.field project databases into R. With R, graphics and reports can be generated dynamically from the dataset, data can be cleaned and exported, and the result can be published reproducibly. The use and potential of idaifieldR are demonstrated in the article using some examples from Miletus.</td>
 </tr>
 
 <tr>
@@ -2636,6 +2660,18 @@ Niemeyer, Barbara, Die Gefäßkonstruktion zweier hethitischer Schwerter aus den
 </td>
 <td>03 Funde aus Milet; 03-02 Funde: Varia; 09 Gräber und Bestattungen; Değirmentepe; Grab; Hethitisch</td>
 <td>Bei zwei Schwertern aus Milet wird die ungewöhnliche Konstruktion der Griffgefäße technisch untersucht, die diese Stücke als hethitische Produkte ausweist. Die Schwerter gehören zum technologisch fortgeschrittenen Typ der Griffangelschwerter, deren Griffgefäße aus einer Vielzahl von Einzelelementen aus Bronzeblech aufgebaut sind: organischer Griffkern, Parierstangenblech aus Bronze mit angeschmiedeter Klingentülle, vier Abdeckbleche und geschmiedeter Blechknauf. Eine begrenzte Anzahl von Vergleichsstücken ist publiziert, unter denen eines mit komplett gegossenem Griff und zwei gegossene einzelne Parierstangen auffallen. Diese Stücke könnten später zu datierende Exemplare darstellen, bei denen die technisch bedingten Charakteristika der aufwändig herzustellenden Griffe aus Blechelementen in Guss umgesetzt sind und deren Qualitätsmerkmale nur noch optisch in Form typologischer Rudimente vortäuschen.</td>
+</tr>
+
+<tr>
+<td>Problemi della storia arcaica di Miunte e Mileto: La fondazione di Miunte, la lunga guerra tra Mileto e Miunte</td>
+<td>Marina, Polito</td>
+<td>2014</td>
+<td>Mediterraneo antico. Economie, società, culture</td>
+<td>
+Marina, Polito, Problemi della storia arcaica di Miunte e Mileto: La fondazione di Miunte, la lunga guerra tra Mileto e Miunte, Mediterraneo antico. Economie, società, culture 17, 2014, 543-572</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; Archaisch; Myus</td>
+<td></td>
 </tr>
 
 <tr>
