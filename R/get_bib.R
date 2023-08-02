@@ -68,7 +68,7 @@ bib_csv <- lapply(seq, function(x) {
 })
 bib_csv <- do.call(bind_rows, bib_csv) 
 
-if (!is.null(bib_csv$X.U.FEFF.Keys)) {
+if (is.null(bib_csv$X.U.FEFF.Keys)) {
   message("'Key'-Columns exists.")
 } else {
   bib_csv <- bib_csv %>%
