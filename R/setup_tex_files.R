@@ -17,6 +17,23 @@ bib <- bib %>%
   remove_na_cols() %>%
   type.convert(as.is = TRUE)
 
+# check if any entry is missing a Citation Key!
+# if so, create an improvised - issakjdnsadkjsadd i cannot to that because it does not work like that. 
+cit_keys <- unlist(lapply(bib$Extra, function(x) grepl("Citation Key: ", x)))
+if (any(!cit_keys)) {
+  missing_cit_key_index <- which(cit_keys == FALSE)
+  message(paste0(length(missing_cit_key_index), " items do not have a pinned LaTeX-Citation Key! Please fix this."))
+  message("These are the entries: ")
+  entries_missing_keys <- list()
+  for (i in missing_cit_key_index) {
+    entry <- paste0(bib$Author[i], " ", bib$Publication.Year[i], ": ", bib$Title[i])
+    print(entry)
+    entries_missing_keys <- append(entries_missing_keys, entry)
+    bib$Extra[i] <- "Citation Key: MISSING"
+  }
+} else {
+  message("All entries have pinned keys.")
+}
 # check if Publication.Year makes sense
 min(bib$Publication.Year, na.rm = TRUE)
 max(bib$Publication.Year, na.rm = TRUE)
@@ -102,7 +119,15 @@ letters
 # so we split the string along that
 key <- strsplit(bib$Extra, "Citation Key: ")
 # and get the second element, which should be the latex-key
-key <- unlist(lapply(key, function(x) x[[2]]))
+key <- unlist(lapply(key, function(x) 
+  if(length(x) >= 2) {
+    x[[2]]
+  } else {
+    x
+  }
+))
+
+head(key)
 # it is kind of important that there is nothing else saved in the
 # extra field... be sure to check that sometimes and fix the database
 # accordingly
@@ -183,8 +208,6 @@ writeLines(bibstructure,
            useBytes = TRUE)
 message(paste0("Saved: ", filename))
 
-
-
 ##### Setup by keyword
 tagslist <- bib %>%
   select(Key, Manual.Tags) %>%
@@ -253,6 +276,8 @@ for(i in 1:nrow(tags_sys)) {
 }
 # remove the NA
 bibstructure <- bibstructure[-1]
+
+#bib_csv[bib_csv$Key %in% no_tags, ]
 
 filename <- "out/bibstructure_by_keyword.tex"
 writeLines(bibstructure, 
