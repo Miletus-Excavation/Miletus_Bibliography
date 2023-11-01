@@ -68,14 +68,16 @@ bib_csv <- lapply(seq, function(x) {
 })
 bib_csv <- do.call(bind_rows, bib_csv) 
 
-if (is.null(bib_csv$X.U.FEFF.Keys)) {
-  message("'Key'-Columns exists.")
+wrong_keycol <- which(colnames(bib_csv) == "X.U.FEFF.Key")
+correct_keycol <- which(colnames(bib_csv) == "Key")
+if (length(wrong_keycol) == 1) {
+  colnames(bib_csv)[wrong_keycol] <- "Key"
+  message("'X.U.FEFF.Key' column exists. Renaming to 'Key'.")
+} else if (length(wrong_keycol) == 1) {
+  message("'Key' column exists.")
 } else {
-  bib_csv <- bib_csv %>%
-    mutate(Key = X.U.FEFF.Key)
-  message("'X.U.FEFF.Key'-Columns exists. Renaming to 'Key'.")
+  message("Please check the columns after downloading the library, unforeseen situation.")
 }
-
 
 # save the result as our export 
 filename <- "data/Milet_Bibliography_CSV.csv"
