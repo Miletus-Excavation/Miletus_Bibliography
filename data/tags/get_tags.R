@@ -1,3 +1,6 @@
+log_tags <- file("out/logs/get_tags.log", open = "at")
+sink(log_tags, type = "message")
+
 tags_sys <- read.csv("data/tags/tags_sys.csv", 
                     sep = ";", encoding = "UTF-8", na.strings = "", 
                     colClasses = c("character"))
@@ -29,4 +32,3 @@ tags_sys$sys <- ifelse(!is.na(tags_sys$Untergruppe_1) & !is.na(tags_sys$Untergru
                        "subsubsection", tags_sys$sys)
 
 rm(check, r, rm)
-

@@ -43,3 +43,6 @@ jobs:
 
       - name: Pull Request for Update
         run: gh pr create -B main -H update-out --title "Bibliography update $(date +'%d. %B %Y')" --body "Created by Github action ${{ github.workflow	}}"
+
+      - name: Comment check results to PR
+        run: gh pr comment update-out --body-file "out/pr_comment.txt"

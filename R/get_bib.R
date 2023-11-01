@@ -1,3 +1,6 @@
+log_getbib <- file("out/logs/get_bib.log", open = "at")
+sink(log_getbib, type = "message")
+
 ## Setup
 
 # API key is stored in .Renviron, edit with file.edit("~/.Renviron")
@@ -184,4 +187,3 @@ filename <- "data/Milet_Bibliography_RIS.ris"
 message(paste0("Finished downloading.\n",
                "Saving to: ", filename))
 cat(bib_ris, file = filename)
-

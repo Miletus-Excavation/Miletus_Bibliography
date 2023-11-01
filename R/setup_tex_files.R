@@ -1,3 +1,6 @@
+log_tex <- file("out/logs/setup_tex_files.log", open = "at")
+sink(log_tex, type = "message")
+
 message("Producing *.tex-files for exports.")
 
 if (exists("bib_csv")) {
@@ -34,6 +37,7 @@ if (any(!cit_keys)) {
 } else {
   message("All entries have pinned keys.")
 }
+
 # check if Publication.Year makes sense
 min(bib$Publication.Year, na.rm = TRUE)
 max(bib$Publication.Year, na.rm = TRUE)
@@ -288,4 +292,3 @@ message(paste0("Saved: ", filename))
 
 
 message("Done with *.tex-files.")
-
