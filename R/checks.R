@@ -1,6 +1,3 @@
-log_checks <- file("out/logs/checks.log", open = "at")
-sink(log_checks, type = "message")
-
 pr_comment_file <- "out/pr_comment.txt"
 comment_to_pr <- function(msg, file = pr_comment_file) {
   write(msg, file = file, append = TRUE)

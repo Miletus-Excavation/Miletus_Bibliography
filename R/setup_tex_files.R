@@ -1,6 +1,3 @@
-log_tex <- file("out/logs/setup_tex_files.log", open = "at")
-sink(log_tex, type = "message")
-
 message("Producing *.tex-files for exports.")
 
 if (exists("bib_csv")) {

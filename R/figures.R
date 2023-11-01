@@ -1,6 +1,3 @@
-log_figures <- file("out/logs/figures.log", open = "at")
-sink(log_figures, type = "message")
-
 message("Making new figures for exports.")
 
 if (exists("bib_csv")) {
