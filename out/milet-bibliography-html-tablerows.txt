@@ -4890,7 +4890,7 @@ Witulski, Thomas, Kaiserkult in Kleinasien: die Entwicklung der kultisch-religi�
 <td>
 Weber, Berthold F., Der Stadtplan von Milet, in: Cobet, Justus; von Graeve, Volkmar; Niemeier, Wolf-Dietrich; Zimmermann, Konrad, Frühes Ionien. Eine Bestandsaufnahme. Panionion Symposion Güzelçamlı, 26. September – 1. Oktober 1999 (Mainz 2007), 327-362</td>
 </td>
-<td>02 Allgemeine Darstellungen / Topographie; 14 Forschungsgeschichte; Stadtplan; Straßenraster</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-05 Topographie: klassische Zeit; 02-06 Topographie: hellenistische Zeit; 02-07 Topographie: Kaiserzeit; 14 Forschungsgeschichte; Stadtplan; Straßenraster</td>
 <td></td>
 </tr>
 
