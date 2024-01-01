@@ -6592,7 +6592,7 @@ Kienast, Dietmar, Bemerkungen zum Jonischen Aufstand und zur Rolle des Artaphern
 <td>2002</td>
 <td>Jahreshefte des Österreichischen Archäologischen Institutes in Wien. Beihefte</td>
 <td>
-Kerschner, Michael, Die lokalisierten chemischen Gruppen A, D und H und ihr Aussagewert für die Keramikproduktion von Milet und Ephesos, in: Akurgal, M; Kerschner, Michael; Mommsen, Hans; Niemeier, Wolf-Dietrich, Töpferzentren der Ostägäis. Archäometrische und archäologische Untersuchungen zur mykenischen, geometrischen und archaischen Keramik aus Fundorten in Westkleinasien (Wien 2002), 37-47</td>
+Kerschner, Michael, Die lokalisierten chemischen Gruppen A, D und H und ihr Aussagewert für die Keramikproduktion von Milet und Ephesos, in: Akurgal, Meral; Kerschner, Michael; Mommsen, Hans; Niemeier, Wolf-Dietrich, Töpferzentren der Ostägäis. Archäometrische und archäologische Untersuchungen zur mykenischen, geometrischen und archaischen Keramik aus Fundorten in Westkleinasien (Wien 2002), 37-47</td>
 </td>
 <td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit; 04 Archäometrie; Ephesos; Keramik; Tonanalyse</td>
 <td></td>
