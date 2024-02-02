@@ -11,6 +11,18 @@
 </tr>
 
 <tr>
+<td>La cerámica de tipo Oriental y el Wild Goat Style. Características, tipos y cronología</td>
+<td>von Miller, Alexandra</td>
+<td>2023</td>
+<td>Studia Hispano-Phoenicia</td>
+<td>
+von Miller, Alexandra, La cerámica de tipo Oriental y el Wild Goat Style. Características, tipos y cronología, in: , La Fonteta 3. Las Importaciones griegas e itálicas y su contexto mediterráneo ( 2023), 127-146</td>
+</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit; Chronologie; Keramik - Gefäßmalerei; Tierfries</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Cosmopolitan Capito: architectural benefaction by a Roman official in Late Julio-Claudian Miletus</td>
 <td>Tomas, Julia</td>
 <td>2023</td>
