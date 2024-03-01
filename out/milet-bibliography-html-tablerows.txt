@@ -95,6 +95,18 @@ Sato, Noboru, Hellenistic Didyma and the Milesian Past, Japan Studies in Classic
 </tr>
 
 <tr>
+<td>Yauna Across the Sea? Northeast Boundaries of Achaemenid Expansion (Anatolia and the North Aegan)</td>
+<td>Morris, Sarah P.</td>
+<td>2023</td>
+<td>Melammu Workshops and Monographs</td>
+<td>
+Morris, Sarah P., Yauna Across the Sea? Northeast Boundaries of Achaemenid Expansion (Anatolia and the North Aegan), in: Ponchia, Simonetta; Prandi, Luisa, Shaping Boundaries. Ethnicity and Geography in the Eastern Mediterranean Area (First Millenium BC). Proceedings of the 5th Melammu Workshop, Verona, 19-22 January 2022 (Münster 2023), 215-230</td>
+</td>
+<td>06 Importe aus Milet andernorts; 06-02 Importe aus Milet: Keramik; 10 politische Geschichte; 10-02 Geschichte: archaische Zeit; 10-03 Geschichte: klassische Zeit; Handel; Kolonien</td>
+<td></td>
+</tr>
+
+<tr>
 <td>A preliminary assessment of ancient diet and mobility in Archaic period Asia minor: A view from Panormos, near Didyma</td>
 <td>Meiggs, David; Slawisch, Anja; Wilkinson, Toby</td>
 <td>2023</td>
@@ -6712,7 +6724,7 @@ Duran, Remzi, Balat – İlyas Bey Külliyesinin Medrese Binası Değerlendirmel
 <td>2002</td>
 <td>Archäologischer Anzeiger</td>
 <td>
-Donder, Helga; Posamentir, Richard; Selesnow, Wolfgang; Held, Winfried; Ehrhardt, Norbert; Günther, Wolfgang, Funde aus Milet, Archäologischer Anzeiger 117, 2002, 1-57</td>
+Donder, Helga; Posamentir, Richard; Selesnow, Wolfgang; Held, Winfried; Ehrhardt, Norbert; Günther, Wolfgang, Funde aus Milet, Archäologischer Anzeiger 2002, 2002, 1-57</td>
 </td>
 <td>03 Funde aus Milet; 03-02 Funde: Varia; Archaisch; Deckel; Lampen; Metall; Orakel; Relief</td>
 <td></td>
