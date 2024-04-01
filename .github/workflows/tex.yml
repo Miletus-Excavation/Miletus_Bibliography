@@ -21,6 +21,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with: 
           compiler: latexmk
+          texlive_version: 2023
           args: -pdf -auxdir=logs/ -outdir=../out/pdf/
           work_in_root_file_dir: true
           latexmk_use_xelatex: true
