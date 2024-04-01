@@ -1,5 +1,6 @@
 name: Build Bibliography PDFs
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: [Run Python Scripts]
     types: [completed]

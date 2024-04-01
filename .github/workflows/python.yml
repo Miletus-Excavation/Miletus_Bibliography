@@ -1,5 +1,6 @@
 name: Run Python Scripts
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: [Update files]
     types: [completed]
