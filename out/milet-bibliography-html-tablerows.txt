@@ -311,6 +311,18 @@ Gabel, Jenny; Berns, Christof; Bosch, Sebastian; Eickmeyer, Jost; Harter-Uibopuu
 </tr>
 
 <tr>
+<td>Milet 2021 Yılı Çalışmaları</td>
+<td>Berns, Christof; Özgan, Christine; Zurbach, Julien</td>
+<td>2022</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+Berns, Christof; Özgan, Christine; Zurbach, Julien, Milet 2021 Yılı Çalışmaları, Kazı Sonuçları Toplantısı 42, 2022, 523-541</td>
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>Greco-Anatolian Identity-Making in the Milesian Molpoi-procession</td>
 <td>Bachvarova, Mary R.</td>
 <td>2022</td>
@@ -14165,18 +14177,6 @@ Welz, Karl, Kleinmünzen aus Milet, Schweizer Münzblätter 10, 1960, 99-101 <br
 <td>Istanbuler Mitteilungen</td>
 <td>
 Weickert, Carl; Hommel, Peter; Kleiner, Gerhard; Mallwitz, Alfred; Schiering, Wolfgang, Die Ausgrabungen am Athena-Tempel in Milet 1957, Istanbuler Mitteilungen 9/10, 1960, 1-96</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Die Ausgrabungen beim Athenatempel in Milet 1957</td>
-<td>Weickert, Carl</td>
-<td>1960</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-Weickert, Carl, Die Ausgrabungen beim Athenatempel in Milet 1957, Istanbuler Mitteilungen 9/10, 1960, 1-96</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 07 Architektur; 08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena</td>
 <td></td>
