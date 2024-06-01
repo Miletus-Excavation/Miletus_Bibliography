@@ -119,6 +119,18 @@ Meiggs, David; Slawisch, Anja; Wilkinson, Toby, A preliminary assessment of anci
 </tr>
 
 <tr>
+<td>Mileto, Athena e la memoria.Considerazioni sulla città e la sua ricostruzione</td>
+<td>Masturzo, Nicolò</td>
+<td>2023</td>
+<td>Pelargòs</td>
+<td>
+Masturzo, Nicolò, Mileto, Athena e la memoria.Considerazioni sulla città e la sua ricostruzione, Pelargòs 4, 2023, 93-107</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-05 Topographie: klassische Zeit; 08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena; 10 politische Geschichte; 10-03 Geschichte: klassische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Ettore Lepore tra Mileto e Focea</td>
 <td>Gras, Michel</td>
 <td>2023</td>
@@ -6992,6 +7004,18 @@ Herrmann, Peter, Milet au IIe siècle a. J. C., in: Bresson, Alain; Descat, Raym
 </td>
 <td>10 politische Geschichte; 10-04 Geschichte: hellenistische Zeit</td>
 <td></td>
+</tr>
+
+<tr>
+<td>Winfried Held, Das Heiligtum der Athena in Milet</td>
+<td>Grüner, Andreas; Hennemeyer, Arndt</td>
+<td>2001</td>
+<td>Bonner Jahrbücher</td>
+<td>
+Grüner, Andreas; Hennemeyer, Arndt, Winfried Held, Das Heiligtum der Athena in Milet, Bonner Jahrbücher 201, 2001, 551-556 <br> <a href="https://doi.org/10.11588/BJB.2001.0.33307">Online verfügbar (DOI)</a></td>
+</td>
+<td>08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena; Athenatempel; Heiligtum</td>
+<td>Rezension zu: Winfried Held, Das Heiligtum der Athena in Milet. Milesische Forschungen, Band 2, hrsg. von Volkmar von Graeve im Auftrag des Deutschen Archäologischen Institutes. Verlag Philipp von Zabern, Mainz 2000. X, 194 Seiten, 81 Abbildungen, 40 Tafeln</td>
 </tr>
 
 <tr>
