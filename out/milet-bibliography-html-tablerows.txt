@@ -1715,12 +1715,12 @@ Bumke, Helga; Tanrıöver, Aylin, Der Hafen am Humeitepe in Milet. Ergebnisse de
 </tr>
 
 <tr>
-<td>Life cycle of estuarine islands — From the formation to the landlocking of former islands in the environs of Miletos and Ephesos in western Asia Minor (Turkey)</td>
+<td>Life cycle of estuarine islands — from the formation to the landlocking of former islands in the environs of miletos and ephesos in western asia minor (turkey)</td>
 <td>Brückner, Helmut; Herda, Alexander; Kerschner, Michael; Müllenhoff, Marc; Stock, Friederike</td>
 <td>2017</td>
 <td>Journal of Archaeological Science: Reports</td>
 <td>
-Brückner, Helmut; Herda, Alexander; Kerschner, Michael; Müllenhoff, Marc; Stock, Friederike, Life cycle of estuarine islands — From the formation to the landlocking of former islands in the environs of Miletos and Ephesos in western Asia Minor (Turkey), Journal of Archaeological Science: Reports 12, 2017, 876-894 <br> <a href="https://doi.org/10.1016/j.jasrep.2016.11.024">Online verfügbar (DOI)</a></td>
+Brückner, Helmut; Herda, Alexander; Kerschner, Michael; Müllenhoff, Marc; Stock, Friederike, Life cycle of estuarine islands — from the formation to the landlocking of former islands in the environs of miletos and ephesos in western asia minor (turkey), Journal of Archaeological Science: Reports 12, 2017, 876-894 <br> <a href="https://doi.org/10.1016/j.jasrep.2016.11.024">Online verfügbar (DOI)</a></td>
 </td>
 <td>11 Geographie und Geophysik; Ephesos; Geoarchäologie; Lade; Mäander; Verlandung</td>
 <td>The focus of this article is to link historical accounts about former islands of the Anatolian gulfs of the Aegean Sea to geoarchaeological evidence. During the Holocene, prominent environmental and coastline changes have taken place in many tectonic grabens of western Asia Minor, today's Turkey. The Büyük and the Küçük Menderes fault systems are excellent examples for deciphering these changes. Since mid-Holocene times, the eponymous rivers have advanced their deltas, silting up marine embayments which had once reached inland for tens of kilometres. To describe this terrestrial–marine–terrestrial evolution of estuarine islands we coin the term “life cycle of estuarine islands”. Besides other factors, such as natural erosion, sea-level changes, and tectonic activities, the delta progradation was mainly governed by riverine sediment load, which, in turn, was to a great extent dependent on human impact on the vegetation cover of the drainage basins. Based on historical accounts as well as modern geoarchaeological research it is possible to reconstruct the spatio-temporal evolution of the landscape. For Miletos and the Büyük Menderes (Maiandros, Maeander) graben, remarkable transformations have been revealed: the metamorphosis of the marine gulf into residual lakes (Lake Azap, Lake Bafa), the landlocking of islands (Hybanda, Lade, Asteria, Nergiz Tepe), the transition of the Milesian archipelago to a peninsula and finally to a part of the floodplain. A dramatic effect of the ongoing accumulation of fine-grained sediments was the siltation of harbours – a major reason for the decline of the once flourishing coastal cities of Myous, Priene, Herakleia, and finally Miletos, today some 8 km inland. For Ephesos and the Küçük Menderes (Kaystros) graben, the research focused on the former island of Syrie. Pliny the Elder (Naturalis Historia, c. CE 77) attributed the landlocking of Syrie to the Kaystros River – a scenario which has been verified by our geoarchaeological research and 14C–dated to the 5th century BC. The local foundation myth according to which an island, presumably Syrie, was the location of the first settlement of immigrants from the Greek mainland in the 11th century BCE can neither be proven nor disproven for lack of archaeological evidence. The delta advance was the main reason why the settlement sites and the harbours of Ephesos were relocated several times from the Early Iron Age to the Middle Ages.</td>
@@ -14803,18 +14803,6 @@ Scherer, Anton, Zur Laut- und Formenlehre der milesischen Inschriften (  1934)</
 Paulys Realencyclopädie der classischen Altertumswissenschaft 5,A 1 (1934) 126 s.v. Teichiussa (Ruge, Walther)</td>
 </td>
 <td>12 Lexikonbeiträge</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Die römischen Katakomben: archäologische Forschungen über den Ursprung und die Bedeutung der altchristlichen Grabstätten</td>
-<td>Styger, Paul</td>
-<td>1933</td>
-<td></td>
-<td>
-Styger, Paul, Die römischen Katakomben: archäologische Forschungen über den Ursprung und die Bedeutung der altchristlichen Grabstätten (Berlin 1933) <br> <a href="http://opac.regesta-imperii.de/id/945247">Online verfügbar (Link)</a></td>
-</td>
-<td>Archäologie; Christianisierung; Grabmale; Rom</td>
 <td></td>
 </tr>
 
