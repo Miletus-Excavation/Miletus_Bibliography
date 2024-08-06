@@ -1,4 +1,16 @@
 <tr>
+<td>“Armed” with Modern History. The Statue of the River God Meander at Miletus, 1909-2023.</td>
+<td>Lordoğlu, Nisan; Lenaghan, Julia</td>
+<td>2024</td>
+<td>Anadolu Araştırmaları / Anatolian Research</td>
+<td>
+Lordoğlu, Nisan; Lenaghan, Julia, “Armed” with Modern History. The Statue of the River God Meander at Miletus, 1909-2023., Anadolu Araştırmaları / Anatolian Research 0, 2024, 271-286 <br> <a href="https://doi.org/10.26650/anar.2024.30.1451818">Online verfügbar (DOI)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-04 Funde: Skulptur; 07 Architektur; 07-07 Architektur: Gymnasia und Thermenanlagen; Faustinathermen</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Holocene environmental change dates of Lake Bafa: Hierarchical Bayesian change point analysis</td>
 <td>Ön, Zeki Bora</td>
 <td>2023</td>
@@ -119,12 +131,12 @@ Meiggs, David; Slawisch, Anja; Wilkinson, Toby, A preliminary assessment of anci
 </tr>
 
 <tr>
-<td>Mileto, Athena e la memoria.Considerazioni sulla città e la sua ricostruzione</td>
+<td>Mileto, Athena e la memoria. Considerazioni sulla città e la sua ricostruzione</td>
 <td>Masturzo, Nicolò</td>
 <td>2023</td>
 <td>Pelargòs</td>
 <td>
-Masturzo, Nicolò, Mileto, Athena e la memoria.Considerazioni sulla città e la sua ricostruzione, Pelargòs 4, 2023, 93-107</td>
+Masturzo, Nicolò, Mileto, Athena e la memoria. Considerazioni sulla città e la sua ricostruzione, Pelargòs 4, 2023, 93-107</td>
 </td>
 <td>02 Allgemeine Darstellungen / Topographie; 02-05 Topographie: klassische Zeit; 08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena; 10 politische Geschichte; 10-03 Geschichte: klassische Zeit</td>
 <td></td>
@@ -14791,6 +14803,18 @@ Scherer, Anton, Zur Laut- und Formenlehre der milesischen Inschriften (  1934)</
 Paulys Realencyclopädie der classischen Altertumswissenschaft 5,A 1 (1934) 126 s.v. Teichiussa (Ruge, Walther)</td>
 </td>
 <td>12 Lexikonbeiträge</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Die römischen Katakomben: archäologische Forschungen über den Ursprung und die Bedeutung der altchristlichen Grabstätten</td>
+<td>Styger, Paul</td>
+<td>1933</td>
+<td></td>
+<td>
+Styger, Paul, Die römischen Katakomben: archäologische Forschungen über den Ursprung und die Bedeutung der altchristlichen Grabstätten (Berlin 1933) <br> <a href="http://opac.regesta-imperii.de/id/945247">Online verfügbar (Link)</a></td>
+</td>
+<td>Archäologie; Christianisierung; Grabmale; Rom</td>
 <td></td>
 </tr>
 
