@@ -11,6 +11,18 @@ Lordoğlu, Nisan; Lenaghan, Julia, “Armed” with Modern History. The Statue o
 </tr>
 
 <tr>
+<td>Streets as contested spaces in ancient Miletus</td>
+<td>Berns, Christof; Osthof, Ann Lauren</td>
+<td>2024</td>
+<td>Perspetivas Temáticas</td>
+<td>
+Berns, Christof; Osthof, Ann Lauren, Streets as contested spaces in ancient Miletus, in: , História da Arquitetura ( 2024), 131-141</td>
+</td>
+<td>07 Architektur; 07-01 Architektur: Varia; Hellenistisch; Kaiserzeit; Straßen; Straßenraster</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Holocene environmental change dates of Lake Bafa: Hierarchical Bayesian change point analysis</td>
 <td>Ön, Zeki Bora</td>
 <td>2023</td>
