@@ -1,4 +1,16 @@
 <tr>
+<td>Archangels, Empty Ciboria, and the Defense of Late Antique Miletus. More Light from the Ancient East</td>
+<td>Niewöhner, Philipp</td>
+<td>2024</td>
+<td>Journal of Late Antiquity</td>
+<td>
+Niewöhner, Philipp, Archangels, Empty Ciboria, and the Defense of Late Antique Miletus. More Light from the Ancient East, Journal of Late Antiquity 17, 2024, 298-329</td>
+</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften; 08 Kulte und Kulteinrichtungen; 10 politische Geschichte; 10-06 Geschichte: Spät und Nachantike</td>
+<td>Following an authoritative interpretation by the eminent theologian Adolf Deissmann, the well-known archangel inscription CIG 2895 on the Roman theatre of Miletus in western Asia Minor was long understood as a paradigmatic example of early Christian continuation of more ancient beliefs and religion. Against this, and from a comparative religious studies standpoint, Rangar Cline has more recently argued that the archangel inscription was in fact pre-Christian and represented syncretistic magic from earlier Late Antiquity, when Christianity had not yet become the sole religion and Miletus was still tolerant of other beliefs and practices. The paper in hand follows up with new archaeological and epigraphic evidence concerning the location, reading, and context of the inscription. Some of the new discoveries would at first seem to support Cline’s syncretistic understanding, but overall, the weight of all available evidence leads back to Deissmann’s original interpretation. As a result, the archangel inscription stands confirmed as an instance of early Christian appropriation of ancient magic.</td>
+</tr>
+
+<tr>
 <td>“Armed” with Modern History. The Statue of the River God Meander at Miletus, 1909-2023.</td>
 <td>Lordoğlu, Nisan; Lenaghan, Julia</td>
 <td>2024</td>
@@ -8959,18 +8971,6 @@ Klinkott, Manfred, Raster, Raum und Sichtverbindungen im Stadtensemble von Milet
 Herrmann, Peter, Milet unter Augustus. Erkentnisse aus einem Inschriften-Neufund, in: Strubbe, J. H. M., Energeia. Studies on Ancient History and Epigraphy presented to H.W. Pleket ( 1996), 1-18</td>
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften; 10 politische Geschichte; 10-05 Geschichte: Kaiserzeit</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Raster, Raum und Sichtverbindungen im Stadtensemble von Milet</td>
-<td>Herrmann, Peter</td>
-<td>1996</td>
-<td>Energeia</td>
-<td>
-Herrmann, Peter, Raster, Raum und Sichtverbindungen im Stadtensemble von Milet, in: Strubbe, J. H. M., Studies on ancient history and epigraphy presented to H. W. Pleket (Amsterdam 1996), 1-18</td>
-</td>
-<td>02 Allgemeine Darstellungen / Topographie</td>
 <td></td>
 </tr>
 
