@@ -1,4 +1,16 @@
 <tr>
+<td>Archangels, Empty Ciboria, and the Defense of Late Antique Miletus. More Light from the Ancient East</td>
+<td>Niewöhner, Philipp</td>
+<td>2024</td>
+<td>Journal of Late Antiquity</td>
+<td>
+Niewöhner, Philipp, Archangels, Empty Ciboria, and the Defense of Late Antique Miletus. More Light from the Ancient East, Journal of Late Antiquity 17, 2024, 298-329</td>
+</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften; 08 Kulte und Kulteinrichtungen; 10 politische Geschichte; 10-06 Geschichte: Spät und Nachantike</td>
+<td>Following an authoritative interpretation by the eminent theologian Adolf Deissmann, the well-known archangel inscription CIG 2895 on the Roman theatre of Miletus in western Asia Minor was long understood as a paradigmatic example of early Christian continuation of more ancient beliefs and religion. Against this, and from a comparative religious studies standpoint, Rangar Cline has more recently argued that the archangel inscription was in fact pre-Christian and represented syncretistic magic from earlier Late Antiquity, when Christianity had not yet become the sole religion and Miletus was still tolerant of other beliefs and practices. The paper in hand follows up with new archaeological and epigraphic evidence concerning the location, reading, and context of the inscription. Some of the new discoveries would at first seem to support Cline’s syncretistic understanding, but overall, the weight of all available evidence leads back to Deissmann’s original interpretation. As a result, the archangel inscription stands confirmed as an instance of early Christian appropriation of ancient magic.</td>
+</tr>
+
+<tr>
 <td>“Armed” with Modern History. The Statue of the River God Meander at Miletus, 1909-2023.</td>
 <td>Lordoğlu, Nisan; Lenaghan, Julia</td>
 <td>2024</td>
@@ -8,6 +20,30 @@ Lordoğlu, Nisan; Lenaghan, Julia, “Armed” with Modern History. The Statue o
 </td>
 <td>03 Funde aus Milet; 03-04 Funde: Skulptur; 07 Architektur; 07-07 Architektur: Gymnasia und Thermenanlagen; Faustinathermen</td>
 <td></td>
+</tr>
+
+<tr>
+<td>Inschriften aus Milet I: Neufunde und Addenda 2021-2023</td>
+<td>Harter-Uibopuu, Kaja; Czeitschner, René; Egetenmeier, Philip; Schneider, Julian Gabriel</td>
+<td>2024</td>
+<td>Philia. International Journal of Ancient Mediterranean Studies</td>
+<td>
+Harter-Uibopuu, Kaja; Czeitschner, René; Egetenmeier, Philip; Schneider, Julian Gabriel, Inschriften aus Milet I: Neufunde und Addenda 2021-2023, Philia. International Journal of Ancient Mediterranean Studies 10, 2024, 130-165 <br> <a href="https://doi.org/https://doi.org/10.36991/PHILIA.202408">Online verfügbar (DOI)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
+<td>Der Beitrag umfasst die ersten Ergebnisse der 2021 wieder begonnenen Feldforschung zu den Inschriften von Milet. Darin werden 18 neue Texte und Fragmente aus hellenistischer bis byzantinischer Zeit veröffentlicht, die im Museum, im Grabungsdepot und im Gelände aufgenommen werden konnten. Zusätzlich wird ein Addendum zu einer bereits bekannten Inschrift beigefügt. Ziel der hiermit begonnenen Aufsatzreihe ist es, die Ergebnisse künftiger Feldforschungen laufend sowie zeitnah zu publizieren.</td>
+</tr>
+
+<tr>
+<td>Inschriften aus Milet II: Neues zu den Temeniten. Drei kaiserzeitliche Vereinsinschriften</td>
+<td>Egetenmeier, Philip</td>
+<td>2024</td>
+<td>Philia. International Journal of Ancient Mediterranean Studies</td>
+<td>
+Egetenmeier, Philip, Inschriften aus Milet II: Neues zu den Temeniten. Drei kaiserzeitliche Vereinsinschriften, Philia. International Journal of Ancient Mediterranean Studies 10, 2024, 58-71 <br> <a href="https://doi.org/https://doi.org/10.36991/PHILIA.202408">Online verfügbar (DOI)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften; 10 politische Geschichte; 10-05 Geschichte: Kaiserzeit</td>
+<td>Der vorliegende Beitrag enthält drei neue Inschriften aus Milet, die sämtlich einen Bezug zu den Temeniten aufweisen. Mit den neuen Inschriften liegen nun auch Zeugnisse aus der Kaiserzeit für diese enigmatische und nur in Milet anzutreffende Vereinigung vor. Es handelt sich jeweils um Namenslisten, die später um Nachträge ergänzt wurden, weshalb speziell diesem Phänomen auch bei dem bereits publizierten Material nachgegangen wird. Nach Besprechung der neuen Inschriften folgen einige abschließenden Überlegungen, in denen auf Basis aller bekannten Temeniten-Zeugnisse versucht wird, eine Erklärung zu den Hintergründen dieser Namenslisten und dem Charakter dieser milesischen Vereinigungen anzubieten. Von besonderem Interesse sind zudem die Stephanephoren-Datierungen (Lucius Malius Reginus und dessen Sohn Lucius Malius Saturninus) sowie ein sehr früher Beleg für einen archisynagogos.</td>
 </tr>
 
 <tr>
@@ -116,6 +152,18 @@ Sato, Noboru, Hellenistic Didyma and the Milesian Past, Japan Studies in Classic
 </td>
 <td>08 Kulte und Kulteinrichtungen; 08-01 Kulte: Varia; 10 politische Geschichte; 10-03 Geschichte: klassische Zeit; 10-04 Geschichte: hellenistische Zeit; Didyma</td>
 <td>Following the arrival of Alexander the Great in Miletus, drastic political changes occurred in there and in other Greek city-states in Asia Minor. This period was also a crucial turning point for Didyma, an extra-urban sanctuary of Miletus. This occurrence of change is presumably an observable indication of one of the major structural shifts in the late classical and early Hellenistic periods. What impact did these political and cultural changes have on Milesian mythical narratives and historiographies? This study aims to examine Hellenistic myths and historiographies concerning the Didymaeum, the temple of Apollo Didymeus, focusing on theinfluence of contemporary Milesian religious and diplomatic activities and on interactions with Hellenistic rulers and other Greek city-states.</td>
+</tr>
+
+<tr>
+<td>The Nourisher of Apollo. Miletos from Xerxes to Diocletian</td>
+<td>Nawotka, Krzysztof</td>
+<td>2023</td>
+<td>Philippika. Altertumswissenschaftliche Abhandlungen</td>
+<td>
+Nawotka, Krzysztof, The Nourisher of Apollo. Miletos from Xerxes to Diocletian (Wiesbaden 2023)</td>
+</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften; 03-09 Funde: Münzen; 10 politische Geschichte; 10-03 Geschichte: klassische Zeit; 10-04 Geschichte: hellenistische Zeit; 10-05 Geschichte: Kaiserzeit; 10-06 Geschichte: Spät und Nachantike</td>
+<td></td>
 </tr>
 
 <tr>
@@ -8959,18 +9007,6 @@ Klinkott, Manfred, Raster, Raum und Sichtverbindungen im Stadtensemble von Milet
 Herrmann, Peter, Milet unter Augustus. Erkentnisse aus einem Inschriften-Neufund, in: Strubbe, J. H. M., Energeia. Studies on Ancient History and Epigraphy presented to H.W. Pleket ( 1996), 1-18</td>
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften; 10 politische Geschichte; 10-05 Geschichte: Kaiserzeit</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Raster, Raum und Sichtverbindungen im Stadtensemble von Milet</td>
-<td>Herrmann, Peter</td>
-<td>1996</td>
-<td>Energeia</td>
-<td>
-Herrmann, Peter, Raster, Raum und Sichtverbindungen im Stadtensemble von Milet, in: Strubbe, J. H. M., Studies on ancient history and epigraphy presented to H. W. Pleket (Amsterdam 1996), 1-18</td>
-</td>
-<td>02 Allgemeine Darstellungen / Topographie</td>
 <td></td>
 </tr>
 
