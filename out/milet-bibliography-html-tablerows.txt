@@ -1,4 +1,28 @@
 <tr>
+<td>Bemerkungen zu den Malstilen in der archaischen milesischen Vasenmalerei</td>
+<td>von Graeve, Volkmar</td>
+<td>2024</td>
+<td>Cahiers du Corpus Vasorum Antiquorum</td>
+<td>
+von Graeve, Volkmar, Bemerkungen zu den Malstilen in der archaischen milesischen Vasenmalerei, in: , La céramique milésienne et apparentée à l'epoque archaique (Paris 2024), 1-21</td>
+</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Die Vasenmalerei archaischer Zeit in Milet: Stil und Chronologie - Gefäßform und Ikonographie</td>
+<td>Schlotzhauer, Udo</td>
+<td>2024</td>
+<td>Cahiers du Corpus Vasorum Antiquorum</td>
+<td>
+Schlotzhauer, Udo, Die Vasenmalerei archaischer Zeit in Milet: Stil und Chronologie - Gefäßform und Ikonographie, in: , La céramique milésienne et apparentée à l'epoque archaique (Paris 2024), 23-38</td>
+</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Archangels, Empty Ciboria, and the Defense of Late Antique Miletus. More Light from the Ancient East</td>
 <td>Niewöhner, Philipp</td>
 <td>2024</td>
@@ -32,6 +56,18 @@ Harter-Uibopuu, Kaja; Czeitschner, René; Egetenmeier, Philip; Schneider, Julian
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
 <td>Der Beitrag umfasst die ersten Ergebnisse der 2021 wieder begonnenen Feldforschung zu den Inschriften von Milet. Darin werden 18 neue Texte und Fragmente aus hellenistischer bis byzantinischer Zeit veröffentlicht, die im Museum, im Grabungsdepot und im Gelände aufgenommen werden konnten. Zusätzlich wird ein Addendum zu einer bereits bekannten Inschrift beigefügt. Ziel der hiermit begonnenen Aufsatzreihe ist es, die Ergebnisse künftiger Feldforschungen laufend sowie zeitnah zu publizieren.</td>
+</tr>
+
+<tr>
+<td>Bild und Ornament. Zur zeichnerischen Rekonstruktion archaischer Keramik aus Milet</td>
+<td>Grönwald, Holger</td>
+<td>2024</td>
+<td>Cahiers du Corpus Vasorum Antiquorum</td>
+<td>
+Grönwald, Holger, Bild und Ornament. Zur zeichnerischen Rekonstruktion archaischer Keramik aus Milet, in: , La céramique milésienne et apparentée à l'epoque archaique (Paris 2024), 49-75</td>
+</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit</td>
+<td></td>
 </tr>
 
 <tr>
