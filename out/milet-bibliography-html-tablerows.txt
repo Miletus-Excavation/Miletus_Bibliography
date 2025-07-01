@@ -52,7 +52,7 @@ Lordoğlu, Nisan; Lenaghan, Julia, “Armed” with Modern History. The Statue o
 <td>2024</td>
 <td>Philia. International Journal of Ancient Mediterranean Studies</td>
 <td>
-Harter-Uibopuu, Kaja; Czeitschner, René; Egetenmeier, Philip; Schneider, Julian Gabriel, Inschriften aus Milet I: Neufunde und Addenda 2021-2023, Philia. International Journal of Ancient Mediterranean Studies 10, 2024, 130-165 <br> <a href="https://doi.org/https://doi.org/10.36991/PHILIA.202408">Online verfügbar (DOI)</a></td>
+Harter-Uibopuu, Kaja; Czeitschner, René; Egetenmeier, Philip; Schneider, Julian Gabriel, Inschriften aus Milet I: Neufunde und Addenda 2021-2023, Philia. International Journal of Ancient Mediterranean Studies 10, 2024, 130-165 <br> <a href="https://doi.org/https://doi.org/10.36991/PHILIA.202411">Online verfügbar (DOI)</a></td>
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
 <td>Der Beitrag umfasst die ersten Ergebnisse der 2021 wieder begonnenen Feldforschung zu den Inschriften von Milet. Darin werden 18 neue Texte und Fragmente aus hellenistischer bis byzantinischer Zeit veröffentlicht, die im Museum, im Grabungsdepot und im Gelände aufgenommen werden konnten. Zusätzlich wird ein Addendum zu einer bereits bekannten Inschrift beigefügt. Ziel der hiermit begonnenen Aufsatzreihe ist es, die Ergebnisse künftiger Feldforschungen laufend sowie zeitnah zu publizieren.</td>
@@ -2887,6 +2887,18 @@ Köcke, Lara Sophie, Neubürgerinnen in Milet, in: Günther, Linda-Marie, Bürge
 Kouka, Ourania, Past Stories – Modern Narratives: Cultural Dialogues between East Aegean Islands and the West Anatolian Mainland in the 4th Millennium BC, in: Horejs, Barbara; Mehofer, Mathias, Western Anatolia before Troy : proto-urbanisation in the 4th millenium BC? Proceedings of the International Symposium held at the Kunsthistorisches Museum Wien, Vienna, Austria, 21 - 24 November, 2012 (Wien 2014), 43-63</td>
 </td>
 <td>02 Allgemeine Darstellungen / Topographie; 02-01 Topographie: Prähistorisch; 02-02 Topographie: Bronzezeit</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Architektonische Magneten im Straßenablauf der antiken Stadt</td>
+<td>Klinkott, Manfred</td>
+<td>2014</td>
+<td>Diskussionen zur archäologischen Bauforschung</td>
+<td>
+Klinkott, Manfred, Architektonische Magneten im Straßenablauf der antiken Stadt, in: , Die Architektur des Weges. Gestaltete Bewegung im gebauten Raum (Regensburg 2014), 7-26</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 07 Architektur; 07-01 Architektur: Varia</td>
 <td></td>
 </tr>
 
