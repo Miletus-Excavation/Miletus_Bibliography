@@ -1,4 +1,16 @@
 <tr>
+<td>Le travail en ville en Grèce antique, ou la cité grecque face à la ville et au travail (VIe-Ier s. av. J.-C.)</td>
+<td>Maillot, Stéphanie; Zurbach, Julien</td>
+<td>2025</td>
+<td>Histoire Urbaine</td>
+<td>
+Maillot, Stéphanie; Zurbach, Julien, Le travail en ville en Grèce antique, ou la cité grecque face à la ville et au travail (VIe-Ier s. av. J.-C.), Histoire Urbaine 72, 2025, 13-24</td>
+</td>
+<td>10 politische Geschichte; 10-02 Geschichte: archaische Zeit; 10-03 Geschichte: klassische Zeit; 10-04 Geschichte: hellenistische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
 <td>The Restoration of the Nymphaeum of Trajanus in Miletus between Formal Renovation and Structural Repair</td>
 <td>Casa, Giacomo</td>
 <td>2025</td>
@@ -11,6 +23,18 @@ Casa, Giacomo, The Restoration of the Nymphaeum of Trajanus in Miletus between F
 </tr>
 
 <tr>
+<td>Milet 2023 Yılı Çalışmaları</td>
+<td>Berns, Christof; Zurbach, Julien; Özgan, Christine</td>
+<td>2025</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+Berns, Christof; Zurbach, Julien; Özgan, Christine, Milet 2023 Yılı Çalışmaları, Kazı Sonuçları Toplantısı 44, 2025, 377-396</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Bemerkungen zu den Malstilen in der archaischen milesischen Vasenmalerei</td>
 <td>von Graeve, Volkmar</td>
 <td>2024</td>
@@ -19,6 +43,18 @@ Casa, Giacomo, The Restoration of the Nymphaeum of Trajanus in Miletus between F
 von Graeve, Volkmar, Bemerkungen zu den Malstilen in der archaischen milesischen Vasenmalerei, in: , La céramique milésienne et apparentée à l'epoque archaique (Paris 2024), 1-21</td>
 </td>
 <td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Miletus - The Ionian Metropolis in the Archaic Period</td>
+<td>Senff, Reinhard</td>
+<td>2024</td>
+<td>Colloquia Antiqua</td>
+<td>
+Senff, Reinhard, Miletus - The Ionian Metropolis in the Archaic Period, in: Tsetskhladze, Gocha R.; Hargrave, James, Greek Colonization. Continuing an Account of Greek Colonies and Settlements Overseas (Greek Colonisation vol. 3) (Leuven 2024), 485-550</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-03 Topographie: geometrische Zeit; 02-04 Topographie: archaische Zeit</td>
 <td></td>
 </tr>
 
@@ -92,6 +128,18 @@ Egetenmeier, Philip, Inschriften aus Milet II: Neues zu den Temeniten. Drei kais
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften; 10 politische Geschichte; 10-05 Geschichte: Kaiserzeit</td>
 <td>Der vorliegende Beitrag enthält drei neue Inschriften aus Milet, die sämtlich einen Bezug zu den Temeniten aufweisen. Mit den neuen Inschriften liegen nun auch Zeugnisse aus der Kaiserzeit für diese enigmatische und nur in Milet anzutreffende Vereinigung vor. Es handelt sich jeweils um Namenslisten, die später um Nachträge ergänzt wurden, weshalb speziell diesem Phänomen auch bei dem bereits publizierten Material nachgegangen wird. Nach Besprechung der neuen Inschriften folgen einige abschließenden Überlegungen, in denen auf Basis aller bekannten Temeniten-Zeugnisse versucht wird, eine Erklärung zu den Hintergründen dieser Namenslisten und dem Charakter dieser milesischen Vereinigungen anzubieten. Von besonderem Interesse sind zudem die Stephanephoren-Datierungen (Lucius Malius Reginus und dessen Sohn Lucius Malius Saturninus) sowie ein sehr früher Beleg für einen archisynagogos.</td>
+</tr>
+
+<tr>
+<td>Milet 2022 Yılı Çalışmaları</td>
+<td>Berns, Christof; Zurbach, Julien; Özgan, Christine</td>
+<td>2024</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+Berns, Christof; Zurbach, Julien; Özgan, Christine, Milet 2022 Yılı Çalışmaları, Kazı Sonuçları Toplantısı 43, 2024, 521-537</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
+<td></td>
 </tr>
 
 <tr>
@@ -259,6 +307,18 @@ Masturzo, Nicolò, Mileto, Athena e la memoria. Considerazioni sulla città e la
 Gras, Michel, Ettore Lepore tra Mileto e Focea, in: Federico, Eduardo; Adamo, Sara; Lanzillo, Massimiliano, Ettore Lepore e la Storia Antica. Eredità, attualità, prospettive Atti del Convegno internazionale (Napoli, 20-22 ottobre 2021) (Bari 2023), 271-295 <br> <a href="https://doi.org/10.4475/0338">Online verfügbar (Link)</a></td>
 </td>
 <td>14 Forschungsgeschichte</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 2021 Yılı Çalışmaları</td>
+<td>Berns, Christof; Özgan, Christine; Zurbach, Julien</td>
+<td>2023</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+Berns, Christof; Özgan, Christine; Zurbach, Julien, Milet 2021 Yılı Çalışmaları, Kazı Sonuçları Toplantısı 42, 2023, 523-541</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
 <td></td>
 </tr>
 
@@ -439,18 +499,6 @@ Gabel, Jenny; Berns, Christof; Bosch, Sebastian; Eickmeyer, Jost; Harter-Uibopuu
  <br> <a href="https://doi.org/10.5194/egusphere-egu22-7959">Online verfügbar (Link)</a></td>
 </td>
 <td>11 Geographie und Geophysik</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Milet 2021 Yılı Çalışmaları</td>
-<td>Berns, Christof; Özgan, Christine; Zurbach, Julien</td>
-<td>2022</td>
-<td>Kazı Sonuçları Toplantısı</td>
-<td>
-Berns, Christof; Özgan, Christine; Zurbach, Julien, Milet 2021 Yılı Çalışmaları, Kazı Sonuçları Toplantısı 42, 2022, 523-541</td>
-</td>
-<td></td>
 <td></td>
 </tr>
 
@@ -1123,6 +1171,18 @@ Niewöhner, Philipp, Byzantine Preservation of Ancient Monuments at Miletus in C
 Kunisch, Norbert, Attic vases in Miletos, British Museum Studies in Ancient Egypt and Sudan 24, 2019, 303–311</td>
 </td>
 <td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit; 03-05-05 Keramik: klassische Zeit; Archaisch; Attisch; Keramik; Keramik - Gefäßmalerei; Klassisch; Rotfigurig; Schwarzfigurig</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Local and Imported in Action: Western Anatolian and Cycladic Figurines in Early Bronce Age Miletus</td>
+<td>Kouka, Ourania</td>
+<td>2019</td>
+<td></td>
+<td>
+Kouka, Ourania, Local and Imported in Action: Western Anatolian and Cycladic Figurines in Early Bronce Age Miletus, in: Marthari, Marisa; Renfrew, Colin; Boyd, Michael J., Beyond the Cyclades. Early Cycladic Sculpture in Context from Mainland Greece, the North and East Aegean (Cambridge 2019), 237-248</td>
+</td>
+<td>03 Funde aus Milet; 03-04 Funde: Skulptur</td>
 <td></td>
 </tr>
 
