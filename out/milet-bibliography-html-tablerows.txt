@@ -1,4 +1,16 @@
 <tr>
+<td>The Restoration of the Nymphaeum of Trajanus in Miletus between Formal Renovation and Structural Repair</td>
+<td>Casa, Giacomo</td>
+<td>2025</td>
+<td>Arkhaia Anatolika</td>
+<td>
+Casa, Giacomo, The Restoration of the Nymphaeum of Trajanus in Miletus between Formal Renovation and Structural Repair, Arkhaia Anatolika 8, 2025, 128-145 <br> <a href="https://doi.org/10.32949/Arkhaia.2025.72">Online verfügbar (DOI)</a></td>
+</td>
+<td>07 Architektur; 07-10 Architektur: Wasserversorgung; Nymphäum</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Bemerkungen zu den Malstilen in der archaischen milesischen Vasenmalerei</td>
 <td>von Graeve, Volkmar</td>
 <td>2024</td>
