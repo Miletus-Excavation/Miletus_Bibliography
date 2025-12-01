@@ -4331,18 +4331,6 @@ Jacobs, Ine, Production to Destruction? Pagan and Mythological Statuary in Asia 
 </tr>
 
 <tr>
-<td>Balat İlyas Bey Külliyesi Kazısı’nda Ortaya Çıkarılan Seramiklerin Değerlendirilmesi (2007-2008)</td>
-<td>Gök-Gürhan, Sevinç</td>
-<td>2010</td>
-<td></td>
-<td>
-Gök-Gürhan, Sevinç, Balat İlyas Bey Külliyesi Kazısı’nda Ortaya Çıkarılan Seramiklerin Değerlendirilmesi (2007-2008), in: Pektaş, Kadir; Cirtil, Saim; Cirtil, Selda Özgün; Öztaşkın, Gökçen Kurtuluş; Özdemir, Hicran; Uykur, Ramazan, XIII. Ortaçağ ve Türk Dönemi Kazıları ve Sanat Tarihi Araştırmaları Sempozyumu Bildirileri (Istanbul 2010), 289-304</td>
-</td>
-<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-09 Keramik: Mittelalter; Balat; Keramik; Mittelalter; Moschee</td>
-<td>In the excavations carried out in Balat Ilyas Bey Complex under the scientific supervision of by  Associated Professor Yekta Demiralp and Associated Professor Şakir Çakmak, great quantity of ceramics was unearthed. It was observed that those ceramics, which contains sgraffito, under glazed (Miletus type), monochrome glazed, impressed technique and unglazed samples, show integrant  features in technique, design and clay. The clay used is red, hard and with sand and mica. Especially those that have same clay and coating features helped the dating problem of the ceramics with different decoration techniques. Moreover ceramics for the Emirates period present novelty in form and design which excites us with new forms and designs we haven’t seen up today.</td>
-</tr>
-
-<tr>
 <td>Land of Ionia. Society and economy in the archaic period</td>
 <td>Greaves, Alan M.</td>
 <td>2010</td>
@@ -4748,6 +4736,18 @@ Günther, Wolfgang, Funde aus Milet XXV. Hellenistische Bürgerrechts- und Proxe
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften; 08 Kulte und Kulteinrichtungen; 08-02 Kulte: Apollon Delphinios; Apollon; Bürgerrechte; Delphinion; Heiligtum; Myus; Proxenie</td>
 <td>Vier Inschriftenneufunde, als Spolien verbauteWandquader aus dem Delphinion, enthalten Verzeichnisse von Neubürgern und Proxenoi des 3. Jhs. v. Chr.: die bislang älteste datierte Liste von 274/273, die erstmals Neubürger aus dem thessalischen Raum bezeugt, eine Liste von eingebürgerten Metöken, darunter der nachmals berühmte Schulstifter Eudemos, sowie der Teil eines Verzeichnisses, dessen außergewöhnlich großer Umfang auf die geschlossene Aufnahme einer Polisgemeinschaft hinweist. Diese Liste dürfte die Sympolitie mit dem benachbarten Myus dokumentieren. Zwei Inschriftenfunde der alten Miletgrabung von 1918 sind Verzeichnisse des 3. und 2. Jhs. v. Chr., unter ihnen die Nennung eines Proxenos aus dem phönizischen Berytos. Eine größere Anzahl von Delphinionblöcken wurde in nach-justinianischer Zeit zum Bau einer Friedhofskirche wiederverwendet. Das lässt darauf schließen, dass das Delphinion bis in das 6. Jh. n. Chr. als Gebäude oder Gebäuderuine bestand.</td>
+</tr>
+
+<tr>
+<td>Balat İlyas Bey Külliyesi Kazısı’nda Ortaya Çıkarılan Seramiklerin Değerlendirilmesi (2007-2008)</td>
+<td>Gök-Gürhan, Sevinç</td>
+<td>2009</td>
+<td></td>
+<td>
+Gök-Gürhan, Sevinç, Balat İlyas Bey Külliyesi Kazısı’nda Ortaya Çıkarılan Seramiklerin Değerlendirilmesi (2007-2008), in: Pektaş, Kadir; Cirtil, Saim; Cirtil, Selda Özgün; Öztaşkın, Gökçen Kurtuluş; Özdemir, Hicran; Uykur, Ramazan, XIII. Ortaçağ ve Türk Dönemi Kazıları ve Sanat Tarihi Araştırmaları Sempozyumu Bildirileri (Istanbul 2009), 289-304</td>
+</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-09 Keramik: Mittelalter; Balat; Keramik; Mittelalter; Moschee</td>
+<td>In the excavations carried out in Balat Ilyas Bey Complex under the scientific supervision of by  Associated Professor Yekta Demiralp and Associated Professor Şakir Çakmak, great quantity of ceramics was unearthed. It was observed that those ceramics, which contains sgraffito, under glazed (Miletus type), monochrome glazed, impressed technique and unglazed samples, show integrant  features in technique, design and clay. The clay used is red, hard and with sand and mica. Especially those that have same clay and coating features helped the dating problem of the ceramics with different decoration techniques. Moreover ceramics for the Emirates period present novelty in form and design which excites us with new forms and designs we haven’t seen up today.</td>
 </tr>
 
 <tr>
