@@ -1,4 +1,16 @@
 <tr>
+<td>Finds from Miletus XXXIII. Scarabs in Faience and Steatite from the Bothros, Sanctaury of Aphrodite on Zeytintepe (>Olive Hill<)</td>
+<td>Webb, Virginia</td>
+<td>2025</td>
+<td>Archäologischer Anzeiger</td>
+<td>
+Webb, Virginia, Finds from Miletus XXXIII. Scarabs in Faience and Steatite from the Bothros, Sanctaury of Aphrodite on Zeytintepe (>Olive Hill<), Archäologischer Anzeiger 2025,1, 2025, 1-47 <br> <a href="https://doi.org/10.34780/zxjk6y94">Online verfügbar (DOI)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-02 Funde: Varia; 08 Kulte und Kulteinrichtungen; 08-06 Kulte: Aphrodite von Oikous; Skarabäen</td>
+<td>In this article a detailed catalogue and commentary on a select number of scarabs of Egyptian and Near Eastern type is given which were excavated from the Bothros on Zeytintepe between 2009 and 2010 (earlier finds of this type from both the surface excavations and the Bothros have already been published by G. Hölbl). They are rare and comparatively precious objects, which actually had a longer lifespan, as we can tell from the dated comparanda, than the other faience objects – amulets, figurines, and ointment vessels – which were found with them. Their importance can be demonstrated by the copies they inspired in the localized Aegean production of scarabs, a number of which are also illustrated and discussed. These small objects began to be deposited in the Sanctuary in around 700–690 B.C., though many of them are of earlier date, and they give us an insight into the wide-reaching trading links which existed in the Middle Sea. They also strongly suggest a specific role for the Sanctuary, dedicated to the goddess of Sex/Love and we may suppose, to Aphrodite in her role as the patron of Sailors – Euploia (Good Sailing): both sailors and women must have been associated with these offerings.</td>
+</tr>
+
+<tr>
 <td>Le travail en ville en Grèce antique, ou la cité grecque face à la ville et au travail (VIe-Ier s. av. J.-C.)</td>
 <td>Maillot, Stéphanie; Zurbach, Julien</td>
 <td>2025</td>
@@ -19,6 +31,18 @@ Maillot, Stéphanie; Zurbach, Julien, Le travail en ville en Grèce antique, ou 
 Casa, Giacomo, The Restoration of the Nymphaeum of Trajanus in Miletus between Formal Renovation and Structural Repair, Arkhaia Anatolika 8, 2025, 128-145 <br> <a href="https://doi.org/10.32949/Arkhaia.2025.72">Online verfügbar (DOI)</a></td>
 </td>
 <td>07 Architektur; 07-10 Architektur: Wasserversorgung; Nymphäum</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Basis für eine Staue des Pompeius in Milet</td>
+<td>Bruns-Özgan, Christine</td>
+<td>2025</td>
+<td>Anadolu Anatolia</td>
+<td>
+Bruns-Özgan, Christine, Basis für eine Staue des Pompeius in Milet, Anadolu Anatolia 51, 2025, 193-212 <br> <a href="https://doi.org/10.36891/anatolia.1696920">Online verfügbar (DOI)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-04 Funde: Skulptur; 03-09 Funde: Münzen</td>
 <td></td>
 </tr>
 
@@ -248,6 +272,18 @@ Sato, Noboru, Hellenistic Didyma and the Milesian Past, Japan Studies in Classic
 </td>
 <td>08 Kulte und Kulteinrichtungen; 08-01 Kulte: Varia; 10 politische Geschichte; 10-03 Geschichte: klassische Zeit; 10-04 Geschichte: hellenistische Zeit; Didyma</td>
 <td>Following the arrival of Alexander the Great in Miletus, drastic political changes occurred in there and in other Greek city-states in Asia Minor. This period was also a crucial turning point for Didyma, an extra-urban sanctuary of Miletus. This occurrence of change is presumably an observable indication of one of the major structural shifts in the late classical and early Hellenistic periods. What impact did these political and cultural changes have on Milesian mythical narratives and historiographies? This study aims to examine Hellenistic myths and historiographies concerning the Didymaeum, the temple of Apollo Didymeus, focusing on theinfluence of contemporary Milesian religious and diplomatic activities and on interactions with Hellenistic rulers and other Greek city-states.</td>
+</tr>
+
+<tr>
+<td>Die kaiserzeitliche Münzprägung Milets: Fallstudie zur Entwicklung der Repräsentation, Perzeption und Integration der römischen Autorität im kollektiven Selbstverständnis der Städte Kleinasiens</td>
+<td>Roch, Julius</td>
+<td>2023</td>
+<td>Berliner numismatische Forschungen, Neue Folge</td>
+<td>
+Roch, Julius, Die kaiserzeitliche Münzprägung Milets: Fallstudie zur Entwicklung der Repräsentation, Perzeption und Integration der römischen Autorität im kollektiven Selbstverständnis der Städte Kleinasiens (Regenstauf 2023)</td>
+</td>
+<td>03 Funde aus Milet; 03-09 Funde: Münzen; 10 politische Geschichte; 10-05 Geschichte: Kaiserzeit</td>
+<td>Das kaiserzeitliche Milet: das ist die Stadt des Apollon von Didyma, der Hauptgottheit aus dem international bekannten Heiligtum vor den Toren der Stadt. Die Münzen zeigen diesen Gott und seine Begleiter in vielfachen Varianten, bezeugen aber auch das Wirken einer wichtigen Hafenstadt im Imperium Romanum. Die Publikation bietet einen umfangreichen Katalog der städtischen Münzprägung Milets in der römischen Kaiserzeit. Die Münzen waren ein Medium, mit dem sich die Stadt lokal und überregional präsentierte. Anhand des Bildprogramms wird das Spannungsfeld zwischen römischer Herrschaft, altehrwürdigen lokalen Kulten sowie der Konkurrenz zu anderen Städten beleuchtet.</td>
 </tr>
 
 <tr>
@@ -503,6 +539,18 @@ Gabel, Jenny; Berns, Christof; Bosch, Sebastian; Eickmeyer, Jost; Harter-Uibopuu
 </tr>
 
 <tr>
+<td>Fêtes consacrées à Apollon à Milet et dans les colonies milésiennes du Pont-Euxin</td>
+<td>Feraru, Remus Mihai</td>
+<td>2022</td>
+<td>Pontica</td>
+<td>
+Feraru, Remus Mihai, Fêtes consacrées à Apollon à Milet et dans les colonies milésiennes du Pont-Euxin, Pontica 55, 2022, 25-53</td>
+</td>
+<td>08 Kulte und Kulteinrichtungen; 08-02 Kulte: Apollon Delphinios</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Greco-Anatolian Identity-Making in the Milesian Molpoi-procession</td>
 <td>Bachvarova, Mary R.</td>
 <td>2022</td>
@@ -535,6 +583,18 @@ Bachvarova, Mary R., Greco-Anatolian Identity-Making in the Milesian Molpoi-proc
 Yaşar, Ali, Milet antik kenti ionik stoa binasındaki taş tamamlama uygulamalarinin değerlendirilmesi, Ankara Üniversitesi Güzel Sanatlar Fakültesi Dergisi 3, 2021, 124-136</td>
 </td>
 <td>03 Funde aus Milet; 03-03 Funde: Bauteile, Bauornamentik; 07 Architektur; 07-05 Architektur: Platzanlagen und angrenzende Bauten</td>
+<td></td>
+</tr>
+
+<tr>
+<td>The loyalty of a city to its deity. Miletus and Apollon</td>
+<td>Vidin, Hülya</td>
+<td>2021</td>
+<td>Asia Minor Studien</td>
+<td>
+Vidin, Hülya, The loyalty of a city to its deity. Miletus and Apollon, in: , Traditions through empires. Cities of Asia Minor and their coin images (Bonn 2021), 43-72</td>
+</td>
+<td>03 Funde aus Milet; 03-09 Funde: Münzen</td>
 <td></td>
 </tr>
 
@@ -16543,6 +16603,18 @@ Rambach, Friedrich Eberhard, De Mileto eiusque coloniis (Halle 1790) <br> <a hre
 Tulay, Ahmet Semih; Akat İslam, Hasibe, Didyma, Miletos, Priene (Istanbul )</td>
 </td>
 <td>02 Allgemeine Darstellungen / Topographie</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Miletus</td>
+<td>Berns, Christof; Zurbach, Julien</td>
+<td></td>
+<td></td>
+<td>
+</td>
+</td>
+<td>10 politische Geschichte; 12 Lexikonbeiträge; 14 Forschungsgeschichte</td>
 <td></td>
 </tr>
 
