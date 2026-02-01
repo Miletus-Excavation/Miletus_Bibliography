@@ -1,14 +1,11 @@
 Hi there!
 
-I logged some additional info while processing the database. If you see any problem here, please check the GitHub-Actions-Logs as well as all txt- and log-files in '/out/' for more information. Logged on 01.01.2026 while while running checks:
+I logged some additional info while processing the database. If you see any problem here, please check the GitHub-Actions-Logs as well as all txt- and log-files in '/out/' for more information. Logged on 01.02.2026 while while running checks:
 
 
-There are 18 items with suspect BibTeX-keys! Please check them and correct this. List of affected items saved to: out/wrong_keys.csv
+There are 23 items with suspect BibTeX-keys! Please check them and correct this. List of affected items saved to: out/wrong_keys.csv
 
-**Critical**:
-1 items do not have a pinned LaTeX-Citation Key! Please fix this in Zotero by adding it to the 'Extra'-field. The affected entries are: 
-Berns, Christof; Zurbach, Julien NA: Miletus
-
+All entries have pinned Citation Keys. :) 
 
 No duplicate LaTeX-keys. :) 
 
