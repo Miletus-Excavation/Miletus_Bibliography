@@ -11,6 +11,42 @@ Webb, Virginia, Finds from Miletus XXXIII. Scarabs in Faience and Steatite from 
 </tr>
 
 <tr>
+<td>3D Topographic and Architectural Documentation of the Multi-Functional Underground Structure at Kaletepe, Miletus</td>
+<td>Teraman Hepdinçler, Özel; Techow, Nikolai; Nikolayidis, Haralambos; Kaya, Özlem; Güvendik, Hasan Ersin; Kızıldağ, Ece</td>
+<td>2025</td>
+<td></td>
+<td>
+Teraman Hepdinçler, Özel; Techow, Nikolai; Nikolayidis, Haralambos; Kaya, Özlem; Güvendik, Hasan Ersin; Kızıldağ, Ece, 3D Topographic and Architectural Documentation of the Multi-Functional Underground Structure at Kaletepe, Miletus, in: , V. International Architectural Sciences Congress (IarcSC-2025). Proceedings Book (New York 2025), 935-947 <br> <a href="doi.org/10.5281/zenodo.17937655">Online verfügbar (Link)</a></td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 07 Architektur; 07-10 Architektur: Wasserversorgung</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Serapeia in Kleinasien: Manifestation oder Mythos?</td>
+<td>Sokolicek, Alexander</td>
+<td>2025</td>
+<td>Ergänzungshefte zu den Jahresheften</td>
+<td>
+Sokolicek, Alexander, Serapeia in Kleinasien: Manifestation oder Mythos?, in: , Neue Forschungen am sogenannten Serapeion in Ephesos (Wien 2025), 44-48</td>
+</td>
+<td>07 Architektur; 07-01 Architektur: Varia</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Neue Patriai in Milet mit Grundbesitz auf Lepsia. Anmerkungen zu I.Didyma Suppl. 679 und IG XII 4, 4, 3897</td>
+<td>Schneider, Julian Gabriel</td>
+<td>2025</td>
+<td>Philia. International Journal of Ancient Mediterranean Studies</td>
+<td>
+Schneider, Julian Gabriel, Neue Patriai in Milet mit Grundbesitz auf Lepsia. Anmerkungen zu I.Didyma Suppl. 679 und IG XII 4, 4, 3897, Philia. International Journal of Ancient Mediterranean Studies 11, 2025, 101-106 <br> <a href="https://doi.org/10.36991/PHILIA.202507">Online verfügbar (DOI)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
+<td>Eine Neulesung in der Propheteninschrift I.Didyma Suppl. 679 und deren Verknüpfung mit der milesischen Grenzziehungsurkunde IG XII 4, 4, 3897 aus Lepsia ermöglicht es, eine bisher unbekannte milesische Patria namens Kydimidai nachzuweisen, die auf der Insel in unmittelbarer Nachbarschaft des heiligen Landes von Apollon Lepsieus über Grundbesitz verfügte. Dadurch ist nicht nur ein erstes Schlaglicht auf die Lokalisierung einer solchen Gruppierung im milesischen Territorium geworfen, sondern der Analogieschluss legt ferner nahe, auch die in der Grenzziehung ebenfalls genannten Poulyxidai sowie Choireïdai als milesische Patriai zu identifizieren.</td>
+</tr>
+
+<tr>
 <td>Le travail en ville en Grèce antique, ou la cité grecque face à la ville et au travail (VIe-Ier s. av. J.-C.)</td>
 <td>Maillot, Stéphanie; Zurbach, Julien</td>
 <td>2025</td>
@@ -20,6 +56,18 @@ Maillot, Stéphanie; Zurbach, Julien, Le travail en ville en Grèce antique, ou 
 </td>
 <td>10 politische Geschichte; 10-02 Geschichte: archaische Zeit; 10-03 Geschichte: klassische Zeit; 10-04 Geschichte: hellenistische Zeit</td>
 <td></td>
+</tr>
+
+<tr>
+<td>Inschriften aus Milet III: Neufunde und Addenda 2024</td>
+<td>Harter-Uibopuu, Kaja; Egetenmeier, Philip; Osthof, Ann Lauren</td>
+<td>2025</td>
+<td>Philia. International Journal of Ancient Mediterranean Studies</td>
+<td>
+Harter-Uibopuu, Kaja; Egetenmeier, Philip; Osthof, Ann Lauren, Inschriften aus Milet III: Neufunde und Addenda 2024, Philia. International Journal of Ancient Mediterranean Studies 11, 2025, 15-35 <br> <a href="https://doi.org/10.36991/PHILIA.202502">Online verfügbar (DOI)</a></td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 03 Funde aus Milet; 03-08 Funde: Inschriften</td>
+<td>Der Beitrag umfasst sieben Neufunde aus Milet, die im Grabungsgelände und im Museum aufgenommen werden konnten. Neben einem neuen Fragment des milesischen Festkalenders stehen Namenslisten und Grabinschriften im Mittelpunkt. Zudem wurde eine Ehreninschrift für Kaiser Julian wiedergefunden, die als verschollen galt.</td>
 </tr>
 
 <tr>
@@ -59,6 +107,18 @@ Berns, Christof; Zurbach, Julien; Özgan, Christine, Milet 2023 Yılı Çalışm
 </tr>
 
 <tr>
+<td>Miletus</td>
+<td>Berns, Christof; Zurbach, Julien</td>
+<td>2025</td>
+<td></td>
+<td>
+</td>
+</td>
+<td>10 politische Geschichte; 12 Lexikonbeiträge; 14 Forschungsgeschichte</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Bemerkungen zu den Malstilen in der archaischen milesischen Vasenmalerei</td>
 <td>von Graeve, Volkmar</td>
 <td>2024</td>
@@ -67,6 +127,18 @@ Berns, Christof; Zurbach, Julien; Özgan, Christine, Milet 2023 Yılı Çalışm
 von Graeve, Volkmar, Bemerkungen zu den Malstilen in der archaischen milesischen Vasenmalerei, in: , La céramique milésienne et apparentée à l'epoque archaique (Paris 2024), 1-21</td>
 </td>
 <td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Miletos Kaletepe Mevkii 2021-2023 Yılı Çalısmaları</td>
+<td>Teraman Hepdinçler, Özel</td>
+<td>2024</td>
+<td>Türk Eskiçağ Bilimleri Enstitüsü Haberler</td>
+<td>
+Teraman Hepdinçler, Özel, Miletos Kaletepe Mevkii 2021-2023 Yılı Çalısmaları, Türk Eskiçağ Bilimleri Enstitüsü Haberler 48, 2024, 90-94</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
 <td></td>
 </tr>
 
@@ -1808,6 +1880,18 @@ Mert, İbrahim Hakan, Kap Monodendri Poseidon (Enipeus) Altarı. Bir Altar mı Y
 </td>
 <td>08 Kulte und Kulteinrichtungen; 08-01 Kulte: Varia; Altar; Archaisch; Poseidon</td>
 <td>The subject of this study is the altar of Poseidon located at the present-day Tekağaç Cape (province of Aydın, Didim district), known in ancient times as CapePoseidion and later as Cape Monodendri.This monument was extensively published by A. von Gerkan in 1915.Within the scope of the article, the sea-side location of this altar, its typology, its date and the dedicated cult are evaluated. In addition, the political and economic situa-tion of Miletus is also considered during the period when the altar of Cape Monodendri was built. According to this evaluation, the following results can be asserted: 1. The cape where the altar was built was an orientation point for the sailors in ancient times and, in fact, is still today. In addition, the altar probably served as a “lighthouse” as well. 2. There is no similar typological example of a Poseidon altar as the one at Cape Monodendri. In this context it appears that no standard planning has ever been applied to altars in ancient times. 3. The altar at Cape Monodendri was built for the cult of Poseidon Enipeus, probably during the third quarter of the 6th century BC, a time when Miletus was known as “the pearl of Ionia”. At this time, it was very likely intended as a monument of propaganda by the Milesian tyrant Histiaios.</td>
+</tr>
+
+<tr>
+<td>The Spacial Development of Ephesos from ca. 1000 - ca. 670 BC</td>
+<td>Kerschner, Michael</td>
+<td>2017</td>
+<td></td>
+<td>
+Kerschner, Michael, The Spacial Development of Ephesos from ca. 1000 - ca. 670 BC, in: , Regional Stories Towards a new Perception of the Early Greek World. Acts of an International Symposium in honour of Professor Jan Bouzek. Volos 18-21 June 2015 (Volos 2017), 487-512</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-03 Topographie: geometrische Zeit; 02-04 Topographie: archaische Zeit</td>
+<td></td>
 </tr>
 
 <tr>
@@ -16603,18 +16687,6 @@ Rambach, Friedrich Eberhard, De Mileto eiusque coloniis (Halle 1790) <br> <a hre
 Tulay, Ahmet Semih; Akat İslam, Hasibe, Didyma, Miletos, Priene (Istanbul )</td>
 </td>
 <td>02 Allgemeine Darstellungen / Topographie</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Miletus</td>
-<td>Berns, Christof; Zurbach, Julien</td>
-<td></td>
-<td></td>
-<td>
-</td>
-</td>
-<td>10 politische Geschichte; 12 Lexikonbeiträge; 14 Forschungsgeschichte</td>
 <td></td>
 </tr>
 
