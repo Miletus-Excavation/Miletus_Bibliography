@@ -1,13 +1,1410 @@
 Hi there!
 
-I logged some additional info while processing the database. If you see any problem here, please check the GitHub-Actions-Logs as well as all txt- and log-files in '/out/' for more information. Logged on 01.02.2026 while while running checks:
+I logged some additional info while processing the database. If you see any problem here, please check the GitHub-Actions-Logs as well as all txt- and log-files in '/out/' for more information. Logged on 01.03.2026 while while running checks:
 
 
-There are 23 items with suspect BibTeX-keys! Please check them and correct this. List of affected items saved to: out/wrong_keys.csv
+There are 1394 items with suspect BibTeX-keys! Please check them and correct this. List of affected items saved to: out/wrong_keys.csv
 
-All entries have pinned Citation Keys. :) 
+**Critical**:
+1394 items do not have a pinned LaTeX-Citation Key! Please fix this in Zotero by adding it to the 'Extra'-field. The affected entries are: 
+Oer de Almeida, Samuel 2024: Rezension zu: J. Roch, Die kaiserzeitliche Münzprägung Milets (Regenstauf 2023)
+Filges, Axel 2010: Rezension zu: Ortwin Dally – Martin Maischberger – Peter I. Schneider– Andreas Scholl (Hrsg.), ZeitRäume. Milet in Kaiserzeit und Spätantike. Regensburg: Schnell und Steiner Verlag 2009, 228 S., 147 Farb-Abb., 40 s/w-Abb., 9 Pläne, 3 Karten, 10 Grundrisse
+Grüner, Andreas; Hennemeyer, Arndt 2001: Winfried Held, Das Heiligtum der Athena in Milet
+Kinns, Philip 1986: The Coinage of Miletus
+Quatember, Ursula 2024: Die Ausgestaltung von Stadtzentren. Ein Vergleich von Milet, Ostia und Leptis Magna
+Sokolicek, Alexander 2025: Serapeia in Kleinasien: Manifestation oder Mythos?
+Kerschner, Michael 2017: The Spacial Development of Ephesos from ca. 1000 - ca. 670 BC
+Schneider, Julian Gabriel 2025: Neue Patriai in Milet mit Grundbesitz auf Lepsia. Anmerkungen zu I.Didyma Suppl. 679 und IG XII 4, 4, 3897
+Harter-Uibopuu, Kaja; Egetenmeier, Philip; Osthof, Ann Lauren 2025: Inschriften aus Milet III: Neufunde und Addenda 2024
+Teraman Hepdinçler, Özel 2024: Miletos Kaletepe Mevkii 2021-2023 Yılı Çalısmaları
+Teraman Hepdinçler, Özel; Techow, Nikolai; Nikolayidis, Haralambos; Kaya, Özlem; Güvendik, Hasan Ersin; Kızıldağ, Ece 2025: 3D Topographic and Architectural Documentation of the Multi-Functional Underground Structure at Kaletepe, Miletus
+Berns, Christof; Zurbach, Julien 2025: Miletus
+Feraru, Remus Mihai 2022: Fêtes consacrées à Apollon à Milet et dans les colonies milésiennes du Pont-Euxin
+Vidin, Hülya 2021: The loyalty of a city to its deity. Miletus and Apollon
+Roch, Julius 2023: Die kaiserzeitliche Münzprägung Milets: Fallstudie zur Entwicklung der Repräsentation, Perzeption und Integration der römischen Autorität im kollektiven Selbstverständnis der Städte Kleinasiens
+Webb, Virginia 2025: Finds from Miletus XXXIII. Scarabs in Faience and Steatite from the Bothros, Sanctaury of Aphrodite on Zeytintepe (>Olive Hill<)
+Bruns-Özgan, Christine 2025: Basis für eine Staue des Pompeius in Milet
+Gök-Gürhan, Sevinç 2009: Balat İlyas Bey Külliyesi Kazısı’nda Ortaya Çıkarılan Seramiklerin Değerlendirilmesi (2007-2008)
+Berns, Christof; Özgan, Christine; Zurbach, Julien 2023: Milet 2021 Yılı Çalışmaları
+Berns, Christof; Zurbach, Julien; Özgan, Christine 2025: Milet 2023 Yılı Çalışmaları
+Berns, Christof; Zurbach, Julien; Özgan, Christine 2024: Milet 2022 Yılı Çalışmaları
+Senff, Reinhard 2024: Miletus - The Ionian Metropolis in the Archaic Period
+Maillot, Stéphanie; Zurbach, Julien 2025: Le travail en ville en Grèce antique, ou la cité grecque face à la ville et au travail (VIe-Ier s. av. J.-C.)
+Kouka, Ourania 2019: Local and Imported in Action: Western Anatolian and Cycladic Figurines in Early Bronce Age Miletus
+Niewöhner, Philipp 2021: Christliches Bauen im antiken Bestand. Zum Verhältnis von Christianisierung, Städtebau und archäologischer Wahrnehmung in Milet und in anderen kleinasiatischen Städten
+Casa, Giacomo 2025: The Restoration of the Nymphaeum of Trajanus in Miletus between Formal Renovation and Structural Repair
+Schwerdt, Nico 2014: Utilitarian and cooking wares from the baths of Faustina in Miletus (Turkey)
+Schwerdt, Nico 2021: Amphoren, Tafel- und Kochgeschirr aus Milet. Überlegungen zur Alltagsökonomie in spätantiker und frühbyzantinischer Zeit
+Harter-Uibopuu, Kaja; Czeitschner, René; Egetenmeier, Philip; Schneider, Julian Gabriel 2024: Inschriften aus Milet I: Neufunde und Addenda 2021-2023
+Klinkott, Manfred 2014: Architektonische Magneten im Straßenablauf der antiken Stadt
+Grönwald, Holger 2024: Bild und Ornament. Zur zeichnerischen Rekonstruktion archaischer Keramik aus Milet
+Schlotzhauer, Udo 2024: Die Vasenmalerei archaischer Zeit in Milet: Stil und Chronologie - Gefäßform und Ikonographie
+von Graeve, Volkmar 2024: Bemerkungen zu den Malstilen in der archaischen milesischen Vasenmalerei
+Nawotka, Krzysztof 2023: The Nourisher of Apollo. Miletos from Xerxes to Diocletian
+Egetenmeier, Philip 2024: Inschriften aus Milet II: Neues zu den Temeniten. Drei kaiserzeitliche Vereinsinschriften
+Niewöhner, Philipp 2024: Archangels, Empty Ciboria, and the Defense of Late Antique Miletus. More Light from the Ancient East
+Masturzo, Nicolò 2023: Mileto, Athena e la memoria. Considerazioni sulla città e la sua ricostruzione
+Berns, Christof; Osthof, Ann Lauren 2024: Streets as contested spaces in ancient Miletus
+Lordoğlu, Nisan; Lenaghan, Julia 2024: “Armed” with Modern History. The Statue of the River God Meander at Miletus, 1909-2023.
+Brückner, Helmut; Herda, Alexander; Kerschner, Michael; Müllenhoff, Marc; Stock, Friederike 2017: Life cycle of estuarine islands — from the formation to the landlocking of former islands in the environs of miletos and ephesos in western asia minor (turkey)
+Weickert, Carl; Hommel, Peter; Kleiner, Gerhard; Mallwitz, Alfred; Schiering, Wolfgang 1960: Die Ausgrabungen am Athena-Tempel in Milet 1957
+Weickert, Carl 1960: Die Ausgrabungen beim Athena-Tempel in Milet 1957. Der Westabschnitt.
+Morris, Sarah P. 2023: Yauna Across the Sea? Northeast Boundaries of Achaemenid Expansion (Anatolia and the North Aegan)
+Donder, Helga; Posamentir, Richard; Selesnow, Wolfgang; Held, Winfried; Ehrhardt, Norbert; Günther, Wolfgang 2002: Funde aus Milet
+von Miller, Alexandra 2023: La cerámica de tipo Oriental y el Wild Goat Style. Características, tipos y cronología
+Steinmann, Lisa 2023: R wie in: Reproduzierbar. Auswertung von Daten aus Field Desktop mit idaifieldR
+Kerschner, Michael 2002: Die lokalisierten chemischen Gruppen A, D und H und ihr Aussagewert für die Keramikproduktion von Milet und Ephesos
+Weber, Berthold F. 2007: Der Stadtplan von Milet
+Akat Özeni̇r, Sevgiser; Ricl, Marijana 2023: Some New Inscriptions from the Miletus Museum
+Tomas, Julia 2023: Cosmopolitan Capito: architectural benefaction by a Roman official in Late Julio-Claudian Miletus
+NA 2019: Landscapes and Landforms of Turkey
+Toma, Natalia 2023: Milet, Türkei. Marmor in Milet der Kaiserzeit. Bericht über die archäometrische Studie. Die Arbeiten der Jahre 2018 bis 2022
+Ricl, Marijana; Akat Özenir, Sevgiser 2007: A New Honorary Inscription for Cn. Vergilius Capito from Miletos
+Gras, Michel 2023: Ettore Lepore tra Mileto e Focea
+Meiggs, David; Slawisch, Anja; Wilkinson, Toby 2023: A preliminary assessment of ancient diet and mobility in Archaic period Asia minor: A view from Panormos, near Didyma
+Marina, Polito 2014: Problemi della storia arcaica di Miunte e Mileto: La fondazione di Miunte, la lunga guerra tra Mileto e Miunte
+Ön, Zeki Bora 2023: Holocene environmental change dates of Lake Bafa: Hierarchical Bayesian change point analysis
+Akat Özeni̇r, Sevgiser 2017: Some Inscribed Lead Sling Bullets in the Milet Museum
+Voigtländer, Walter 1980: Grabung westlich des Buleuterion
+Masturzo, Nicolò 2022: Mileto: alcune note sulla città e la sua punizione
+Miller, Martin; Kästner, Ursula 1999: 100 Jahre Grabungen in Milet
+Niewöhner, Philipp 2015: Milet, Türkei: Denkmalpflege
+Taschner, Moritz; Vardar, Ali 2013: Denkmalpflege und touristische Erschließung in Milet. Vorbericht über die Arbeiten in der Kampagne 2012
+Neeft, Cornelis Willem 2017: The Dating of the Closure of the Bothros at the Zeytintepe
+Henke, Jan-Marc 2017: Die zyprischen Terrakotten aus Milet: Neue Überlegungen zur Einordnung der archaischen zyprischen Terrakotten aus ostägäischen Fundkontexten und ihrer werkstattspezifischen Zuweisung
+Alkaç, Erkan; Cankardeş-Şenol, Gonca 2016: Amphora Mühürleri Işığında Miletos ve Alexandria Ticari İlişkileri
+Akçer-Ön, Sena; Greaves, Alan M.; Manning, Sturt W.; Ön, Zeki Bora; Çağatay, M. Namık; Sakınç, Mehmet; Oflaz, Aslı; Tunoğlu, Cemal; Salihoğlu, Rana 2020: Redating the formation of Lake Bafa, western Turkey: Integrative geoarchaeological methods and new environmental and dating evidence
+Henrichs, Albert 1978: Greek Maenadism from Olympias to Messalina
+Benli, Sıla Buse 2017: Delphinion: Ritüel, Tasarım, Mimari
+Cramer, Thomas 2004: Multivariate Herkunftsanalyse von Marmor auf petrographischer und geochemischer Basis. Das Beispiel kleinasiatischer archaischer, hellenistischer und römischer Marmorobjekte der Berliner Antikensammlung und ihre Zuordnung zumediterranen und anatolischen Marmorlagerstätten
+Toma, Natalia 2020: Milet, Türkei. Marmorprovenienz und bauwirtschaftliche Paradoxe (nach Vorarbeiten 2018 und 2019)
+Weber, Berthold F. 1995: Ein spätarchaischer Tempel auf dem Mengerevtepe bei Milet
+von Graeve, Volkmar 1975: Milet. Vorläufiger Bericht über die Grabung im Südschnitt an der hellenistischen Stadtmauer 1966
+Voigtländer, Walter 1982: Funde aus der Insula westlich des Buleuterion in Milet
+Polat, Turgay 2016: Milet İşi Seramiklerde Form Tipolojisi Üzerine Bir Deneme
+Köster, Reinhard 1986: Römische Bauornamentik in Milet
+Kerschner, Michael 1995: Milet 1992–1993. Die Ostterrasse des Kalabaktepe
+Herrmann, Peter; McCabe, Donald 1986: Die Weihinschrift der ersten römischen Bühne in Milet
+Kunisch, Norbert 2019: Attic vases in Miletos
+Panteleon, Ioannis Andreas; von Graeve, Volkmar; Henke, Jan-Marc; Naso, Alessandro; Aydemir, Ahmet 2005: Funde aus Milet
+von Graeve, Volkmar 1996: Der Kuros von Tekirdağ
+Matthaiou, Angelos P. 2008: Inschriften von Milet VI 3, 1020. a Note
+Tulay, Ahmet Semih; Akat İslam, Hasibe NA: Didyma, Miletos, Priene
+Niemeier, Wolf-Dietrich 1999: Milet in der Bronzezeit. Brücke zwischen der Ägäis und Anatolien
+Manville, Philip Brook 1977: Aristagoras and Histiaios: The Leadership Struggle In The Ionian Revolt
+von Gerkan, Armin 1922: Der Nordmarkt und der Hafen an der Löwenbucht
+Knight, John Brendan 2019: Migration theory and 'Greek Colonisation'. Milesians at Naukratis and Abydos
+Herrmann, Peter 1995: Eine Liste mit Zeus-Epitheta aus Milet
+Kleiner, Gerhard 1970: Stand der Erforschung von Alt-Milet
+Manganaro, Giacomo 1964: Le iscrizione delle isole milesie
+Mastrocinque, Attilio 1981: Storia e monetazione di Mileto all´epoca dei Diadochi
+Niemeier, Wolf-Dietrich 2002: Miletus in the Bronze Age: A Bridge between the Aegean and Anatolia
+Regling, Kurt 1918: Maussollos in Milet
+Weigand, Edmund 1925: Die kunstgeschichtliche Bedeutung des römischen Markttors in Milet
+Wolters, Paul 1921: Zwei spätrömische Bauten in Milet
+Wycherley, Richard Ernest 1938: The Agora of Miletus
+Niewöhner, Philipp 2009: Milet in frühbyzantinischer Zeit
+Schneider, Peter I. 2009: Die Faustinathermen
+Cain, Hans-Ulrich; Pfanner, Michael 2009: Die Agora Milets in Kaiserzeit und Spätantike
+Steinmann, Lisa 2023: Das Dionysosheiligtum in der Sakrallandschaft von Milet
+Brückner, Helmut; Müllenhoff, Marc; Herda, Alexander 2009: Auf Meersand gebaut – Landschaftswandel in Milet im Spiegel geoarchäologischer Zeugnisse
+Schneider, Peter I. 2012: Die Skulpturenausstattung und Wasserspiele in den Faustina-Thermen von Milet
+NA 2009: ZeitRäume – Milet in Kaiserzeit und Spätantike
+Dally, Ortwin; Maischberger, Martin; Scholl, Andreas; Schneider, Peter I. 2011: The Town Center of Miletus from Roman Imperial Times to Late Antiquity
+Dally, Ortwin; Göçmen, Duygu; Kruip, Margret; Maischberger, Martin; Schneider, Peter I.; Scholl, Andreas; Schwerdt, Nico 2014: Milet, Türkei: Stadt und Statue im spätantiken Kleinasien: Die Faustinathermen in Milet im Übergang von der Kaiserzeit zur Spätantike. Die Arbeiten der Jahre 2012 und 2013
+Niewöhner, Philipp; Dally, Ortwin; Erkul, Ercan; Feist, Sabine; Giese, Stefan; Göçmen, Duygu; Hintermann, Thomas; Kruip, Margret; Maischberger, Martin; Raubo, Bartosz; Schneider, Peter I.; Scholl, Andreas; Schwerdt, Nico; Sossau, Veronika; Stroth, Fabian; Stümpel, Harald 2013: Neue spät- und nachantike Monumente von Milet und der mittelbyzantinische Zerfall des anatolischen Städtewesens
+Schneider, Peter I. 2020: Das Grabungshaus der Miletgrabung in Akköy
+Göçmen, Duygu; Vardar, Ali 2022: Ein denkmalpflegerisches Entwicklungskonzept für Milet als Grundlage für ein Site Management
+Göçmen, Duygu 2022: Wie man mit ausgegrabenen Hinterlassenschaften "eines älteren Venedig" umgeht: Die frühen Denkmalpflegeerfahrungen aus Milet
+Galimberti, Mariagrazia; Bronk Ramsey, Christopher; Manning, Sturt W. 2004: Wiggle-Match Dating of Tree-Ring Sequences
+Bronk Ramsey, Christopher; Manning, Sturt W.; Galimberti, Mariagrazia 2004: Dating the Volcanic Eruption at Thera
+Müller-Wiener, Wolfgang; Göksel, Doğu; von Graeve, Volkmar; Biering, Ralf; Heinz, Margareta 1988: Milet 1987. Notgrabung in der archaischen Nekropole von Milet
+Müller-Wiener, Wolfgang; Göksel, Doğu; von Graeve, Volkmar; Biering, Ralf; Heinz, Margareta; Svenson-Evers, Hendrik 1988: Milet 1987. Vorbericht über die Arbeiten des Jahres 1987
+Steudtner, Katharina 2022: Eine Neukonzeption für die Ruinen des Bischofspalastes von Milet
+Schneider, Peter I. 2022: "Kritische Betrachter sollten diese Randbedingungen kennen...": Die Anastylose der Ionischen Halle in Milet
+Sato, Noboru 2023: Hellenistic Didyma and the Milesian Past
+Niewöhner, Philipp 2014: Milet 2013 Yılı Çalışmaları
+Niewöhner, Philipp; Brückner, Helmut; Müllenhoff, Marc 2008: Sind die Mauern die Stadt? Vorbericht über die siedlungsgeschichtlichen Ergebnisse neuer Grabungen im spätantiken und byzantinischen Milet
+NA 2016: Milet / Balat: Städtebau und Monumente von archaischer bis in türkische Zeit: ein Führer
+Chaniotis, Angelos 2010: The Molpoi Inscription: Ritual Prescription or Riddle?
+Mountjoy, Penelope Anne 2004: Miletos: a note
+Thonemann, Peter 2011: The Maeander Valley: A Historical Geography from Antiquity to Byzantium
+Eckert, Martin 2016: Die Aphrodite der Seefahrer und ihre Heiligtümer am Mittelmeer: Archäologische Untersuchungen zu interkulturellen Kontaktzonen am Mittelmeer in der späten Bronzezeit und frühen Eisenzeit
+Manning, Sturt W.; Ramsey, Christopher Bronk; Kutschera, Walter; Higham, Thomas; Kromer, Bernd; Steier, Peter; Wild, Eva M. 2006: Chronology for the Aegean Late Bronze Age 1700-1400 B.C.
+Hoepfner, Wolfram; Schwandner, Ernst-Ludwig 1986: Haus und Stadt im klassischen Griechenland
+Senff, Reinhard 2007: Die Ergebnisse der neuen Grabungen im archaischen Milet – Stratigraphie und Chronologie
+von Gerkan, Armin 1925: Kalabaktepe, Athenatempel und Umgebung
+Steinmann, Lisa 2020: Finds from Miletus XXXII. Clay Rings from the Sanctuary of Dionysos in Miletus
+Bachvarova, Mary R. 2022: Greco-Anatolian Identity-Making in the Milesian Molpoi-procession
+Forbeck, Elke; Heres, Huberta 1997: Das Löwengrab von Milet
+Nawotka, Krzysztof 2020: Epigraphic curves in Western Asia Minor. The case studies of Miletos, Ephesos and Pergamon
+Luria, Solomon 1928: VI. Ein milesischer Männerbund im Lichte ethnologischer Parallelen
+Wiegand, Theodor 1904: Dritter vorläufiger Bericht über die von den Königlichen Museen begonnenen Ausgrabungen in Milet
+Wiegand, Theodor 1911: Siebenter vorläufiger Bericht über die von den Königlichen Museen in Milet und Didyma unternommenen Ausgrabungen
+Wiegand, Theodor 1913: Der Latmos
+Wiegand, Theodor 1929: Die milesische Landschaft
+Krischen, Fritz 1922: Die Befestigungen von Herakleia am Latmos
+Wilski, Paul 1906: Karte der Milesischen Halbinsel
+Hülsen, Julius 1919: Das Nymphaeum von Milet
+Kawerau, Georg; Rehm, Albert 1914: Das Delphinion in Milet
+Knackfuß, Hubert 1908: Das Rathaus von Milet
+Kern, Otto 1893: Inschriften aus Milet
+Siegesmund, Siegfried; Ruedrich, Joerg 2005: Rettung für das Markttor von Milet. Schadensanalysen an Marmor, Mörtel und Stahl
+Chaniotis, Angelos 1987: Ein neuer genealogischer Text aus Milet
+Steinmann, Lisa; Huy, Sabine; Zurbach, Julien; Lordoğlu, Nisan 2022: Miletus Documentation Manual: Surveying, Forms, Find Processing and iDAI.field 2, v.1.1
+Steinmann, Lisa; Huy, Sabine; Sliwka, Fabian; Göçmen, Duygu; Lordoğlu, Nisan; Zurbach, Julien; Berns, Christof 2023: Miletus Documentation Manual: Surveying, Forms, Find Processing and Database Usage, v.2.0
+Eskici, Bekir; Kabaoğlu, Cengiz 2010: Conservation and Restoration at the Ilyas Bey Mosque Complex, Miletos (Balat)
+Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan 2011: Şekiller* / Figures*
+von Graeve, Volkmar 2000: Milet, Grabungsgeschichte
+Reich, Alexander 2021: Untersuchung der Hafenbecken Milets unter nautischen Gesichtspunkten
+Senff, Reinhard 2002: Milet. Die archaische Stadt. Die Ausgrabungen in den Wohngebieten und den städtischen Heiligtümern 1899 - 2001. Baugeschichte und Stratigraphie (Habilitationsschrift)
+Capelle, Jeanne 2017: Reflectance Transformation Imaging (RTI) et épigraphie
+Thurn, Maurice 2020: The Humeitepe Harbour at Miletus: An analysis of its infrastructure
+Brückner, Helmut 2021: Life Cycles of Islands and Harbours. The Case Study of the Maiandros River and the City of Miletos
+von Graeve, Volkmar 1978: Zur milesischen Keramik im 8. und 7. Jh. v. Chr.
+Herda, Alexander 2013: Burying a Sage: the Heroon of Thales in the Agora of Miletos. With remarks on some other excavated Heroa and on cults and graves of the mythical founders of the city
+Herrmann, Peter 2016: Grabepigramme von der milesischen Halbinsel
+Steskal, Martin 2015: Römische Thermen und griechische Gymnasien: Ephesos und Milet im Spiegel ihrer Bad-Gymnasien
+Trümper, Monika 2015: Modernization and change of function of Hellenistic gymnasia in the Imperial period: Case-studies Pergamon, Miletus, and Priene
+Herda, Alexander; Gorea, Maria 2021: A Phoenician ostracon from the Delphinion: Abdalonim the “gardener king” in Miletos?
+Salditt-Trappmann, Regina 1970: Der Tempel des Serapis in Milet
+Crouch, Dora P. 1993: Water Management in Ancient Greek Cities
+Schaus, Gerald P. 2020: Funde aus Milet 4. Laconian and Chian fine ware pottery at Miletus
+Gök-Gürhan, Sevinç 2011: 2007 ve 2008 Yıllarında Balat İlyas Bey Külliyesi'nde Yapılan Kazı ve Temizlik Çalışmalarında Ortaya Çıkarılan Seramikler / Ceramics Unearthed During the Excavation and Cleaning Work Conducted at the İlyas Bey Complex in 2007 and 2008
+Çakmak, Şakir; Demiralp, Yekta 2011: Balat İlyas Bey Külliyesi 2007-2008 Kazı ve Temizlik Çalışmaları / Balat Ilyas Bey Complex Excavation and Cleaning Work
+Tanman, Mehmet Baha 2011: Balat İlyas Bey Külliyesi Haziresindeki Mezartaşları / Tombstones in the enclosed Cemetry of the Ilyas Bey Complex
+Çakmak, Şakir 2011: Balat Ilyas Bey Külliyesi Kazı ve Temizlik Çalışmalarında Bulunan Sikkeler / Coins Found in the Excavations and Cleaning Work in the of the Balat Ilyas Bey Complex
+Eskici, Bekir; Kabaoğlu, Cengiz 2011: Balat İlyas Bey Külliyesi Koruma ve Onarım Çalışmaları / Conservation and Restoration Work at the Balat Ilyas Bey Mosque Complex
+Baykara, Tuncer 2011: Balat’in Beylikler Devri / Balat During the Period of the Anatolian Emirates
+Luttrell, Anthony; Zachariadou, Elizabeth A. 2011: Batı Anadolu’nun 15. Yüzyıl Başlarındaki Siyasal Karmaşası İçinde Menteşe Emiri İlyas Bey / Ilyas Bey, the Emir of Menteşe within the Political Turmoil of 15th Century Western Anatolia
+Emecen, Feridun M. 2011: Beylikler Döneminde Batı Anadolu: Menteşeoğulları ve İlyas Bey / Western Anatolia in the Period of the Emirates: The Menteşe Emirate and Ilyas Bey
+Tanman, Mehmet Baha 2011: İlyas Bey Camii’ne İlişkin Bazı Düşünceler / Some Reflections on the Ilyas Bey Mosque
+Kadıoğlu, Selma; Kadıoğlu, Yusuf Kağan 2011: İlyas Bey Camii ve Çevresinde Yapılan Jeofizik Yer Radarı Çalışmaları / Ground Penetrating Radar Work in and arount the Ilyas Bey Mosque
+Eskici, Bekir; Şener, Yaşar Selçuk; Akyol, Ali Akın; Kadıoğlu, Yusuf Kağan 2011: İlyas Bey Külliyesi Yapılarına Ait Özgün Malzemelerin Korunmasına Yönelik Araştırma ve Uygulama Çalışmaları / Research and Application Work in the Conservation of the Original Building Materials of the Ilyas Bey Complex
+Akyüz, Uğurhan 2011: Ilyas Bey Külliyesi Yapılarını Statik Değerlendirmesi ve Güçlendirilmesi / Static Assessment and Strenghtening of the Structures in the Ilyas Bey Complex
+Arel, Ayda 2011: Menteşe Beyliği Mimarisi ve Balat İlyas Bey İmareti: Bir Aidiyet Sorunu / The Architecture of the Menteşe Emirate and the Ilyas Bey Imaret in Balat: A Question of Belonging
+Balata, Refet Yalçın 2011: Mezartaşlarında Seçme Katalog / Selective Catalogue of Tombstones
+Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan 2011: Sunuş / Introduction
+Türkantoz, Kayahan 2011: The Urban Fabric and Distribution of Buildings in Balat During the Menteşe Period
+Şahin Güçhan, Neriman 2011: Türkiye’de Kültür Varlığı Niteliğindeki Yapıların Restorasyon Sürecine İlişkin Sorunlar ve İlyas Bey Külliyesi Modeli / Problems Related to the Restoration Process of Cultural Assets in Turkey and the Case of the Ilyas Bey Complex
+Held, Winfried 2004: Zur Datierung des klassischen Athenatempels in Milet
+Siegesmund, Siegfried; Rüdrich, Jörg 2004: Das Markttor von Milet: Schadensanalyse und Modellhafte Sanierungskonzepte
+Piérart, Marcel 1983: Athènes et Milet, I. Tribus et dèmes milésiens
+Piérart, Marcel 1985: Athènes et Milet, II. L'organisation du territoire
+Pfeiler, Bärbel 1962: Zur Münzkunst von Milet
+Pfeiler, Bärbel 1966: Die Silberprägung von Milet im 6. Jahrhundert v. Chr.
+Welz, Karl 1960: Kleinmünzen aus Milet
+Welz, Karl 1965: Ein neuer Münzfund aus Milet
+Herrmann, Peter 1996: Milet unter Augustus. Erkentnisse aus einem Inschriften-Neufund
+Wiegand, Gerhard 1985: Theodor Wiegand: Halbmond im letzten Viertel
+Wiegand, Theodor 1908: Sechster vorläufiger Bericht über die von den Königlichen Museen in Milet und Didyma unternommenen Ausgrabungen
+Wiegand, Theodor 1906: Fünfter vorläufiger Bericht über die von den Königlichen Museen begonnenen Ausgrabungen in Milet
+Wiegand, Theodor 1905: Vierter vorläufiger Bericht über die von den Königlichen Museen begonnenen Ausgrabungen in Milet
+Baker, Julian; Kluge, Bernd 2017: Der Gigliati-Schatzfund aus den Ausgrabungen der Berliner Museen in Milet (1903), verborgen um 1370/74
+Driscoll, Eric W. 2019: The Milesian Eponym List and the Revolt of 412 B.C.
+Caner Yüksel, Çağla 2017: Principality Towns in Western Anatolia Under Turkish-Islamic Rule (14th – 15th Centuries): Rupture or Continuity?
+Witulski, Thomas 2007: Kaiserkult in Kleinasien: die Entwicklung der kultisch-religiösen Kaiserverehrung in der römischen Provinz Asia von Augustus bis Antoninus Pius
+Köcke, Lara Sophie 2012: Milet stirbt aus?! - Demographische Überlegungen zu Neubürgern in einer hellenistischen Großstadt
+Sarantidis, Konstantinos 2015: An Ancient Roofing System from Kastraki on Milesian Agathonisi
+NA 2015: Cultural heritage of Aydın
+Niewöhner, Philipp; Demirel, Arzu; Izdebski, Adam; Sancaktar, Hacer; Schwerdt, Nico; Stümpel, Harald 2016: The Byzantine Settlement History of Miletus and Its Hinterland – Quantitative Aspects. Stratigraphy, Pottery, Anthropology, Coins, and Palynology
+Niewöhner, Philipp; Berns, Christof; Giese, Stefan; Huy, Sabine; Izdebski, Adam; Vacek, Alexander 2020: Arbeiten in Milet in den Jahren 2012 bis 2016. Chronik, neue Befunde aus antiker, byzantinischer und türkischer Zeit sowie Denkmalpflege
+Niewöhner, Philipp; Audley-Miller, Lucy; Erkul, Ercan; Huy, Sabine; Giese, Stefan; Stümpel, Harald 2016: An Ancient Cave Sanctuary underneath the Theatre of Miletus, Beauty, Mutilation, and Burial of Ancient Sculpture in Late Antiquity, and the History of the Seaward Defences
+Meyer, Jan-Waalke 2018: Funde aus Milet. XXXI. Fünf Stempelsiegel nordsyrischer Provenienz
+Bumke, Helga; Tanrıöver, Aylin 2017: Der Hafen am Humeitepe in Milet. Ergebnisse der Ausgrabungen 2011
+Müller-Wiener, Wolfgang 1991: Milet 1990. Der Zugang zum Theater von Milet
+Bumke, Helga 2012: Fremde Votive oder fremde Dedikanten? Ägyptische Weihgaben in Ionischen Heiligtümern und ihr Zeugniswert für Kulturtransfer
+Müller-Wiener, Wolfgang 1978: Milet 1973–1975. Michaelskirche und Dionysos-Tempel.  Baubefunde und Phasengliederung
+Brückner, Helmut; Brückner, Helmut 2003: Delta Evolution and Culture – Aspects of Geoarchaeological Researches in Miletos and Priene
+Brückner, Helmut 2019: Rapid Delta Growth in Historical Times at Ephesus and Miletus – The Examples of the Küçük and the Büyük Menderes Rivers
+Bultrighini, Ilaria 2020: Die griechischen Parapegmata aus Milet
+Müller-Wiener, Wolfgang 1985: Arbeiten im Gebiet des Heroon am Theaterhang (HI)
+Müller, Christel 2022: Migration et mémoire: Milet et ses apoikiai à l’époque hellénistique
+Gabel, Jenny; Berns, Christof; Bosch, Sebastian; Eickmeyer, Jost; Harter-Uibopuu, Kaja; Martin, Nathalie; Osthof, Ann Lauren; Steiger, Johann Anselm; Steinicke, Frank 2022: Immersive Inscribed Spaces – Bringing Virtuality to Written Artefacts for Humanities
+Rehm, Albert 1923: Zur Chronologie der milesischen Inschriften des 2. Jhs. v. Chr.
+Brize, Philip 2017: Funde aus Milet XXX. Ein früharchaisches Goldblech aus Milet mit epichorischer Inschrift
+Köster, Jan 2022: Die Spuren der griechisch-persischen Konflikte im archaischen Ionien und Zypern - ein Überblick
+Reichardt, Bettina 2022: Perserschutt in Didyma? Die attische Keramik vom Taxiarchis-Hügel und ihre Bedeutung für die absolute Datierung griechischer Keramik
+von Graeve, Volkmar 2008: Milet 2003-2005. Vorbericht über die Grabungsarbeiten, die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleituntersuchungen - Einleitung und Übersicht
+Waschek, Frank 2008: Fikellura-Amphoren und -Amphoriskoi von Milet. Ein Gefäßlager am Kalabaktepe?
+Schwerdt, Nico; Kruip, Margret 2013: Die Aufgabe der Faustinathermen als terminus post quem für den Bau der byzantinischen Stadtmauer
+Bumke, Helga; Breder, Jan; Kaiser, Ivonne 2015: Didyma: Bericht über die Arbeiten der Jahre 2010-2013
+Weisser, Bernhard 2009: Funde aus Milet XXIII. Ein Hort in Milet mit Silbermünzen aus dem frühen 4. Jh. v. Chr.
+Naso, Alessandro 2009: Funde aus Milet XXII. Etruscan Bucchero from Miletus. Preliminary Report
+Lohmann, Hans; Kalaitzoglou, Georg; Lüdorf, Gundula 2010: Sondagen in der befestigten karischen Höhensiedlung von Melia in der Mykale (Dilek Dağları/Aydın)
+Isler, Hans Peter 2018: Antike Theaterbauten. Ein Handbuch
+Wiegand, Theodor 1939: Die Denkmäler als Hilfsmittel der Altertumsforschung, ihr Untergang,  Wiederauferstehen und ihre Erhaltung
+von Graeve, Volkmar 2019: Die Arbeiten in Milet in den Jahren 2006–2011
+von Graeve, Volkmar 2017: Beobachtungen zur Herstellungstechnik milesischer Terrakotten im 7. Jahrhundert v. Chr. Ein Beitrag zur orientalisierenden Phase der frühgriechischen Kunst
+Niewöhner, Philipp; Audley-Miller, Lucy; Fındık, Ebru Fatma; Schwerdt, Nico; Teltsch, Guido 2015: Der Bischofspalast von Milet. Spätrömisches Peristylhaus und  frühbyzantinische Residenz
+Jöhrens, Gerhard 2014: Funde aus Milet XXIX. Amphorenstempel aus den Grabungen in Milet 1899-2007, 2. Teil
+Mommsen, Hans; Jöhrens, Gerhard; von Haugwitz, Max 2010: Herkunftsbestimmung von Amphoren mit gestempelten Henkeln aus den Grabungen von Milet durch Neutronenaktivierungsanalyse
+Herda, Alexander; Sauter, Eckart 2009: Karerinnen und Karer in Milet: Zu einem spätklassischen Schlüsselchen mit karischem Graffito aus Milet
+Niewöhner, Philipp 2009: Zum Delphinion in byzantinischer Zeit
+Jöhrens, Gerhard 2009: Funde aus Milet XXVII. Amphorenstempel aus den Grabungen in Milet 1899-2007
+Günther, Wolfgang 2009: Funde aus Milet XXV. Hellenistische Bürgerrechts- und Proxenielisten aus dem Delphinion und ihr Verbleib in byzantinischer Zeit
+Özcan, Fikret 2009: Funde aus Milet XXIV. Hellenistische Terrakotten von der Ostterrasse des Kalabaktepe
+Trojsi, Giorgio 2009: Archeometric analysis of some Etruscan bucchero fragments from Miletus
+Brückner, Helmut; Müllenhoff, Marc 2008: Zur Geoarchäologie im Areal der Friedhofskirche, in: Ph. Niewöhner, Sind die Mauern die Stadt? Vorbericht über die siedlungsgeschichtlichen Ergebnisse neuer Grabungen im spätantiken und byzantinischen Milet
+Stümpel, Harald; Erkul, Ercan 2008: Geophysikalische Prospektion in Milet 2003–2005
+Earp, A. J. 1954: Athens and Miletos ca 450 B. C.
+Weiss, Peter 1997: Milet 1994–1995. Schleuderbleie und Marktgewichte
+Fischer, Simon Levin; Erkul, Ercan; Zolchow, Manuel; Kaplanvural, Ismail; Brückner, Helmut; Berns, Christof; Rabbel, Wolfgang 2022: Investigating a small-scale archaeological feature in the ancient city of Miletus using shear wave seismics
+Karahan, Ümran Ozan 2021: Hellenistik Dönemde Miletos Isopoliteia Antlaşmaları
+Kaiser, Ivonne 2009: The Meaning of Shape: Pottery Innovations and Traditions in the Sanctuary at Bronze Age Miletus
+Niewöhner, Philipp 2020: The Identification of the Bishop’s Palace at Miletus in Caria (Turkey)
+Slawisch, Anja 2009: Epigraphy versus Archaeology. Conflicting Evidence for Cult Continuity in Ionia during the Fifth Century BC.
+Koiner, Gabriele 2016: Die befestigte Stadt: zwei neue Stadtbilder aus Alt-Paphos und Milet
+Cline, Rangar H. 2011: Archangels, Magical Amulets, and the Defense of Late Antique Miletus
+Merkelbach, Reinhold 1972: Milesische Bakchen
+Merkelbach, Reinhold 1971: Ein didymaeisches Orakel
+Bevan, George; Jones, Alexander; Lehoux, Daryn 2019: The Miletus Parapegma and the Keskintos Astronomical Inscription: New Evidence From Reflectance Transformation Imaging
+Kleiner, Gerhard 1964: Die Grabung in Milet im Herbst 1963
+Kleiner, Gerhard 1961: Bericht über die Grabung in Milet im Herbst 1961
+Kleiner, Gerhard 1960: Die Grabung in Milet im Herbst 1959
+Wycherley, Richard Ernest 1942: The Ionian Agora
+Wace, Alan John Bayard 1903: Recent Excavations in Asia Minor
+Paton, William Roger; Myres, John Linton 1896: Karian Sites and Inscriptions
+Parke, Herbert William 1986: The temple of Apollo at Didyma: the building and its function.
+Greaves, Alan M. 1998: The Foundation of Miletus: Herodotus 1.146 and Dionysius of Halicarnassus 2.30
+Bean, George Ewart; Cook, John Manuel 1957: The Carian Coast III
+Wiegand, Theodor 1901: Zweiter vorläufiger Bericht über die Ausgrabungen der königlichen Museen zu Milet
+Kekulé von Stradonitz, Reinhard 1900: Vorläufiger Bericht über die von den Königlichen Museen begonnenen Ausgrabungen in Milet
+Kaiser, Ivonne 2013: Rituelle Mahlzeiten im spätbronzezeitlichen Heiligtum von Milet
+von Graeve, Volkmar 2013: Das Aphrodite-Heiligtum von Milet und seine Weihegaben
+Holleaux, Maurice 1924: Études d'histoire hellénistique. Le décret des Ioniens en l'honneur d'Eumènes II
+Holleaux, Maurice 1923: Le décret des Milésiens en l'honneur d'Apamé
+Holleaux, Maurice 1901: Note sur un décret de Milet
+Hauvette, Amédée 1888: Hérodote et les Ioniens
+Haussoullier, Bernard 1919: Bacchantes milésiennes
+Polemis, D. I. 1971: An Unknown Metropolitan of Miletus
+Rayet, Olivier 1874: Inscriptions inédites trouvées à Milet, Didymes et Héraclée du Latmos et  aujourd´hui conservées au Louvre
+Brückner, Helmut; Kelterbaum, Daniel; Marunchak, Olha; Porotov, Alexey; Vött, Andreas 2010: The Holocene sea level story since 7500 BP – Lessons from the Eastern Mediterranean, the Black and the Azov Seas
+Erdmann, Martin 1884: Hippodamos von Milet und die symmetrische Städtebaukunst der Griechen
+von Graeve, Volkmar 2013: Zum archaischen Giebelschmuck aus dem Aphroditeheiligtum in Milet. Eine Ergänzung.
+Cankardeş-Şenol, Gonca; Alkaç, Erkan; Abdelgawad, Mai 2017: The Results of Clay Analysis of Stamped Amphora Handles of Miletus and Rhodian Peraea in Alexandria (Egypt)
+Huy, Sabine 2019: Versteckte Orte. Zwei Grotten im städtischen Raum Milets
+Graf, Fritz 1979: Apollon Delphinios
+Fredrich, Carl 1900: Hippostratos von Milet
+Herzog, Rudolf 1906: Ephesos und Milet
+Heinlein, Stefan 1909: Histiaios von Milet
+Guyer, Samuel 1909: Die byzantinischen Klöster im Latmos-Gebirge bei Milet
+Bury, John Bagnell 1902: The Epicene Oracle concerning Argos and Miletus
+Aly, Wolf 1911: Delphinios. Beiträge zur Stadtgeschichte von Milet und Athen
+Tuchelt, Klaus 1970: Die archaischen Skulpturen von Didyma. Beiträge zur frühgriechischen Plastik in Kleinasien
+Rautman, Marcus 2018: The Christian Basilicas of Miletus - Rez. zu.: Ph. Niewöhner, Die Byzantinischen Basiliken von Milet, Milet 1,11 (Berlin 2016)
+Waksman, Sylvie Yona; Burlot, Jacques; Böhlendorf-Arslan, Beate; Vroom, Joanita 2017: Moulded ware production in the Early Turkish/Beylik period in western Anatolia: A case study from Ephesus and Miletus
+Wittek, Paul 1934: Das Fürstentum Mentesche. Studie zur Geschichte Westkleinasiens im 13.-15. Jh.
+Weber, Hans 1967: Myus. Grabung 1966
+Weber, Hans 1965: Myus. Grabung 1964
+Weber, Berthold F. 2002: Die Säulenordnung des archaischen Dionysostempels von Myus
+von Graeve, Volkmar 1986: Milet 1985. Grabung auf dem Kalabaktepe
+von Graeve, Volkmar 1975: Milet 1964
+von Graeve, Volkmar 1974: Milet 1963
+Pülz, Stefan 1985: Kaiserzeitliche Keramik aus dem Heroon III
+Philipp, Hanna 1989: Die kalydonische Jagd von Myus
+Müller-Wiener, Wolfgang; von Graeve, Volkmar; Pfrommer, Michael; Pülz, Stefan 1986: Milet 1985. Vorbericht über die Arbeiten des Jahres 1985
+Müller-Wiener, Wolfgang 1990: Arbeiten in der Großen Kirche
+Müller-Wiener, Wolfgang 1988: Untersuchungen im Bischofspalast in Milet 1977–1979
+Müller-Wiener, Wolfgang 1986: Milet 1985
+Müller-Wiener, Wolfgang 1985: Milet 1983–1984
+Müller-Wiener, Wolfgang 1983: Milet 1982
+Müller-Wiener, Wolfgang 1980: Grabungen im Bischofspalast
+Müller-Wiener, Wolfgang 1979: Arbeiten im Nordkomplex (Bischofspalast)
+Mallwitz, Alfred; Schiering, Wolfgang 1968: Der alte Athena-Tempel von Milet
+Kossatz, Anne Ulrike 1981: Ausgewählte Terrakotten aus der Grabung westlich des Buleuterion
+Koenigs, Wolf 1991: In Memoriam Wolfgang Müller-Wiener 17.5.1923 - 25.3.1991
+Kleiner, Gerhard; Müller-Wiener, Wolfgang 1972: Die Grabung in Milet im Herbst 1959
+Kerschner, Michael; Senff, Reinhard 1997: Die Ostterrasse des Kalabaktepe
+Rehm, Albert 1914: Die Inschrift Milet 3 n. 164
+Jacobsthal, Paul 1911: Milesische Inschrift
+Herrmann, Peter 1958: Grabepigramme von der milesischen Halbinsel
+Schupp, Martina 2014: Caput Ioniae. Zur Untersuchung römischer Hafenfassaden am Beispiel von Milet
+Kerschner, Michael 2007: Das Keramikbild von Ephesos im 7 und 6 Jh. v. Chr.
+Lohmann, Hans 2007: Die Chora Milets in archaischer Zeit
+Schlotzhauer, Udo 2007: Zum Verhältnis zwischen sog. Tierfries- und Fikellurastil (SiA I und II) in Milet. Mit einem epigraphischen Kommentar von N. Ehrhardt
+Rohde, Elisabeth 1980: Antikes Glas. Eine Vorlage aus den Beständen der Berliner Antiken-Sammlung
+Günther, Linda-Marie 2019: Adoptionen in Milet. Späthellenistische Familienstrategien?
+Glotz, Gustave 1906: Une inscription de Milet
+Oguse, André 1929: Notes d'épigraphie
+Derenne, Eudore 1930: Note sur une inscription de Milet
+Meinardus, Otto Friedrich August 1973: Testimonies to the Economic Vitality of Balat, the Medieval Miletus
+Wiegand, Theodor 1906: Vierter vorläufiger Bericht über die von den Königlichen Museen begonnenen Ausgrabungen in Milet
+Wiegand, Theodor 1904: Dritter vorläufiger Bericht über die von den Königlichen Museen begonnenen Ausgrabungen in Milet
+Wiegand, Theodor 1902: Zweiter vorläufiger Bericht über die Ausgrabungen der königlichen Museen zu Milet
+Wiegand, Theodor 1901: Ausgrabungen zu Milet
+Senff, Reinhard 1995: Sondierungen am Südhang des Mengerevtepe ('Assesos')
+Kerschner, Michael; Schlotzhauer, Udo 1999: Das Artemisheiligtum auf der Ostterrasse des Kalabaktepe in Milet
+Cobet, Justus 1997: Milet 1994–1995. Die Mauern sind die Stadt. Zur Stadtbefestigung des antiken Milet
+Bumke, Helga; Breder, Jan 2016: Die Kulte von Didyma im Licht neu entdeckter Bauten: bereichernde Grabungsergebnisse im Apollon-Heiligtum.
+Franken, Norbert 2013: Ein ägyptisches Bronzerelief der Göttin Mut aus dem Athena-Heiligtum von Milet. Beobachtungen zu einer unbekannten Denkmälergattung
+Greaves, Alan M. 2004: The cult of Aphrodite in Miletos and its colonies
+Mert, İbrahim Hakan 2017: Kap Monodendri Poseidon (Enipeus) Altarı. Bir Altar mı Yoksa Deniz Feneri mi?
+Aydemir, Ahmet 2005: Funde aus Milet XX. Kochgeschirr und Küchengerät aus dem archaischen Milet
+Voigtländer, Walter 1986: Zur archaischen Keramik in Milet
+Voigtländer, Walter 1986: Milets Beziehungen zur Argolis in späthelladischer Zeit
+Kleine, Jürgen 1986: Pergamenische Stiftungen in Milet
+von Graeve, Volkmar 1986: Über verschiedene Richtungen der milesischen Skulptur in archaischer Zeit
+Heilmeyer, Wolf-Dieter 1986: Die Einordnung Milets in die Siedlungszonen der griechischen Frühzeit
+Müller-Wiener, Wolfgang 1986: Zur Erforschung der hellenistischen Monumente Milets
+Tuchelt, Klaus 1986: Zum Problem der hellenistischen und römischen Gebrauchskeramik in Milet und Didyma. Notizen zur Situation der Fundbearbeitung in der Didyma-Grabung
+Sánchez-Mañas, Carmen 2021: Miletus’ Original Sin. A Case Study on Hybridisation in Herodotus’ Histories
+Şahin, Reyhan 2020: Miletos’tan (Ionia) Koç Başı Saplı Bir Patera / A Terracotta Handled Patera with Ram Head from Miletus (Ionia)
+Heinrich, Hayo; Senff, Reinhard; Greger, S. M.; Held, Winfried; Hellner, Nils; Marquardt, N.; Parakenings-Bozkurt, Birgit 1992: Die Grabungen am Kalabaktepe
+del Freo, Maurizio; Niemeier, Wolf-Dietrich; Zurbach, Julien 2015: Neue Inschriften und Zeichen der Linear A-Schrift aus Milet
+de Sanctis, Gaetano 1930: I molpi di Mileto
+de Sanctis, Gaetano 1913: Per la storia di Mileto
+Middendorf, B.; Maack, V.; Siegesmund, Siegfried 2004: Development of Compatible Mortars for the Restoration of the Market Gate of Milet, Pergamon Museum Berlin, Germany
+Voigtländer, Walter 2009: The Bronze Age settlement of Teichiussa
+Schiering, Wolfgang 1986: Zu den Beziehungen zwischen der ältesten Siedlung von Milet und Kreta
+Eskici, Bekir; Şener, Yaşar Selçuk; Akyol, Ali Akın; Kadıoğlu, Yusuf Kağan 2008: Milet (Balat) İlyas Bey Külliyesi’nde Bulunan Yapılara Ait Özgün Malzemelerin Korunmasına Yönelik Araştırma Projesi
+Kadıoğlu, Selma; Kadıoğlu, Yusuf Kağan; Akyol, Ali Akın 2008: Geoarchaeological Research of the Mid-Age Ilyasbey Complex Buildings with Ground Penetrating Radar in Miletus / Aydin, Western Anatolia, Turkey
+Niemeier, Barbara; Niemeier, Wolf-Dietrich; Betancourt, Philip P.; Karageorghis, Vassos; Laffineur, Robert 1999: The Minoans of Miletos
+Boruchovič, Vladimir Grigorevich 1988: Die ägäische Kolonisation
+Кобылина, Мария Михайловна 1965: Милет
+Русяева, Анна Станиславовна 1986: Милет – Дидимы – Борисфен – Ольвия. Проблемы колонизации Нижнего  Побужья
+Raymond, Amy 2005: Miletus in the Middle Bronze Age and Minoan presence in the eastern Aegean
+Weiss, Egon 1914: Zu den milesischen Inschriften aus dem Delphinion
+Farmakovsky, Boris Vladimirovich 1914: Милетскiя Вазы изъ Россiи
+Беликов, Арсений Михайлович 2010: Об использовании писмености в Милете (PM Ia – PE IIIc)
+Русяева, Анна Станиславовна 2010: О традициях Милета в культуре Ольвии Понтиской
+Raymond, Amy 2009: Miletus in the Middle Bronze Age. An Overview of the Characteristic Features and Ceramics
+Kaiser, Ivonne 2009: Miletus IV. The Locally Produced Coarse Ware
+Niemeier, Wolf-Dietrich 2009: Miletus IV. The Settlement and Minoan Sanctuary of the Beginning of the Late Bronze Age
+Schiering, Wolfgang 1984: The Connections Between the Oldest Settlement at Miletus and Crete
+Raymond, Amy 2006: The MBA Hearths and Kiln at Miletus
+Bernardin, Stevens 2020: The Phoenician Seal from Miletus. An Epigraphic Note
+Balata, Refet Yalçın 2008: Milet'te Farsça Bir Mezar Taşı
+von Gerkan, Armin 1924: Griechische Städteanlagen. Untersuchungen zur Entwicklung des Städtebaus im Altertum
+Dupont, Pierre; Lungu, Vasilica 2008: Plats milésiens à couverte noire de mer Noire
+Seifert, Martina 2004: Herkunftsbestimmung archaischer Keramik am Beispiel von Amphoren aus Milet
+Herda, Alexander 2006: Der Apollon-Delphinios-Kult in Milet und die Neujahrsprozession nach Didyma. Ein neuer Kommentar der sog. Molpoi-Satzung (Milet I, 3 Nr. 133)
+Huy, Sabine; Weissová, Barbora 2020: An Urban Survey of Humeitepe, Miletus: Methodology and Preliminary Results
+Niemeier, Wolf-Dietrich 2000: Milet in der Bronzezeit – ein pulsierendes Zentrum zwischen Orient und Okzident
+von Graeve, Volkmar 2006: Milet
+Panteleon, Ioannis Andreas 2005: Funde aus Milet XVI: Zum Schicksal der am Ort verbliebenen Funde der Wiegandschen Grabung nach 1914
+Kerschner, Michael; Senff, Reinhard; Blum, Irene 1997: Milet 1994–1995. Die Ostterrasse des Kalabaktepe
+Schneider, Carsten 1997: Milet 1994–1995. Grabung an der Stadtmauer 1995
+Berns, Christof; Özgan, Christine 2021: Milet 2019 ve 2020 Yılları Çalışmaları
+Berns, Christof 2020: Die Hafenstadt als Handlungsraum. Beobachtungen zur Präsenz verschiedener Akteure im städtischen Zentrum von Milet
+Berns, Christof; Zurbach, Julien 2019: Milet 2018 Yılı Çalışmaları
+Özcan, Fikret 2016: Klassische und hellenistische Terrakotten aus Milet. Ein Überblick
+Kunisch, Norbert 2016: Funde aus Milet 3. Die attische Importkeramik
+Bîrzescu, Iulian; Kowalleck, Ireen; Özcan, Fikret; Schlotzhauer, Udo 2016: Milet, Türkei: Aufarbeitung griechischer Terrakotten und Keramikfunde
+Panteleon, Ioannis Andreas 2011: Eine Archäologie der Direktoren. Die Erforschung Milets im Namen der Berliner Museen in den Jahren 1899 bis 1914 und ihr historischer Kontext (Zusammenfassung)
+Knipping, Maria; Müllenhoff, Marc; Brückner, Helmut 2008: Human induced Landscape Changes around Bafa Gölü (western Turkey)
+Schlotzhauer, Udo; Herrmann, Peter; Weber, Sabine 2006: Some Observations on Milesian Pottery
+Herrmann, Peter; Ehrhardt, Norbert; Günther, Wolfgang 2006: Inschriften von Milet Teil 3. Inschriften n. 1020–1580
+Bay, Bilal; Schröder, Bernt; Yalçın, Ünsal 2003: Antike Rohstoff-Reviere und Schiffstransporte als "Marker" für den Delta-Vorbau am "Latmischen Golf"
+Schlotzhauer, Udo 2000: Die südionischen Knickrandschalen: Formen und Entwicklung der sog. Ionischen Schalen in archaischer Zeit
+Held, Winfried 2000: Das Heiligtum der Athena in Milet
+NA 1998: Mittel- bis jungholozäne Landschaftsgeschichte am Unterlauf des Großen Mäander (Westanatolien)
+Schneider, Carsten 1999: Die Musengruppe von Milet
+Senff, Reinhard; Heinz, Margareta 1997: Milet 1994–1995. Arbeiten am Zeytintepe im Jahre 1994
+Herrmann, Peter 1995: Milet 1992 – 1993. Inschriften
+Voigtländer, Walter 1983: Frühe Funde vom Killiktepe bei Milet
+Müller-Wiener, Wolfgang 1981: Milet 1980. Arbeiten im Stadtgebiet. Untersuchungen auf dem Humeitepe
+Müller-Wiener, Wolfgang 1980: Arbeiten im Stadtgebiet 1978-1979. Untersuchungen auf dem Humeitepe
+Hommel, Peter 1978: Fundzusammenhänge archaisch-milesischer Keramik des 6. Jhs. v. Chr.
+Hommel, Peter 1975: Die Grabungs-Kampagne in Milet im Herbst 1973
+Kleiner, Gerhard 1972: Die Grabung in Milet im Herbst 1970
+Bendt, Walter 1968: Topographische Karte von Milet (1 : 2000)
+Hermann, Karl Friedrich 1843: Disputatio De Hippodamo Milesio Ad Aristotelis Politic II,5
+Rambach, Friedrich Eberhard 1790: De Mileto eiusque coloniis
+Schmidt, Karl Gustav 1855: De rebus publicis Milesiorum inde ab urbe condita usque ad a. 496 A.C. quo a Persis diruta est
+Fellows, Charles 1852: Miletus (Chapter IX. Caria)
+Six, J. P. 1876: De quelques monnaies de Chersonèse, Milet et Salybria
+de Mas Latrie, Louis 1864: Commerce d’Éphèse et de Milet au Moyen Age (Traité Vénetien de 1403  avec l’Émir de Palatcha)
+Rayet, Olivier; Thomas, Albert 1877: Milet et le Golfe Latmique, Tralles, Magnésie du Méandre, Priene,  Milet. Didymes, Héraclée du Latmos
+Le Bas, Philippe 1877: Voyage archéologique en Grèce et en Asie mineure fait par ordre du  Gouvernement français pendant les années 1843 et 1844
+Bürchner, Ludwig 1885: Die Besiedlung der Küsten des Pontos Euxeinos durch die Milesier
+Bürchner, Ludwig 1897: Byblis Nr. 1
+Bürchner, Ludwig 1897: Byblis Nr. 2
+Hirschfeld, Gustav 1893: Ἀχίλλειος κρήνη
+Hirschfeld, Gustav 1894: Anaktoria
+Haussoullier, Bernard 1897: Dèmes et tribus, patries et phratries de Milet
+Fredrich, Carl 1902: Milet
+Haussoullier, Bernard 1902: Études sur l'histoire de Milet et du Didymeion
+Haussoullier, Bernard 1902: Les îles milésiennes: Léros, Lepsia, Patmos, les Korsiae
+Rehm, Albert 1904: Weiteres zu den milesischen Parapegmen
+Diels, Hermann; Rehm, Albert 1904: Parapegmenfragmente aus Milet
+Bürchner, Ludwig 1903: Anaktorion
+Dessau, Hermann 1904: Zu den Milesischen Kalenderfragmenten
+Bürchner, Ludwig 1905: Dromiskos
+von Wilamowitz-Moellendorff, Ulrich 1904: Satzungen einer milesischen Sängergilde, Sitzungsberichte der K. Preussischen Akademie der Wissenschaften zu Berlin
+von Salis, Arnold 1907: Archäologische Funde im Jahre 1906
+Grund, Alfred 1906: Vorläufiger Bericht über physiogeographische Untersuchungen in den  Deltagebieten des Großen und Kleinen Mäanders, Sitzungsberichte
+Borrmann, Richard; Wiegand, Theodor 1908: Ausgrabungen von Milet. Sitzung der Archäologischen Gesellschaft vom 03.03.1908
+Herrmann, Paul 1908: Weiteres aus Milet
+Karo, Georg 1908: Jahresbericht des Kaiserlichen Deutschen Archäologischen Instituts
+Herrmann, Paul 1908: Die Ausgrabungen von Milet
+von Salis, Arnold 1910: Die Ausgrabungen in Milet und Didyma
+Prinz, Hugo 1908: Funde aus Naukratis. Beiträge zur Archäologie und Wirtschaftsgeschichte des 7. und  6. Jhs. v. Chr.
+Fabricius, Ernst 1913: Hippodamus
+Karo, Georg 1912: Archäologische Funde im Jahre 1911
+Grund, Alfred 1911: Ephesus und Milet
+Schede, Martin; Wiegand, Theodor 1911: Ausgrabungen in Milet und Didyma
+Karo, Georg 1913: Archäologische Funde im Jahre 1912
+Bürchner, Ludwig 1914: Hyetis
+Danielsson, Olof August 1914: Zu der milesischen Molpen-Inschrift, Eranos
+Metzger, Friedrich 1914: Inscriptio Milesiaca de pace cum magnetibus facta
+Karo, Georg 1914: Archäologische Funde im Jahre 1913
+Kern, Otto 1915: OIKOΦYΛAKEΣ
+Philippson, Alfred 1915: Reisen und Forschungen im westlichen Kleinasien. Karien südlich des Mäander und das westliche Lykien
+Hiller von Gaertringen, Friedrich 1915: OINOΦYΛAΞ?
+Ziebarth, Erich 1914: Aus dem griechischen Schulwesen. Eudemos von Milet und Verwandtes
+Dunham, Adelaide Glynn 1915: The History of Miletus, down to the Anabasis of Alexander
+von Gerkan, Armin 1915: Der Poseidonaltar bei Kap Monodendri
+Ciaceri, Emanuele 1916: La leggenda di Neleo fondatore di Mileto
+Regling, Kurt 1916: Milet, Jahresbericht
+Bürchner, Ludwig 1919: Katapolitioi
+Vollgraff, Guilielmus W. 1918: De lege collegii cantorum Milesii
+Bilabel, Friedrich 1920: Die ionische Kolonisation. Untersuchungen über die Gründung der Ionier, deren  staatliche und kultliche Organisation und Beziehungen zu den Mutterstädten
+Preuner, Erich 1920: Zwei Hydrophoren
+Bürchner, Ludwig 1921: Kition
+Haussoullier, Bernard 1921: La voie sacrée de Milet à Didymes
+von Gerkan, Armin 1921: Das Stadion
+von Gerkan, Armin 1921: Eine Synagoge in Milet
+Bürchner, Ludwig 1924: Latmikos kolpos
+Bürchner, Ludwig 1924: Late
+Bürchner, Ludwig 1924: Lade
+von Gerkan, Armin 1924: Hippodamos
+Cavaignac, Eugène 1924: Les dékarchies de Lysandre
+Knackfuß, Hubert 1924: Der Südmarkt und die benachbarten Bauanlagen
+Bürchner, Ludwig 1926: Λiμεvηiov
+Bannier, Wilhelm 1925: Die milesische Sängerschrift
+Bürchner, Ludwig 1925: Lelegeïs
+Wiegand, Theodor 1924: Achter vorläufiger Bericht über die von den staatlichen Museen in Milet und Didyma unternommenen Ausgrabungen
+Weigand, Edmund 1928: Propylon und Bogentor in der römischen Reichskunst, ausgehend vom  Mithridatestor in Ephesos
+Lambrino, Scarlat 1928: Correction à une loi sacrée de Milet
+von Gerkan, Armin; Krischen, Fritz 1928: Thermen und Palaestren
+Bürchner, Ludwig 1928: Mαiávδpou πεδiov
+Chyliński, Konstanty 1929: Lysandre et les Milésiens (Diodore XIII, 104)
+Wiegand, Theodor 1928: Gymnasien, Thermen und Palaestren in Milet
+Bürchner, Ludwig 1932: Miletos 5
+Mayer, Maximilian 1932: Miletos 2
+Jeller, Margarethe 1931: Studien zur Geschichte und Prosopographie von Milet
+Pernice, Erich 1932: Deutsche Ausgrabungen in den Ländern des klassischen Altertums
+von Gaertringen, Friedrich Hiller 1932: Miletos 1
+Scherer, Anton 1934: Zur Laut- und Formenlehre der milesischen Inschriften
+Ruge, Walther 1934: Teichiussa
+Röhlig, Johannes 1933: Der Handel von Milet
+Wittek, Paul 1932: Miletos (Nachtrag)
+Oliver, James Henry 1935: The Athenian Decree Concerning Miletus in 450/49 B. C.
+Bondesson, Bonde 1936: De sonis et formis titulorum Milesiorum Didymaeorumque
+Wulzinger, Karl 1935: Das islamische Milet
+Tarn, William Woodthorpe 1936: The Date of Milet 1, 3 No. 139
+Philippson, Alfred 1936: Das südliche Jonien
+Herbst, Rodolf 1937: Perne 2
+Fontenrose, Joseph Eddy 1936: Notes on Milesian Inscriptions
+Klaffenbach, Günther 1937: Asylievertrag zwischen Ätolien und Milet
+Krischen, Fritz 1938: Die griechische Stadt. Wiederherstellungen
+Rehm, Albert 1939: Milesische Chronologie von Sulla bis Tiberius
+Krauss, Friedrich 1940: Das Theater von Milet in seiner griechischen und römischen Gestalt
+Weickert, Carl 1940: Grabungen in Milet 1938
+Krischen, Fritz; von Gerkan, Armin; Wulzinger, Karl 1941: Antike Rathäuser
+Watzinger, Carl; Wiegand, Theodor 1944: Theodor Wiegand. Ein deutscher Archäologe. 1864–1938
+von Gerkan, Armin 1940: Zur Lage des archaischen Milet
+Robert, Louis 1949: Le culte de Caligula à Milet et le province d´Asie
+Ruge, Walther 1949: Panormos Nr. 2
+Weickert, Carl 1949: Antike Architektur
+Mansel, Arif Müfid 1948: Türkiyenin arkeoloji, epigrafi ve tarihi cografyasi için bibliyografya
+Cahn, Herbert Adolph 1950: Die Löwen des Apollon
+Schehl, Francis W. 1951: Probuleutic Commissioners in Miletus During the Hellenistic Period
+Keil, Josef 1950: Pityussa Nr. 2
+Darsow, Wolfgang 1954: Die Kore des Anaximandros
+Massow, Wilhelm von 1954: Baukunst der römischen Kaiserzeit
+von Gerkan, Armin 1950: Zum Heiligtum des Apollon Delphinios in Milet
+Weickert, Carl 1958: Bericht über die Ausgrabungen in Milet im Jahre 1957
+Myres, John Linton 1954: The Battle of Lade, 494 B.C. (Herodotus VI, 6–17)
+Kleiner, Gerhard 1959: Entdeckung und Ausgrabung des Panionion
+Weickert, Carl 1957: Die Ausgrabungen am Athena-Tempel in Milet 1955
+Kleiner, Gerhard 1960: Die Ausgrabungen beim Athena-Tempel in Milet 1957 VI. Die Grabung im Norden des Athena-Tempels
+Mallwitz, Alfred 1960: Die Ausgrabungen beim Athena-Tempel in Milet 1957 IV. Zur mykenischen Befestigung von Milet
+Weickert, Carl 1959: Neue Ausgrabungen in Milet
+Mallwitz, Alfred 1960: Die Ausgrabungen beim Athena-Tempel in Milet 1957 V. Eine Kultstätte im Athenaheiligtum
+Hommel, Peter 1960: Die Ausgrabungen beim Athena-Tempel in Milet 1957. Der Abschnitt östlich des Athenatempels
+Robert, Louis 1960: Inscriptions de Didymes et de Milet 1
+Stamatis, Evangelos 1960: Über Thales von Milet
+Schiering, Wolfgang 1960: Die Ausgrabung beim Athena-Tempel in Milet 1957 I. Südabschnitt
+Cook, John Manuel 1961: Some sites of the Milesian territory
+Dunst, Günter 1961: Zu den altmilesischen Phylen
+Müller-Wiener, Wolfgang 1961: Mittelalterliche Befestigungen im südlichen Jonien
+Colonna, Giovanni 1963: Mileto
+Luria, Solomon 1963: Kureten, Molpen, Aisymneten
+Ziegler, Konrat 1963: Pyrrha Nr. 19
+Barron, John Penrose 1962: Milesian Politics and Athenian Propaganda
+Baran, Musa 1965: Guide to Miletus
+Herrmann, Peter 1965: Neue Urkunden zur Geschichte von Milet im 2. Jahrhundert v. Chr.
+Blümel, Carl 1964: Die archaisch griechischen Skulpturen der Staatlichen Museen zu Berlin
+Krauss, Friedrich 1964: Die hellenistischen Bühnen des Theaters von Milet
+Mansel, Arif Müfid 1965: Milet
+Pekáry, Thomas 1965: Inschriftenfunde aus Milet 1959
+Himmelmann-Wildschütz, Nikolaus 1965: Beiträge zur Chronologie der archaischen ostionischen Plastik
+Kleiner, Gerhard 1966: Alt-Milet
+Laubscher, Hans Peter 1966: Ein ostionischer Frauenkopf
+Lifshitz, Baruch 1966: Le Culte d’Apollon Delphinios à Olbia
+Peek, Werner 1966: Ein milesisches Polyandrion
+Hommel, Peter 1967: Archaischer Jünglingskopf aus Milet
+Tölle, Renate 1966: Eine archaische Gußform
+Müller-Wiener, Wolfgang 1967: Das Theaterkastell von Milet
+Bean, George Ewart 1969: Kleinasien 1. Die ägäische Türkei von Pergamon bis Didyma
+Rohde, Elisabeth 1968: Griechische und römische Kunst in den Staatlichen Museen zu Berlin
+Henrichs, Albert 1969: Die Maenaden von Milet
+Kleiner, Gerhard 1968: Die Ruinen von Milet
+Piérart, Marcel 1969: Les „´Eπiμηvoi“ de Milet. Contribution épigraphique à l’histoire politique de Milet au Ve siècle
+Schwank, Benedikt 1969: Theaterplätze für "Gottesfürchtige" in Milet
+Altenhöfer, Erich 1970: Die Rekonstruktion der Theaterhalle auf der Rückseite des ersten römischen  Bühnengebäudes von Milet und ihre entwicklungsgeschichtliche Stellung
+Kleiner, Gerhard 1969: Die Grabung in Milet im Herbst 1968
+Anabolu, Mükerem Usman 1970: Küçük Asya’da bulunan Roma Imperatorluk çağı Tapınakları
+Herrmann, Peter 1970: Zu den Beziehungen zwischen Athen und Milet im 5. Jahrhundert
+Bammer, Anton 1970: Die Ruinen von Milet
+Heres, Gerald 1970: Greifenprotomen aus Milet
+Pillement, Georges 1970: La Turquie inconnue
+Kleiner, Gerhard 1970: Das römische Milet. Bilder aus der griechischen Stadt in römischer Zeit
+Herrmann, Peter 1971: Athena Polias in Milet
+Wiegand, Theodor 1970: Halbmond im letzten Viertel. Briefe und Reiseberichte aus der alten Türkei von Theodor und Marie Wiegand 1895 bis 1918
+Fornara, Charles W. 1971: The Date of the "Regulations for Miletus"
+von Graeve, Volkmar 1971: Eine Sagendarstellung der frühen milesischen Vasenmalerei
+Pečírka, Jan 1971: Die Landgüter der Milesier
+Peek, Werner 1971: Milesische Versinschriften
+Seibert, Jakob 1971: Ptolemaios I. und Milet
+Altenhöfer, Erich 1974: Die Theaterhalle von Milet
+Drew-Bear, Thomas; Lebek, Wolfgang Dieter 1973: An Oracle of Apollo at Miletus
+Krauss, Friedrich 1973: Das Theater von Milet Teil 1. Das hellenistische Theater. Der römische Zuschauerbau
+Müller-Wiener, Wolfgang 1974: Milet 1972. Die „Große Kirche“ (sog. Bischofskirche) in Milet
+Feld, Otto 1974: Zur kunstgeschichtlichen Stellung der „Großen Kirche“
+Kleiner, Gerhard; Real, Willi; Ueblacker, Mathias; Müller-Wiener, Wolfgang; Feld, Otto 1974: Milet 1972. Vorberichte über Grabungs- und Wiederherstellungsarbeiten  (Anastylose) im Gebiet der Heiligen Straße innerhalb Milets
+Piérart, Marcel 1974: Milet dans la première liste de tributs
+Olshausen, Eckart 1974: Poseidion Nr. 7
+Krauss, Friedrich 1974: Milet und Didyma. Ein Vergleich der Sockelprofilierung an der westlichen Parodoswand des Theaters und den Cellawänden des Apollontempels
+Real, Willi; Rödel, Volker; Ueblacker, Mathias 1974: Milet 1972. Die Grabung auf der Heiligen Straße und die Anastylose der Ionischen Halle in Milet
+Feld, Otto 1975: Christliche Denkmäler aus Milet und seiner Umgebung
+Tuchelt, Klaus 1974: Bemerkungen zu den Capito-Thermen in Milet
+von Graeve, Volkmar; Kleiner, Gerhard 1974: Milet. Bericht über die Arbeiten im Südschnitt an der hellenistischen Stadtmauer 1963
+Herrmann, Peter 1975: Eine Kaiserurkunde der Zeit Marc Aurels aus Milet
+Herrmann, Peter 1975: Zum Rechtshilfevertrag zwischen Milet und Gortyn (Milet I 3 Nr. 140 B = Inscr. Cret. IVs. 221 Nr. 161 = Die Staatsverträge des Altertums, Bd. 3 Nr. 482)
+Hommel, Hildebrecht 1975: Juden und Christen im kaiserzeitlichen Milet. Überlegungen zur Theaterinschrift
+Herrmann, Johannes 1975: Zum Rechtshilfevertrag zwischen Milet und Gortyn
+Herrmann, Peter 1975: Milesischer Purpur
+Tuchelt, Klaus 1975: Buleuterion und ara augusti. Bemerkungen zur Rathausanlage von Milet
+Kreiler, Bernd 1975: Die Statthalter Kleinasiens unter Flaviern
+Mallwitz, Alfred 1975: Gestalt und Geschichte des jüngeren Athena-Tempels von Milet
+Real, Willi 1975: Bibliographie der bisherigen Forschungen in Milet
+Schiering, Wolfgang 1975: Die minoisch-mykenische Siedlung in Milet vor dem Bau der großen Mauer
+von Aulock, Hans 1975: Eine neue kleinasiatische Münzstätte: Pedasa (Pidasa) bei Milet
+Voigtländer, Walter 1975: Die mykenische Stadtmauer in Milet und einzelne Wehranlagen der späten Bronzezeit
+von Graeve, Volkmar 1975: Eine Sitzfigur aus Milet
+Chandler, Richard; Pigenot, Ludwig 1976: Reisen in Klein Asien
+Bean, George Ewart 1976: Teichioussa
+Hommel, Hildebrecht 1976: Ein König aus Milet. Fragment einer milesischen Weihinschrift
+Dimitriou, Sokratis; Klammet, Gerhard 1976: Die türkische Westküste
+Kleiner, Gerhard 1976: Miletos
+Linfert, Andreas 1976: Kunstzentren hellenistischer Zeit. Studien an weiblichen Gewandstatuen
+Marchese, Ronald T. 1976: A History of Urban Organization in the Lower Maeander River Valley: Regional Settlement Patterns to the Second Century AD
+Müller, Helmut 1976: Milesische Volksbeschlüsse. Eine Untersuchung zur Verfassungsgeschichte der Stadt Milet in hellenistischer Zeit
+Schott, Wolfgang 1976: Arzt und Dichter, Nikias von Milet
+Müller-Wiener, Wolfgang 1976: Untersuchungen zum byzantinischen Milet
+Robert, Louis 1977: Un Milésien à Athènes
+Moretti, Luigi 1977: Mileto, le sue colonie e l´istituto dell´evergesia
+Müller-Wiener, Wolfgang 1977: Archäologie, Bauforschung und Denkmalpflege: Die Verantwortung gegenüber Objekten am Fundort
+Foss, Clive 1977: Archaeology and the "Twenty Cities" of Byzantine Asia
+Hommel, Peter 1977: Bericht über die Arbeiten in Milet im Herbst 1975
+Akurgal, Ekrem 1978: Ancient Civilizations and Ruins of Turkey
+Feld, Otto 1978: Milet 1973–1975. Bautypus und Ausstattung der Michaelskirche
+Brown, Truesdell S. 1978: Aristodicus of Cyme and the Branchidae
+Haugsted, Ida 1978: Hippodamos fra Milet: antikke græske byplaner fra det 5. årh. f. Kr.
+von Graeve, Volkmar 1977: Ein Kopf des Strengen Stils aus Milet
+Rohde, Elisabeth 1977: Grundsätzliches zur Aufstellung antiker Baukunst in Museumsräumen
+Kellermann, Diether 1978: Überlieferungsprobleme alttestamentlicher Ortsnamen
+Müller-Wiener, Wolfgang 1978: Milet 1973–1975. Michaeliskirche und Dionysos-Tempel. Baubefunde und Phasengliederung
+Müller-Wiener, Wolfgang 1978: Milet 1973–1975
+Müller-Wiener, Wolfgang; Real, Willi; Feld, Otto 1978: Milet 1973–1975. Vorbericht über die Arbeiten der Jahre 1973 und 1975
+Peschlow-Bindokat, Anneliese 1978: Ioniapolis. Zur Topographie einer milesischen Hafenstadt am latmischen Golf
+Piérart, Marcel 1978: La „sixième Tribut“ de Milet
+Real, Willi 1978: Milet 1973–1975. Ausgewählte Funde aus dem Dionysos-Tempel
+Tozzi, Pierluigi 1978: La rivolta ionica
+Hommel, Peter 1979: Zur Fundsituation des ionischen Kapitells von Yeniköy
+Balcer, Jack Martin 1979: Imperialism and Stasis in Fifth c. BC Ionia: A Frontier Redefined
+Henninger, F. J.; Kossatz, Anne Ulrike 1979: Zwei hellenistische Gräber der milesischen Nekropole
+Wrede, Henning 1978: Didyma, Milet und Samos im Spätsommer 1875.
+Koenigs, Wolf 1979: Milet 1977. Archaische Bauglieder aus Milet: Ionische Kapitelle
+Kleine, Jürgen 1979: Milet. Bericht über die Arbeiten im Südschnitt an der hellenistischen Stadtmauer 1968-1973
+Koenigs, Wolf 1979: Archaische Bauglieder aus Milet
+Müller-Wiener, Wolfgang 1979: Milet 1977
+Müller-Wiener, Wolfgang 1979: Milet 1977. Arbeiten im Stadtgebiet. Arbeiten im Nordkomplex
+Philipp, Hanna 1979: Eine spätantike Ehreninschrift aus Milet
+Müller-Wiener, Wolfgang; Henninger, F. J.; Koenigs, Wolf; Kossatz, Anne Ulrike; Philipp, Hanna 1979: Milet 1977. Vorbericht über die Arbeiten des Jahres 1977
+Piérart, Marcel 1979: La constitution de Milet à la lumière des institutions de ses colonies
+Müller-Wiener, Wolfgang 1979: Milet 1977. Arbeiten im Stadtgebiet. Untersuchungen im Dionysos-Heililigtum
+Burstein, Stanley M. 1980: Lysimachus and the Greek Cities of Asia. The Case of Miletus
+Gehrke, Hans-Joachim 1980: Zur Geschichte Milets in der Mitte des 5. Jahrhunderts v. Chr.
+Schiering, Wolfgang 1979: Milet. Eine Erweiterung der Grabung östlich des Athenatempels
+Tuchelt, Klaus 1979: Frühe Denkmäler Roms in Kleinasien
+Koenigs, Wolf 1980: Bauglieder aus Milet II
+Herrmann, Peter 1980: Kaiserzeitliche Grabinschriften mit Stephanephoren-Daten
+Herrmann, Peter 1980: Urkunden milesischer Temenitai
+Kleine, Jürgen 1980: Führer durch die Ruinen von Milet, Didyma und Priene
+Kriseleit, Irmgard 1980: Antike Guß- und Treibformen
+Köster, Reinhard; Kossatz, Anne Ulrike 1980: Milet 1978–1979. Ausgewählte Funde
+Merkelbach, Reinhold 1980: Spätantikes Ehrenepigramm aus Milet
+Müller-Wiener, Wolfgang; Voigtländer, Walter 1980: Milet 1978-1979. Vorbericht über die Arbeiten der Jahre 1978 und 1979, 1. Arbeiten im Stadtgebiet
+Müller-Wiener, Wolfgang 1980: Neue Grabungen in Milet 1979
+Müller-Wiener, Wolfgang; Herrmann, Peter; Koenigs, Wolf; Köster, Reinhard; Kossatz, Anne Ulrike; Voigtländer, Walter 1980: Milet 1978–1979. Vorbericht über die Arbeiten der Jahre 1978 und 1979
+Müller-Wiener, Wolfgang 1980: Milet 1978–1979. Arbeiten im Stadtgebiet. Grabungen im Bischofspalast
+Müller-Wiener, Wolfgang 1980: Milet 1978–1979
+Cataldi, Silvio 1981: La secessione dei βελτiσoi milesi e le ξuγγpaφaí ateniese per Mileto
+Kossatz, Anne Ulrike 1981: Milet 1980. Ausgewählte Terrakotten aus der Grabung westlich des Buleuterion
+Szidat, Joachim 1980: Hippodamos von Milet. Seine Rolle in Theorie und Praxis der griechischen Stadtplanung
+Koenigs, Wolf 1981: Bauteile aus Myus im Theater von Milet
+Mattingly, Harold Braithwaite 1981: The Athenian Decree for Miletos (IG I², 22+ = ATL II, D 11): a Postscript
+Müller-Wiener, Wolfgang 1981: Die Grabungskampagne in Milet im Herbst 1977
+Müller-Wiener, Wolfgang 1981: Milet 1980 kazı kampanyasi raporu
+Müller-Wiener, Wolfgang 1981: Milet 1980. Arbeiten im Stadtgebiet. Rundkirche bei der Südmauer
+Müller-Wiener, Wolfgang 1981: Milet 1980 III. Islamische Denkmäler im Stadtgebiet
+Peschlow-Bindokat, Anneliese 1981: Lelegische Siedlungsspuren am Bafasee
+Philipp, Hanna 1981: Archaische Gräber in Ostionien
+Peschlow-Bindokat, Anneliese; Germann, Klaus 1981: Die Steinbrüche von Milet und Herakleia am Latmos
+Müller-Wiener, Wolfgang; Koenigs, Wolf; Kossatz, Anne Ulrike; Voigtländer, Walter 1981: Milet 1980. Vorbericht über die Arbeiten des Jahres 1980
+Voigtländer, Walter 1981: Grabung westlich des Buleuterion
+Philipp, Hanna 1981: Nachtrag zur spätantiken Ehreninschrift in Milet (IstMitt 29, 1979, 199–203)
+Strocka, Volker Michael 1981: Das Markttor von Milet
+Durukan, Aynur 1982: Balat'taki Türk Devri Yapıları
+Durukan, Aynur 1982: Studien zu Depot-Material aus Milet 1981. Turkish-islamic ceramic finds
+Müller-Wiener, Wolfgang 1982: Milet 1981. Arbeiten im Stadtgebiet. Untersuchungen auf dem Theaterhügel
+Heres, Huberta 1982: Eine archaische Karyatide aus dem Theater von Milet
+Müller-Wiener, Wolfgang 1982: Milet 1981. Arbeiten im Stadtgebiet. Untersuchungen in der "Großen Kirche"
+Müller-Wiener, Wolfgang 1982: Bericht über die Arbeiten des Jahres 1981 in Milet
+Müller-Wiener, Wolfgang; Durukan, Aynur; Voigtländer, Walter 1982: Milet 1981. Vorbericht über die Arbeiten des Jahres 1981
+Ehrhardt, Norbert 1983: Milet und seine Kolonien. Vergleichende Untersuchung der kultischen und politischen Einrichtungen
+Voigtländer, Walter 1982: Die Grabung westlich des Buleuterion
+Temporini, Hildegard 1982: Die Milesischen Münzen der Jüngeren Faustina. Zur Vorlage eines Ineditum der Tübinger Sammlung
+Müller-Wiener, Wolfgang; Pfrommer, Michael 1983: Milet 1982. Vorbericht über die Arbeiten des Jahres 1982
+Pfrommer, Michael 1983: Zur Typologie der Miniaturhydrien vom Humeitepe
+Müller-Wiener, Wolfgang 1983: Milet 1982 yılı kazı raporu
+Müller-Wiener, Wolfgang 1983: Milet 1982. Arbeiten im Stadtgebiet
+Thompson, Margaret 1983: Alexander's Drachm Mints I. Sardes and Miletus
+Thomas, Eberhard 1983: ΔHMHTPIOΣ ΓΛAYKOY MIΛHΣIOΣ. Bemerkungen zur Person und zum Werk eines späthellenistischen Bildhauers
+Hubbe, R. O. 1984: Public Service in Miletus and Priene in Hellenistic and Roman Imperial Times
+Balcer, Jack Martin 1984: Miletos (IG I, 22 [I.21]) and the Structures of Alliances
+Deppert-Lippitz, Barbara 1984: Die Münzprägung Milets vom 4. bis 1. Jh. v. Chr.
+Ehrhardt, Norbert 1984: Ein milesischer Festkalender aus severischer Zeit
+von Graeve, Volkmar 1983: Archaische Plastik in Milet. Ein Beitrag zur Frage der Werkstätten und der Chronologie
+Voigtländer, Walter 1984: Zur geometrischen und archaischen Epoche in Milet II
+Balcer, Jack Martin 1985: Fifth Century B.C. Ionia: a Frontier redefined
+Moucharte, Ghislaine 1984: A propos d´une découverte de monnaies de Milet
+Müller-Wiener, Wolfgang 1984: 1983 Milet Çalışmalarının Raporu
+Koenigs, Wolf 1984: Türkei. Die Westküste von Troja bis Knidos
+Baldus, Hans Roland 1985: Die Gesandschaftsreise des Poplas. Zu einem ungewöhnlichen Münztyp Milets unter Commodus
+Ehrhardt, Norbert 1985: Probleme der griechischen Kolonisation am Beispiel der milesischen Gründungen
+Herrmann, Peter 1985: Der Kaiser als Schwurgottheit. Ein Inschriftenfragment aus Milet
+Briant, Pierre 1985: Dons de terres et de villes: L’ Asie Mineure dans le contexte achéménide
+Günther, Wolfgang 1985: Milet 1983 - 1984. Gladiatorendenkmäler aus Milet
+Mastrocinque, Attilio 1985: Osservazioni sui rapporti tra i Diadochi e le città d’Adia Minore
+Müller-Wiener, Wolfgang 1985: 1984 Milet Çalışmalarının Raporu
+Müller-Wiener, Wolfgang 1985: Riflessioni sulle caratteristiche dei palazzi episcopali
+La Rocca, Eugenio 1985: Mileto e Iasos nel VII secolo a. C. Un’ oinochoe del "Middle Wild Goat Style I"
+Peschlow-Bindokat, Anneliese 1985: Die Wohnhäuser von Latmos
+Pfrommer, Michael 1985: Klassische und hellenistische Keramik aus dem Heroon III
+Müller-Wiener, Wolfgang; von Graeve, Volkmar; Günther, Wolfgang; Pfrommer, Michael; Weber, Berthold F. 1985: Milet 1983–1984. Vorbericht über die Arbeiten der Jahre 1983 und 1984
+Müller-Wiener, Wolfgang; Weber, Berthold F. 1985: Milet 1983–1984. Arbeiten im Stadtgebiet
+Voigtländer, Walter 1985: Survey bei Akbük
+Pülz, Stefan 1985: Milet 1983–1984. Kaiserzeitliche Keramik aus dem Heroon III
+Voigtländer, Walter 1985: Zur Topographie Milets. Ein neues Modell zur antiken Stadt
+von Graeve, Volkmar 1985: Archaische Skulpturen
+Weber, Berthold F. 1985: Milet 1983–1984. Die Grabung im Heroon III
+Wenk, Silke 1985: Auf den Spuren der Antike. Theodor Wiegand, ein deutscher Archäologe
+Gödecken, Karin Barbara 1986: Beobachtungen und Funde an der Heiligen Straße zwischen Milet und Didyma 1984
+Altenhöfer, Erich 1986: Das erste römische Bühnengebäude des Theaters von Milet
+Dupont, Pierre 1986: Naturwissenschaftliche Bestimmungen der archaischen Keramik Milets
+Brückner, Helmut 1986: Man's impact on the evolution of the physical environment in the Mediterranean region in historical times
+Günther, Wolfgang 1986: Ehrungen für einen milesischen Periodoniken
+Işik, Fahri 1986: Ein wiedergefundener Girlandensarkophag in Milet
+Koenigs, Wolf 1986: Reste archaischer Architektur in Milet
+Kossatz, Anne Ulrike 1986: Hellenistische Reliefbecher aus Milet
+Müller-Wiener, Wolfgang 1986: Bemerkungen zur Topographie des archaischen Milets
+NA 1986: Milet 1899–1980. Ergebnisse, Probleme und Perspektiven einer Ausgrabung. Kolloquium, Frankfurt a.M. 1980
+Müller-Wiener, Wolfgang 1986: Hellenistische Tempel in Milet
+Müller-Wiener, Wolfgang 1986: Milet 1985. Zur Baugruppe des Ilyas Bey in Balat
+Müller-Wiener, Wolfgang 1986: Milet 1985
+Müller-Wiener, Wolfgang 1986: Milet 1985. Arbeiten in den Heroa
+Müller-Wiener, Wolfgang 1986: Von der Polis zum Kastron. Wandlungen der Stadt im Ägäischen Raum von der Antike zum Mittelalter
+Schwarz, Christiane 1986: Die Hydriaphoren von Milet
+Schaus, Gerald P. 1986: Two Fikellura Vase Painters
+Pfrommer, Michael 1986: Bronzebecher des 6. Jhs. v. Chr. aus Milet
+Pfrommer, Michael 1986: Ein orientalisches Motiv in der Schmuckkunst. Zu einem vergoldeten Kettenglied aus Ton in Milet
+Pülz, Stefan 1986: Milet 1985. Ein Keramikkomplex der mittleren Kaiserzeit aus dem Heroon I
+von Graeve, Volkmar 1986: Neue archaische Skulpturenfunde aus Milet
+von Graeve, Volkmar; Trümpler, Charlotte; Grentzenberg, Beate; Baier, A. 1986: Grabungen auf dem Kalabaktepe
+von Graeve, Volkmar 1986: Der Grabnaiskos aus dem Heroon I
+Voigtländer, Walter; Haselberger, Lothar 1986: Antike aktuell. Didyma und Milet im Modell
+Voigtländer, Walter 1986: Survey bei Akbük - Teichiussa 1985
+Haider, Peter W. 1987: Die Löwen von Didyma, Milet und die Außenpolitik der Saiten
+Herrmann, Peter 1987: Milesier am Seleukidenhof. Prosopographische Beiträge zur Geschichte Milets im 2. Jh. v. Chr.
+Müller-Wiener, Wolfgang 1987: Milet 1986. Byzantinische Kirchenbauten in der milesischen Chora
+Müller-Wiener, Wolfgang; von Graeve, Volkmar; Pfrommer, Michael; Pülz, Stefan 1987: Milet 1986. Vorbericht über die Arbeiten des Jahres 1986
+Robertson, Noel 1987: Government and Society at Miletus
+Schneider, Peter 1987: Zur Topographie der Heiligen Straße von Milet nach Didyma
+Pülz, Stefan 1987: Zwei Keramikkomplexe aus dem Heroon III
+Pfrommer, Michael 1987: Ein Model in Phialenform aus Milet
+Becker, Felix 1988: Ein Fund von 75 milesischen Obolen
+von Graeve, Volkmar; Grentzenberg, Beate; Trümpler, Charlotte; Schmidt, Leo 1987: Grabung auf dem Kalabaktepe
+Durukan, Aynur 1988: Balat, Ilyas Bey Camii
+Gödecken, Karin Barbara 1988: A Contribution to the Early History of Miletus. The Settlement in Mycenaean Times and its Connections Overseas
+Günther, Wolfgang 1988: Milesische Bürgerrechts- und Proxenieverleihung der hellenistischen Zeit
+Follet, Simone 1988: Éphèbes étrangers à Athènes: Romains, Milésiens, Chypriotes etc.
+Herrmann, Peter 1988: Fragment einer Senatsrede Marc Aurels aus Milet. Nachtrag zu IstMitt 25, 1975, 149 ff.
+Herrmann, Peter 1988: Chresimus, procurator lapicidinarum. Zur Verwaltung der kaiserlichen Steinbrüche in der Provinz Asia
+Hommel, Hildebrecht 1988: Symbola. Kleine Schriften zur Literatur- und Kulturgeschichte der Antike
+Günther, Wolfgang 1988: "Vieux et inutilisable" dans un inventaire inédit de Milet
+Masson, Oliver 1988: Le culte ionien d´Apollon Oulios d´après les données onomastiques nouvelles
+Müller-Wiener, Wolfgang 1988: 1987 Milet Çalışmaları
+Müller-Wiener, Wolfgang 1988: Milet 1987. Untersuchungen im Bischofspalast in Milet (1977–1979)
+Müller-Wiener, Wolfgang 1988: Milet 1976–1986. Ergebnisse aus 10 Jahren Ausgrabungstätigkeit
+Wörrle, Michael 1988: Inschriften von Herakleia am Latmos I
+Gehrke, Hans-Joachim 1989: Bemerkungen zu Hippodamos von Milet
+Altenhöfer, Erich; Bol, Renate 1989: Der Eroten-Jagdfries des Theaters in Milet. Fundzusammenhang und baugeschichtliche Beurteilung. Archäologische Beurteilung und Rekonstruktion (Festschrift W. Müller-Wiener)
+Ehrhardt, Norbert 1989: Apollon Ietros. Ein verschollener Gott Ioniens?
+Errington, Robert Malcolm 1989: The Peace Treaty between Miletus and Magnesia (I. Milet 148)
+Müller-Wiener, Wolfgang 1989: 1988 yılı Milet Çalışmaları Raporu
+Gödecken, Karin Barbara 1989: Eine "Wilde-Reiter"-Vase aus Milet. Ein Beitrag zur Kulturgeschichte der milesischen Halbinsel (Festschrift W. Müller-Wiener)
+Günther, Wolfgang 1989: Zu den Anfängen des Kaiserkults in Milet (Festschrift W. Müller-Wiener)
+Herrmann, Peter 1989: Ein Tempel für Caligula in Milet? (Festschrift W. Müller-Wiener)
+Meyer, Eckhard 1989: Zwei unedierte severische Münzen aus Laodicea ad mare und Milet
+Pfrommer, Michael 1989: Zum Fries des Dionysostempels von Milet
+Parzinger, Hermann 1989: Zur frühesten Besiedlung Milets (Festschrift W. Müller-Wiener)
+Peschlow-Bindokat, Anneliese 1989: Die Umgestaltung von Latmos in der 1. Hälfte des 4. Jhs. v. Chr.
+Peschlow-Bindokat, Anneliese 1989: Die Nekropolen von Latmos und Herakleia am Latmos
+Schneider, Peter 1989: Ein Temenos an der Heiligen Straße von Milet nach Didyma
+Schwarz, Christiane 1989: Drei dädalische Terrakotten aus Milet (Festschrift W. Müller-Wiener)
+von Graeve, Volkmar 1989: Eine spätarchaische Anthemienstele aus Milet (Festschrift W. Müller-Wiener)
+Sack, Dorothée; Schirmer, Wulf 1989: Erinnerung an Karl Wulzinger. Frühe Jahre in der Türkei
+Selesnow, Wolfgang 1989: Antinoos in Milet (Festschrift W. Müller-Wiener)
+Heinz, Margareta 1990: Milet 1989. Katalog ausgewählter Funde
+Gans, Ulrich 1990: Streufunde aus dem Stadtgebiet
+Brinkmann, Vinzenz 1990: Der Westbau
+Brulé, Pierre 1990: Enquete démographique sur la famile grecque antique. Étude de listes de politographie d´Asie Mineure d´époqoue hellénistique (Milet et Ilion)
+Weber, Berthold F. 1989: Zum Laodikebau in Milet (Festschrift W. Müller-Wiener)
+Müller-Wiener, Wolfgang 1990: Milet 1989. Arbeiten in der Großen Kirche
+Müller-Wiener, Wolfgang 1990: Milet 1989 raporu
+Schröder, Bernt 1990: Archäologiebegleitende Geologie zur Grabung Milet 1989
+Kossatz, Anne Ulrike; Kossatz, Anne Ulrike 1990: Funde aus Milet 1. Die Megarischen Becher
+von Hesberg, Henner 1990: Platzanlagen und Hallenbauten in der Zeit des frühen Hellenismus
+Senff, Reinhard; von Graeve, Volkmar 1990: Die Grabungen am Südhang des Kalabaktepe
+Dennert, Martin; Feld, Otto 1991: Wolfgang Müller-Wiener. Schriftenverzeichnis
+von Graeve, Volkmar; Brinkmann, Vinzenz; Gans, Ulrich; Müller-Wiener, Wolfgang; Schröder, Bernt; Senff, Reinhard; Heinz, Margareta 1990: Milet 1989. Vorbericht über die Arbeiten des Jahres 1989 und einer 1988 auf dem Kalabaktepe durchgeführten Sondierung
+von Graeve, Volkmar; Biering, Ralf; Blum, Irene 1990: Der Schnitt auf dem Gipfelplateau des Kalabaktepe 1988
+Habicht, Christian 1991: Milesische Theoren in Athen
+Gans, Ulrich; Heinz, Margareta 1991: Die Grabungen auf dem Zeytintepe
+Heres, Huberta 1991: Ein hellenistisches Herrscherporträt aus Milet
+Koenigs, Wolf 1991: Westtürkei. Von Troia bis Knidos
+Parakenings-Bozkurt, Birgit; Kerschner, Michael 1991: Milet 1990. Eine Notgrabung in der römischen Nekropole
+Schröder, Bernt; Yalçın, Ünsal 1991: Geologische Begleituntersuchungen
+Popko, Maciej 1991: Z najdawniejszych dziejów Miletu. De Mileto urbe antiquissima
+von Graeve, Volkmar 1991: 1990 yılı Milet Çalışmaları
+von Graeve, Volkmar; Gans, Ulrich; Kerschner, Michael; Müller-Wiener, Wolfgang; Parakenings-Bozkurt, Birgit; Schmidt-Schultz, Tyede H.; Schröder, Bernt; Schultz, Michael; Seifert, Martina; Senff, Reinhard; Yalçın, Ünsal 1991: Milet 1990. Vorbericht über die Arbeiten des Jahres 1990
+von Graeve, Volkmar; Senff, Reinhard; Blum, Irene; Greger, S. M.; Heinz, Margareta 1991: Die Grabung auf dem Kalabaktepe
+Seifert, Martina; Krumme, Michael 1991: Ein Töpferofen vor der Stadtmauer
+Schultz, Michael; Schmidt-Schultz, Tyede H. 1991: Ergebnisse osteologischer Untersuchungen an menschlichen Skelettfunden aus Milet
+Vanschoonwinkel, Jacques 1991: L’Égée et la Méditerranée Orientale à la fin du deuxième millénaire. Témoignages archéologiques et sources écrites
+Cook, Robert Manuel 1992: The Wild Goat and Fikellura Styles: Some Speculations
+Gresik, Gerhard; Olbrich, Hartmut 1992: Milet 1991. Sanierungs- und Sicherungsarbeiten in Milet
+Günther, Linda-Marie 1992: Zur Familien- und Haushaltsstruktur im hellenistischen Kleinasien (am Beispiel zweier Inschriften aus Milet und Ilion)
+Günther, Linda-Marie 1992: Gallicus sive Anticus. Zu einem Triumphaltitel Justians I.
+Günther, Wolfgang 1992: Athenisches Bürgerrecht für Theoren aus Milet
+Rath, Ingo W. 1992: Die griechische Polis als Bezugsrahmen des vorsokratischen Denkens. Ein Versuch der sozial-historischen Verankerung
+Peters, Joris; von den Driesch, Angela 1992: Siedlungsabfall versus Opferreste- Essgewohnheiten im archaischen Milet
+Kron, Uta 1992: Heilige Steine
+Schaaf, Hildegard 1992: Untersuchungen zu Gebäudestiftungen in hellenistischer Zeit
+Peters, Joris; von den Driesch, Angela 1992: Milet 1991. Siedlungsabfall versus Opferreste: Essgewohnheiten im archaischen Milet
+Schröder, Bernt; Yalçın, Ünsal 1992: Stand der archäologierelevanten geologischen / hydrologischen Untersuchungen im Umfeld von Milet
+Senff, Reinhard; von Graeve, Volkmar 1992: Die Grabungen auf dem Kalabaktepe
+von Graeve, Volkmar 1992: 1991 yılı Milet Çalışmaları
+Senff, Reinhard; Heinz, Margareta; Pigur, M. 1992: Milet 1991. Die Grabung auf dem Zeytintepe
+Tuchelt, Klaus 1992: Branchidai-Didyma: Geschichte und Ausgrabung eines antiken Heiligtums
+Ehrhardt, Norbert 1993: Zwei archaische Statuen mit Nymphen-Weihungen aus Milet
+Held, Winfried 1993: Heiligtum und Wohnhaus. Ein Beitrag zur Topographie des klassischen Milets
+von Graeve, Volkmar; von den Driesch, Angela; Gresik, Gerhard; Heinrich, Hayo; Olbrich, Hartmut; Peters, Joris; Schröder, Bernt; Senff, Reinhard; Yalçın, Ünsal 1992: Milet 1991. Vorbericht über die Arbeiten des Jahres 1991
+von Graeve, Volkmar 1993: 1992 Milet Çalışmaları
+Kerschner, Michael 1993: Neutron Activation Analysis of Bird Bowls and Related Archaic Ceramics from Miletus
+Köster, Reinhard 1993: Die Palästrahallen der Capitothermen in Milet. Überlegungen zur Rekonstruktion F. Krischens
+Yalçın, Ünsal 1993: Milet'te Arkeoınetallurjik Araştırmalar
+Peters, Joris 1993: Archaic Milet: Daily Life and Religious Customs from an Archaeozoological Perspective
+Herrmann, Peter 1994: Eine Mosaikinschrift aus Milet (Festschrift H. Malay)
+Yalçın, Ünsal 1993: Milet'te Bilimsel Araştırmalar
+Yalçın, Ünsal; Schröder, Bernt 1993: Milet ve Yöresinde Jeoarkeolojik Çalışmalar
+Zimmermann, Elke 1993: Die Tierreste aus dem archaischen Milet / Westtürkei (7. bis 5. Jh. v. Chr.)
+Hoepfner, Wolfram; Schwandner, Ernst-Ludwig; Boessneck, Joachim; Dakarēs, Sotiris 1994: Haus und Stadt im klassischen Griechenland
+Herrmann, Peter; Greger, S. M. 1994: Milet unter Augustus. C. Iulius Epikrates und die Anfänge des Kaiserkults
+Kienast, Dietmar 1994: Die Auflösung des Jonischen Aufstandes und das Schicksal des Histiaios
+Korfmann, Manfred; Baykal-Seeher, Ayşe; Kılıç, Sinan 1994: Anatolien in der Frühen und Mittleren Bronzezeit. 1. Bibliographie zur Frühbronzezeit
+Köster, Reinhard 1994: Der sogenannte Tabernakelbau in Milet. Reste eines Grabbaus der frühen Kaiserzeit?
+Seifert, Martina 1994: Herkunftsbestimmung archaischer Keramik am Beispiel von Amphoren aus Milet
+Peschlow-Bindokat, Anneliese 1994: Steinbruch und Tempel. Die Cave di Cusa von Selinunt und die Marmorbrüche von Milet
+Sekunda, Nicholas V. 1994: Iphicrates the Athenian and the Menestheid Family of Miletus
+Pekáry, Thomas 1994: Ausgewählte Kleine Schriften
+Rumscheid, Frank 1994: Untersuchungen zur kleinasiatischen Bauornamentik des Hellenismus
+Senff, Reinhard 1994: Zyprische und ostgriechische Statuetten aus Milet
+Brinkmann, Vinzenz 1995: Grabungsdokumentation und Miletarchiv auf CD-ROM
+Brückner, Helmut 1995: Milet 1992–1993. Geomorphologie und Paläo-Environment der Milesia
+Eder, Walter 1995: Milet 1992-1993. Entwurf eines denkmalpflegerischen und touristischen Gesamtkonzepts für die Stadtruine Milet
+Delorme, Jean 1995: Athènes et Milet au milieu du Ve s. av. J.-C.
+Yalçın, Ünsal 1994: Milet'te Bilimsel Araştırmalar 1993
+Gresik, Gerhard; Olbrich, Hartmut; Zurkuhlen, Roland 1995: Milet 1992–1993. Zwischenbericht über die Sicherungs- und Sanierungsarbeiten am Theater und am Theaterkastell während der Kampagne 1992 und 1993
+Günther, Wolfgang 1995: Ein Proxeniedekret aus Myus
+Günther, Wolfgang 1995: Zwei neue Temenitenverzeichnisse aus Milet
+Ehrhardt, Norbert; Weiss, Peter 1995: Trajan, Didyma und Milet. Neue Fragmente von Kaiserbriefen und ihr Kontext
+Faraguna, Michele 1995: Note di storia milesia arcaica
+Müller-Wiener, Wolfgang 1995: Mileto
+Lohmann, Hans 1995: Survey in der Chora von Milet. Vorbericht über die Kampagnen der Jahre 1990, 1992 und 1993
+Herrmann, Peter 1995: Eine "pierre errante". Ephebenkatalog aus Iasos in Milet
+Müller-Wiener, Elfriede 1995: Wolfgang Müller-Wiener. Sein Lebensweg aufgezeichnet für die Familie, seine Freunde und Mitarbeiter von Elfriede Müller-Wiener
+Schröder, Bernt; Brückner, Helmut; Stümpel, Harald; Yalçın, Ünsal 1995: Milet 1992–1993. Geowissenschaftliche Umfelderkundung
+Niemeier, Wolf-Dietrich 1995: New Excavations in Bronze Age Miletus 1994
+Pimouguet-Pedarros, Isabelle 1995: Défense et territoire. L'exemple milésien
+Roueché, Charlotte 1995: Aurarii in the Auditoria
+Seifert, Martina; Yalçın, Ünsal 1995: Milet'te Arkeometrik Araştırmalar
+Senff, Reinhard 1995: Milet 1992–1993. Stand des Einsatzes von CAD in der Grabungsdokumentation
+Senff, Reinhard 1995: Milet 1992–1993. Die Grabung am Kalabaktepe
+Senff, Reinhard 1995: Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“)
+Senff, Reinhard 1995: Milet 1992-1993. Vorbericht über die Grabungsarbeiten und Geländeerkundungen, die Denkmälerrestaurierung und die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1992 und 1993
+Sinanoglu, Ahmet 1995: Didyma, Miletos, Priene
+Stümpel, Harald; Demirel, Filiz; Lorra, Susanne; Wende, Stefan 1995: Milet 1992–1993. Geophysikalische Messungen im Umfeld von Milet 1993
+von Graeve, Volkmar 1995: 1993 Yılı Milet Çalışmaları
+Senff, Reinhard; Heinz, Margareta 1995: Milet 1992-1993. Die Grabung auf dem Zeytintepe
+Tuttahs, Gerhard 1995: Milet 1992–1993. Wasserbauliche Problemfelder am Grabungsplatz Milet: Zustand und Aufgaben
+Weber, Berthold F. 1995: Zum spätarchaischen Tempel auf dem Mengerevtepe bei Milet
+Weber, Berthold F. 1995: Milet 1992–1993. Ein spätarchaischer Tempel auf dem Mengerevtepe bei Milet
+Wille, M. 1995: Milet 1992–1993. Pollenanalyse aus dem Löwenhafen von Milet. Vorläufige Ergebnisse
+von Graeve, Volkmar; Brinkmann, Vinzenz; Brückner, Helmut; Eder, Walter; Gresik, Gerhard; Heinz, Margareta; Herrmann, Peter; Kerschner, Michael; Lohmann, Hans; Olbrich, Hartmut; Schröder, Bernt; Senff, Reinhard; Stümpel, Harald; Tuttahs, Gerhard; Weber, Berthold F.; Wille, M.; Yalçın, Ünsal; Zurkuhlen, Roland 1995: Milet 1992–1993
+Feld, Otto 1996: Eine Kirche für Maria in Miletos
+Herda, Alexander 1996: Von Milet nach Didyma. Eine griechische Prozessionsstraße archaischer Zeit
+Yalçın, Ünsal 1995: Milet'te Bilimsel Araştırmalar 1994
+Baldus, Hans Roland 1996: Ein unedierter kaiserzeitlicher Gegenstempel von Milet
+Brückner, Helmut 1996: Geoarchäologie an der türkischen Ägäisküste. Landschaftswandel im Spiegel geologischer und archäologischer Zeugnisse
+Lang, Franziska 1996: Archaische Siedlungen in Griechenland: Struktur und Entwicklung
+Klinkott, Manfred 1996: Raster, Raum und Sichtverbindungen im Stadtensemble von Milet
+Koenigs, Wolf 1996: "Rundaltäre" aus Milet
+Müller-Wiener, Wolfgang 1996: Miletos
+Niemeier, Wolf-Dietrich 1996: A Linear A Inscription from Miletus (MIL Zb 1)
+Tuchelt, Klaus 1996: Ein Kultbezirk an der Heiligen Straße von Milet nach Didyma
+Lohmann, Hans 1996: Zur Siedlungsarchäologie der griechischen Polis
+Seifert, Martina; Yalçın, Ünsal 1996: Bemerkungen zum Export und Import archaischer Amphoren aus Milet: Interdisziplinäre Untersuchungen
+Schröder, Bernt; Bay, Bilal 1996: Late Holocene Rapid Coastal Change in Western Anatolia – Büyük Menderes Plain as a Case History
+Yalçın, Ünsal 1996: Milet'te Bilimsel Araştırmalar 1995
+von Graeve, Volkmar 1996: Zu den Hafenlöwen von Milet
+von Graeve, Volkmar 1996: Neue Ausgrabungen und Forschungen im antiken Milet
+von Graeve, Volkmar 1996: 1994/95 Yılı Milet Çalışmaları
+de Domingo, C. A.; Johnston, Alan. W. 1997: Trade between Kommos, Crete and East Greece: A Petrographic Study of Archaic Transport Amphorae
+Adiego, Ignacio J. 1997: Milet 1994–1995. Fragment d’une inscription lydienne
+Bresson, Alain 1997: De Marseille à Milet: lettres lunaires et associations cultuelles
+Brückner, Helmut 1997: Coastal Changes in Western Turkey: Rapid Delta Progradation in Historical Times
+Cobet, Justus 1997: Die Mauern sind die Stadt. Zur Stadtbefestigung des antiken Milet
+Demirel, Filiz 1997: Kombinierter Einsatz verschiedener Geo-/bodenphysikalischer Methoden und Modellrechnungen an einem antiken Wasserleitungssystem in Milet (Türkei)
+Hoepfner, Wolfram 1997: Einführung
+Lohmann, Hans 1997: Antike Hirten in Westkleinasien und der Megaris: Zur Archäologie der mediterranen Weidewirtschaft
+Ercan, A 1997: Miletus. Geophysical Investigations to Determine Deposition Rate and to Discover Hot Springs for Antic Baths
+Gresik, Gerhard; Feibert, Anna 1997: Milet 1994–1995. Sicherungs- und Sanierungsarbeiten in Milet. 2. Sicherungsarbeiten an den Sitzstufen im Bereich des zweiten Ranges
+Lohmann, Hans 1997: Assesos
+Lohmann, Hans 1997: Survey in der Chora von Milet. Vorbericht über die Kampagnen der Jahre 1994 und 1995
+McNicoll, Anthony Walter 1997: Hellenistic Fortifications from the Aegean to the Euphrates
+Müller, Dietram 1997: Topographischer Bildkommentar zu den Historien Herodots. Kleinasien und angrenzende Gebiete mit Südostthrakien und Zypern
+Niemeier, Barbara; Niemeier, Wolf-Dietrich 1997: Milet 1994–1995. Projekt: "Minoisch-mykenisches bis protogeometrisches Milet": Zielsetzung und Grabungen auf dem Stadionhügel und am Athenatempel
+Selesnow, Wolfgang 1997: Milet 1994–1995. Ausgewählte Lampen vom Kalabak- und Zeytintepe
+Niemeier, Wolf-Dietrich 1997: The Mycenaean potters’ quarter at Miletus
+Rehm, Albert; Herrmann, Peter 1997: Inschriften von Milet Teil 1. Inschriften n. 187-406. Nachträge und Übersetzungen zu den Inschriften n. 1-406.
+Olbrich, Hartmut; Zurkuhlen, Roland 1997: Milet 1994–1995. Sicherungs- und Sanierungsarbeiten in Milet. 1. Arbeiten am Theaterkastell und in der Cavea des Theaters
+Schorndorfer, Susanne 1997: Öffentliche Bauten hadrianischer Zeit in Kleinasien. Archäologisch-historische Untersuchungen
+Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz 1997: Milet 1994–1995. Das Wohnviertel am Südhang des Kalabaktepe
+Stika, Hans-Peter 1997: Milet 1994–1995. Pflanzenreste aus dem archaischen Milet. Vorbericht zur Kampagne 1992
+Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz 1997: Milet 1994–1995. Die Grabungen auf dem Gipfelplateau des Kalabaktepe 1995
+Tuttahs, Gerhard 1997: Milet 1994–1995. Vorbericht zur Wasserversorgung Milets im Einzugsgebiet des Nymphaeum-Aquäduktes in römischer Zeit (1. und 2. Jh. n. Chr.)
+Stümpel, Harald; Bruhn, Carsten; Demirel, Filiz; Gräber, Michael; Panitzki, Michael; Rabbel, Wolfgang 1997: Milet 1994–1995. Stand der geophysikalischen Messungen im Umfeld von Milet
+von Graeve, Volkmar; Adiego, Ignacio J.; Blum, Irene; Bruhn, Carsten; Cobet, Justus; Demirel, Filiz; Feibert, Anna; Gräber, Michael; Gresik, Gerhard; Heinz, Margareta; Hürmüzlü, Bilge; Kerschner, Michael; Lohmann, Hans; Niemeier, Wolf-Dietrich; Niemeier, Barbara; Olbrich, Hartmut; Panitzki, Michael; Rabbel, Wolfgang; Schneider, Carsten; Selesnow, Wolfgang; Senff, Reinhard; Songu, Filiz; Stika, Hans-Peter; Stümpel, Harald; Tuttahs, Gerhard; Weiss, Peter; Zurkuhlen, Roland 1997: Milet 1994–1995. Vorbericht über die Grabungsarbeiten und Geländeerkundungen, die Denkmälerrestaurierung und die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1994 und 1995
+Bay, Bilal; Schröder, Bernt 1998: Human Induced Soil Erosion and Delta Progradation in the Grand Menderes Valley (SW-Turkey)
+Alföldy, Géza 1998: Traianus pater und die Bauinschrift des Nymphäums von Milet
+Brückner, Helmut 1998: Coastal Research and Geoarchaeology in the Mediterranean Region
+Budeit, Hans Joachim; Lerch, Wolfgang Günter 1998: Türkei. Von der Antike zum Islam
+Ehrhardt, Norbert 1998: Didyma und Milet in archaischer Zeit
+Günther, Wolfgang 1998: Milet und Athen im zweiten Jahrhundert v. Chr.
+Herda, Alexander 1998: Der Kult des Gründerheroen Neileos und die Artemis Kithone in Milet
+Forbeck, Elke 1998: Die Nekropolen von Milet
+Höcker, Christoph 1998: Hippodamus
+Niemeier, Wolf-Dietrich 1998: The Minoans in the South-Eastern Aegean and in Cyprus
+Krause, Karl-Jürgen 1998: Raumplanung im griechischen Altertum
+Herrmann, Peter 1998: Inschriften von Milet Teil 2. Inschriften n. 407–1019
+Tülek, Füsun 1998: Berlin Pergamon Müzesi'ndeki Milet Orpheus Mozaiği
+von Graeve, Volkmar 1998: 100. Yılında Arkaik Dönem Milet Kazıları
+Niemeier, Wolf-Dietrich 1998: The Mycenaeans in Western Anatolia and the Problem of the Origins of the Sea Peoples
+Tuttahs, Gerhard 1998: Milet und das Wasser, ein Beispiel für die Wasserwirtschaft einer antiken Stadt
+Baykara, Tuncer 1999: Balat Şehri Yapıları (XVI. Yüzyıl Sonlarında)
+Bay, Bilal 1999: Milet 1996–1997. Geoarchäologische Auswertung der Brunnengrabung nördlich von Yeniköy
+Bay, Bilal 1999: Geoarchäologie, anthropogene Bodenerosion und Deltavorbau im Büyük Menderes Delta (SW-Türkei)
+von Graeve, Volkmar 1998: Neue Ausgrabungen und Forschungen im archaischen Milet
+von Graeve, Volkmar 1998: Milet 1996/97 Yılı Milet çalışmaları
+Wachter, Rudolf 1998: Eine Weihung an Athena von Assesos
+Blümel, Wolfgang 1999: Maiandru pedion
+Brückner, Helmut 1999: Palaeographic Studies in the Büyük Menderes Deltaplain, 1998
+Brüggerhoff, Stefan; Cheba, Sabina; Leisen, Hans; Warscheid, Thomas 1999: Carbonate Crusts on Marble Fragments at the Excavation Site in Milet, Turkey: Examination of Crust Formation and First Results of a Cleaning Concept
+Brückner, Helmut; Handl, Monika; Mostafawi, Nasser 1999: Ostracodenforschung als Werkzeug der Paläogeographie
+Blum, Irene 1999: Die Stadtmauern von Alt-Milet. Ergebnisse des Surveys von 1996 und 1997
+Cheba, Sabina 1999: Biogen induzierte Kalkkrusten auf Marmorobjekten in der Ausgrabungsstätte Milet/Türkei. Untersuchung zum Krustenaufbau und Entwicklung von Konzepten zu ihrer Abnahme
+Günther, Wolfgang 1999: Funde aus Milet IX. Ein milesisches Proxenie-Dekret des 4. Jahrhunderts v. Chr.
+Durukan, Aynur 1999: Tarih boyunca Balat
+Drijvers, Jan Willem 1999: Strabo 17.1.18 (801C): Inaros, the Milesians and Naucratis
+Ehrhardt, Norbert 1999: Funde aus Milet VII. Ein weiteres Zeugnis für die Menesthiden-Familie
+Brüggerhoff, Stefan; Cheba, Sabina; Leisen, Hans; Warscheid, Thomas 1999: Milet 1996-1997. Untersuchungen zur Krustenbildung auf Marmoroberflächen in Milet
+Kaletsch, Hans; Meyer, Ernst 1999: Lade
+Heinzel, Elma 1999: Neleus, Herrscher von Pylos, und der Gründermythos von Milet
+Held, Winfried 1999: Vom urartäischen Raupenhelm zum ionischen Helm. Zu einer Wangenklappe aus dem Athenaheiligtum in Milet
+Hölbl, Günther 1999: Funde aus Milet VIII. Die Aegyptiaca vom Aphroditetempel auf dem Zeytintepe
+Kayan, İlhan 1999: Holocene Stratigraphy and Geomorphological Evolution of the Aegean Coastal Plains of Anatolia
+Kerschner, Michael; Schlotzhauer, Udo 1999: Milet 1996–1997. Das Artemisheiligtum auf der Ostterrasse des Kalabaktepe in Milet. Stratigraphie und Keramikfunde der Sondagen des Jahres 1995
+Kertész, István 1999: "Pleres de oikos hapas stephanon"
+Käufler, Steffen 1999: Funde aus Milet II. Die Frühstufe des Middle Wild Goat I­ Stils
+Lohmann, Hans 1999: Iustinianopolis
+Lohmann, Hans 1999: Survey auf der Halbinsel von Milet
+Ketterer, Katharina 1999: Funde aus Milet III. Ein Fikellurakessel aus dem Aphroditeheiligtum
+Klose, Dietrich O. A. 1999: Milet
+Müller-Wiener, Wolfgang 1999: Milet
+Longo, Fausto 1999: Mileto
+Nawotka, Krzysztof 1999: Boule and Demos in Miletus and Its Pontic Colonies from Classical Age Until Third Century A.D.
+Lohmann, Hans 1999: Survey in der Chora von Milet. Vorbericht über die Kampagnen der Jahre 1996 und 1997
+Niemeier, Wolf-Dietrich 1999: Minoites, mykenaioi kai khettaioi: Nea evrimata apo tis anaskafes tou Panespistimiou Chaidelvergis ste Mileto
+Schlotzhauer, Udo 1999: Funde aus Milet IV. Beobachtungen zu Trinkgefäßen des Fikellurastils
+Pfisterer-Haas, Susanne 1999: Funde aus Milet VI. Die Importkeramik
+Niemeier, Wolf-Dietrich 1999: Mycenaeans and Hittites in war in western Asia Minor
+Niemeier, Wolf-Dietrich 1999: "Die Zierde Ioniens". Ein archaischer Brunnen, der jüngere Athenatempel und Milet vor der Perserzerstörung
+Senff, Reinhard 1999: Wohnhäuser, Handwerksbetriebe und öffentliche Bauten im archaischen Milet
+Stümpel, Harald; Demirel, Filiz; Rabbel, Wolfgang; Trinks, Immo; Wölz, Susanne 1999: Milet 1996–1997. Geophysikalische Prospektion im Umfeld von Milet 1996–1997
+Tuttahs, Gerhard 1999: Untersuchungen zur Wasserwirtschaft der antiken Stadt Milet
+Villing, Alexandra 1999: Funde aus Milet I. Zwei archaische Schüsselformen
+Weber, Berthold F. 1999: Die Bauteile des Athenatempels in Milet
+Weber, Berthold F. 1999: Milet 1996–1997. Die Restaurierungsmaßnahmen im Theater von Milet. Arbeiten im September 1997
+von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabina; Demirel, Filiz; Kerschner, Michael; Leisen, Hans; Rabbel, Wolfgang; Stümpel, Harald; Trinks, Immo; Warscheid, Thomas; Weber, Berthold F.; Wölz, Susanne 1999: Milet 1996–1997
+von Graeve, Volkmar 1999: Funde aus Milet V. Ein neuer Figurentypus der archaischen milesischen Koroplastik
+von Graeve, Volkmar; Niemeier, Wolf-Dietrich 1999: Milet kazıları
+von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabina; Demirel, Filiz; Kerschner, Michael; Leisen, Hans; Rabbel, Wolfgang; Stümpel, Harald; Trinks, Immo; Warscheid, Thomas; Weber, Berthold F.; Wölz, Susanne 1999: Milet 1996–1997. Vorbericht über die Grabungsarbeiten und Geländeuntersuchungen, die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1996 und 1997
+Bayhan, Suzan 2000: Priene, Miletos, Didyma
+Böhlendorf-Arslan, Beate 2000: Die Beziehungen zwischen byzantinischer und emiratszeitlicher Keramik
+Andreou, Vivi 2000: Remarques sur l'histoire des classes dirigeantes de Milet
+Weber, Berthold F. 1999: Milet tiyatrosu´nda restorasyon, emniyet ve koruma çalışmaları
+Weber, Berthold F. 1999: Milet 1996–1997. Wassersteigetürme in Milet. Die Sondagen auf der Strasse zwischen Südmarkt und Magazinhalle im Jahr 1997
+Brückner, Helmut; Müllenhoff, Marc; Uncu, Levent 2000: Paleogeographic Studies in the Büyük Menderes Deltaplain 1999
+Gorman, Robert Joseph; Gorman, Vanessa Barrett 2000: The Tyrants around Thoas and Damasenor (Plut. Q. G. 32.298c-d)
+Bumke, Helga; Herda, Alexander; Röver, Elgin; Schattner, Thomas 2000: Bericht über die Ausgrabungen 1994 an der Heiligen Straße von Milet nach Didyma - Das Heiligtum der Nymphen?
+Cobet, Justus 2000: Miletos [2], I. Geschichte
+Ebert, Joachim; Herrmann, Peter 2000: Eine neue historische Inschrift aus Milet
+Käppel, Lutz 2000: Miletos [1]
+Greaves, Alan M. 2000: The Shifting Focus of Settlement at Miletos
+Greaves, Alan M. 2000: The Archaeology of Miletos
+Greaves, Alan M. 2000: Miletos and the Sea: A Stormy Relationship
+Niemeier, Barbara; Niemeier, Wolf-Dietrich 2000: Mileto nell´età del bronzo. Un ponte tra il mondo egeo e l´Anatolia
+Ma, John 2000: The Epigraphy of Hellenistic Asia Minor: A Survey of Recent Research (1992-1999)
+Lohmann, Hans 2000: Panormos [2]
+Lohmann, Hans 2000: Milesia
+Masson, Oliver 2000: Le culte ionien d´Apollon Oulios d´après les données onomastiques nouvelles
+Niemeier, Wolf-Dietrich; Yalçın, Ünsal 2000: Milet: Knotenpunkt im bronzezeitlichen Metallhandel zwischen Anatolien und Ägäis?
+Panteleon, Ioannis Andreas 2000: Inventa Inventorum
+Senff, Reinhard 2000: Miletos [2], Karte Milawa(n)da / Miletos: Siedlungsareale (ca.  19.–6. Jh. v. Chr.)
+Starke, Frank 2000: Miletos [2], I. Geschichte
+Seifert, Martina 2000: Archaische Vorrats- und Transportamphoren in Milet
+Senff, Reinhard 2000: Die archaische Wohnbebauung am Kalabaktepe in Milet
+Tuttahs, Gerhard 2000: Hinweise auf zentrale Wasserversorgungsanlagen der antiken Stadt Milet der römischen Kaiserzeit (1.–3. Jh. n. Chr.)
+von Graeve, Volkmar 2000: Milet, Grabungsgeschichte
+Vestergaard, Torben 2000: Milesian Immigrants in Late Hellenistic and Roman Athens
+von Graeve, Volkmar 2000: Die Belagerung Milets durch Alexander den Großen
+von Graeve, Volkmar 2000: Miletos [2], II. Topographie und Archäologie
+Weber, Berthold F. 2000: Miletos [2], Karte Miletos (ab 7. Jh. v. Chr. – 6. Jh. n. Chr.)
+Baker, Patrick 2001: La vallée du Méandre au IIe siècle. Relations entre les cités et institutions militaires. Appendice épigraphique: Le traité de paix entre Milet et Magnésie-du-Méandre, septembre – octobre, entre 184 et 180 a.C.
+Feld, Otto 2001: Miletos e Kos. Le isole microasiatiche e la terra ferma
+Gauthier, Philippe 2001: Les Pidasèensentrent en sympolitie avec les Milésiens: la procédure et les modalités institutionelles
+Georgoudi, Stella 2001: La procession chantante des Molpes de Milet
+Brize, Philip 2001: Funde aus Milet X. Treibverzierte Bleche aus Bronze und Edelmetall
+Herrmann, Peter 2001: Milet au IIe siècle a. J. C.
+Karakasi, Katerina 2001: Archaische Koren
+Gorman, Vanessa Barrett 2001: Miletos, the Ornament of Ionia: A History of the City to 400 BCE
+Hirsch, Barbara 2001: Orte des Dionysos, Kultplätze und ihre Funktion
+Lohmann, Hans 2001: Poseidion [5]
+Lohmann, Hans 2001: Pyrrha [4]
+Raymond, Amy 2001: Kamares Ware (and Minoans?) at Miletus
+Stümpel, Harald 2001: Milet 1998–1999. Geophysikalische Prospektion in Milet 1998–1999
+Lohmann, Hans 2001: Survey in der Chora von Milet 1999. Abschlussbericht
+Lohmann, Hans 2001: Wo lag das antike Teichioussa? Ein Beitrag zur historischen Topographie des südlichen Ioniens
+Migeotte, Léopold 2001: Le traité entre Milet et Pidasa (Delphinion 149). Les clauses financières
+Weber, Berthold F. 2001: Milet 1998–1999. Die Restaurierungsmaßnahmen im Theater von Milet. Arbeiten in den Kampagnen 1998-1999
+von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder, Helga; Ehrhardt, Norbert; Günther, Wolfgang; Held, Winfried; Posamentir, Richard 2001: Milet 1998–1999. Vorbericht über die Grabungsarbeiten die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1998 und 1999
+von Graeve, Volkmar; Niemeier, Wolf-Dietrich 2001: 1998–2000 Yılı Milet Çalışmaları
+von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder, Helga; Ehrhardt, Norbert; Günther, Wolfgang; Held, Winfried; Posamentir, Richard 2001: Milet 1998–1999
+Umar, Bilge 2001: Ionia. Bir tarihsel coğrafya araştırması ve gezi rehberi
+Berns, Christof 2002: Frühkaiserzeitliche Tabernakelfassaden. Zum Beginn eines Leitmotivs urbaner Architektur in Kleinasien
+Yaldız, Mehmet 2001: Güneşin ve suların ülkesi: Milet, Didim, Priene
+Brückner, Helmut; Müllenhoff, Marc; Handl, Monika; van der Borg, Klaas 2002: Holocene Landscape Evolution of the Büyük Menderes Alluvial Plain in the Environs of Myous and Priene (Western Anatolia, Turkey)
+NA 2002: Töpferzentren der Ostägäis. Archäometrische und archäologische Untersuchungen zur mykenischen, geometrischen und archaischen Keramik aus Fundorten in Westkleinasien
+Ehrhardt, Norbert; Günther, Wolfgang 2002: Funde aus Milet XV. Neue Orakelinschriften
+Engels, Johannes 2002: Der verklagte Flußgott Mäander
+Duran, Remzi 2002: Balat – İlyas Bey Külliyesinin Medrese Binası Değerlendirmeler
+Donder, Helga 2002: Funde aus Milet XI. Die Metallfunde
+Gök-Gürhan, Sevinç 2002: Balat İlyas Bey Camii’nin Taş Süslemeleri Hakkinda bir Araştırma
+Greaves, Alan M. 2002: Miletos. A History
+Held, Winfried 2002: Funde aus Milet XIV. Ein Reiterrelief aus Milet und die Kabiren von Assesos
+Forbeck, Elke 2002: Gräber des hellenistischen und kaiserzeitlichen Milet
+NA 2002: Milesian Decrees of Isopoliteia and the Refoundation of the City, ca. 479 B.C.E.
+Hordern, James H. 2002: The Fragments of Timotheus of Miletus
+Kienast, Dietmar 2002: Bemerkungen zum Jonischen Aufstand und zur Rolle des Artaphernes
+Lohmann, Hans 2002: Survey bei Kazıklı (Muğla)
+Lohmann, Hans 2002: Teichiussa
+Lohmann, Hans 2002: Zur historischen Topographie des südlichen Ionien
+Niemeier, Wolf-Dietrich 2002: Hattuşa und Ahhijawa im Konflikt um Millawanda: Die politische und kulturelle Rolle des mykenischen Griechenland in Westkleinasien
+Niemeier, Wolf-Dietrich 2002: Die analysierten mykenischen Keramikfunde aus Milet und Ephesos
+Özcan, Fikret 2002: Klassische und hellenistische Terrakotten
+Posamentir, Richard 2002: Funde aus Milet XII. Beobachtungen zu archaischen Deckeln: Tierfries und „Graue Ware“
+Selesnow, Wolfgang 2002: Funde aus Milet XIII. Marmor- und andere Steinlampen
+Senff, Reinhard 2002: Milet. Die archaische Stadt im Zentrum eines Handels- und Kulturnetzes
+Berns, Christof 2003: Untersuchungen zu den Grabbauten der frühen Kaiserzeit in Kleinasien
+Berndt, Meike 2003: Funde aus dem Survey auf der Halbinsel von Milet (1992–1999): Kaiserzeitliche und frühbyzantinische Keramik
+Ehrhardt, Norbert 2003: Milet nach den Perserkriegen. Ein Neubeginn?
+Ehrhardt, Norbert 2003: Poliskulte bei Theokrit und Kallimachos: das Beispiel Milet
+Günther, Wolfgang 2003: "Unsterbliche Kränze". Zur Selbstdarstellung milesischer Propheten in didymeischen Inschriftendenkmälern
+Lang, Gernot 2003: Klassische antike Stätten Anatoliens 2
+Lohmann, Hans 2003: Survey in Theben an der Mykale 1. Kampagne 2001
+Krumme, Michael 2003: Geometrische Keramik aus Milet
+Müllenhoff, Marc; Wullstein, Andrea; Brückner, Helmut 2003: Holozäne Küstenverlagerung und paläogeographischer Wandel im Umfeld der antiken Städte Myous und Milet (Westanatolien / Türkei)
+Senff, Reinhard 2003: Das Aphroditeheiligtum von Milet
+Piérart, Marcel 2003: The Common Oracle of the Milesians and the Argives (Hdt. 6, 19 and 77)
+Pfanner, Michael; Pfanner, Johannes; Fendt, Astrid; Langer, Stephanie 2003: Das Markttor von Milet. Die Sanierung der römischen Prachtfassade im Pergamonmuseum
+Böhlendorf-Arslan, Beate 2004: Glasierte byzantinische Keramik aus der Türkei
+Cormack, Sarah H. 2004: The Space of Death in Roman Asia Minor
+Köster, Reinhard 2004: Die Bauornamentik von Milet Teil 1: Die Bauornamentik der frühen und mittleren Kaiserzeit
+Brückner, Helmut; Müllenhoff, Marc; van der Borg, Klaas; Vött, Andreas 2004: Holocene Coastal Evolution of Western Anatolia. The Interplay between Natural Factors and Human Impact
+Lohmann, Hans 2004: Survey in der Mykale 2. Kampagne 2002
+Marcellesi, Marie-Christine 2004: Milet et les Séleucides, aspects économiques de l’évergétisme royal
+Mackil, Emily 2004: Wandering Cities: Alternatives to Catastrophe in the Greek Polis
+Lohmann, Hans 2004: Milet und die Milesia. Eine antike Großstadt und ihr Umland im Wandel der Zeiten
+Marcellesi, Marie-Christine 2004: Milet des Hécatomnides à la domination romaine: Pratiques monétaires et histoire de la cité du IVe au IIe siècle av. J.-C.
+Niemeier, Wolf-Dietrich 2004: The Minoans and Mycenaeans in Western Asia Minor: Settlement, Emporia, or Acculturation?
+Müllenhoff, Marc; Handl, Monika; Knipping, Maria; Brückner, Helmut 2004: The Evolution of Lake Bafa (Western Turkey) – Sedimentological, Microfaunal and Palynologigal Results
+Niemeier, Wolf-Dietrich 2004: Milet
+Sturgeon, Mary C. 2004: Dedications of Roman Theaters
+Talamo, Clara 2004: Mileto. Aspetti della città arcaica e del contesto ionico
+Senff, Reinhard 2004: Ein gebissener Held? Zur Statuette eines Löwenbezwingers aus Milet
+Voigtländer, Walter 2004: Teichiussa. Näherung und Wirklichkeit
+von Graeve, Volkmar 2004: 2001–2003 Yılı Milet Çalışmaları
+Weber, Berthold F. 2004: Die römischen Heroa von Milet
+Weber, Berthold F. 2004: Der Stadtplan des kaiserzeitlichen Milet
+Wörrle, Michael 2004: Der Friede zwischen Milet und Magnesia. Methodische Probleme einer Communis opinio
+Baker, Murray 2005: Who was sitting in the Theatre at Miletus? An Epigraphical Application of a Novel Theory
+Blum, Irene 2005: Ruinenpflege im antiken Stadtzentrum von Milet. Arbeiten in der Kampagne 2001
+Bol, Renate 2005: Der Torso von Milet und die Statue des Apollon Termintheus in Myus
+Henke, Jan-Marc 2005: Funde aus Milet XVIII. Kyprische Koroplastik
+Kerschner, Michael; Mommsen, Hans; Schwedt, Alexander 2005: Neutron Activation Analysis of Mycenaean, Geometric and Archaic Pottery from Sites in Western Asia Minor
+Kaiser, Ivonne 2005: Minoan Miletus. A View from the Kitchen
+Lehoux, Daryn 2005: The Parapegma Fragments from Miletus
+Kerschner, Michael; Mommsen, Hans 2005: Transportamphoren milesischen Typs in Ephesos. Archäometrische und archäologische Untersuchungen zum Handel im archaischen Ionien
+Kerschner, Michael; Schlotzhauer, Udo 2005: A new classification system for East Greek pottery
+Lohmann, Hans; Bernsdorff, Hans; Schwarz, Florian 2005: Ein Survey bei Kazikli (Mugla)
+Marcellesi, Marie-Christine 2005: Les Hydrophores d’Artemis Pythiè à Milet
+Niemeier, Wolf-Dietrich 2005: Minoans, Mycenaeans, Hittites and Ionians in Western Asia Minor. New Excavations at Miletus/Millawanda
+Müllenhoff, Marc 2005: Geoarchäologische, sedimemologische und morphodynamische Untersuchungen im Mündungsgebiet des Büyük Menderes (Mäander), Westtürkei
+Marcellesi, Marie-Christine; Barrandon, Jean-Noël 2005: Le monnayage de bronze aux types de Milet du IVe au IIIe  siècle a. J.-C.: L’apport des analyses métalliques
+Pfanner, Michael; Pfanner, Johannes 2005: Stein und Statik – Steinverbindungen und Steinergänzungen am Markttor von Milet
+Pfanner, Michael; Pfanner, Johannes; Fendt, Astrid 2005: Der Titusbogen in Rom, das Siegestor in München, das Markttor von Milet in Berlin – Wie restauriere ich einen Triumphbogen richtig?
+Peschlow-Bindokat, Anneliese 2005: Die karische Stadt Latmos
+Pfanner, Michael; Pfanner, Johannes; Fendt, Astrid; Langer, Stephanie; Reichenbach, Liane; Maischberger, Martin 2005: Forschungen im Sumpf. Neue Untersuchungen zum Markttor und zur Agora in Milet
+Raviola, Flavio 2005: Erodoto e la xenia fra Sibari e Mileto
+Raymond, Amy 2005: Importing Culture at Miletus: Minoans and Anatolians at Middle Bronze Age Miletus
+von Graeve, Volkmar 2005: Funde aus Milet XVII. Fragmente von Bauskulptur aus dem archaischen Aphrodite-Heiligtum
+Schlotzhauer, Udo 2005: Griechen in der Fremde: Wer weihte in die Filiaheiligtümer der Samier und Milesier in Naukratis?
+Weber, Berthold F. 2005: Die Restaurierungsmaßnahmen im Theater von Milet. Arbeiten der Kampagnen 2000–2002
+Stümpel, Harald; Wölz, Susanne; Musmann, Patrick; Rabbel, Wolfgang 2005: Geophysikalische Prospektion in Milet. Arbeiten in den Kampagnen 2000–2002
+Biering, Ralf; Brinkmann, Vinzenz; Schlotzhauer, Udo; Weber, Berthold F. 2006: Maiandros. Festschrift für Volkmar von Graeve
+Bol, Renate 2006: Der Torso von Milet und ein Kopf strengen Stils im Museum Balat
+Brückner, Helmut; Müllenhoff, Marc; Gehrels, Roland; Herda, Alexander; Knipping, Maria 2006: From Archipelago to Floodplain. Geographical and Ecological Changes in Miletus and its Environs During the Past Six Millennia (Western Anatolia, Turkey)
+Blum, Stephan; Schweizer, Frank; Aslan, Rüstem; Öge, Hakan 2006: Luftbilder antiker Landschaften und Stätten der Türkei
+Westerburg, Jörg 2005: Von Brotterode nach Milet: Der Nachlaß des Archäologen Hubert Knackfuß im Stadtmuseum Kassel
+Carl, Tanja 2006: Neues vom milesischen Löwen. Ein Fikellura-Aryballos aus dem Aphrodite-Heiligtum auf dem Zeytintepe
+Cobet, Justus 2006: Hätten wir doch einen Thukydides für Milet
+Donder, Helga 2006: Die ionische Trense
+Ehrhardt, Norbert 2006: Die karische Bevölkerung Milets
+Heinz, Margareta 2006: Eine phönikisch-karthagische Amuletthülse aus Milet
+Jung, Afsaneh 2006: Vergleichende stomatologische Untersuchungen an einer perserzeitlichen Skelettserie aus Kamid el-Loz (Libanon) und einer hellenistischen Skelettserie vom Kazartepe bei Milet (Türkei)
+Herda, Alexander 2006: Panionion-Melia, Mykalessos-Mykale, Perseus und Medusa: Überlegungen zur Besiedlungsgeschichte der Mykale in der frühen Eisenzeit
+Kalaitzoglou, Georg 2006: Der Bochum-Maler – Fiktion oder wissenschaftliche Realität?
+Krumme, Michael 2006: Trapezomata. Bleimodell eines Tisches aus Milet
+Käufler, Steffen 2006: Die archaischen Kannen von Milet
+Lohmann, Hans 2006: Zum Fundort der archaischen Nympheninschriften Milet 6, 3 n. 1398
+Rhodes, Peter John 2006: Milesian Stephanephoroi: Applying Cavaignac Correctly
+Schlotzhauer, Udo 2006: Ostgriechische koroplastisch gestaltete Gesichts- und Kopfgefäße aus milesischen Werkstätten
+Schattner, Thomas 2006: Panionionschalen
+Kunisch, Norbert 2006: Anstelle eines Hafenlöwen... Zu einem korinthischen Salbgefäß
+von Graeve, Volkmar 2006: 2004–2005 Yılı Milet Çalışmaları
+Schröder, Bernt; Bay, Bilal; Yalçın, Ünsal 2006: Geowissenschaftliche Aspekte zur Landschaftsnutzung und -degration der milesischen Halbinsel
+Senff, Reinhard 2006: Form and Function of Sanctuaries in Archaic Miletus
+Weiss, Peter 2006: Was Milet auch bietet. Zu den Gewichten, Schleuderbeilen und einem lydischen Sprachzeugnis
+Senff, Reinhard 2006: Die Löwen der Aphrodite
+Badian, Ernst 2007: Persians and Milesians in Thrace at the End of the 6th century BC
+Greaves, Alan M. 2007: Milesians in the Black Sea: Trade, Settlement and Religion
+Zurbach, Julien 2006: L’Ionie à l’époque mycénienne. Essai de bilan historique
+NA 2007: Frühes Ionien. Eine Bestandsaufnahme. Panionion Symposion Güzelçamlı, 26. September – 1. Oktober 1999
+Zimmermann, Konrad 2006: Altfunde vom Kalbaktepe. Zu wiederentdeckten Dachterrakotten aus Milet
+Kerschner, Michael; Schlotzhauer, Udo 2007: Ein neues Klassifikationssystem der ostgriechischen Keramik
+Maischberger, Martin 2007: Milet im Museum und Milet im Felde: Neues von der Restaurierung des Markttors und von den Grabungen in den Faustinathermen
+Maischberger, Martin 2007: Ad fontes! Die Berliner Antikensammlung und das Deutsche Archäologische Institut forschen wieder gemeinsam in Milet
+Niemeier, Wolf-Dietrich 2007: Milet von den Anfängen menschlicher Besiedlung bis zur ionischen Wanderung
+Özcan, Fikret 2007: Die figürlichen Terrakotten von Milet aus klassischer und hellenistischer Zeit
+Schröder, Bernt; Seifert, Martina 2007: Naturräumliche Ausstattung und antropogene Effekte. Karische Küstensiedlungen (SW-Türkei) in geoarchäologischem Vergleich
+Raymond, Amy 2007: Minoanization at Miletus: The Middle Bronze Age Ceramics
+Niewöhner, Philipp 2007: Die große Friedhofskirche von Milet. Vorbericht über die Ausgrabung einer neu entdeckten Transeptbasilika
+Niewöhner, Philipp 2007: Byzantinische Steinmetzarbeiten aus dem Umland von Milet
+Thompson, Daniel 2007: At the Crossroads: Prehistoric Settlement in the Maeander Valley
+von Graeve, Volkmar 2007: Zur Kunstgeschichte früher milesischer Terrakotten
+von Graeve, Volkmar 2007: 2006. Yılı Milet Çalışmaları
+Tuttahs, Gerhard 2007: Milet und das Wasser. Ein Leben in Wohlstand und Not in Antike, Mittelalter und Gegenwart
+Böhlendorf-Arslan, Beate 2008: Keramikproduktion im byzantinischen und türkischen Milet
+NA 2008: Kult(ur)kontakte. Apollon in Milet, Didyma, Histria, Myus, Naukratis und auf Zypern ; Akten der table ronde in Mainz vom 11. - 12. März 2004.
+Bol, Renate 2008: Die Statue des Apollon Termintheus von Myus und ihre Zweitaufstellung in Milet: Ein Beispiel von Kultübertragung oder Zeugnis politischer Annexion?
+Ehrhardt, Norbert; Schlotzhauer, Udo; Höckmann, Ursula 2008: Weihungen an Apollon Didymeus und Apollon Milesios in Naukratis
+Herda, Alexander 2008: Apollon Delphinios – Apollon Didymeus: Zwei Gesichter eines milesischen Gottes und ihr Bezug zur Kolonisation Milets in archaischer Zeit
+Lohmann, Hans 2008: Altfluren oder Pingenfelder? Zum Geopotential der Milethalbinsel
+Kalaitzoglou, Georg 2008: Assesos. Ein geschlossener Befund südionischer Keramik aus dem Heiligtum der Athena Assesia
+Bîrzescu, Iulian 2009: Funde aus Milet XXI. Drei Typen archaischer Reifenamphoren aus Milet
+Panteleon, Ioannis Andreas; Senff, Reinhard; Beier, Kerstin; Dressler, Torsten; Nösler, Daniel 2008: Die Grabung im Aphroditeheiligtum auf dem Zeytintepe bei Milet in den Jahren 2003–2005. Unter Mitarbeit von K. Beier, T. Dressler und D. Nösler
+Dally, Ortwin; Scholl, Andreas 2009: Skulptur und Raum
+Daubner, Frank 2009: Eine αποικια in einer hellenistischen Inschrift aus Tyros
+Brückner, Helmut; Müllenhoff, Marc; Herda, Alexander 2009: Geoarchaelogy in the City of Thales – Deciphering Palaeogeographic Changes in the Agora Area of Miletus
+Herda, Alexander 2009: Karkiša-Karien und die sog. Ionische Migration
+Henke, Jan-Marc 2009: Cypriote Terracottas from Miletus
+Ehrhardt, Norbert 2009: Funde aus Milet XXVI. Aphrodite-Weihungen mit Ohren-Reliefs aus Oikus
+Henke, Jan-Marc 2009: Kyprische Koroplastik aus Milet
+Kalaitzoglou, Georg 2009: Die milesische Halbinsel in prähistorischer Zeit und ihr westanatolisches Umfeld
+Niemeier, Wolf-Dietrich 2009: Milet und Karien vom Neolithikum bis zu den ‘Dunklen Jahrhunderten’. Mythos und Archäologie
+Petzl, Georg 2009: Zwei bronzene Weihegaben
+Sagona, Antonio; Zimansky, Paul 2009: Ancient Turkey
+von Graeve, Volkmar 2009: 2007–2008 Yılı Milet Çalışmaları
+Wöhrle, Georg 2009: Die Milesier: Thales
+Ehrhardt, Norbert; Günther, Wolfgang 2010: Neue Grabinschriften aus Milet
+Eskici, Bekir; Kabaoğlu, Cengiz; Şener, Yaşar Selçuk 2010: Balat (Milet) İlyas Bey Medresesi Koruma – Onarım Çalışmaları
+Беликов, Арсений Михайлович 2009: Этникон Mi-Ra-Ti-Jo/-Ja и проблема микенского присутствия в Милете
+Caner Yüksel, Çağla 2010: The Making of Western Anatolian Urban Centres: Spatial Transformation in Tire (14th - 16th Centuries)
+Demiralp, Yekta; Çakmak, Şakir 2010: Balat İlyas Bey Külliyesi 2008 Yılı Kazı ve Temizlik Çalışmalar
+Greaves, Alan M. 2010: Land of Ionia. Society and economy in the archaic period
+Jacobs, Ine 2010: Production to Destruction? Pagan and Mythological Statuary in Asia Minor
+Lohmann, Hans; Kalaitzoglou, Georg; Lüdorf, Gundula 2010: Rescue Excavation in the Carian Settlement of Melia in the Mycale (Dilek Dağları/Aydın)
+Беликов, Арсений Михайлович 2010: Догреческий Милет как перекресток культур и цивилизаций (середина 4. – конец 2. тыс. до н. э.)
+Rigsby, Kent J. 2010: Cos and the Milesian Didymeia
+Wilson, Mark 2010: Biblical Turkey. A Guide to the Jewish and Christian Sites of Asia Minor
+Trippé, Natacha 2010: La divinité et ses épiclèses dans l'entreprise coloniale. L'exemple de Milet et de ses colonies sur la rive Nord-Ouest du Pont
+Naso, Alessandro 2010: Archaičeskie torgovye amfory iz Mileta
+Boulay, Thibaut 2011: La mémoire des faits d'armes dans les cités d'Asie Mineure à l'époque hellénistique. Un polyandrion à Milet et Lichas fils d'Hermophantos.
+Bumke, Helga; Tanrıöver, Aylin 2011: Milet 2011 – Neue Forschungen am Humeitepe im Norden der Stadt
+Bol, Renate 2011: Funde aus Milet 2. Marmorskulpturen der römischen Kaiserzeit aus Milet. Aufstellungskontext und programmatische Aussage
+Ehrhardt, Norbert; Weiss, Peter 2011: Eine monumentale Dankesgabe. Trajans Neubau der Heiligen Straße von Milet nach Didyma
+Emme, Burkhard 2011: Zur Rekonstruktion der kaiserzeitlichen Halle am Nordmarkt in Milet
+Gray, Celina 2011: Foreigners in the Burial Ground: The Case of the Milesians in Athens
+Herda, Alexander 2011: How to run a State Cult. The Organisation of the Cult of Apollo Delphinios in Miletus
+Hoepfner, Wolfram 2011: Ionien - Brücke zum Orient
+Niewöhner, Philipp 2011: The Riddle of the Market Gate. Miletus and the Character and Date of the Earlier Byzantine Fortifications of Anatolia
+Peters, Joris 2011: Die minoische und mykenische Tierwelt Milets (Westtürkei)
+Panteleon, Nadine 2011: Die Kratere der archaischen Zeit aus Milet
+Panteleon, Nadine 2011: Die Kratere der archaischen Zeit aus Milet
+Slawisch, Anja 2011: Aus unruhigen Zeiten. Die "Ächtungsinschrift" aus Milet, ein Erlass aus dem frühesten 5. Jahrhundert v. Chr.
+Scheibelreiter-Gail, Veronika 2011: Die Mosaiken Westkleinasiens: Tessellate des 2. Jahrhunderts v. Chr. bis Anfang des 7. Jahrhunderts n. Chr.
+von Graeve, Volkmar 2011: 2009–2010. Milet çalişmaları
+NA 2011: Balat İlyas Bey Külliyesi. Tarih, Mimari, Restorasyon. / Ilyas Bey Complex. History, Architecture, Restoration
+Burgemeister, Katja; Köcke, Lara Sophie 2012: Spenderinnen und Stifterinnen: Zur ökonomischen und gesellschaftlichen Rolle von Frauen in Milet
+Dalla Rosa, Alberto 2012: Praktische Lösungen für praktische Probleme: Die Gruppierung von conventus in der Provinz Asia und die Bewegungen des Prokonsuls C. Iulius Severus (procos. 152/53)
+von Kienlin, Alexander 2011: Die Städte am Mäander
+Zurbach, Julien 2011: Production et consommation de la vaisselle céramique à Milet au Bronze récent III
+Althoff, Johannes 2012: Theodor Wiegand (1864-1936)
+Fröhlich, Thomas 2012: Armin von Gerkan (1884-1969)
+Dally, Ortwin 2012: Bild – Raum – Handlung. Die Faustinathermen in Milet
+Donder, Helga 2012: Ein Thymiaterion aus der ionischen Stadt Milet
+Günther, Linda-Marie 2012: Karische Städtchen im Einzugsbereich der Metropole Milet
+Günther, Wolfgang 2012: Caligula, Milet und ein ehrgeiziges Kultprojekt
+Gleba, Margarita; Cutler, Joanne 2012: Textile Production in Bronze Age Miletos
+Migeotte, Léopold 2012: Les dons du roi Eumène II à Milet et les emporika daneia de la cité
+Migeotte, Léopold 2012: À propos de la fondation d’Eudèmos à Milet: questions administratives et numismatiques
+Knight, John Brendan 2012: The Proactive and Reactive Stimuli of Archaic Milesian Colonisation in the Black Sea before 494 B.C.E.
+Senff, Reinhard 2012: Milet. Eine Metropole des archaischen Ionien
+Trzaskoma, Stephen M. 2012: Why Miletus? Chariton's Choice of Setting and Xenophon's "Anabasis"
+Walter-Karydi, Elena 2012: Ostionische Giebelplastik? Zu den Pantherreliefs aus Milet
+Baker, Patrick 2013: Mère-patrie et patrie d’adoption à l’époque hellénistique: Réflexions à partir du cas des mercenaires crétois de Milet
+Ehrhardt, Norbert; Günther, Wolfgang 2013: Hadrian, Milet und die Korporation der milesischen Schiffseigner. Zu einem neu gefundenen kaiserlichen Schreiben
+Ehrhardt, Norbert 2013: Archaische Vasengraffiti aus dem milesischen Aphrodite-Heiligtum in Oikus
+von Graeve, Volkmar 2012: 2011 Yılı Milet Çalışmaları
+Gök-Gürhan, Sevinç 2013: XIV. Yüzyıl Seramik Sanatında yeni Formlar yeni Süslemeler; Manisa Gülgün Hatun Hamamı ve Balat İlyas Bey Külliyesi Kazı Buluntuları
+Emme, Burkhard 2013: Peristyl und Polis. Entwicklung und Funktionen öffentlicher griechischer Hofanlagen
+Emme, Burkhard 2013: "Das Märchen von den drei Märkten“. Bauten merkantiler Funktion und die städtebauliche Entwicklung des hellenistischen Milet
+Herda, Alexander 2013: Greek (and Our) Views on the Karians
+Herda, Alexander 2013: Maeander
+Lohmann, Hans 2013: Melia und das archaische Panionion am Çatallar Tepe in der Mykale
+Mac Sweeney, Naoise 2013: Foundation Myths and Politics in Ancient Ionia
+Kouka, Ourania 2013: "Minding the Gap“: Against the Gaps. The Early Bronze Age and the Transition to the Middle Bronze Age in the Northern and Eastern Aegean/Western Anatolia
+NA 2013: Cities and Priests: Cult Personnel in Asia Minor and the Aegean Islands from the Hellenistic to the Imperial Period
+Schipporeit, Sven Th. 2013: Kulte und Heiligtümer der Demeter und Kore in Ionien
+Scolnic, Benjamin Edidin 2013: The Milesian Connection: Dan 11:23 and Antiochus IV's Rise to Power
+Raeck, Wulf 2013: Zu den Gründen der Verlegung von Städten im Unteren Mäandergebiet
+Aslan, Arife; Akat İslam, Hasibe 2014: Milet Nekropolü, Değirmentepe Mevkii Kazı Çalışmaları (2012-2013)
+von Graeve, Volkmar; Niewöhner, Philipp 2013: 2012 Yılı Milet Çalışmaları
+Sümer, Ökmen 2013: Pliyo kuvaterner Söke Milet havzasının oluşumu / Evolution of the plio quaternary Soke Milet basin
+Slawisch, Anja 2013: Absatzmarkt Ionien: Zur Rolle attischer Keramik als Indikator für die Unterbrechung oder Verschiebung von Handelsnetzwerken in der Ägäis im 5. Jh. v. Chr.
+Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümpel, Harald 2014: On the Lion Harbour and other Harbours in Miletos: Recent Historical, Archaeological, Sedimentological, and Geophysical Research
+Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümpel, Harald 2014: Der Löwenhafen von Milet - eine geoarchäologische Fallstudie
+Emme, Burkhard 2014: Kein Kaiserkult. Rekonstruktion und Deutung der ‚ara augusti’ im Buleuterion in Milet
+Durukan, Aynur 2014: Menteşe Beyliği Zamanında Balat (Antik Miletus / Palatia)
+Huy, Sabine; Berns, Christof 2014: Milet 2014 - Survey auf dem Humeitepe
+Günther, Linda-Marie 2014: Bürgerinnen und ihre Familien im hellenistischen Milet. Untersuchungen zur Rolle von Frauen und Mädchen in der Polis-Öffentlichkeit
+Hölbl, Günther 2014: Ägyptisches Kulturgut in Ionien im 7. Jh. v. Chr. Der Beitrag Milets zu einem religionshistorischen Phänomen
+Harter-Uibopuu, Kaja; Wiedergut, Karin 2014: „Niemand anderer soll hier bestattet werden...“. Grabschutz im kaiserzeitlichen Milet
+Günther, Linda-Marie 2014: Nothoi und nothai – eine Randgruppe in der hellenistischen Polis? Zur Auswertung der einschlägigen Inschriften Milets
+Kabaoğlu, Cengiz 2014: Milet İlyas Bey Külliyesi Projesi. The Miletos Ilyas Bey Complex Project
+Köster, Reinhard 2014: Methodische Schwierigkeiten bei der Datierung von kleinasiatischer Bauornamentik der Kaiserzeit – das Beispiel Milet
+Kouka, Ourania 2014: Past Stories – Modern Narratives: Cultural Dialogues between East Aegean Islands and the West Anatolian Mainland in the 4th Millennium BC
+Köcke, Lara Sophie 2014: Neubürgerinnen in Milet
+Paarmann, Bjørn 2014: The Revolt of Miletos in 454/3 B.C. and the Milesians in IG I³ 259.III.29
+Schlotzhauer, Udo 2014: Die südionischen Knickrandschalen. Eine chronologische Untersuchung zu den sog. Ionischen Schalen in Milet
+Niemeyer, Barbara 2014: Die Gefäßkonstruktion zweier hethitischer Schwerter aus den mykenischen Gräbern vom Değirmentepe bei Milet
+Slawisch, Anja 2014: Panormos, Türkei. Die Arbeiten der Jahre 2012 und 2013
+Taschner, Moritz 2014: Milet – Konservierung, Tourismus und Umweltbedingungen. Milet – Koruma, Turizm ve Çevre Koşulları
+NA 2014: The Milesians: Thales
+Zimmermann, Konrad 2014: Funde aus Milet XXVIII. Lydische Architekturterrakotten vom Zeytintepe
+Wilson, Mark 2014: Die biblische Türkei. Jüdische und christliche Stätten in Kleinasien
+Yaylalı, Serap; Tütüncüler Bircan, Özlem; Yaylalı, Serap 2014: Milet Müzesi kesici sürtme taş aletlerinden 'baltalar'
+Acıpınar, Mikail 2015: 16. Yüzyılda Balat Şehri
+Zurbach, Julien 2014: La situation épigraphique et linguistique à Milet à l’époque mycénienne
+Dasakli, Nektaria; Moustoucha, Miranda; Michou, Evangelia 2015: Conservation of the archaeological finds from Kastraki on Milesian Agathonisi
+Berns, Christof 2015: Forschungen in Milet: Rückblick und Perspektive / Milet Araştırmaları: Geçmişe Bir Bakış ve Yeni Perspektifler
+Fildhuth, Jesko 2015: Milet, Türkei: Die letzte byzantinische Siedlung auf dem Theaterhügel
+Eren, Kenan 2015: Ionian Sanctuaries and the Mediterranean World in the 7th century B.C.
+Aslan, Arife; Akat İslam, Hasibe 2015: Milet Nekropolü, Değirmentepe Mevkii Kazı Çalışmaları (2014)
+Maischberger, Martin; Dally, Ortwin; Scholl, Andreas 2015: Manipulierte Götter: Die Skulpturenausstattung der Faustina-Thermen in Milet
+Karatasios, Ioannes; Triantafyllidis, Pavlos 2015: Production technology of the ancient terracotta beehives on Milesian Agathonisi island
+Huy, Sabine; Berns, Christof; Rothe, Jens; Weissová, Barbora 2015: Milet 2015 - Survey auf dem Humeitepe
+Kaiser, Ivonne; Raymond, Amy 2015: Miletus IIIb: Ramping Up to a Minoanized Locale
+Knappett, Carl; Hilditch, Jill 2015: Milesian Imports and Exchange Networks in the Southern Aegean
+Niewöhner, Philipp; Berns, Christof; Şahin, Reyhan 2015: Milet 2014 Yılı Çalışmaları
+Panteleon, Ioannis Andreas 2015: Eine Archäologie der Direktoren. Die Erforschung Milets im Namen der Berliner Museen in den Jahren 1899 bis 1914
+Niewöhner, Philipp; Gorecki, Joachim; Waldner, Alice; Göçmen, Duygu; Klein, Christina 2015: Die Südstadtthermen von Milet. Vom kaiserzeitlichen Baderundgang zum byzantinischen Doppelbad
+Ratcliffe, Jonathan 2015: Rome, Chios, Cyzicus and Miletus: The Intercultural Value of the Roman Fundation Myth
+Schaus, Gerald P. 2015: The Painter of the Taranto Fish. An Early Laconian Black-Figure Vase Painter
+Senff, Reinhard 2015: Gabenträger aus Zypern in ostgriechischen Heiligtümern
+Panteleon, Nadine 2015: Tierdarstellungen auf archaischer milesischer Keramik und ihre Aussagekraft
+Rohaut, Laura 2015: Les naïskoi archaïques de Milet
+Tuzcuoğlu, Deniz; Özer, Yasemen Say 2015: The Natural Environment and a City: Milet
+Triantafyllidis, Pavlos 2015: Archaeological Researches on Milesian Agathonisi in the Dodecanese, Greece
+von Graeve, Volkmar 2015: Thales’in Gözüyle Milet
+Berns, Christof; Huy, Sabine; Rothe, Jens 2016: Der Survey auf dem Humeitepe in Milet
+von Graeve, Volkmar; Akat İslam, Hasibe 2015: Miletos
+Zurbach, Julien 2015: Zur Rolle der kleinasiatischen Beziehungen in der mykenischen Palastwirtschaft
+Zenzen, Nicolas 2015: Der greiftötende Löwe: ein Siegel aus Milet
+Yaylalı, Abdullah 2015: Anadolu Kültür Tarihinde Milet
+Dietrich, Nikolaus 2016: Exposed bedrock in Miletus and Priene: an overlooked aspect of Hellenistic and Imperial‑era Urbanism
+Donder, Helga 2016: Die Metallfunde vom Kalabaktepe in Milet: Siedlungsniederschlag oder thesauriertes Altmetall?
+Berns, Christof; Niewöhner, Philipp; Şahin, Reyhan 2016: Milet 2015 Yılı Çalışmaları
+Eren, Kenan 2016: The Topography of Religion in Archaic Ionia
+Forbeck, Elke 2016: Die Nekropolen von Milet. Die Grabungen von 1901 bis 1909 und die Arbeiten der Jahre 1993 bis 1996
+Emme, Burkhard 2016: Zur Chronologie des Dionysos-Heiligtums von Milet
+Herda, Alexander 2016: Megara and Miletos: Colonising with Apollo. A Structural Comparison of Religious and Political Institutions in Two Archaic Greek Polis States
+Hölbl, Günther 2016: Die ägyptische Götterwelt in den rhodischen Votivdepots von Kameiros
+Kästner, Volker 2016: Das Orpheusmosaik aus Milet
+Krumme, Michael 2016: Milet, Türkei: Die geometrische Keramik aus Altgrabungen: Publikation der Funde der Altgrabungen und Herkunftsbestimmung durch xRFA-Messungen
+Kia, Mehrdad 2016: The Persian empire: A historical encyclopedia
+Meijering, Reinier 2016: Religious support and political gain: the Seleucids, Miletus and Didyma, 301-281 BC
+Niewöhner, Philipp 2016: Die byzantinischen Basiliken von Milet
+Niewöhner, Philipp 2016: The End of the Byzantine City in Anatolia. The Case of Miletus
+Niewöhner, Philipp; Yılmaz, Zeynep 2016: Miletos/Balat: Arkaik'ten Osmanlı Dönemi'ne Kadar Kent Planlaması ve Anıtlar: Gezi rehberi
+Raymond, Amy; Kaiser, Ivonne; Rizzotto, Laura-Concetta; Zurbach, Julien 2016: Discerning Acculturation at Miletus: Minoanisation and Mycenaeanisation
+Slawisch, Anja; Wilkinson, Toby Christopher 2016: Panormos, Türkei. Die Arbeiten der Jahre 2014 und 2015
+Tütüncü, Mehmet 2016: Das Islamische Milet Kitabının Menteşe Beyliği Araştırmalarındaki Anahtar Rölü
+Sossau, Veronika 2016: Late Antique Pottery from an Insula South of the West-Market in Miletus (Turkey)
+Battistini, Olivier 2017: Pourquoi Alexandre le Grand a-t-il choisi de licencier sa flotte à Milet?
+Berns, Christof; Huy, Sabine; Giagtzoglu, Emmanuel 2017: Lehrgrabung Milet: Forschungen auf dem Humeitepe
+Ehrhardt, Norbert 2017: Der Schiedsspruch des Satrapen Struses: Prozedur und Politik
+Capelle, Jeanne 2017: Les Marci Aurelii Thèlymitrès: la famille et le théâtre de Milet
+Capelle, Jeanne 2017: Les épures du théâtre de Milet: pratiques de chantiers antiques
+Feraru, Remus M. 2017: Sărbători consacrate lui Apollon la Milet şi in coloniile sale de la Pontul Euxin = Fêtes consacrées à Apollon à Milet et dans ses colonies du Pont-Euxin
+Guth, Dina 2017: The ‚Rise and Fall’ of Archaic Miletus
+Günther, Wolfgang 2017: Inschriften von Milet Teil 4. Eine Prosopographie
+Niewöhner, Philipp 2017: Miletus
+Niewöhner, Philipp 2017: Urbanism
+Niewöhner, Philipp 2017: Miletus
+Niewöhner, Philipp 2017: Milet 2016 Yılı Çalışmaları
+Wilkinson, Toby Christopher; Slawisch, Anja 2017: Panormos 2017: intensive survey on the Milesian peninsula
+Hilbert, Rudolf 2018: Die Elektronprägung von Milet
+Lohmann, Hans 2018: Hippodamos und die "Entdeckung" des "Typenhauses"
+Berns, Christof; Huy, Sabine 2018: Forschendes Lernen in Milet
+Niewöhner, Philipp; Pitarakis, Brigitte; Tanman, Gülru 2018: Healing Springs of Anatolia: St Michael and the Problem of the Pagan Legacy
+Niewöhner, Philipp 2018: The Late Antique 'Area' of Miletus and Other Christian Cemeteries in the Aegean
+Niewöhner, Philipp 2018: Ein byzantinischer Löwenkopf-Wasserspeier aus der Gegend von Milet im westlichen Kleinasien
+Niewöhner, Philipp 2018: Miletus
+Slawisch, Anja; Wilkinson, Toby Christopher 2018: Processions, Propaganda, and Pixels: Reconstructing the Sacred Way Between Miletos and Didyma
+Radloff, Lana 2018: Maritime Dynamics and the Polis in Hellenistic Asia Minor (323–c. 133 BCE)
+Breder, Jan 2019: Poseidons Wirken in den Elementen und seine Verehrung in Ionien
+Schaus, Gerald P. 2018: Two Fragmentary Vases from Miletus Imitating (?) Chian Pottery
+Schaus, Gerald P. 2018: Laconia and East Greece. Cultural Exchange in the Archaic Period
+Bresson, Alain 2019: Pidasa, Miletos, and the Karian Revolt
+Ehrhardt, Norbert 2019: Peter Herrmann als Epigraphiker Milets
+Caner Yüksel, Çağla 2019: A Tale of Two Port Cities: Ayasuluk (Ephesus) and Balat (Miletus) during the Beyliks Period
+Euler, Katrin 2019: Zahnschnitt und Fries in Ostionien. Ein neuer Blick auf die Genese der Gebälkformen in archaischer Zeit
+Günther, Wolfgang 2019: Eine Familie aus Keramos in Milet. Zu einer neuen Propheteninschrif aus Didyma
+Herda, Alexander 2019: The Birth of Greek Philosophy from Making Law and Politics: Did Anaximander, Son of Praxiades, the Milesian, Die as an Early Democrat in Apollonie Pontike?
+Greaves, Alan M. 2019: ‘Greek’ Colonization: The view from Ionia
+Herda, Alexander 2019: Some Remarks on Miletos before and after the Persian Wars
+Jöhrens, Gerhard 2019: Timbres amphoriques Milésiens
+Karatas, Aynur-Michèle-Sara 2019: Rock-Cut Sanctuaries of Demeter and the Cultic Significance of Rocky Outcrops for the Cult of Demeter
+Herda, Alexander; Brückner, Helmut; Müllenhoff, Marc; Knipping, Maria 2019: From the Gulf of Latmos to Lake Bafa. On the History, Geoarchaeology, and Palynology of the Lower Maenader Valley at the Foot of the Latmos Mountains
+Işik, Fahri 2019: Gedanken über ein Dädalisches Gottesbild von Miletos: "Bärtige Athena von Pedesa"
+Niewöhner, Philipp 2019: Byzantine Preservation of Ancient Monuments at Miletus in Caria. Christian Antiquarianism in Western Asia Minor
+Praust, Karl; Wiedergut, Karin 2019: I.Milet VI 2, 570: Rekonstruktion und Interpretation einer bemerkenswerten Grabinschrift
+Knäpper, Katharina 2019: "With a Little Help from my Friends" oder das Asyliederby zwischen Magnesia am Mäander und Milet
+Wilkinson, Toby Christopher; Slawisch, Anja 2019: Survey, sense and sensibilities: reflections on old and new spatial archaeologies on the Project Panormos Survey
+Zurbach, Julien 2019: Miletus, a great city and the social tensions of the archaic period
+Radloff, Lana 2019: ‚Placing‘ a Maritime Territory at Hellenistic Miletos
+Solovyov, Sergey 2019: Kurzbericht über die Ausgrabungen der Ermitage-Expedition in Humeitepe 2019
+Bol, Renate 2020: „Wir kannten nicht sein unerhörtes Haupt“. Der Torso von Milet im Licht neuer Forschung
+Brückner, Helmut 2020: Deltas, Floodplains, and Harbours as Geo-Bio-Archives. Human-Environment Interactions in Western Anatolia
+Berns, Christof 2020: Miletus
+Feuser, Stefan 2020: Milet
+Capelle, Jeanne 2020: Ancient Blueprints: New Prospects and Interpretations in Light of Recent Discoveries
+Freyer-Schauenburg, Brigitte 2020: Eine Milesierin in Samos? Zur Serie der unterlebensgroßen Sitzfiguren aus Milet
+Greaves, Alan M.; Knight, John Brendan; Rutland, Françoise 2020: Milesian élite responses to Persia: The Ionian Revolt in context
+Höckmann, Olaf 2020: Zu Kriegshäfen in Milet
+Sarantidis, Konstantinos 2020: Milesian Islands. The Fortified Installations in the Insular Environment of Miletus in the Aegean in Context
+Şahin, Reyhan 2020: Pottery from a Roman House to the West of the Bouleuterion at Miletus (Ionia)
+Schimpf, Marie Christine 2020: Die figürlich bemalten "Efeurankenkännchen" aus Priene und Milet und das Bauopfer in AEG 19
+Berns, Christof 2021: Miletus - Palatia
+Wiedergut, Karin 2020: Vier Brüder, ein Grab: Rekonstruktion und Interpretation von I.Milet VI 2, 783
+Wilkinson, Toby Christopher; Slawisch, Anja 2020: An Agro-Pastoral Palimpsest: New Insights into the Historical Rural Economy of the Milesian Peninsula from Aerial and Remote-Sensing Imagery
+Feraru, Remus M. 2021: The cult of goddess Hekate in Miletus and the Milesian colonies
+Feraru, Remus M. 2021: Cultul zeitei Hestia la Milet și în coloniile milesiene
+Emme, Burkhard 2021: Systematische Auslassungen und semantischer Gehalt beim Ornamentsystem der ›ara augusti‹ im Buleuterion von Milet
+Gabel, Jenny; Berns, Christof; Bosch, Sebastian; Eickmeyer, Jost; Harter-Uibopuu, Kaja; Martin, Nathalie; Osthof, Ann Lauren; Steiger, Johann Anselm; Steinicke, Frank 2021: User-Centered Design of Immersive Research Applications for Understanding Written Artefacts
+Lohmann, Hans 2021: Miletus after the disaster of 494 B.C.
+Güven, Özgüç 2021: Politik bir kent olarak Miletos ve felsefenin ortaya çıkışı
+Portalsky, Alexandar 2021: Colonisation of Miletus in the Propontis and Pontus
+Thür, Gerhard 2021: Wer ließ in der Grabinschrift I.Milet VI 2,570 sieben Zeilen eradieren?
+Öner, Çiğdem 2021: İonia - Miletus Olası Sinagogu / Ionia - Probable Synagogue of Miletus (Exhibition Posters)
+Herzhoff, Sophie 2022: Pfeilspitzen von Milet: eine Einordnung in den eisenzeitlichen Pfeilspitzenhorizont
+Toma, Natalia 2021: Geglättet oder gesägt? Werkzeugspuren und die Rekonstruktion antiker Bauprozesse
+Yaşar, Ali 2021: Milet antik kenti ionik stoa binasındaki taş tamamlama uygulamalarinin değerlendirilmesi
+Steinmann, Lisa 2022: "Eine zerstörte Burg, die aus Marmor erbaut ist". Der lange Schatten der "Perle Ioniens" und das Nachleben Milets im Mittelalter
+Toma, Natalia 2022: Das Stadion-Osttor in Milet. Unfertigkeit und Effizienzstrategien im kaiserzeitlichen Marmorbau
+Rabbel, Wolfgang; Stümpel, Harald; Wölz, Susanne 2006: Milet als Musterfall geophysikalischer Prospektion in der Archäologie
+Naso, Alessandro 2005: Funde aus Milet XIX. Anfore commerciale arcaiche a Mileto: Rapporto prelimenare
+von Graeve, Volkmar 2005: 2001–2003 Milet Çalışmaları
+Slawisch, Anja 2013: Didyma. Untersuchungen zur sakralen Topographie und baulichen Entwicklung des Kernheiligtums vom 8.-4. Jh. v. Chr.
+Waksman, Sylvie Yona 2014: Long-term pottery production and chemical reference groups: examples from Medieval Western Turkey
+von Graeve, Volkmar 2005: Milet 2000–2002. Vorbericht über die Grabungsarbeiten, die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleituntersuchungen - Einleitung und Übersicht
+Yaşar, Ali 2010: Milet Müzesi'nde bulunan Hellenistik ve Roma Dönemi unguentariumlar
+Aslan, Arife 2019: Miletos nekropolisi'nde dt2012.2m mezarı seramik buluntuları
+Bumke, Helga 2013: Der archaische Heiligtumsbefund vom "Taxiarchis-Hügel" in Didyma und sein Zeugniswert für die Rekonstruktion "ritueller Mahlzeiten"
+Herda, Alexander 2005: Apollon Delphinios, das Prytaneion und die Agora von Milet. Neue Forschungen
+von Gerkan, Armin 1935: Die Stadtmauern
+Herda, Alexander 2019: Copy and Paste? Miletos Before and After the Persian Wars
 
-No duplicate LaTeX-keys. :) 
+
+
+There are 1394 items with duplicate keys! Please check them and correct this. List of affected items saved to: out/duplicate_keys.csv
 
 
 There are 88 items without precise tags (only groups)! Please check them and correct this. List of affected items saved to: out/items_without_precise_tags.csv
