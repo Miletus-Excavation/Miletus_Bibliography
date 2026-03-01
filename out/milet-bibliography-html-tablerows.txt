@@ -167,6 +167,30 @@ Schlotzhauer, Udo, Die Vasenmalerei archaischer Zeit in Milet: Stil und Chronolo
 </tr>
 
 <tr>
+<td>Die Ausgestaltung von Stadtzentren. Ein Vergleich von Milet, Ostia und Leptis Magna</td>
+<td>Quatember, Ursula</td>
+<td>2024</td>
+<td>Veröffentlichungen des Institus für Antike der Karl-Franzens-Universität Graz</td>
+<td>
+Quatember, Ursula, Die Ausgestaltung von Stadtzentren. Ein Vergleich von Milet, Ostia und Leptis Magna, in: , Die Architektur des römischen Kleinasien (Wien 2024), 35-40</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-07 Topographie: Kaiserzeit; 07 Architektur; 07-01 Architektur: Varia</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Rezension zu: J. Roch, Die kaiserzeitliche Münzprägung Milets (Regenstauf 2023)</td>
+<td>Oer de Almeida, Samuel</td>
+<td>2024</td>
+<td>Sehenspunkte</td>
+<td>
+Oer de Almeida, Samuel, Rezension zu: J. Roch, Die kaiserzeitliche Münzprägung Milets (Regenstauf 2023), Sehenspunkte 7/8, 2024,  <br> <a href="https://www.sehepunkte.de/2024/07/39213.html">Online verfügbar (Link)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-09 Funde: Münzen; 10 politische Geschichte; 10-05 Geschichte: Kaiserzeit; Rezension</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Archangels, Empty Ciboria, and the Defense of Late Antique Miletus. More Light from the Ancient East</td>
 <td>Niewöhner, Philipp</td>
 <td>2024</td>
@@ -1967,18 +1991,6 @@ Capelle, Jeanne, Reflectance Transformation Imaging (RTI) et épigraphie, Recher
 </tr>
 
 <tr>
-<td>Les épures du théâtre de Milet: pratiques de chantiers antiques</td>
-<td>Capelle, Jeanne</td>
-<td>2017</td>
-<td>Bulletin de correspondance hellénique</td>
-<td>
-Capelle, Jeanne, Les épures du théâtre de Milet: pratiques de chantiers antiques, Bulletin de correspondance hellénique 141, 2017, 769-820</td>
-</td>
-<td>07 Architektur; 07-03 Architektur: Theater; Theater</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Les Marci Aurelii Thèlymitrès: la famille et le théâtre de Milet</td>
 <td>Capelle, Jeanne</td>
 <td>2017</td>
@@ -1987,6 +1999,18 @@ Capelle, Jeanne, Les épures du théâtre de Milet: pratiques de chantiers antiq
 Capelle, Jeanne, Les Marci Aurelii Thèlymitrès: la famille et le théâtre de Milet, Revue des Études Grecques 130, 2017, 399-431</td>
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften; 07 Architektur; 07-03 Architektur: Theater; Theater</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Les épures du théâtre de Milet: pratiques de chantiers antiques</td>
+<td>Capelle, Jeanne</td>
+<td>2017</td>
+<td>Bulletin de correspondance hellénique</td>
+<td>
+Capelle, Jeanne, Les épures du théâtre de Milet: pratiques de chantiers antiques, Bulletin de correspondance hellénique 141, 2017, 769-820</td>
+</td>
+<td>07 Architektur; 07-03 Architektur: Theater; Theater</td>
 <td></td>
 </tr>
 
@@ -3239,18 +3263,6 @@ Dally, Ortwin; Göçmen, Duygu; Kruip, Margret; Maischberger, Martin; Schneider,
 </tr>
 
 <tr>
-<td>Der Löwenhafen von Milet - eine geoarchäologische Fallstudie</td>
-<td>Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümpel, Harald</td>
-<td>2014</td>
-<td>Byzas</td>
-<td>
-Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümpel, Harald, Der Löwenhafen von Milet - eine geoarchäologische Fallstudie, in: Ladstätter, Sabine; Pirson, Felix; Schmidts, Thomas, Häfen und Hafenstädte im östlichen Mittelmeerraum von der Antike bis in byzantinische Zeit. Neue Entdeckungen und aktuelle Forschungsansätze. Istanbul, 30. 05. – 01. 06. 2011 (Istanbul 2014), 773-806</td>
-</td>
-<td>07 Architektur; 07-08 Architektur: Häfen und maritime Infrastruktur; 11 Geographie und Geophysik; Geoarchäologie; Hafen; Löwenhafen; Verlandung</td>
-<td></td>
-</tr>
-
-<tr>
 <td>On the Lion Harbour and other Harbours in Miletos: Recent Historical, Archaeological, Sedimentological, and Geophysical Research</td>
 <td>Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümpel, Harald</td>
 <td>2014</td>
@@ -3259,6 +3271,18 @@ Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümp
 Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümpel, Harald, On the Lion Harbour and other Harbours in Miletos: Recent Historical, Archaeological, Sedimentological, and Geophysical Research, Proceedings of the Danish Institute at Athens 7, 2014, 49-103</td>
 </td>
 <td>07 Architektur; 07-08 Architektur: Häfen und maritime Infrastruktur; 11 Geographie und Geophysik; Hafen; Lion Harbour; Löwenhafen</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Der Löwenhafen von Milet - eine geoarchäologische Fallstudie</td>
+<td>Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümpel, Harald</td>
+<td>2014</td>
+<td>Byzas</td>
+<td>
+Brückner, Helmut; Herda, Alexander; Müllenhoff, Marc; Rabbel, Wolfgang; Stümpel, Harald, Der Löwenhafen von Milet - eine geoarchäologische Fallstudie, in: Ladstätter, Sabine; Pirson, Felix; Schmidts, Thomas, Häfen und Hafenstädte im östlichen Mittelmeerraum von der Antike bis in byzantinische Zeit. Neue Entdeckungen und aktuelle Forschungsansätze. Istanbul, 30. 05. – 01. 06. 2011 (Istanbul 2014), 773-806</td>
+</td>
+<td>07 Architektur; 07-08 Architektur: Häfen und maritime Infrastruktur; 11 Geographie und Geophysik; Geoarchäologie; Hafen; Löwenhafen; Verlandung</td>
 <td></td>
 </tr>
 
@@ -4487,6 +4511,18 @@ Greaves, Alan M., Land of Ionia. Society and economy in the archaic period (Oxfo
 </tr>
 
 <tr>
+<td>Rezension zu: Ortwin Dally – Martin Maischberger – Peter I. Schneider– Andreas Scholl (Hrsg.), ZeitRäume. Milet in Kaiserzeit und Spätantike. Regensburg: Schnell und Steiner Verlag 2009, 228 S., 147 Farb-Abb., 40 s/w-Abb., 9 Pläne, 3 Karten, 10 Grundrisse</td>
+<td>Filges, Axel</td>
+<td>2010</td>
+<td>Göttinger Forum für Altertumswissenschaften</td>
+<td>
+Filges, Axel, Rezension zu: Ortwin Dally – Martin Maischberger – Peter I. Schneider– Andreas Scholl (Hrsg.), ZeitRäume. Milet in Kaiserzeit und Spätantike. Regensburg: Schnell und Steiner Verlag 2009, 228 S., 147 Farb-Abb., 40 s/w-Abb., 9 Pläne, 3 Karten, 10 Grundrisse, Göttinger Forum für Altertumswissenschaften 13, 2010, 1141-1150</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-07 Topographie: Kaiserzeit; 02-08 Topographie: Spät und Nachantike; Rezension</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Balat (Milet) İlyas Bey Medresesi Koruma – Onarım Çalışmaları</td>
 <td>Eskici, Bekir; Kabaoğlu, Cengiz; Şener, Yaşar Selçuk</td>
 <td>2010</td>
@@ -4847,18 +4883,6 @@ Herda, Alexander, Karkiša-Karien und die sog. Ionische Migration, in: Rumscheid
 </tr>
 
 <tr>
-<td>Kyprische Koroplastik aus Milet</td>
-<td>Henke, Jan-Marc</td>
-<td>2009</td>
-<td>Schriften des Instituts für Interdisziplinäre Zypern-Studien</td>
-<td>
-Henke, Jan-Marc, Kyprische Koroplastik aus Milet, in: Bol, Renate; Kleibl, Kathrin; Rogge, Sabine, Zypern - Insel im Schnittpunkt interkultureller Kontakte. Adaption und Abgrenzung von der Spätbronzezeit bis zum 5. Jahrhundert v. Chr. Symposium, Mainz 7. - 8. Dezember 2006 (Münster 2009), 71-91</td>
-</td>
-<td>03 Funde aus Milet; 03-06 Funde: Terrakotta; Zeytintepe</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Cypriote Terracottas from Miletus</td>
 <td>Henke, Jan-Marc</td>
 <td>2009</td>
@@ -4867,6 +4891,18 @@ Henke, Jan-Marc, Kyprische Koroplastik aus Milet, in: Bol, Renate; Kleibl, Kathr
 Henke, Jan-Marc, Cypriote Terracottas from Miletus, in: Karageorghis, Vassos; Kouka, Ourania, Cyprus and the East Aegean: Intercultural Contacts from 3000 to 500 BC. An International Archaeological Symposium held at Pythagoreion, Samos, October 17th–18th 2008 (Nicosia 2009), 206-217</td>
 </td>
 <td>03 Funde aus Milet; 03-06 Funde: Terrakotta</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Kyprische Koroplastik aus Milet</td>
+<td>Henke, Jan-Marc</td>
+<td>2009</td>
+<td>Schriften des Instituts für Interdisziplinäre Zypern-Studien</td>
+<td>
+Henke, Jan-Marc, Kyprische Koroplastik aus Milet, in: Bol, Renate; Kleibl, Kathrin; Rogge, Sabine, Zypern - Insel im Schnittpunkt interkultureller Kontakte. Adaption und Abgrenzung von der Spätbronzezeit bis zum 5. Jahrhundert v. Chr. Symposium, Mainz 7. - 8. Dezember 2006 (Münster 2009), 71-91</td>
+</td>
+<td>03 Funde aus Milet; 03-06 Funde: Terrakotta; Zeytintepe</td>
 <td></td>
 </tr>
 
@@ -6419,24 +6455,24 @@ Seifert, Martina, Herkunftsbestimmung archaischer Keramik am Beispiel von Amphor
 </tr>
 
 <tr>
-<td>Milet</td>
-<td>Niemeier, Wolf-Dietrich</td>
-<td>2004</td>
-<td></td>
-<td>
-Niemeier, Wolf-Dietrich, Milet, in: Pini, Ingo, Corpus der minoischen und mykenischen Siegel 5. Kleinere griechische Sammlungen, Suppl. 3, 2: Neufunde aus Griechenland und der westlichen Türkei (Darmstadt 2004), 677-688</td>
-</td>
-<td>02 Allgemeine Darstellungen / Topographie; 02-02 Topographie: Bronzezeit</td>
-<td></td>
-</tr>
-
-<tr>
 <td>The Minoans and Mycenaeans in Western Asia Minor: Settlement, Emporia, or Acculturation?</td>
 <td>Niemeier, Wolf-Dietrich</td>
 <td>2004</td>
 <td>Aegaeum. Annales d’archéologie égéenne de l’Université de Liège</td>
 <td>
 Niemeier, Wolf-Dietrich, The Minoans and Mycenaeans in Western Asia Minor: Settlement, Emporia, or Acculturation?, in: Laffineur, Robert; Greco, Emanuele, Emporia. Aegeans in the Central and Eastern Mediterranean, Proceedings of the 10th International Aegean Conference, Athens, Italian School of Archeology, 14–18 April 2004 (Liège 2004), 199-204</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-02 Topographie: Bronzezeit</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet</td>
+<td>Niemeier, Wolf-Dietrich</td>
+<td>2004</td>
+<td></td>
+<td>
+Niemeier, Wolf-Dietrich, Milet, in: Pini, Ingo, Corpus der minoischen und mykenischen Siegel 5. Kleinere griechische Sammlungen, Suppl. 3, 2: Neufunde aus Griechenland und der westlichen Türkei (Darmstadt 2004), 677-688</td>
 </td>
 <td>02 Allgemeine Darstellungen / Topographie; 02-02 Topographie: Bronzezeit</td>
 <td></td>
@@ -7350,7 +7386,7 @@ Herrmann, Peter, Milet au IIe siècle a. J. C., in: Bresson, Alain; Descat, Raym
 <td>
 Grüner, Andreas; Hennemeyer, Arndt, Winfried Held, Das Heiligtum der Athena in Milet, Bonner Jahrbücher 201, 2001, 551-556 <br> <a href="https://doi.org/10.11588/BJB.2001.0.33307">Online verfügbar (DOI)</a></td>
 </td>
-<td>08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena; Athenatempel; Heiligtum</td>
+<td>08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena; Athenatempel; Heiligtum; Rezension</td>
 <td>Rezension zu: Winfried Held, Das Heiligtum der Athena in Milet. Milesische Forschungen, Band 2, hrsg. von Volkmar von Graeve im Auftrag des Deutschen Archäologischen Institutes. Verlag Philipp von Zabern, Mainz 2000. X, 194 Seiten, 81 Abbildungen, 40 Tafeln</td>
 </tr>
 
@@ -7439,18 +7475,6 @@ Der Neue Pauly. Enzyklopädie der Antike XV,1 (2000) 420-431 s.v. Milet, Grabung
 </tr>
 
 <tr>
-<td>Miletos [2], II. Topographie und Archäologie</td>
-<td>von Graeve, Volkmar</td>
-<td>2000</td>
-<td></td>
-<td>
-Der Neue Pauly. Enzyklopädie der Antike 8 (2000) 176-180 s.v. Miletos [2], II. Topographie und Archäologie (von Graeve, Volkmar)</td>
-</td>
-<td>12 Lexikonbeiträge</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Milet, Grabungsgeschichte</td>
 <td>von Graeve, Volkmar</td>
 <td>2000</td>
@@ -7471,6 +7495,18 @@ Der Neue Pauly. Enzyklopädie der Antike 1 (2000) 420-431 s.v. Milet, Grabungsge
 von Graeve, Volkmar, Die Belagerung Milets durch Alexander den Großen, in: Avram, Alexandru; Babeş, Mircea, Civilisation grecque et cultures antiques périphériques: hommage à Petre Alexandrescu à son 70e anniversaire (Bukarest 2000), 113-129</td>
 </td>
 <td>10 politische Geschichte; 10-04 Geschichte: hellenistische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Miletos [2], II. Topographie und Archäologie</td>
+<td>von Graeve, Volkmar</td>
+<td>2000</td>
+<td></td>
+<td>
+Der Neue Pauly. Enzyklopädie der Antike 8 (2000) 176-180 s.v. Miletos [2], II. Topographie und Archäologie (von Graeve, Volkmar)</td>
+</td>
+<td>12 Lexikonbeiträge</td>
 <td></td>
 </tr>
 
@@ -7835,18 +7871,6 @@ von Graeve, Volkmar; Niemeier, Wolf-Dietrich, Milet kazıları, in: , Kayip Zama
 </tr>
 
 <tr>
-<td>Milet 1996–1997. Vorbericht über die Grabungsarbeiten und Geländeuntersuchungen, die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1996 und 1997</td>
-<td>von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabina; Demirel, Filiz; Kerschner, Michael; Leisen, Hans; Rabbel, Wolfgang; Stümpel, Harald; Trinks, Immo; Warscheid, Thomas; Weber, Berthold F.; Wölz, Susanne</td>
-<td>1999</td>
-<td>Archäologischer Anzeiger</td>
-<td>
-von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabina; Demirel, Filiz; Kerschner, Michael; Leisen, Hans; Rabbel, Wolfgang; Stümpel, Harald; Trinks, Immo; Warscheid, Thomas; Weber, Berthold F.; Wölz, Susanne, Milet 1996–1997. Vorbericht über die Grabungsarbeiten und Geländeuntersuchungen, die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1996 und 1997, Archäologischer Anzeiger 1999, 1999, 1-124</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 11 Geographie und Geophysik; 15 Ruinen und Geländepflege, Restaurierung</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Milet 1996–1997</td>
 <td>von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabina; Demirel, Filiz; Kerschner, Michael; Leisen, Hans; Rabbel, Wolfgang; Stümpel, Harald; Trinks, Immo; Warscheid, Thomas; Weber, Berthold F.; Wölz, Susanne</td>
 <td>1999</td>
@@ -7855,6 +7879,18 @@ von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabin
 von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabina; Demirel, Filiz; Kerschner, Michael; Leisen, Hans; Rabbel, Wolfgang; Stümpel, Harald; Trinks, Immo; Warscheid, Thomas; Weber, Berthold F.; Wölz, Susanne, Milet 1996–1997, Archäologischer Anzeiger 114, 1999, 1-275</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 11 Geographie und Geophysik</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1996–1997. Vorbericht über die Grabungsarbeiten und Geländeuntersuchungen, die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1996 und 1997</td>
+<td>von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabina; Demirel, Filiz; Kerschner, Michael; Leisen, Hans; Rabbel, Wolfgang; Stümpel, Harald; Trinks, Immo; Warscheid, Thomas; Weber, Berthold F.; Wölz, Susanne</td>
+<td>1999</td>
+<td>Archäologischer Anzeiger</td>
+<td>
+von Graeve, Volkmar; Bay, Bilal; Blum, Irene; Brüggerhoff, Stefan; Cheba, Sabina; Demirel, Filiz; Kerschner, Michael; Leisen, Hans; Rabbel, Wolfgang; Stümpel, Harald; Trinks, Immo; Warscheid, Thomas; Weber, Berthold F.; Wölz, Susanne, Milet 1996–1997. Vorbericht über die Grabungsarbeiten und Geländeuntersuchungen, die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1996 und 1997, Archäologischer Anzeiger 1999, 1999, 1-124</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 11 Geographie und Geophysik; 15 Ruinen und Geländepflege, Restaurierung</td>
 <td></td>
 </tr>
 
@@ -8015,6 +8051,18 @@ Niemeier, Wolf-Dietrich, Milet in der Bronzezeit. Brücke zwischen der Ägäis u
 </tr>
 
 <tr>
+<td>Minoites, mykenaioi kai khettaioi: Nea evrimata apo tis anaskafes tou Panespistimiou Chaidelvergis ste Mileto</td>
+<td>Niemeier, Wolf-Dietrich</td>
+<td>1999</td>
+<td></td>
+<td>
+Niemeier, Wolf-Dietrich, Minoites, mykenaioi kai khettaioi: Nea evrimata apo tis anaskafes tou Panespistimiou Chaidelvergis ste Mileto, in: Karetsou, Alexandra, Kretes Thalassodromoi (Athen 1999), 65-79</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-02 Topographie: Bronzezeit</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Mycenaeans and Hittites in war in western Asia Minor</td>
 <td>Niemeier, Wolf-Dietrich</td>
 <td>1999</td>
@@ -8035,18 +8083,6 @@ Niemeier, Wolf-Dietrich, Mycenaeans and Hittites in war in western Asia Minor, A
 Niemeier, Wolf-Dietrich, "Die Zierde Ioniens". Ein archaischer Brunnen, der jüngere Athenatempel und Milet vor der Perserzerstörung, Archäologischer Anzeiger 1999, 1999, 373-413</td>
 </td>
 <td>02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; 07 Architektur; 07-10 Architektur: Wasserversorgung; 08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Minoites, mykenaioi kai khettaioi: Nea evrimata apo tis anaskafes tou Panespistimiou Chaidelvergis ste Mileto</td>
-<td>Niemeier, Wolf-Dietrich</td>
-<td>1999</td>
-<td></td>
-<td>
-Niemeier, Wolf-Dietrich, Minoites, mykenaioi kai khettaioi: Nea evrimata apo tis anaskafes tou Panespistimiou Chaidelvergis ste Mileto, in: Karetsou, Alexandra, Kretes Thalassodromoi (Athen 1999), 65-79</td>
-</td>
-<td>02 Allgemeine Darstellungen / Topographie; 02-02 Topographie: Bronzezeit</td>
 <td></td>
 </tr>
 
@@ -8459,18 +8495,6 @@ von Graeve, Volkmar, 100. Yılında Arkaik Dönem Milet Kazıları, Milet Müzes
 </tr>
 
 <tr>
-<td>Milet 1996/97 Yılı Milet çalışmaları</td>
-<td>von Graeve, Volkmar</td>
-<td>1998</td>
-<td>Kazı Sonuçları Toplantısı</td>
-<td>
-von Graeve, Volkmar, Milet 1996/97 Yılı Milet çalışmaları, Kazı Sonuçları Toplantısı 20, 1998, 583-605 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/20_kazi_1.pdf">Online verfügbar (Link)</a></td>
-</td>
-<td>01 Grabungs und Arbeitsberichte</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Neue Ausgrabungen und Forschungen im archaischen Milet</td>
 <td>von Graeve, Volkmar</td>
 <td>1998</td>
@@ -8479,6 +8503,18 @@ von Graeve, Volkmar, Milet 1996/97 Yılı Milet çalışmaları, Kazı Sonuçlar
 von Graeve, Volkmar, Neue Ausgrabungen und Forschungen im archaischen Milet, Nürnberger Blätter zur Archäologie. Publikationsreihe des Bildungszentrums der Stadt Nürnberg, Fachbereich Archäologie 14, 1998, 73-88</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; Archaisch</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1996/97 Yılı Milet çalışmaları</td>
+<td>von Graeve, Volkmar</td>
+<td>1998</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+von Graeve, Volkmar, Milet 1996/97 Yılı Milet çalışmaları, Kazı Sonuçları Toplantısı 20, 1998, 583-605 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/20_kazi_1.pdf">Online verfügbar (Link)</a></td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
 <td></td>
 </tr>
 
@@ -9107,18 +9143,6 @@ von Graeve, Volkmar, Der Kuros von Tekirdağ, Istanbuler Mitteilungen 46, 1996, 
 </tr>
 
 <tr>
-<td>1994/95 Yılı Milet Çalışmaları</td>
-<td>von Graeve, Volkmar</td>
-<td>1996</td>
-<td>Kazı Sonuçları Toplantısı</td>
-<td>
-von Graeve, Volkmar, 1994/95 Yılı Milet Çalışmaları, Kazı Sonuçları Toplantısı 18, 1996, 529-553 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/18_kazi_1.pdf">Online verfügbar (Link)</a></td>
-</td>
-<td>01 Grabungs und Arbeitsberichte</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Zu den Hafenlöwen von Milet</td>
 <td>von Graeve, Volkmar</td>
 <td>1996</td>
@@ -9137,6 +9161,18 @@ von Graeve, Volkmar, Zu den Hafenlöwen von Milet, in: Blakolmer, Fritz, Fremde 
 <td>Archäologischer Anzeiger</td>
 <td>
 von Graeve, Volkmar, Neue Ausgrabungen und Forschungen im antiken Milet, Archäologischer Anzeiger 1996, 1996, 539-550</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
+<td></td>
+</tr>
+
+<tr>
+<td>1994/95 Yılı Milet Çalışmaları</td>
+<td>von Graeve, Volkmar</td>
+<td>1996</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+von Graeve, Volkmar, 1994/95 Yılı Milet Çalışmaları, Kazı Sonuçları Toplantısı 18, 1996, 529-553 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/18_kazi_1.pdf">Online verfügbar (Link)</a></td>
 </td>
 <td>01 Grabungs und Arbeitsberichte</td>
 <td></td>
@@ -9467,18 +9503,6 @@ Senff, Reinhard, Sondierungen am Südhang des Mengerevtepe ('Assesos'), Archäol
 </tr>
 
 <tr>
-<td>Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“)</td>
-<td>Senff, Reinhard</td>
-<td>1995</td>
-<td>Archäologischer Anzeiger</td>
-<td>
-Senff, Reinhard, Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“), Archäologischer Anzeiger 1995, 1995, 224-228</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 08 Kulte und Kulteinrichtungen; 08-11 Kulte: Athena Assesia</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Milet 1992–1993. Stand des Einsatzes von CAD in der Grabungsdokumentation</td>
 <td>Senff, Reinhard</td>
 <td>1995</td>
@@ -9499,6 +9523,18 @@ Senff, Reinhard, Milet 1992–1993. Stand des Einsatzes von CAD in der Grabungsd
 Senff, Reinhard, Milet 1992–1993. Die Grabung am Kalabaktepe, Archäologischer Anzeiger 1995, 1995, 208-213</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; Kalabaktepe</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“)</td>
+<td>Senff, Reinhard</td>
+<td>1995</td>
+<td>Archäologischer Anzeiger</td>
+<td>
+Senff, Reinhard, Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“), Archäologischer Anzeiger 1995, 1995, 224-228</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 08 Kulte und Kulteinrichtungen; 08-11 Kulte: Athena Assesia</td>
 <td></td>
 </tr>
 
@@ -9659,18 +9695,6 @@ Herrmann, Peter, Eine "pierre errante". Ephebenkatalog aus Iasos in Milet, Türk
 </tr>
 
 <tr>
-<td>Zwei neue Temenitenverzeichnisse aus Milet</td>
-<td>Günther, Wolfgang</td>
-<td>1995</td>
-<td>Chiron. Mitteilungen der Kommission für Alte Geschichte und Epigraphik des Deutschen Archäologischen Instituts</td>
-<td>
-Günther, Wolfgang, Zwei neue Temenitenverzeichnisse aus Milet, Chiron. Mitteilungen der Kommission für Alte Geschichte und Epigraphik des Deutschen Archäologischen Instituts 25, 1995, 43-52</td>
-</td>
-<td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Ein Proxeniedekret aus Myus</td>
 <td>Günther, Wolfgang</td>
 <td>1995</td>
@@ -9679,6 +9703,18 @@ Günther, Wolfgang, Zwei neue Temenitenverzeichnisse aus Milet, Chiron. Mitteilu
 Günther, Wolfgang, Ein Proxeniedekret aus Myus, in: Schmitt, Hatto H.; Schubert, Charlotte; Brodersen, Kai, Rom und der griechische Osten. Festschrift für Hatto H. Schmitt zum 65. Geburtstag. Dargebracht von Schülern, Freunden und Münchener Kollegen (Stuttgart 1995), 87-92</td>
 </td>
 <td>06 Importe aus Milet andernorts; Myus; Proxenie</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Zwei neue Temenitenverzeichnisse aus Milet</td>
+<td>Günther, Wolfgang</td>
+<td>1995</td>
+<td>Chiron. Mitteilungen der Kommission für Alte Geschichte und Epigraphik des Deutschen Archäologischen Instituts</td>
+<td>
+Günther, Wolfgang, Zwei neue Temenitenverzeichnisse aus Milet, Chiron. Mitteilungen der Kommission für Alte Geschichte und Epigraphik des Deutschen Archäologischen Instituts 25, 1995, 43-52</td>
+</td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
 <td></td>
 </tr>
 
@@ -10151,18 +10187,6 @@ Rath, Ingo W., Die griechische Polis als Bezugsrahmen des vorsokratischen Denken
 </tr>
 
 <tr>
-<td>Milet 1991. Siedlungsabfall versus Opferreste: Essgewohnheiten im archaischen Milet</td>
-<td>Peters, Joris; von den Driesch, Angela</td>
-<td>1992</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-Peters, Joris; von den Driesch, Angela, Milet 1991. Siedlungsabfall versus Opferreste: Essgewohnheiten im archaischen Milet, Istanbuler Mitteilungen 42, 1992, 117-125</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 05 Archäozoologie, Archäobotanik, Anthropologie</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Siedlungsabfall versus Opferreste- Essgewohnheiten im archaischen Milet</td>
 <td>Peters, Joris; von den Driesch, Angela</td>
 <td>1992</td>
@@ -10171,6 +10195,18 @@ Peters, Joris; von den Driesch, Angela, Milet 1991. Siedlungsabfall versus Opfer
 Peters, Joris; von den Driesch, Angela, Siedlungsabfall versus Opferreste- Essgewohnheiten im archaischen Milet, Istanbuler Mitteilungen 42, 1992, 117–125</td>
 </td>
 <td>05 Archäozoologie, Archäobotanik, Anthropologie</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1991. Siedlungsabfall versus Opferreste: Essgewohnheiten im archaischen Milet</td>
+<td>Peters, Joris; von den Driesch, Angela</td>
+<td>1992</td>
+<td>Istanbuler Mitteilungen</td>
+<td>
+Peters, Joris; von den Driesch, Angela, Milet 1991. Siedlungsabfall versus Opferreste: Essgewohnheiten im archaischen Milet, Istanbuler Mitteilungen 42, 1992, 117-125</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 05 Archäozoologie, Archäobotanik, Anthropologie</td>
 <td></td>
 </tr>
 
@@ -11435,6 +11471,18 @@ Müller-Wiener, Wolfgang, Zur Erforschung der hellenistischen Monumente Milets, 
 </tr>
 
 <tr>
+<td>Bemerkungen zur Topographie des archaischen Milets</td>
+<td>Müller-Wiener, Wolfgang</td>
+<td>1986</td>
+<td>Istanbuler Mitteilungen, Beihefte</td>
+<td>
+Müller-Wiener, Wolfgang, Bemerkungen zur Topographie des archaischen Milets, in: Müller-Wiener, Wolfgang, Milet 1899–1980. Ergebnisse, Probleme und Perspektiven einer Ausgrabung. Kolloquium, Frankfurt a.M. 1980 (Tübingen 1986), 95-104</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; Archaisch; Hellenistisch; Kalabaktepe; Keramik; Stadtmauer</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Hellenistische Tempel in Milet</td>
 <td>Müller-Wiener, Wolfgang</td>
 <td>1986</td>
@@ -11447,14 +11495,14 @@ Müller-Wiener, Wolfgang, Hellenistische Tempel in Milet, in: , Bericht über di
 </tr>
 
 <tr>
-<td>Bemerkungen zur Topographie des archaischen Milets</td>
+<td>Milet 1985. Zur Baugruppe des Ilyas Bey in Balat</td>
 <td>Müller-Wiener, Wolfgang</td>
 <td>1986</td>
-<td>Istanbuler Mitteilungen, Beihefte</td>
+<td>Istanbuler Mitteilungen</td>
 <td>
-Müller-Wiener, Wolfgang, Bemerkungen zur Topographie des archaischen Milets, in: Müller-Wiener, Wolfgang, Milet 1899–1980. Ergebnisse, Probleme und Perspektiven einer Ausgrabung. Kolloquium, Frankfurt a.M. 1980 (Tübingen 1986), 95-104</td>
+Müller-Wiener, Wolfgang, Milet 1985. Zur Baugruppe des Ilyas Bey in Balat, Istanbuler Mitteilungen 36, 1986, 52-57</td>
 </td>
-<td>02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; Archaisch; Hellenistisch; Kalabaktepe; Keramik; Stadtmauer</td>
+<td>01 Grabungs und Arbeitsberichte; 02-09 Topographie: Mittelalter / Balat; 07 Architektur; 07-11 Architektur: Kirchen, Synagogen, Moscheen</td>
 <td></td>
 </tr>
 
@@ -11479,18 +11527,6 @@ Müller-Wiener, Wolfgang, Milet 1985, Kazı Sonuçları Toplantısı 8, 1986, 19
 Müller-Wiener, Wolfgang, Milet 1985. Arbeiten in den Heroa, Istanbuler Mitteilungen 36, 1986, 7</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 08 Kulte und Kulteinrichtungen; 08-09 Kulte: Heroa; Heroon I; Kaiserzeit; Keramik; Mittlere Kaiserzeit; Römisch</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Milet 1985. Zur Baugruppe des Ilyas Bey in Balat</td>
-<td>Müller-Wiener, Wolfgang</td>
-<td>1986</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-Müller-Wiener, Wolfgang, Milet 1985. Zur Baugruppe des Ilyas Bey in Balat, Istanbuler Mitteilungen 36, 1986, 52-57</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 02-09 Topographie: Mittelalter / Balat; 07 Architektur; 07-11 Architektur: Kirchen, Synagogen, Moscheen</td>
 <td></td>
 </tr>
 
@@ -11562,7 +11598,7 @@ Kleine, Jürgen, Pergamenische Stiftungen in Milet, in: Müller-Wiener, Wolfgang
 <td>
 Kinns, Philip, The Coinage of Miletus, The Numismatic Chronicle 146, 1986, 233-260</td>
 </td>
-<td>06 Importe aus Milet andernorts; 06-01 Numismatik (Milesische Münzen)</td>
+<td>06 Importe aus Milet andernorts; 06-01 Numismatik (Milesische Münzen); Rezension</td>
 <td>Rezension zu: B. Deppert-Lippitz, Die Münzprägung Milets vom 4. bis 1. Jh. v. Chr. (Aarau 1984)</td>
 </tr>
 
@@ -12275,6 +12311,18 @@ Müller-Wiener, Wolfgang; Durukan, Aynur; Voigtländer, Walter, Milet 1981. Vorb
 </tr>
 
 <tr>
+<td>Milet 1981. Arbeiten im Stadtgebiet. Untersuchungen auf dem Theaterhügel</td>
+<td>Müller-Wiener, Wolfgang</td>
+<td>1982</td>
+<td>Istanbuler Mitteilungen</td>
+<td>
+Müller-Wiener, Wolfgang, Milet 1981. Arbeiten im Stadtgebiet. Untersuchungen auf dem Theaterhügel, Istanbuler Mitteilungen 32, 1982, 15-17</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 02-08 Topographie: Spät und Nachantike; 02-09 Topographie: Mittelalter / Balat; 07 Architektur; 07-01 Architektur: Varia; 07-02 Architektur: Stadtmauern und Wehranlagen</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Milet 1981. Arbeiten im Stadtgebiet. Untersuchungen in der "Großen Kirche"</td>
 <td>Müller-Wiener, Wolfgang</td>
 <td>1982</td>
@@ -12295,18 +12343,6 @@ Müller-Wiener, Wolfgang, Milet 1981. Arbeiten im Stadtgebiet. Untersuchungen in
 Müller-Wiener, Wolfgang, Bericht über die Arbeiten des Jahres 1981 in Milet, Kazı Sonuçları Toplantısı 4, 1982, 169-175</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Milet 1981. Arbeiten im Stadtgebiet. Untersuchungen auf dem Theaterhügel</td>
-<td>Müller-Wiener, Wolfgang</td>
-<td>1982</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-Müller-Wiener, Wolfgang, Milet 1981. Arbeiten im Stadtgebiet. Untersuchungen auf dem Theaterhügel, Istanbuler Mitteilungen 32, 1982, 15-17</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 02-08 Topographie: Spät und Nachantike; 02-09 Topographie: Mittelalter / Balat; 07 Architektur; 07-01 Architektur: Varia; 07-02 Architektur: Stadtmauern und Wehranlagen</td>
 <td></td>
 </tr>
 
@@ -13547,18 +13583,6 @@ Hommel, Hildebrecht, Juden und Christen im kaiserzeitlichen Milet. Überlegungen
 </tr>
 
 <tr>
-<td>Milesischer Purpur</td>
-<td>Herrmann, Peter</td>
-<td>1975</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-Herrmann, Peter, Milesischer Purpur, Istanbuler Mitteilungen 25, 1975, 141-147</td>
-</td>
-<td>03 Funde aus Milet; 03-02 Funde: Varia</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Eine Kaiserurkunde der Zeit Marc Aurels aus Milet</td>
 <td>Herrmann, Peter</td>
 <td>1975</td>
@@ -13579,6 +13603,18 @@ Herrmann, Peter, Eine Kaiserurkunde der Zeit Marc Aurels aus Milet, Istanbuler M
 Herrmann, Peter, Zum Rechtshilfevertrag zwischen Milet und Gortyn (Milet I 3 Nr. 140 B = Inscr. Cret. IVs. 221 Nr. 161 = Die Staatsverträge des Altertums, Bd. 3 Nr. 482), Zeitschrift für Papyrologie und Epigraphik 17, 1975, 127-139</td>
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften; 10 politische Geschichte; 10-04 Geschichte: hellenistische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milesischer Purpur</td>
+<td>Herrmann, Peter</td>
+<td>1975</td>
+<td>Istanbuler Mitteilungen</td>
+<td>
+Herrmann, Peter, Milesischer Purpur, Istanbuler Mitteilungen 25, 1975, 141-147</td>
+</td>
+<td>03 Funde aus Milet; 03-02 Funde: Varia</td>
 <td></td>
 </tr>
 
@@ -15467,18 +15503,6 @@ Cavaignac, Eugène, Les dékarchies de Lysandre, RevÉtHist 90, 1924, 311-314</t
 </tr>
 
 <tr>
-<td>Lade</td>
-<td>Bürchner, Ludwig</td>
-<td>1924</td>
-<td></td>
-<td>
-Paulys Realencyclopädie der classischen Altertumswissenschaft 12,1 (1924) 381 s.v. Lade (Bürchner, Ludwig)</td>
-</td>
-<td>12 Lexikonbeiträge</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Latmikos kolpos</td>
 <td>Bürchner, Ludwig</td>
 <td>1924</td>
@@ -15497,6 +15521,18 @@ Paulys Realencyclopädie der classischen Altertumswissenschaft 12,1 (1924) 964 s
 <td></td>
 <td>
 Paulys Realencyclopädie der classischen Altertumswissenschaft 12,1 (1924) 894 s.v. Late (Bürchner, Ludwig)</td>
+</td>
+<td>12 Lexikonbeiträge</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Lade</td>
+<td>Bürchner, Ludwig</td>
+<td>1924</td>
+<td></td>
+<td>
+Paulys Realencyclopädie der classischen Altertumswissenschaft 12,1 (1924) 381 s.v. Lade (Bürchner, Ludwig)</td>
 </td>
 <td>12 Lexikonbeiträge</td>
 <td></td>
