@@ -3,6 +3,7 @@ library(crul)
 library(jsonlite)
 library(ggplot2)
 library(stringi)
+library(purrr)
 
 source("data/tags/get_tags.R", 
        local = FALSE)

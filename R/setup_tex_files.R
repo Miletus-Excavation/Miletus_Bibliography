@@ -19,8 +19,8 @@ bib <- bib %>%
 
 # check if any entry is missing a Citation Key!
 # if so, create an improvised - issakjdnsadkjsadd i cannot to that because it does not work like that. 
-cit_keys <- unlist(lapply(bib$Extra, function(x) grepl("Citation Key: ", x)))
-if (any(!cit_keys)) {
+cit_keys <- is.na(bib_csv$citationKey)
+if (any(cit_keys)) {
   missing_cit_key_index <- which(cit_keys == FALSE)
   message(paste0(length(missing_cit_key_index), " items do not have a pinned LaTeX-Citation Key! Please fix this."))
   message("These are the entries: ")
@@ -116,32 +116,8 @@ letters
 # check it out
 # View(authors)
 
-# the citation key is saved in "extra" with the prefix Citation Key: 
-# so we split the string along that
-key <- strsplit(bib$Extra, "Citation Key: ")
-# and get the second element, which should be the latex-key
-key <- unlist(lapply(key, function(x) 
-  if(length(x) >= 2) {
-    x[[2]]
-  } else {
-    x
-  }
-))
-
-head(key)
-# it is kind of important that there is nothing else saved in the
-# extra field... be sure to check that sometimes and fix the database
-# accordingly
-
-#key[which(!grepl("_", key))]
-
-#
-key <- strsplit(key, " ")
-#key
-key <- unlist(lapply(key, function(x) x[[1]]))
-
-# save the result as the tex_key
-bib$tex_key <- key
+# the citation key has been added from the json-exports and is located in
+# bib_csv$citationKey
 
 bibstructure <- "NA"
 # for each letter in out alphabet
@@ -172,7 +148,7 @@ for(letter in letters) {
     bib_select <- bib_select %>% 
       arrange(Publication.Year, Title, .locale = sort_locale)
     # and get the keys with are now in that order
-    singleauthkeys <- bib_select$tex_key
+    singleauthkeys <- bib_select$citationKey
     # we also record the number of publications of this author
     numberofpubs <- length(singleauthkeys)
     # and build the latex-lines for citing all of those keys
@@ -258,12 +234,12 @@ for(i in 1:nrow(tags_sys)) {
       to_cite <- subset %>%
         filter(Key %in% names(add_to_this_level[add_to_this_level])) %>%
         arrange(Publication.Year, Author, .locale = sort_locale) %>%
-        pull(tex_key)
+        pull(citationKey)
     } else {
       to_cite <- subset %>%
         filter(Key %in% names(add_to_this_level[add_to_this_level])) %>%
         arrange(Author, Publication.Year, .locale = sort_locale) %>%
-        pull(tex_key)
+        pull(citationKey)
     }
     to_cite <- paste("\\fullcite{", to_cite, "}", sep = "", collapse = "\n\n")
     bibstructure <- c(bibstructure, to_cite)
@@ -273,7 +249,7 @@ for(i in 1:nrow(tags_sys)) {
     warning(msg)
   }
   bibstructure <- c(bibstructure, "\n\n")
-  # View(bib %>% filter(tex_key %in% to_cite) %>% select(tex_key, Manual.Tags)) 
+  # View(bib %>% filter(citationKey %in% to_cite) %>% select(citationKey, Manual.Tags)) 
 }
 # remove the NA
 bibstructure <- bibstructure[-1]

@@ -19,9 +19,17 @@ get_zotero_items <- function(zot_api, start_i, format_ch) {
   # tracking, because this takes long
   message(paste("Getting items", start_i, "to", start_i+99))
   
-  query <- list(limit = 100, 
-                start = start_i,
-                format = format_ch)
+  if (format_ch == "JSON") {
+    query <- list(limit = 100, 
+                  start = start_i,
+                  v = 3)
+  } else {
+    query <- list(limit = 100, 
+                  start = start_i,
+                  format = format_ch,
+                  v = 3)
+  }
+  
   # request 100 items in csv-format from the api starting 
   # with the corresponding number in our sequence
   new_items <- zot_api$get(query = query)
@@ -68,16 +76,37 @@ bib_csv <- lapply(seq, function(x) {
 })
 bib_csv <- do.call(bind_rows, bib_csv) 
 
+
+# Since as of 03/2026, citationKeys are no longer exported with the csv
+# format, we have to get the JSON version which contains it as "citationKey"
+bib_json <- lapply(seq, function(x) {
+  new_items <- get_zotero_items(zot_api, start_i = x, format_ch = "JSON")
+  new_items <- fromJSON(new_items)
+  return(new_items$data)
+})
+# and make a handy tiblle out of that for joining with the csv-table:
+citation_keys <- map_dfr(bib_json, function(x){
+  tibble(
+    Key = x$key, 
+    citationKey = x$citationKey
+  )
+})
+
+# this is probably not an issue anymore - however, I leave it here.
 wrong_keycol <- which(colnames(bib_csv) == "X.U.FEFF.Key")
 correct_keycol <- which(colnames(bib_csv) == "Key")
 if (length(wrong_keycol) == 1) {
   colnames(bib_csv)[wrong_keycol] <- "Key"
   message("'X.U.FEFF.Key' column exists. Renaming to 'Key'.")
-} else if (length(wrong_keycol) == 1) {
+} else if (length(wrong_keycol) == 0) {
   message("'Key' column exists.")
 } else {
   message("Please check the columns after downloading the library, unforeseen situation.")
 }
+
+# and here we join the citation keys
+bib_csv <- bib_csv %>%
+  left_join(citation_keys, by = "Key")
 
 # save the result as our export 
 filename <- "data/Milet_Bibliography_CSV.csv"
