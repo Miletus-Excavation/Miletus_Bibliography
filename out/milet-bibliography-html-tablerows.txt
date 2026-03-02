@@ -167,6 +167,30 @@ Schlotzhauer, Udo, Die Vasenmalerei archaischer Zeit in Milet: Stil und Chronolo
 </tr>
 
 <tr>
+<td>Die Ausgestaltung von Stadtzentren. Ein Vergleich von Milet, Ostia und Leptis Magna</td>
+<td>Quatember, Ursula</td>
+<td>2024</td>
+<td>Veröffentlichungen des Institus für Antike der Karl-Franzens-Universität Graz</td>
+<td>
+Quatember, Ursula, Die Ausgestaltung von Stadtzentren. Ein Vergleich von Milet, Ostia und Leptis Magna, in: , Die Architektur des römischen Kleinasien (Wien 2024), 35-40</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-07 Topographie: Kaiserzeit; 07 Architektur; 07-01 Architektur: Varia</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Rezension zu: J. Roch, Die kaiserzeitliche Münzprägung Milets (Regenstauf 2023)</td>
+<td>Oer de Almeida, Samuel</td>
+<td>2024</td>
+<td>Sehenspunkte</td>
+<td>
+Oer de Almeida, Samuel, Rezension zu: J. Roch, Die kaiserzeitliche Münzprägung Milets (Regenstauf 2023), Sehenspunkte 7/8, 2024,  <br> <a href="https://www.sehepunkte.de/2024/07/39213.html">Online verfügbar (Link)</a></td>
+</td>
+<td>03 Funde aus Milet; 03-09 Funde: Münzen; 10 politische Geschichte; 10-05 Geschichte: Kaiserzeit; Rezension</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Archangels, Empty Ciboria, and the Defense of Late Antique Miletus. More Light from the Ancient East</td>
 <td>Niewöhner, Philipp</td>
 <td>2024</td>
@@ -1403,6 +1427,18 @@ Herda, Alexander; Brückner, Helmut; Müllenhoff, Marc; Knipping, Maria, From th
 </tr>
 
 <tr>
+<td>Copy and Paste? Miletos Before and After the Persian Wars</td>
+<td>Herda, Alexander</td>
+<td>2019</td>
+<td>Semitica et Classica. Supplementa</td>
+<td>
+Herda, Alexander, Copy and Paste? Miletos Before and After the Persian Wars, in: Capet, Emmanuelle; Dogniez, Cécile; Gorea, Maria; Koch-Piettre, Renée; Massa, Francesco; Rouillard-Bonraisin, Hedwige, Reconstruire les Villes. Modes, Motifs et Récits (Turnhout 2019), 91-120 <br> <a href="https://doi.org/10.1484/M.SUPSEC-EB.5.118438">Online verfügbar (Link)</a></td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; 02-05 Topographie: klassische Zeit; 10 politische Geschichte; 10-02 Geschichte: archaische Zeit; 10-03 Geschichte: klassische Zeit; Archaisch; Klassisch; Perserkriege</td>
+<td></td>
+</tr>
+
+<tr>
 <td>The Birth of Greek Philosophy from Making Law and Politics: Did Anaximander, Son of Praxiades, the Milesian, Die as an Early Democrat in Apollonie Pontike?</td>
 <td>Herda, Alexander</td>
 <td>2019</td>
@@ -1423,18 +1459,6 @@ Herda, Alexander, The Birth of Greek Philosophy from Making Law and Politics: Di
 Herda, Alexander, Some Remarks on Miletos before and after the Persian Wars, in: Palagia, Olga; Sioumpara, Elisavet, From Hippias to Kallias. Greek Art in Athens and Beyond 527-449 BC (Athen 2019), 251-266</td>
 </td>
 <td>10 politische Geschichte; 10-02 Geschichte: archaische Zeit; 10-03 Geschichte: klassische Zeit; 10-04 Geschichte: hellenistische Zeit; Archaisch; Athen; Klassisch; Perserkriege</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Copy and Paste? Miletos Before and After the Persian Wars</td>
-<td>Herda, Alexander</td>
-<td>2019</td>
-<td>Semitica et Classica. Supplementa</td>
-<td>
-Herda, Alexander, Copy and Paste? Miletos Before and After the Persian Wars, in: Capet, Emmanuelle; Dogniez, Cécile; Gorea, Maria; Koch-Piettre, Renée; Massa, Francesco; Rouillard-Bonraisin, Hedwige, Reconstruire les Villes. Modes, Motifs et Récits (Turnhout 2019), 91-120 <br> <a href="https://doi.org/10.1484/M.SUPSEC-EB.5.118438">Online verfügbar (Link)</a></td>
-</td>
-<td>02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; 02-05 Topographie: klassische Zeit; 10 politische Geschichte; 10-02 Geschichte: archaische Zeit; 10-03 Geschichte: klassische Zeit; Archaisch; Klassisch; Perserkriege</td>
 <td></td>
 </tr>
 
@@ -3179,18 +3203,6 @@ Harter-Uibopuu, Kaja; Wiedergut, Karin, „Niemand anderer soll hier bestattet w
 </tr>
 
 <tr>
-<td>Bürgerinnen und ihre Familien im hellenistischen Milet. Untersuchungen zur Rolle von Frauen und Mädchen in der Polis-Öffentlichkeit</td>
-<td>Günther, Linda-Marie</td>
-<td>2014</td>
-<td></td>
-<td>
-Günther, Linda-Marie, Bürgerinnen und ihre Familien im hellenistischen Milet. Untersuchungen zur Rolle von Frauen und Mädchen in der Polis-Öffentlichkeit (Wiesbaden 2014)</td>
-</td>
-<td>10 politische Geschichte; 10-04 Geschichte: hellenistische Zeit; Frauen; Hellenistisch</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Nothoi und nothai – eine Randgruppe in der hellenistischen Polis? Zur Auswertung der einschlägigen Inschriften Milets</td>
 <td>Günther, Linda-Marie</td>
 <td>2014</td>
@@ -3199,6 +3211,18 @@ Günther, Linda-Marie, Bürgerinnen und ihre Familien im hellenistischen Milet. 
 Günther, Linda-Marie, Nothoi und nothai – eine Randgruppe in der hellenistischen Polis? Zur Auswertung der einschlägigen Inschriften Milets, in: Matthaei, Albrecht; Zimmermann, Martin, Stadtkultur im Hellenismus (Mainz 2014), 133-147</td>
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Bürgerinnen und ihre Familien im hellenistischen Milet. Untersuchungen zur Rolle von Frauen und Mädchen in der Polis-Öffentlichkeit</td>
+<td>Günther, Linda-Marie</td>
+<td>2014</td>
+<td></td>
+<td>
+Günther, Linda-Marie, Bürgerinnen und ihre Familien im hellenistischen Milet. Untersuchungen zur Rolle von Frauen und Mädchen in der Polis-Öffentlichkeit (Wiesbaden 2014)</td>
+</td>
+<td>10 politische Geschichte; 10-04 Geschichte: hellenistische Zeit; Frauen; Hellenistisch</td>
 <td></td>
 </tr>
 
@@ -4483,6 +4507,18 @@ Jacobs, Ine, Production to Destruction? Pagan and Mythological Statuary in Asia 
 Greaves, Alan M., Land of Ionia. Society and economy in the archaic period (Oxford 2010)</td>
 </td>
 <td>02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; Archaisch</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Rezension zu: Ortwin Dally – Martin Maischberger – Peter I. Schneider– Andreas Scholl (Hrsg.), ZeitRäume. Milet in Kaiserzeit und Spätantike. Regensburg: Schnell und Steiner Verlag 2009, 228 S., 147 Farb-Abb., 40 s/w-Abb., 9 Pläne, 3 Karten, 10 Grundrisse</td>
+<td>Filges, Axel</td>
+<td>2010</td>
+<td>Göttinger Forum für Altertumswissenschaften</td>
+<td>
+Filges, Axel, Rezension zu: Ortwin Dally – Martin Maischberger – Peter I. Schneider– Andreas Scholl (Hrsg.), ZeitRäume. Milet in Kaiserzeit und Spätantike. Regensburg: Schnell und Steiner Verlag 2009, 228 S., 147 Farb-Abb., 40 s/w-Abb., 9 Pläne, 3 Karten, 10 Grundrisse, Göttinger Forum für Altertumswissenschaften 13, 2010, 1141-1150</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-07 Topographie: Kaiserzeit; 02-08 Topographie: Spät und Nachantike; Rezension</td>
 <td></td>
 </tr>
 
@@ -7151,18 +7187,6 @@ Akurgal, Meral; Kerschner, Michael; Mommsen, Hans; Niemeier, Wolf-Dietrich, Töp
 </tr>
 
 <tr>
-<td>Milet 1998–1999. Vorbericht über die Grabungsarbeiten die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1998 und 1999</td>
-<td>von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder, Helga; Ehrhardt, Norbert; Günther, Wolfgang; Held, Winfried; Posamentir, Richard</td>
-<td>2001</td>
-<td>Archäologischer Anzeiger</td>
-<td>
-von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder, Helga; Ehrhardt, Norbert; Günther, Wolfgang; Held, Winfried; Posamentir, Richard, Milet 1998–1999. Vorbericht über die Grabungsarbeiten die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1998 und 1999, Archäologischer Anzeiger 2001, 2001, 409-450</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 11 Geographie und Geophysik; 15 Ruinen und Geländepflege, Restaurierung</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Milet 1998–1999</td>
 <td>von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder, Helga; Ehrhardt, Norbert; Günther, Wolfgang; Held, Winfried; Posamentir, Richard</td>
 <td>2001</td>
@@ -7171,6 +7195,18 @@ von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder
 von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder, Helga; Ehrhardt, Norbert; Günther, Wolfgang; Held, Winfried; Posamentir, Richard, Milet 1998–1999, Archäologischer Anzeiger 116, 2001, 409-573</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 11 Geographie und Geophysik</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1998–1999. Vorbericht über die Grabungsarbeiten die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1998 und 1999</td>
+<td>von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder, Helga; Ehrhardt, Norbert; Günther, Wolfgang; Held, Winfried; Posamentir, Richard</td>
+<td>2001</td>
+<td>Archäologischer Anzeiger</td>
+<td>
+von Graeve, Volkmar; Stümpel, Harald; Weber, Berthold F.; Brize, Philip; Donder, Helga; Ehrhardt, Norbert; Günther, Wolfgang; Held, Winfried; Posamentir, Richard, Milet 1998–1999. Vorbericht über die Grabungsarbeiten die Denkmälerrestaurierung und Ruinenpflege sowie die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1998 und 1999, Archäologischer Anzeiger 2001, 2001, 409-450</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 11 Geographie und Geophysik; 15 Ruinen und Geländepflege, Restaurierung</td>
 <td></td>
 </tr>
 
@@ -7350,7 +7386,7 @@ Herrmann, Peter, Milet au IIe siècle a. J. C., in: Bresson, Alain; Descat, Raym
 <td>
 Grüner, Andreas; Hennemeyer, Arndt, Winfried Held, Das Heiligtum der Athena in Milet, Bonner Jahrbücher 201, 2001, 551-556 <br> <a href="https://doi.org/10.11588/BJB.2001.0.33307">Online verfügbar (DOI)</a></td>
 </td>
-<td>08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena; Athenatempel; Heiligtum</td>
+<td>08 Kulte und Kulteinrichtungen; 08-04 Kulte: Athena; Athenatempel; Heiligtum; Rezension</td>
 <td>Rezension zu: Winfried Held, Das Heiligtum der Athena in Milet. Milesische Forschungen, Band 2, hrsg. von Volkmar von Graeve im Auftrag des Deutschen Archäologischen Institutes. Verlag Philipp von Zabern, Mainz 2000. X, 194 Seiten, 81 Abbildungen, 40 Tafeln</td>
 </tr>
 
@@ -8459,18 +8495,6 @@ von Graeve, Volkmar, 100. Yılında Arkaik Dönem Milet Kazıları, Milet Müzes
 </tr>
 
 <tr>
-<td>Milet 1996/97 Yılı Milet çalışmaları</td>
-<td>von Graeve, Volkmar</td>
-<td>1998</td>
-<td>Kazı Sonuçları Toplantısı</td>
-<td>
-von Graeve, Volkmar, Milet 1996/97 Yılı Milet çalışmaları, Kazı Sonuçları Toplantısı 20, 1998, 583-605 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/20_kazi_1.pdf">Online verfügbar (Link)</a></td>
-</td>
-<td>01 Grabungs und Arbeitsberichte</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Neue Ausgrabungen und Forschungen im archaischen Milet</td>
 <td>von Graeve, Volkmar</td>
 <td>1998</td>
@@ -8479,6 +8503,18 @@ von Graeve, Volkmar, Milet 1996/97 Yılı Milet çalışmaları, Kazı Sonuçlar
 von Graeve, Volkmar, Neue Ausgrabungen und Forschungen im archaischen Milet, Nürnberger Blätter zur Archäologie. Publikationsreihe des Bildungszentrums der Stadt Nürnberg, Fachbereich Archäologie 14, 1998, 73-88</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; Archaisch</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1996/97 Yılı Milet çalışmaları</td>
+<td>von Graeve, Volkmar</td>
+<td>1998</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+von Graeve, Volkmar, Milet 1996/97 Yılı Milet çalışmaları, Kazı Sonuçları Toplantısı 20, 1998, 583-605 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/20_kazi_1.pdf">Online verfügbar (Link)</a></td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
 <td></td>
 </tr>
 
@@ -8771,18 +8807,6 @@ Stika, Hans-Peter, Milet 1994–1995. Pflanzenreste aus dem archaischen Milet. V
 </tr>
 
 <tr>
-<td>Milet 1994–1995. Das Wohnviertel am Südhang des Kalabaktepe</td>
-<td>Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz</td>
-<td>1997</td>
-<td>Archäologischer Anzeiger</td>
-<td>
-Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz, Milet 1994–1995. Das Wohnviertel am Südhang des Kalabaktepe, Archäologischer Anzeiger 1997, 1997, 118-120</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; 07 Architektur; 07-09 Architektur: Wohngebäude</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Milet 1994–1995. Die Grabungen auf dem Gipfelplateau des Kalabaktepe 1995</td>
 <td>Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz</td>
 <td>1997</td>
@@ -8791,6 +8815,18 @@ Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz, Milet 1994–1995. Das Wohnvi
 Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz, Milet 1994–1995. Die Grabungen auf dem Gipfelplateau des Kalabaktepe 1995, Archäologischer Anzeiger 1997, 1997, 122-124</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; Kalabaktepe</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1994–1995. Das Wohnviertel am Südhang des Kalabaktepe</td>
+<td>Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz</td>
+<td>1997</td>
+<td>Archäologischer Anzeiger</td>
+<td>
+Senff, Reinhard; Hürmüzlü, Bilge; Songu, Filiz, Milet 1994–1995. Das Wohnviertel am Südhang des Kalabaktepe, Archäologischer Anzeiger 1997, 1997, 118-120</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 02 Allgemeine Darstellungen / Topographie; 02-04 Topographie: archaische Zeit; 07 Architektur; 07-09 Architektur: Wohngebäude</td>
 <td></td>
 </tr>
 
@@ -8927,18 +8963,6 @@ Lohmann, Hans, Antike Hirten in Westkleinasien und der Megaris: Zur Archäologie
 </tr>
 
 <tr>
-<td>Assesos</td>
-<td>Lohmann, Hans</td>
-<td>1997</td>
-<td></td>
-<td>
-Der Neue Pauly. Enzyklopädie der Antike 2 (1997) 111 s.v. Assesos (Lohmann, Hans) <br> <a href="http://dx.doi.org/10.1163/1574-9347_dnp_e204260">Online verfügbar (Link)</a></td>
-</td>
-<td>12 Lexikonbeiträge</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Survey in der Chora von Milet. Vorbericht über die Kampagnen der Jahre 1994 und 1995</td>
 <td>Lohmann, Hans</td>
 <td>1997</td>
@@ -8947,6 +8971,18 @@ Der Neue Pauly. Enzyklopädie der Antike 2 (1997) 111 s.v. Assesos (Lohmann, Han
 Lohmann, Hans, Survey in der Chora von Milet. Vorbericht über die Kampagnen der Jahre 1994 und 1995, Archäologischer Anzeiger 1997, 1997, 285-311</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 13 Umlandforschung</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assesos</td>
+<td>Lohmann, Hans</td>
+<td>1997</td>
+<td></td>
+<td>
+Der Neue Pauly. Enzyklopädie der Antike 2 (1997) 111 s.v. Assesos (Lohmann, Hans) <br> <a href="http://dx.doi.org/10.1163/1574-9347_dnp_e204260">Online verfügbar (Link)</a></td>
+</td>
+<td>12 Lexikonbeiträge</td>
 <td></td>
 </tr>
 
@@ -9467,14 +9503,14 @@ Senff, Reinhard, Sondierungen am Südhang des Mengerevtepe ('Assesos'), Archäol
 </tr>
 
 <tr>
-<td>Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“)</td>
+<td>Milet 1992-1993. Vorbericht über die Grabungsarbeiten und Geländeerkundungen, die Denkmälerrestaurierung und die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1992 und 1993</td>
 <td>Senff, Reinhard</td>
 <td>1995</td>
 <td>Archäologischer Anzeiger</td>
 <td>
-Senff, Reinhard, Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“), Archäologischer Anzeiger 1995, 1995, 224-228</td>
+Senff, Reinhard, Milet 1992-1993. Vorbericht über die Grabungsarbeiten und Geländeerkundungen, die Denkmälerrestaurierung und die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1992 und 1993, Archäologischer Anzeiger 1995, 1995, 195-333</td>
 </td>
-<td>01 Grabungs und Arbeitsberichte; 08 Kulte und Kulteinrichtungen; 08-11 Kulte: Athena Assesia</td>
+<td>01 Grabungs und Arbeitsberichte; 15 Ruinen und Geländepflege, Restaurierung</td>
 <td></td>
 </tr>
 
@@ -9503,14 +9539,14 @@ Senff, Reinhard, Milet 1992–1993. Die Grabung am Kalabaktepe, Archäologischer
 </tr>
 
 <tr>
-<td>Milet 1992-1993. Vorbericht über die Grabungsarbeiten und Geländeerkundungen, die Denkmälerrestaurierung und die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1992 und 1993</td>
+<td>Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“)</td>
 <td>Senff, Reinhard</td>
 <td>1995</td>
 <td>Archäologischer Anzeiger</td>
 <td>
-Senff, Reinhard, Milet 1992-1993. Vorbericht über die Grabungsarbeiten und Geländeerkundungen, die Denkmälerrestaurierung und die naturwissenschaftlichen Begleitprogramme der Miletgrabung in den Jahren 1992 und 1993, Archäologischer Anzeiger 1995, 1995, 195-333</td>
+Senff, Reinhard, Milet 1992–1993. Sondierungen am Südhang des Mengerevtepe (“Assesos“), Archäologischer Anzeiger 1995, 1995, 224-228</td>
 </td>
-<td>01 Grabungs und Arbeitsberichte; 15 Ruinen und Geländepflege, Restaurierung</td>
+<td>01 Grabungs und Arbeitsberichte; 08 Kulte und Kulteinrichtungen; 08-11 Kulte: Athena Assesia</td>
 <td></td>
 </tr>
 
@@ -10523,18 +10559,6 @@ Müller-Wiener, Wolfgang, Arbeiten in der Großen Kirche, Istanbuler Mitteilunge
 </tr>
 
 <tr>
-<td>Milet 1989. Arbeiten in der Großen Kirche</td>
-<td>Müller-Wiener, Wolfgang</td>
-<td>1990</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-Müller-Wiener, Wolfgang, Milet 1989. Arbeiten in der Großen Kirche, Istanbuler Mitteilungen 40, 1990, 72-78</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 07 Architektur; 07-11 Architektur: Kirchen, Synagogen, Moscheen</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Milet 1989 raporu</td>
 <td>Müller-Wiener, Wolfgang</td>
 <td>1990</td>
@@ -10543,6 +10567,18 @@ Müller-Wiener, Wolfgang, Milet 1989. Arbeiten in der Großen Kirche, Istanbuler
 Müller-Wiener, Wolfgang, Milet 1989 raporu, Kazı Sonuçları Toplantısı 12, 1990, 81-93 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/12_kazi_2.pdf">Online verfügbar (Link)</a></td>
 </td>
 <td>01 Grabungs und Arbeitsberichte</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1989. Arbeiten in der Großen Kirche</td>
+<td>Müller-Wiener, Wolfgang</td>
+<td>1990</td>
+<td>Istanbuler Mitteilungen</td>
+<td>
+Müller-Wiener, Wolfgang, Milet 1989. Arbeiten in der Großen Kirche, Istanbuler Mitteilungen 40, 1990, 72-78</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 07 Architektur; 07-11 Architektur: Kirchen, Synagogen, Moscheen</td>
 <td></td>
 </tr>
 
@@ -11231,18 +11267,6 @@ von Graeve, Volkmar, Über verschiedene Richtungen der milesischen Skulptur in a
 </tr>
 
 <tr>
-<td>Neue archaische Skulpturenfunde aus Milet</td>
-<td>von Graeve, Volkmar</td>
-<td>1986</td>
-<td></td>
-<td>
-von Graeve, Volkmar, Neue archaische Skulpturenfunde aus Milet, in: Kyrieleis, Helmut, Archaische und klassische griechische Plastik. Akten des internationalen Kolloquiums vom 22. - 25. April 1985 in Athen (Mainz 1986), 21-30</td>
-</td>
-<td>03 Funde aus Milet; 03-04 Funde: Skulptur; Archaisch</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Der Grabnaiskos aus dem Heroon I</td>
 <td>von Graeve, Volkmar</td>
 <td>1986</td>
@@ -11251,6 +11275,18 @@ von Graeve, Volkmar, Neue archaische Skulpturenfunde aus Milet, in: Kyrieleis, H
 von Graeve, Volkmar, Der Grabnaiskos aus dem Heroon I, Istanbuler Mitteilungen 36, 1986, 8-12</td>
 </td>
 <td>07 Architektur; 07-01 Architektur: Varia; 08 Kulte und Kulteinrichtungen; 08-09 Kulte: Heroa; 09 Gräber und Bestattungen</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Neue archaische Skulpturenfunde aus Milet</td>
+<td>von Graeve, Volkmar</td>
+<td>1986</td>
+<td></td>
+<td>
+von Graeve, Volkmar, Neue archaische Skulpturenfunde aus Milet, in: Kyrieleis, Helmut, Archaische und klassische griechische Plastik. Akten des internationalen Kolloquiums vom 22. - 25. April 1985 in Athen (Mainz 1986), 21-30</td>
+</td>
+<td>03 Funde aus Milet; 03-04 Funde: Skulptur; Archaisch</td>
 <td></td>
 </tr>
 
@@ -11459,6 +11495,18 @@ Müller-Wiener, Wolfgang, Bemerkungen zur Topographie des archaischen Milets, in
 </tr>
 
 <tr>
+<td>Milet 1985. Zur Baugruppe des Ilyas Bey in Balat</td>
+<td>Müller-Wiener, Wolfgang</td>
+<td>1986</td>
+<td>Istanbuler Mitteilungen</td>
+<td>
+Müller-Wiener, Wolfgang, Milet 1985. Zur Baugruppe des Ilyas Bey in Balat, Istanbuler Mitteilungen 36, 1986, 52-57</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte; 02-09 Topographie: Mittelalter / Balat; 07 Architektur; 07-11 Architektur: Kirchen, Synagogen, Moscheen</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Milet 1985</td>
 <td>Müller-Wiener, Wolfgang</td>
 <td>1986</td>
@@ -11479,18 +11527,6 @@ Müller-Wiener, Wolfgang, Milet 1985, Kazı Sonuçları Toplantısı 8, 1986, 19
 Müller-Wiener, Wolfgang, Milet 1985. Arbeiten in den Heroa, Istanbuler Mitteilungen 36, 1986, 7</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 08 Kulte und Kulteinrichtungen; 08-09 Kulte: Heroa; Heroon I; Kaiserzeit; Keramik; Mittlere Kaiserzeit; Römisch</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Milet 1985. Zur Baugruppe des Ilyas Bey in Balat</td>
-<td>Müller-Wiener, Wolfgang</td>
-<td>1986</td>
-<td>Istanbuler Mitteilungen</td>
-<td>
-Müller-Wiener, Wolfgang, Milet 1985. Zur Baugruppe des Ilyas Bey in Balat, Istanbuler Mitteilungen 36, 1986, 52-57</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte; 02-09 Topographie: Mittelalter / Balat; 07 Architektur; 07-11 Architektur: Kirchen, Synagogen, Moscheen</td>
 <td></td>
 </tr>
 
@@ -11562,7 +11598,7 @@ Kleine, Jürgen, Pergamenische Stiftungen in Milet, in: Müller-Wiener, Wolfgang
 <td>
 Kinns, Philip, The Coinage of Miletus, The Numismatic Chronicle 146, 1986, 233-260</td>
 </td>
-<td>06 Importe aus Milet andernorts; 06-01 Numismatik (Milesische Münzen)</td>
+<td>06 Importe aus Milet andernorts; 06-01 Numismatik (Milesische Münzen); Rezension</td>
 <td>Rezension zu: B. Deppert-Lippitz, Die Münzprägung Milets vom 4. bis 1. Jh. v. Chr. (Aarau 1984)</td>
 </tr>
 
@@ -11735,18 +11771,6 @@ Weber, Berthold F., Milet 1983–1984. Die Grabung im Heroon III, Istanbuler Mit
 </tr>
 
 <tr>
-<td>Survey bei Akbük</td>
-<td>Voigtländer, Walter</td>
-<td>1985</td>
-<td>Araştırma Sonuçları Toplantısı</td>
-<td>
-Voigtländer, Walter, Survey bei Akbük, Araştırma Sonuçları Toplantısı 3, 1985, 251-255</td>
-</td>
-<td>13 Umlandforschung</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Zur Topographie Milets. Ein neues Modell zur antiken Stadt</td>
 <td>Voigtländer, Walter</td>
 <td>1985</td>
@@ -11755,6 +11779,18 @@ Voigtländer, Walter, Survey bei Akbük, Araştırma Sonuçları Toplantısı 3,
 Voigtländer, Walter, Zur Topographie Milets. Ein neues Modell zur antiken Stadt, Archäologischer Anzeiger 1985, 1985, 77-91</td>
 </td>
 <td>02 Allgemeine Darstellungen / Topographie</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Survey bei Akbük</td>
+<td>Voigtländer, Walter</td>
+<td>1985</td>
+<td>Araştırma Sonuçları Toplantısı</td>
+<td>
+Voigtländer, Walter, Survey bei Akbük, Araştırma Sonuçları Toplantısı 3, 1985, 251-255</td>
+</td>
+<td>13 Umlandforschung</td>
 <td></td>
 </tr>
 
@@ -12323,18 +12359,6 @@ Heres, Huberta, Eine archaische Karyatide aus dem Theater von Milet, Eirene. Stu
 </tr>
 
 <tr>
-<td>Balat'taki Türk Devri Yapıları</td>
-<td>Durukan, Aynur</td>
-<td>1982</td>
-<td></td>
-<td>
-Durukan, Aynur, Balat'taki Türk Devri Yapıları ( Hacettepe Üniversitesi 1982)</td>
-</td>
-<td>02 Allgemeine Darstellungen / Topographie; 02-09 Topographie: Mittelalter / Balat; 07-11 Architektur: Kirchen, Synagogen, Moscheen; Islamisch; Mittelalter; Topographie</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Studien zu Depot-Material aus Milet 1981. Turkish-islamic ceramic finds</td>
 <td>Durukan, Aynur</td>
 <td>1982</td>
@@ -12343,6 +12367,18 @@ Durukan, Aynur, Balat'taki Türk Devri Yapıları ( Hacettepe Üniversitesi 1982
 Durukan, Aynur, Studien zu Depot-Material aus Milet 1981. Turkish-islamic ceramic finds, Istanbuler Mitteilungen 32, 1982, 26-29</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-09 Keramik: Mittelalter; Islamisch; Keramik; Mittelalter</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Balat'taki Türk Devri Yapıları</td>
+<td>Durukan, Aynur</td>
+<td>1982</td>
+<td></td>
+<td>
+Durukan, Aynur, Balat'taki Türk Devri Yapıları ( Hacettepe Üniversitesi 1982)</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-09 Topographie: Mittelalter / Balat; 07-11 Architektur: Kirchen, Synagogen, Moscheen; Islamisch; Mittelalter; Topographie</td>
 <td></td>
 </tr>
 
@@ -12443,30 +12479,6 @@ Müller-Wiener, Wolfgang, Milet 1980. Arbeiten im Stadtgebiet. Untersuchungen au
 </tr>
 
 <tr>
-<td>Die Grabungskampagne in Milet im Herbst 1977</td>
-<td>Müller-Wiener, Wolfgang</td>
-<td>1981</td>
-<td>Türk Arkeoloji Dergisi</td>
-<td>
-Müller-Wiener, Wolfgang, Die Grabungskampagne in Milet im Herbst 1977, Türk Arkeoloji Dergisi 25, 1981, 135-140</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Milet 1980 kazı kampanyasi raporu</td>
-<td>Müller-Wiener, Wolfgang</td>
-<td>1981</td>
-<td>Kazı Sonuçları Toplantısı</td>
-<td>
-Müller-Wiener, Wolfgang, Milet 1980 kazı kampanyasi raporu, Kazı Sonuçları Toplantısı 3, 1981, 95-97</td>
-</td>
-<td>01 Grabungs und Arbeitsberichte</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Milet 1980. Arbeiten im Stadtgebiet. Rundkirche bei der Südmauer</td>
 <td>Müller-Wiener, Wolfgang</td>
 <td>1981</td>
@@ -12487,6 +12499,30 @@ Müller-Wiener, Wolfgang, Milet 1980. Arbeiten im Stadtgebiet. Rundkirche bei de
 Müller-Wiener, Wolfgang, Milet 1980 III. Islamische Denkmäler im Stadtgebiet, Istanbuler Mitteilungen 31, 1981, 138-142</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 07 Architektur; 07-01 Architektur: Varia; 07-11 Architektur: Kirchen, Synagogen, Moscheen</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Die Grabungskampagne in Milet im Herbst 1977</td>
+<td>Müller-Wiener, Wolfgang</td>
+<td>1981</td>
+<td>Türk Arkeoloji Dergisi</td>
+<td>
+Müller-Wiener, Wolfgang, Die Grabungskampagne in Milet im Herbst 1977, Türk Arkeoloji Dergisi 25, 1981, 135-140</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Milet 1980 kazı kampanyasi raporu</td>
+<td>Müller-Wiener, Wolfgang</td>
+<td>1981</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+Müller-Wiener, Wolfgang, Milet 1980 kazı kampanyasi raporu, Kazı Sonuçları Toplantısı 3, 1981, 95-97</td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
 <td></td>
 </tr>
 
@@ -12647,18 +12683,6 @@ Müller-Wiener, Wolfgang, Arbeiten im Stadtgebiet 1978-1979. Untersuchungen auf 
 </tr>
 
 <tr>
-<td>Neue Grabungen in Milet 1979</td>
-<td>Müller-Wiener, Wolfgang</td>
-<td>1980</td>
-<td>Kazı Sonuçları Toplantısı</td>
-<td>
-Müller-Wiener, Wolfgang, Neue Grabungen in Milet 1979, Kazı Sonuçları Toplantısı 2, 1980, 33-36 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/02_kazi.pdf">Online verfügbar (Link)</a></td>
-</td>
-<td>01 Grabungs und Arbeitsberichte</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Milet 1978–1979. Arbeiten im Stadtgebiet. Grabungen im Bischofspalast</td>
 <td>Müller-Wiener, Wolfgang</td>
 <td>1980</td>
@@ -12677,6 +12701,18 @@ Müller-Wiener, Wolfgang, Milet 1978–1979. Arbeiten im Stadtgebiet. Grabungen 
 <td>Istanbuler Mitteilungen</td>
 <td>
 Müller-Wiener, Wolfgang, Milet 1978–1979, Istanbuler Mitteilungen 30, 1980, </td>
+</td>
+<td>01 Grabungs und Arbeitsberichte</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Neue Grabungen in Milet 1979</td>
+<td>Müller-Wiener, Wolfgang</td>
+<td>1980</td>
+<td>Kazı Sonuçları Toplantısı</td>
+<td>
+Müller-Wiener, Wolfgang, Neue Grabungen in Milet 1979, Kazı Sonuçları Toplantısı 2, 1980, 33-36 <br> <a href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/02_kazi.pdf">Online verfügbar (Link)</a></td>
 </td>
 <td>01 Grabungs und Arbeitsberichte</td>
 <td></td>
