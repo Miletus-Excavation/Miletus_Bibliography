@@ -118,7 +118,6 @@ letters
 
 # the citation key has been added from the json-exports and is located in
 # bib_csv$citationKey
-
 bibstructure <- "NA"
 # for each letter in out alphabet
 for(letter in letters) {
@@ -128,7 +127,6 @@ for(letter in letters) {
   bibstructure <- c(bibstructure, paste("\\section{", letter, "}\n", sep = ""))
   # for each of the authors that should be in this section
   for (i in 1:nrow(subset_authors)) {
-    
     # Author.List contains a list of all authors for that publication, 
     # with the regex we get the formatted author name exactly which string
     # start and end marked, to avoid merging authors with same names but 
@@ -174,6 +172,7 @@ bibstructure <- bibstructure[-1]
 # we don't do it every day, it doesn't take horribly long, if the bibliography
 # ever counts more than 10k entries I would obviously want to rewrite, but
 # I don't care for now. 
+# ... youre so funny, Lisa. 
 
 # save that so latex can have it
 #writeLines(bibstructure, 

@@ -79,16 +79,18 @@ bib_csv <- do.call(bind_rows, bib_csv)
 
 # Since as of 03/2026, citationKeys are no longer exported with the csv
 # format, we have to get the JSON version which contains it as "citationKey"
+message(paste0("Downloading the Bibliography as JSON from Zotero."))
 bib_json <- lapply(seq, function(x) {
   new_items <- get_zotero_items(zot_api, start_i = x, format_ch = "JSON")
   new_items <- fromJSON(new_items)
   return(new_items$data)
 })
-# and make a handy tiblle out of that for joining with the csv-table:
+message(paste0("Finished downloading."))
+# and make a handy tibble out of that for joining with the csv-table later:
 citation_keys <- map_dfr(bib_json, function(x){
   tibble(
     Key = x$key, 
-    citationKey = x$citationKey
+    citationKey = ifelse(x$citationKey == "", NA, x$citationKey)
   )
 })
 
@@ -105,8 +107,11 @@ if (length(wrong_keycol) == 1) {
 }
 
 # and here we join the citation keys
-bib_csv <- bib_csv %>%
-  left_join(citation_keys, by = "Key")
+message(paste0("Merging citation keys."))
+if (!any(colnames(bib_csv) == "citationKey")) {
+  bib_csv <- bib_csv %>%
+    left_join(citation_keys, by = "Key")
+}
 
 # save the result as our export 
 filename <- "data/Milet_Bibliography_CSV.csv"
