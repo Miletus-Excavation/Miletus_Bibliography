@@ -3971,6 +3971,18 @@ Thonemann, Peter, The Maeander Valley: A Historical Geography from Antiquity to 
 </tr>
 
 <tr>
+<td>Sunuş / Introduction</td>
+<td>Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan</td>
+<td>2011</td>
+<td></td>
+<td>
+Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan, Sunuş / Introduction, in: Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan, Balat Ilyas Bey Külliyesi. Tarih, Mimari, Restorasyon / Balat  Ilyas Bey Complex. History, Architecture, Restoration (Istanbul 2011), 9-17</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 02-09 Topographie: Mittelalter / Balat; Architektur; Balat; Emiratszeitlich; Ilyas Bey Komplex</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Şekiller* / Figures*</td>
 <td>Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan</td>
 <td>2011</td>
@@ -3979,18 +3991,6 @@ Thonemann, Peter, The Maeander Valley: A Historical Geography from Antiquity to 
 Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan, Şekiller* / Figures*, in: Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan, Balat Ilyas Bey Külliyesi. Tarih, Mimari, Restorasyon / Balat  Ilyas Bey Complex. History, Architecture, Restoration (Istanbul 2011), 96-153</td>
 </td>
 <td>07 Architektur; 07-11 Architektur: Kirchen, Synagogen, Moscheen; Architektur; Balat; Emiratszeitlich; Ilyas Bey Komplex</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Sunuş / Introduction</td>
-<td>Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan</td>
-<td>2011</td>
-<td></td>
-<td>
-Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan, Sunuş / Introduction, in: Tanman, Mehmet Baha; Elbirlik, Leyla Kayhan, Balat Ilyas Bey Külliyesi. Tarih, Mimari, Restorasyon / Balat  Ilyas Bey Complex. History, Architecture, Restoration (Istanbul 2011), 9-17</td>
-</td>
-<td>Architektur; Balat; Emiratszeitlich; Ilyas Bey Komplex</td>
 <td></td>
 </tr>
 
