@@ -6,7 +6,7 @@
 <td>
 Berns, Christof; Harter-Uibopuu, Kaja; Osthof, Ann Lauren; Gabel, Jenny; Steinicke, Frank, Ein Theater voller Inschriften. Milet virtuell neu entdeckt, Antike Welt. Zeitschrift für Archäologie und Kulturgeschichte 3/26, 2026, 57-65</td>
 </td>
-<td></td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften; 07 Architektur; 07-03 Architektur: Theater</td>
 <td></td>
 </tr>
 
@@ -18,7 +18,7 @@ Berns, Christof; Harter-Uibopuu, Kaja; Osthof, Ann Lauren; Gabel, Jenny; Steinic
 <td>
  <br> <a href="https://www.csmc.uni-hamburg.de/publications/aom/037-en.html">Online verfügbar (Link)</a></td>
 </td>
-<td></td>
+<td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
 <td></td>
 </tr>
 
@@ -155,6 +155,18 @@ von Graeve, Volkmar, Bemerkungen zu den Malstilen in der archaischen milesischen
 </tr>
 
 <tr>
+<td>Miletos and its pottery – the contribution of NAA</td>
+<td>Villing, Alexandra; Mommsen, Hans</td>
+<td>2024</td>
+<td>Cahiers du Corpus Vasorum Antiquorum</td>
+<td>
+Villing, Alexandra; Mommsen, Hans, Miletos and its pottery – the contribution of NAA, in: , La céramique milésienne et apparentée à l'epoque archaique (Paris 2024), 77-104</td>
+</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 04 Archäometrie</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Miletos Kaletepe Mevkii 2021-2023 Yılı Çalısmaları</td>
 <td>Teraman Hepdinçler, Özel</td>
 <td>2024</td>
@@ -239,6 +251,18 @@ Niemeier, Wolf-Dietrich, The Sanctuary of Athena at Miletos, in: , Antike Heilig
 </tr>
 
 <tr>
+<td>Fikellura mugs and other unusual shapes from Taxiarchis Hill at Didyma - an update</td>
+<td>Lölhöffel, Karoline</td>
+<td>2024</td>
+<td>Cahiers du Corpus Vasorum Antiquorum</td>
+<td>
+Lölhöffel, Karoline, Fikellura mugs and other unusual shapes from Taxiarchis Hill at Didyma - an update, in: , La céramique milésienne et apparentée à l'epoque archaique (Paris 2024), 39-47</td>
+</td>
+<td>06 Importe aus Milet andernorts; 06-02 Importe aus Milet: Keramik</td>
+<td></td>
+</tr>
+
+<tr>
 <td>“Armed” with Modern History. The Statue of the River God Meander at Miletus, 1909-2023.</td>
 <td>Lordoğlu, Nisan; Lenaghan, Julia</td>
 <td>2024</td>
@@ -299,6 +323,18 @@ Egetenmeier, Philip, Inschriften aus Milet II: Neues zu den Temeniten. Drei kais
 </tr>
 
 <tr>
+<td>Milesian tableware - a chronological indocator for the foundation of Borysthenes and Olbia</td>
+<td>Buiskikh, Alla</td>
+<td>2024</td>
+<td>Cahiers du Corpus Vasorum Antiquorum</td>
+<td>
+Buiskikh, Alla, Milesian tableware - a chronological indocator for the foundation of Borysthenes and Olbia, in: , La céramique milésienne et apparentée à l'epoque archaique (Paris 2024), 193-205</td>
+</td>
+<td>06 Importe aus Milet andernorts</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Milet 2022 Yılı Çalışmaları</td>
 <td>Berns, Christof; Zurbach, Julien; Özgan, Christine</td>
 <td>2024</td>
@@ -319,6 +355,18 @@ Berns, Christof; Zurbach, Julien; Özgan, Christine, Milet 2022 Yılı Çalışm
 Berns, Christof; Osthof, Ann Lauren, Streets as contested spaces in ancient Miletus, in: , História da Arquitetura ( 2024), 131-141</td>
 </td>
 <td>07 Architektur; 07-01 Architektur: Varia; Hellenistisch; Kaiserzeit; Straßen; Straßenraster</td>
+<td></td>
+</tr>
+
+<tr>
+<td>La céramique milésienne et apparentée à l'époque archaique</td>
+<td>Coulié, Anne</td>
+<td>2024</td>
+<td>Cahiers du Corpus Vasorum Antiquorum</td>
+<td>
+Coulié, Anne, La céramique milésienne et apparentée à l'époque archaique (Paris 2024)</td>
+</td>
+<td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-04 Keramik: archaische Zeit; 06 Importe aus Milet andernorts; 06-02 Importe aus Milet: Keramik</td>
 <td></td>
 </tr>
 
@@ -491,6 +539,18 @@ Gras, Michel, Ettore Lepore tra Mileto e Focea, in: Federico, Eduardo; Adamo, Sa
 </tr>
 
 <tr>
+<td>Revisiting the Stephanephoroi of Early Hellenistic Miletos</td>
+<td>Carbon, Jan-Mathieu</td>
+<td>2023</td>
+<td>Philia. International Journal of Ancient Mediterranean Studies</td>
+<td>
+Carbon, Jan-Mathieu, Revisiting the Stephanephoroi of Early Hellenistic Miletos, Philia. International Journal of Ancient Mediterranean Studies 9, 2023, 32-44 <br> <a href="https://doi.org/10.36991/PHILIA.202303">Online verfügbar (DOI)</a></td>
+</td>
+<td>10 politische Geschichte; 10-04 Geschichte: hellenistische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Milet 2021 Yılı Çalışmaları</td>
 <td>Berns, Christof; Özgan, Christine; Zurbach, Julien</td>
 <td>2023</td>
@@ -504,11 +564,11 @@ Berns, Christof; Özgan, Christine; Zurbach, Julien, Milet 2021 Yılı Çalışm
 
 <tr>
 <td>Some New Inscriptions from the Miletus Museum</td>
-<td>Akat Özeni̇r, Sevgiser; Ricl, Marijana</td>
+<td>Akat Özenir, Sevgiser; Ricl, Marijana</td>
 <td>2023</td>
 <td>Gephyra</td>
 <td>
-Akat Özeni̇r, Sevgiser; Ricl, Marijana, Some New Inscriptions from the Miletus Museum, Gephyra 25, 2023, 103-117 <br> <a href="https://doi.org/10.37095/gephyra.1264344">Online verfügbar (DOI)</a></td>
+Akat Özenir, Sevgiser; Ricl, Marijana, Some New Inscriptions from the Miletus Museum, Gephyra 25, 2023, 103-117 <br> <a href="https://doi.org/10.37095/gephyra.1264344">Online verfügbar (DOI)</a></td>
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften</td>
 <td>In this article, ten new inscriptions from Miletos and Didyma, housed by the Miletus Museum, are presented. Among the new finds, there are funerary stelae, a dedication inscription, a honorary inscription, a fragmentary imperial decree and a fragment of unknown nature. Except for the two inscriptions found during the road works between Akbük and Didim, we don’t have other information of the findspots of inscriptions.           ,              Bu makalede, Milet müzesinde korunan Miletos ve Didyma kökenli on yeni yazıt tanıtılmaktadır. Yeni buluntular arasında mezar stelleri, bir adak yazıtı, bir onurlandırma yazıtı, parçalar halinde bir imparatorluk kararnamesi ve bilinmeyen tipte bir fragment yer almaktadır. Akbük-Didim arasındaki yol çalışmalarında bulunan iki yazıt dışında yazıtların buluntu yerleri hakkında elimizde başka bilgi bulunmamaktadır. Yazıtların Türkçe çevirileri şöyledir: No. 1: Khoragos’un (mezar steli). No. 2: Değerli insan Rufa, elveda! No. 3: Heraklides’in kızı değerli Melitine, elveda!            Heraklides’in kızı değerli Zosime, elveda! No. 4: Ey değerli  insan Priskus, elveda! No. 5: Bromis (burada yatıyor). No. 6: …. ölür? …. kader ile? …. uzun sürmek? …. böylece Selene … No. 7: … Horalar’a (adağı) sundu. No. 8: En muhteşem ve seçkin Caesar Flavius Valerius Constantius. Kendisinin ve dünyanın efendisi            Miletlilerin şanlı kenti. Dokuz mil. No. 9: ... nın kopyası? / kararname teslim [ edildi ? - - - İmparator Caesar] / Lucius Septimius [Severus            - - - Flavius [ ] benimle (resmi) görüşme yaptı - - - tapınakların ...... ayrıcalıklar ve dokunul¬-            mazlıklar tarafımdan verildi ve bunlar imparator tarafından kendilerine verildi / benden önce            - - - / Antoninus. No. 10: .... suçlamalar? .... (para) cezaları/onur? .... Athena’nın .... gemi inşaatçılarının [..] [dernek?               - - -] yetkililer?</td>
@@ -899,27 +959,27 @@ Gabel, Jenny; Berns, Christof; Bosch, Sebastian; Eickmeyer, Jost; Harter-Uibopuu
 </tr>
 
 <tr>
-<td>The cult of goddess Hekate in Miletus and the Milesian colonies</td>
-<td>Feraru, Remus M.</td>
-<td>2021</td>
-<td>Ziridava. Studia Archaeologica</td>
-<td>
-Feraru, Remus M., The cult of goddess Hekate in Miletus and the Milesian colonies, Ziridava. Studia Archaeologica 35,1, 2021, 107-125 <br> <a href="https://www.ceeol.com/search/article-detail?id=1009569">Online verfügbar (Link)</a></td>
-</td>
-<td>08 Kulte und Kulteinrichtungen; 08-01 Kulte: Varia</td>
-<td>Our aim herein is to discuss the cult of goddess Hekate in Miletus and the Milesian colonies founded on the coast of the Hellespontus, the Sea of Marmara and Pontus Euxinus (the Black Sea). In Miletus,Hekate was an important deity, as recorded by the large number of epicleses under which the goddess was worshiped. Hekate was revered in the sanctuary of Apollo Delphinios of Miletus as the entemenios deity of the latter. Hekate’s presence in the pantheons of the Miletus’s colonies (Abydos, Kardia, Prokonnesos, Cyzicus, Sinope, Apollonia Pontica, Anchialos, Odessos, Tomis, Olbia, Pantikapaion, Gorgippia) may be inferred, with few exceptions, from the epigraphic record of the theophoric anthroponyms deriving from the goddess’s name. At Olbia and Milet, the celebration of Triakades was held in Hekate’s honour, on the thirtieth day of each month. The rituals performed to honour Hekate on the thirtieth day of the month coincided with the honours awarded to the dead.</td>
-</tr>
-
-<tr>
 <td>Cultul zeitei Hestia la Milet și în coloniile milesiene</td>
-<td>Feraru, Remus M.</td>
+<td>Feraru, Remus Mihai</td>
 <td>2021</td>
 <td>Cercetări Arheologice</td>
 <td>
-Feraru, Remus M., Cultul zeitei Hestia la Milet și în coloniile milesiene, Cercetări Arheologice 28.2, 2021, 475-482</td>
+Feraru, Remus Mihai, Cultul zeitei Hestia la Milet și în coloniile milesiene, Cercetări Arheologice 28.2, 2021, 475-482</td>
 </td>
 <td>08 Kulte und Kulteinrichtungen; 08-01 Kulte: Varia</td>
 <td>Our study focuses on the cult of the goddess Hestia in Miletus and in the Milesian colonies founded on the coasts of the Hellespont, Propontides and Pontus Euxin (Black Sea). Hestia (Ἑστία) was at the same time the goddess of the hearth - domestic hearth or hearth of public buildings - and the common name for this hearth-altar. The existence of the goddess Hestia in the Miletus pantheon can be assumed from the Archaic period onwards. In Miletus, Hestia is worshipped in the hypostasis of Βουλαῖα which confirms the association of the goddess with the sphere of civic and political life of the city. The existence of the goddess in the pantheons of the Milsian colonies can be deduced, with three exceptions (Cyzicus, Sinope and Naucratis), on the basis of the epigraphic attestation of theophoric anthroponyms derived from the goddess' name.</td>
+</tr>
+
+<tr>
+<td>The cult of goddess Hekate in Miletus and the Milesian colonies</td>
+<td>Feraru, Remus Mihai</td>
+<td>2021</td>
+<td>Ziridava. Studia Archaeologica</td>
+<td>
+Feraru, Remus Mihai, The cult of goddess Hekate in Miletus and the Milesian colonies, Ziridava. Studia Archaeologica 35,1, 2021, 107-125 <br> <a href="https://www.ceeol.com/search/article-detail?id=1009569">Online verfügbar (Link)</a></td>
+</td>
+<td>08 Kulte und Kulteinrichtungen; 08-01 Kulte: Varia</td>
+<td>Our aim herein is to discuss the cult of goddess Hekate in Miletus and the Milesian colonies founded on the coast of the Hellespontus, the Sea of Marmara and Pontus Euxinus (the Black Sea). In Miletus,Hekate was an important deity, as recorded by the large number of epicleses under which the goddess was worshiped. Hekate was revered in the sanctuary of Apollo Delphinios of Miletus as the entemenios deity of the latter. Hekate’s presence in the pantheons of the Miletus’s colonies (Abydos, Kardia, Prokonnesos, Cyzicus, Sinope, Apollonia Pontica, Anchialos, Odessos, Tomis, Olbia, Pantikapaion, Gorgippia) may be inferred, with few exceptions, from the epigraphic record of the theophoric anthroponyms deriving from the goddess’s name. At Olbia and Milet, the celebration of Triakades was held in Hekate’s honour, on the thirtieth day of each month. The rituals performed to honour Hekate on the thirtieth day of the month coincided with the honours awarded to the dead.</td>
 </tr>
 
 <tr>
@@ -2016,11 +2076,11 @@ Guth, Dina, The ‚Rise and Fall’ of Archaic Miletus, Historia. Zeitschrift f�
 
 <tr>
 <td>Sărbători consacrate lui Apollon la Milet şi in coloniile sale de la Pontul Euxin = Fêtes consacrées à Apollon à Milet et dans ses colonies du Pont-Euxin</td>
-<td>Feraru, Remus M.</td>
+<td>Feraru, Remus Mihai</td>
 <td>2017</td>
 <td>Analele Banatului</td>
 <td>
-Feraru, Remus M., Sărbători consacrate lui Apollon la Milet şi in coloniile sale de la Pontul Euxin = Fêtes consacrées à Apollon à Milet et dans ses colonies du Pont-Euxin, Analele Banatului 25, 2017, 109-124</td>
+Feraru, Remus Mihai, Sărbători consacrate lui Apollon la Milet şi in coloniile sale de la Pontul Euxin = Fêtes consacrées à Apollon à Milet et dans ses colonies du Pont-Euxin, Analele Banatului 25, 2017, 109-124</td>
 </td>
 <td>08 Kulte und Kulteinrichtungen; 08-01 Kulte: Varia; 08-02 Kulte: Apollon Delphinios; Kolonien; Schwarzes Meer</td>
 <td></td>
@@ -2184,11 +2244,11 @@ Baker, Julian; Kluge, Bernd, Der Gigliati-Schatzfund aus den Ausgrabungen der Be
 
 <tr>
 <td>Some Inscribed Lead Sling Bullets in the Milet Museum</td>
-<td>Akat Özeni̇r, Sevgiser</td>
+<td>Akat Özenir, Sevgiser</td>
 <td>2017</td>
 <td>Epigraphica Anatolica. Zeitschrift für Epigraphik und historische Geographie Anatoliens</td>
 <td>
-Akat Özeni̇r, Sevgiser, Some Inscribed Lead Sling Bullets in the Milet Museum, Epigraphica Anatolica. Zeitschrift für Epigraphik und historische Geographie Anatoliens 50, 2017, 167-178</td>
+Akat Özenir, Sevgiser, Some Inscribed Lead Sling Bullets in the Milet Museum, Epigraphica Anatolica. Zeitschrift für Epigraphik und historische Geographie Anatoliens 50, 2017, 167-178</td>
 </td>
 <td>03 Funde aus Milet; 03-07 Funde: Metalle</td>
 <td></td>
@@ -14591,6 +14651,18 @@ Kleiner, Gerhard, Bericht über die Grabung in Milet im Herbst 1961, Türk Arkeo
 </tr>
 
 <tr>
+<td>Miletos</td>
+<td>Gültekin, Hakkı</td>
+<td>1961</td>
+<td></td>
+<td>
+Gültekin, Hakkı, Miletos (Izmir 1961)</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie; 07 Architektur; 07-01 Architektur: Varia; 10 politische Geschichte</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Zu den altmilesischen Phylen</td>
 <td>Dunst, Günter</td>
 <td>1961</td>
@@ -16516,7 +16588,7 @@ Wiegand, Theodor, Zweiter vorläufiger Bericht über die Ausgrabungen der könig
 <td>1901</td>
 <td>Archäologischer Anzeiger</td>
 <td>
-Wiegand, Theodor, Ausgrabungen zu Milet, Archäologischer Anzeiger 1901, 1901, 191-199</td>
+Wiegand, Theodor, Ausgrabungen zu Milet, Archäologischer Anzeiger 16, 1901, 191-199</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte</td>
 <td></td>
