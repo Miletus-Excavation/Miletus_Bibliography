@@ -3756,11 +3756,11 @@ Baker, Patrick, Mère-patrie et patrie d’adoption à l’époque hellénistiqu
 
 <tr>
 <td>Cities and Priests: Cult Personnel in Asia Minor and the Aegean Islands from the Hellenistic to the Imperial Period</td>
-<td>Horster, Marietta</td>
+<td>Horster, Marietta; Klöckner, Anja</td>
 <td>2013</td>
 <td>Religionsgeschichtliche Versuche und Vorarbeiten</td>
 <td>
-Horster, Marietta, Cities and Priests: Cult Personnel in Asia Minor and the Aegean Islands from the Hellenistic to the Imperial Period (Boston 2013)</td>
+Horster, Marietta; Klöckner, Anja, Cities and Priests: Cult Personnel in Asia Minor and the Aegean Islands from the Hellenistic to the Imperial Period (Boston 2013)</td>
 </td>
 <td>08 Kulte und Kulteinrichtungen; Dionysos; Kult; Kultpraxis; Priester; Religion</td>
 <td></td>
@@ -6467,6 +6467,18 @@ Aydemir, Ahmet, Funde aus Milet XX. Kochgeschirr und Küchengerät aus dem archa
 </tr>
 
 <tr>
+<td>Three inscriptions from Miletos</td>
+<td>Akat Özenir, Sevgiser</td>
+<td>2005</td>
+<td>Epigraphica Anatolica</td>
+<td>
+Akat Özenir, Sevgiser, Three inscriptions from Miletos, Epigraphica Anatolica , 2005, 53-54</td>
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
 <td>2001–2003 Yılı Milet Çalışmaları</td>
 <td>von Graeve, Volkmar</td>
 <td>2004</td>
@@ -7199,6 +7211,18 @@ Greaves, Alan M., Miletos. A History (London 2002)</td>
 </tr>
 
 <tr>
+<td>Milesian Decrees of Isopoliteia and the Refoundation of the City, ca. 479 B.C.E.</td>
+<td>Gorman, Vanessa Barrett</td>
+<td>2002</td>
+<td></td>
+<td>
+Gorman, Vanessa Barrett, Milesian Decrees of Isopoliteia and the Refoundation of the City, ca. 479 B.C.E., in: Robinson, Eric W., Oikistes. Studies in Constitutions, Colonies, and Military Power in the Ancient World. Offered in Honor of A. J. Graham (Leiden 2002), 181-193</td>
+</td>
+<td>10 politische Geschichte; 10-03 Geschichte: klassische Zeit</td>
+<td></td>
+</tr>
+
+<tr>
 <td>Gräber des hellenistischen und kaiserzeitlichen Milet</td>
 <td>Forbeck, Elke</td>
 <td>2002</td>
@@ -7303,18 +7327,6 @@ Berns, Christof, Frühkaiserzeitliche Tabernakelfassaden. Zum Beginn eines Leitm
 Akurgal, Meral; Kerschner, Michael; Mommsen, Hans; Niemeier, Wolf-Dietrich, Töpferzentren der Ostägäis. Archäometrische und archäologische Untersuchungen zur mykenischen, geometrischen und archaischen Keramik aus Fundorten in Westkleinasien (Wien 2002)</td>
 </td>
 <td>03 Funde aus Milet; 03-05 Funde: Keramik; 03-05-02 Keramik: Bronzezeit; 03-05-03 Keramik: geometrische Zeit; 03-05-04 Keramik: archaische Zeit; 04 Archäometrie; Archaisch; Ephesos; Geometrisch; Keramik; Mykenisch; Tonanalyse</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Milesian Decrees of Isopoliteia and the Refoundation of the City, ca. 479 B.C.E.</td>
-<td>Gorman, Vanessa Barrett; Robinson, Eric W.</td>
-<td>2002</td>
-<td></td>
-<td>
-, Milesian Decrees of Isopoliteia and the Refoundation of the City, ca. 479 B.C.E., in: Gorman, Vanessa Barrett; Robinson, Eric W., Oikistes. Studies in Constitutions, Colonies, and Military Power in the Ancient World. Offered in Honor of A. J. Graham (Leiden 2002), 181-193</td>
-</td>
-<td>10 politische Geschichte; 10-03 Geschichte: klassische Zeit</td>
 <td></td>
 </tr>
 
@@ -8687,6 +8699,18 @@ Tuttahs, Gerhard, Milet und das Wasser, ein Beispiel für die Wasserwirtschaft e
 </tr>
 
 <tr>
+<td>Mittel- bis jungholozäne Landschaftsgeschichte am Unterlauf des Großen Mäander (Westanatolien)</td>
+<td>Schröder, B.</td>
+<td>1998</td>
+<td>GeoArchaeoRhein</td>
+<td>
+Schröder, B., Mittel- bis jungholozäne Landschaftsgeschichte am Unterlauf des Großen Mäander (Westanatolien), in: Schirmer, Wolfgang; Ikinger, Alexander; Bloemendal, Jan, Festschrift Wolfgang Schirmer: Geschichte aus der Erde (Münster 1998), 91-101</td>
+</td>
+<td>11 Geographie und Geophysik; Mäander</td>
+<td></td>
+</tr>
+
+<tr>
 <td>The Minoans in the South-Eastern Aegean and in Cyprus</td>
 <td>Niemeier, Wolf-Dietrich</td>
 <td>1998</td>
@@ -8851,18 +8875,6 @@ Brückner, Helmut, Coastal Research and Geoarchaeology in the Mediterranean Regi
 Alföldy, Géza, Traianus pater und die Bauinschrift des Nymphäums von Milet, Revue des Études Anciennes 100, 1998, 367-399</td>
 </td>
 <td>03 Funde aus Milet; 03-08 Funde: Inschriften; 07 Architektur; 07-01 Architektur: Varia</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Mittel- bis jungholozäne Landschaftsgeschichte am Unterlauf des Großen Mäander (Westanatolien)</td>
-<td>Schirmer, Wolfgang; Ikinger, Alexander; Bloemendal, Jan</td>
-<td>1998</td>
-<td>GeoArchaeoRhein</td>
-<td>
-, Mittel- bis jungholozäne Landschaftsgeschichte am Unterlauf des Großen Mäander (Westanatolien), in: Schirmer, Wolfgang; Ikinger, Alexander; Bloemendal, Jan, Festschrift Wolfgang Schirmer: Geschichte aus der Erde (Münster 1998), 91-101</td>
-</td>
-<td>11 Geographie und Geophysik; Mäander</td>
 <td></td>
 </tr>
 
@@ -9583,6 +9595,18 @@ Weber, Berthold F., Milet 1992–1993. Ein spätarchaischer Tempel auf dem Menge
 Tuttahs, Gerhard, Milet 1992–1993. Wasserbauliche Problemfelder am Grabungsplatz Milet: Zustand und Aufgaben, Archäologischer Anzeiger 1995, 1995, 265-275</td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; 07 Architektur; 07-10 Architektur: Wasserversorgung</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Didyma, Miletos, Priene</td>
+<td>Tulay, Ahmet Semih; Akat İslam, Hasibe</td>
+<td>1995</td>
+<td></td>
+<td>
+Tulay, Ahmet Semih; Akat İslam, Hasibe, Didyma, Miletos, Priene (Istanbul 1995)</td>
+</td>
+<td>02 Allgemeine Darstellungen / Topographie</td>
 <td></td>
 </tr>
 
@@ -12580,7 +12604,7 @@ Peschlow-Bindokat, Anneliese; Germann, Klaus, Die Steinbrüche von Milet und Her
 <td>1981</td>
 <td>Anadolu (Anatolia)</td>
 <td>
-Peschlow-Bindokat, Anneliese, Lelegische Siedlungsspuren am Bafasee, Anadolu (Anatolia) 22, 1981, 79-83</td>
+Peschlow-Bindokat, Anneliese, Lelegische Siedlungsspuren am Bafasee, Anadolu (Anatolia) 22, 1981, 79-83 <br> <a href="https://doi.org/https://dergipark.org.tr/tr/pub/anatolia/article/816432">Online verfügbar (DOI)</a></td>
 </td>
 <td>13 Umlandforschung; Bafa Gölü</td>
 <td></td>
@@ -16753,10 +16777,10 @@ Erdmann, Martin, Hippodamos von Milet und die symmetrische Städtebaukunst der G
 <tr>
 <td>Milet et le Golfe Latmique, Tralles, Magnésie du Méandre, Priene,  Milet. Didymes, Héraclée du Latmos</td>
 <td>Rayet, Olivier; Thomas, Albert</td>
-<td>1877</td>
+<td>1880</td>
 <td>Fouilles et explorations archéologiques faites de MM  les barons G. et E. Rothschild</td>
 <td>
-Rayet, Olivier; Thomas, Albert, Milet et le Golfe Latmique, Tralles, Magnésie du Méandre, Priene,  Milet. Didymes, Héraclée du Latmos (Paris 1877) <br> <a href="https://doi.org/10.11588/diglit.1774">Online verfügbar (Link)</a></td>
+Rayet, Olivier; Thomas, Albert, Milet et le Golfe Latmique, Tralles, Magnésie du Méandre, Priene,  Milet. Didymes, Héraclée du Latmos (Paris 1880) <br> <a href="https://doi.org/10.11588/diglit.1774">Online verfügbar (Link)</a></td>
 </td>
 <td>01 Grabungs und Arbeitsberichte; Karien; Latmos; Magnesia; Mäander; Tralleis</td>
 <td></td>
@@ -16855,18 +16879,6 @@ Hermann, Karl Friedrich, Disputatio De Hippodamo Milesio Ad Aristotelis Politic 
 Rambach, Friedrich Eberhard, De Mileto eiusque coloniis (Halle 1790) <br> <a href="https://doi.org/10.11588/diglit.4603">Online verfügbar (Link)</a></td>
 </td>
 <td>10 politische Geschichte; 10-02 Geschichte: archaische Zeit</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Didyma, Miletos, Priene</td>
-<td>Tulay, Ahmet Semih; Akat İslam, Hasibe</td>
-<td></td>
-<td></td>
-<td>
-Tulay, Ahmet Semih; Akat İslam, Hasibe, Didyma, Miletos, Priene (Istanbul )</td>
-</td>
-<td>02 Allgemeine Darstellungen / Topographie</td>
 <td></td>
 </tr>
 
